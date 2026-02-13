@@ -1,0 +1,24 @@
+Task:
+Extract the most precise and standard POI (Point of Interest) for the event described in the news text, then output the result in the specified JSON format.
+
+Requirements:
+1. POI must be in "Country - City - Specific Institution" format (prioritize the most specific location; if the specific institution is unknown, use "Country - City"; if the city is unknown, use only "Country").
+2. POI should use English official names (no abbreviations, no translations).
+3. Ensure the JSON format is strictly compliant (no extra spaces, no syntax errors).
+4. The "desc" field must retain the original news text without modification.
+
+Output format (strictly follow and DO NOT output in a code block):
+{{
+    "desc": "xxx" (the original news text),
+    "poi": {{
+        "country": "xxx",
+        "state": "xxx",
+        "city": "xxx",
+        "institution": "xxx"
+    }}
+}}
+
+If there is no specific institution, set the institution to null; if there is no specific city, set the city to null; if there is no specific state, set the state to null.
+
+News text:
+{desc}
