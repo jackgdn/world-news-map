@@ -1,24 +1,52 @@
 Task:
-Extract the most precise and standard POI (Point of Interest) for the event described in the news text, then output the result in the specified JSON format.
+Extract the SINGLE MOST CORE and RELEVANT POI (Point of Interest) for the event described in the news text, then output the result in the specified JSON format.
 
 Requirements:
-1. POI must be in "Country - City - Specific Institution" format (prioritize the most specific location; if the specific institution is unknown, use "Country - City"; if the city is unknown, use only "Country").
-2. POI should use English official names (no abbreviations, no translations).
-3. Ensure the JSON format is strictly compliant (no extra spaces, no syntax errors).
-4. The "desc" field must retain the original news text without modification.
+1. Output strictly valid JSON only. Do NOT add any extra text, explanation, markdown, code block, or comment.
+2. Use official English names only. No abbreviations, no translations.
+3. CRITICAL: Only extract the MOST CORE location (1 location maximum) that the event is primarily about. Ignore secondary/background/mentioned-only locations.
+   - Core location priority:
+     1. The place where the event physically occurred (highest priority)
+     2. The headquarters/actual physical location of the key institution
+     3. The most specific location if multiple places are relevant
+4. Follow the hierarchical rules below to fill country, state, city, institution:
+   - Normal land:
+     country → State/Region → City → Specific Institution
+   - Sea / Ocean / Marginal sea:
+     country = "International Waters"
+     state = Sea/Ocean name (e.g. Caribbean Sea, Atlantic Ocean)
+     city = null
+     institution = null
+   - Antarctica:
+     country = "Antarctica"
+     state = null
+     city = null
+     institution = Research Station name (if mentioned, else null)
+   - Space / Outer space / LEO / GEO / Moon / Mars / Any spacecraft:
+     country = "Outer Space"
+     state = null
+     city = Specific region (e.g. Low Earth Orbit, Lunar Surface, Martian Orbit)
+     institution = null
+   - Unclaimed territory (Bir Tawil, Marie Byrd Land, etc.):
+     country = "Unclaimed Territory"
+     state = null
+     city = null
+     institution = null
+5. CRITICAL RULE FOR INSTITUTIONS:
+   - If the news mentions a specific organization/institution, use your knowledge base to find the ACTUAL physical location (country/city) of the institution, NOT just the country mentioned in the news text.
+6. If a field is not applicable or unknown, set it to null.
+7. The "desc" field must be the original news text, unchanged.
 
-Output format (strictly follow and DO NOT output in a code block):
+Output format (strictly follow):
 {{
-    "desc": "xxx" (the original news text),
+    "desc": "Original news text here",
     "poi": {{
-        "country": "xxx",
-        "state": "xxx",
-        "city": "xxx",
-        "institution": "xxx"
+        "country": "xxx or null",
+        "state": "xxx or null",
+        "city": "xxx or null",
+        "institution": "xxx or null"
     }}
 }}
-
-If there is no specific institution, set the institution to null; if there is no specific city, set the city to null; if there is no specific state, set the state to null.
 
 News text:
 {desc}
