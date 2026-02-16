@@ -1,37 +1,54 @@
+import copy
 import json
 import logging
 import os
-from datetime import datetime
+import pickle
+from datetime import datetime, timedelta
 from enum import Enum
 
-from config import NEWS_PATH
+import config
 
 
 class Logger:
 
+    LOG_LEVELS = {
+        "debug": logging.DEBUG,
+        "info": logging.INFO,
+        "warning": logging.WARNING,
+        "error": logging.ERROR,
+        "critical": logging.CRITICAL,
+    }
+    LOG_FILE_DIR = "logs/"
+    LOG_FILE_PATH = os.path.join(
+        LOG_FILE_DIR, f"{datetime.now().strftime('%Y-%m-%d')}.log")
+
     def __init__(
         self,
-        log_name="wnm",
-        log_file="logs/{date}.log".format(date=datetime.now().strftime("%Y-%m-%d")),
-        log_level=logging.DEBUG,
+        log_name: str = "wnm",
     ):
         self.logger = logging.getLogger(log_name)
-        self.logger.setLevel(log_level)
+        self.logger.setLevel(self.LOG_LEVELS.get(
+            config.LOG_LEVEL.strip().lower(), logging.INFO))
         self.logger.handlers.clear()
         formatter = logging.Formatter(
             "%(asctime)s - %(levelname)s - %(filename)s - %(message)s",
             datefmt="%Y-%m-%d %H:%M:%S",
         )
 
-        log_dir = os.path.dirname(log_file)
-        if log_dir and not os.path.exists(log_dir):
-            os.makedirs(log_dir)
-        file_handler = logging.FileHandler(log_file, encoding="utf-8")
-        file_handler.setFormatter(formatter)
-        console_handler = logging.StreamHandler()
-        console_handler.setFormatter(formatter)
-        self.logger.addHandler(file_handler)
-        self.logger.addHandler(console_handler)
+        try:
+            os.makedirs("logs/", exist_ok=True)
+            file_handler = logging.FileHandler(
+                self.LOG_FILE_PATH, encoding="utf-8")
+            file_handler.setFormatter(formatter)
+            console_handler = logging.StreamHandler()
+            console_handler.setFormatter(formatter)
+            self.logger.addHandler(file_handler)
+            self.logger.addHandler(console_handler)
+
+            self.logger.debug(
+                f"Logger initialized with log file: {self.LOG_FILE_PATH}")
+        except Exception as e:
+            print(f"Error setting up logger: {e}")
 
     def debug(self, msg):
         self.logger.debug(msg)
@@ -73,8 +90,29 @@ class NewsPOI:
         self.city = city
         self.institution = institution
 
+    def __eq__(self, other: object) -> bool:
+        if not isinstance(other, NewsPOI):
+            return False
+        return (
+            self.country == other.country
+            and self.state == other.state
+            and self.city == other.city
+            and self.institution == other.institution
+        )
 
-class NewsPosition:
+    def __str__(self) -> str:
+        parts = [self.country, self.state, self.city, self.institution]
+        return ", ".join(part for part in parts if part)
+
+    def __bool__(self) -> bool:
+        INVALID_VALUES = {"none", "n/a", "null", "unknown", ""}
+        for field in [self.country, self.state, self.city, self.institution]:
+            if field and field.strip().lower() not in INVALID_VALUES:
+                return True
+        return False
+
+
+class NewsCoordinate:
 
     def __init__(
         self,
@@ -84,13 +122,18 @@ class NewsPosition:
         self.latitude = latitude
         self.longitude = longitude
 
+    def __bool__(self) -> bool:
+        return self.latitude is not None and self.longitude is not None and self.latitude != -1 and self.longitude != -1
+
 
 class NewsStatus(Enum):
     FETCHED = "fetched"
     POI_FETCHED = "poi_fetched"
-    POSITION_FETCHED = "position_fetched"
     POI_FETCH_FAILED = "poi_fetch_failed"
-    POSITION_FETCH_FAILED = "position_fetch_failed"
+    COORDINATE_FETCHED = "coordinate_fetched"
+    COORDINATE_FETCH_FAILED = "coordinate_fetch_failed"
+    NO_VALID_COORDINATE = "no_valid_coordinate"
+    UNKNOWN = "unknown"
 
 
 class NewsItem:
@@ -102,14 +145,15 @@ class NewsItem:
         description: str,
         links: list[NewsLink],
         poi: NewsPOI | None = None,
-        position: NewsPosition | None = None,
+        coordinate: NewsCoordinate | None = None,
     ):
         self.status = status
         self.date = date
         self.description = description
         self.links = links
-        self.poi = poi if poi is not None else NewsPOI()
-        self.position = position if position is not None else NewsPosition()
+        self.poi = copy.deepcopy(poi) if poi is not None else NewsPOI()
+        self.coordinate = copy.deepcopy(
+            coordinate) if coordinate is not None else NewsCoordinate()
 
     def __eq__(self, other: object) -> bool:
         if not isinstance(other, NewsItem):
@@ -119,14 +163,16 @@ class NewsItem:
 
 class JSONManager:
 
+    NEWS_FILE_DIR = "news/"
+
     def __init__(self):
-        self.news_dir = NEWS_PATH
         try:
-            os.makedirs(self.news_dir, exist_ok=True)
-            logger.info(f"JSONManager initialized with news directory: {self.news_dir}")
+            os.makedirs(self.NEWS_FILE_DIR, exist_ok=True)
+            logger.debug(
+                f"JSONManager initialized with news directory: {self.NEWS_FILE_DIR}")
         except Exception as e:
             logger.error(
-                f"Error creating news directory {self.news_dir}: {e}", exc_info=True
+                f"Error creating news directory {self.NEWS_FILE_DIR}: {e}", exc_info=True
             )
             raise
 
@@ -136,7 +182,7 @@ class JSONManager:
             logger.error(f"No news items to write for date: {date}.")
             return
 
-        json_path = os.path.join(self.news_dir, f"{date}.json")
+        json_path = os.path.join(self.NEWS_FILE_DIR, f"{date}.json")
 
         try:
             with open(json_path, "w", encoding="utf-8") as f:
@@ -156,9 +202,9 @@ class JSONManager:
                                 "city": news.poi.city,
                                 "institution": news.poi.institution,
                             },
-                            "position": {
-                                "latitude": news.position.latitude,
-                                "longitude": news.position.longitude,
+                            "coordinate": {
+                                "latitude": news.coordinate.latitude,
+                                "longitude": news.coordinate.longitude,
                             },
                         }
                         for news in news_items
@@ -169,10 +215,11 @@ class JSONManager:
                 )
                 logger.info(f"News items for {date} written to {json_path}")
         except Exception as e:
-            logger.error(f"Error writing news items to {json_path}: {e}", exc_info=True)
+            logger.error(
+                f"Error writing news items to {json_path}: {e}", exc_info=True)
 
     def read_news_items(self, date: str) -> list[NewsItem]:
-        json_path = os.path.join(self.news_dir, f"{date}.json")
+        json_path = os.path.join(self.NEWS_FILE_DIR, f"{date}.json")
         if not os.path.exists(json_path):
             logger.warning(f"No news file found for {date} at {json_path}")
             return list()
@@ -183,7 +230,7 @@ class JSONManager:
                 for item in data:
                     links = [
                         NewsLink(link["source"], link["url"])
-                        for link in item.get("links", [])
+                        for link in item.get("links", list())
                     ]
                     poi_data = item.get("poi", {})
                     poi = NewsPOI(
@@ -192,24 +239,29 @@ class JSONManager:
                         city=poi_data.get("city"),
                         institution=poi_data.get("institution"),
                     )
-                    position_data = item.get("position", {})
-                    position = NewsPosition(
-                        latitude=position_data.get("latitude"),
-                        longitude=position_data.get("longitude"),
+                    coordinate_data = item.get("coordinate", {})
+                    coordinate = NewsCoordinate(
+                        latitude=coordinate_data.get("latitude"),
+                        longitude=coordinate_data.get("longitude"),
                     )
+                    status_value = item.get("status")
+                    if status_value not in NewsStatus._value2member_map_:
+                        status_value = NewsStatus.UNKNOWN
                     news_item = NewsItem(
-                        status=NewsStatus(item.get("status")),
+                        status=NewsStatus(status_value),
                         date=item.get("date"),
                         description=item.get("description"),
                         links=links,
                         poi=poi,
-                        position=position,
+                        coordinate=coordinate,
                     )
                     news_items.append(news_item)
-                logger.info(f"Read {len(news_items)} news items from {json_path}")
+                logger.info(
+                    f"Read {len(news_items)} news items from {json_path}")
                 return news_items
         except ValueError as e:
-            logger.error(f"JSON decode error for {json_path}: {e}", exc_info=True)
+            logger.error(
+                f"JSON decode error for {json_path}: {e}", exc_info=True)
             return list()
         except Exception as e:
             logger.error(
@@ -219,3 +271,121 @@ class JSONManager:
 
 
 json_manager = JSONManager()
+
+
+class CoordinateEntry:
+
+    def __init__(self, poi: NewsPOI, coordinate: NewsCoordinate, timestamp: datetime):
+        self.poi = copy.deepcopy(poi)
+        self.coordinate = copy.deepcopy(coordinate)
+        self.timestamp = timestamp
+
+    def __eq__(self, other: object) -> bool:
+        if not isinstance(other, CoordinateEntry):
+            return False
+        return self.poi == other.poi
+
+    def __str__(self) -> str:
+        return str(self.poi)
+
+    def __bool__(self) -> bool:
+        return bool(self.coordinate)
+
+
+class CoordinateCacheManager:
+
+    EXPIRATION_DAYS = max(config.CACHE_EXPIRATION_DAYS, 7)
+    CACHE_FILE_DIR = "cache/"
+    CACHE_FILE_NAME = "coordinate.cache"
+    CACHE_FILE_PATH = os.path.join(CACHE_FILE_DIR, CACHE_FILE_NAME)
+
+    def __init__(self):
+        self.date = datetime.now()
+
+        try:
+            os.makedirs(self.CACHE_FILE_DIR, exist_ok=True)
+        except Exception as e:
+            logger.error(
+                f"Error creating cache directory {self.CACHE_FILE_DIR}: {e}", exc_info=True
+            )
+            raise
+
+        self.load_cache()
+        self.clean()
+
+    def load_cache(self) -> None:
+        if os.path.exists(self.CACHE_FILE_PATH):
+            try:
+                with open(self.CACHE_FILE_PATH, "rb") as f:
+                    self.cache = pickle.load(f)
+                    logger.info(
+                        f"Loaded coordinate cache with {len(self.cache)} entries")
+            except Exception as e:
+                logger.error(
+                    f"Error loading coordinate cache: {e}", exc_info=True)
+                self.cache = list()
+        else:
+            self.cache = list()
+
+    def save_cache(self) -> None:
+        try:
+            with open(self.CACHE_FILE_PATH, "wb") as f:
+                pickle.dump(self.cache, f, protocol=4)
+                logger.info(
+                    f"Saved coordinate cache with {len(self.cache)} entries to {self.CACHE_FILE_PATH}"
+                )
+        except Exception as e:
+            logger.error(
+                f"Error saving coordinate cache to {self.CACHE_FILE_PATH}: {e}", exc_info=True
+            )
+
+    def clean(self) -> None:
+        if not self.cache:
+            return
+
+        logger.info("Cleaning expired coordinate cache...")
+        expire_threshold = datetime.now() - timedelta(days=self.EXPIRATION_DAYS)
+        original_count = len(self.cache)
+        self.cache = [
+            entry for entry in self.cache
+            if entry and entry.timestamp >= expire_threshold
+        ]
+        cleaned_count = original_count - len(self.cache)
+
+        if cleaned_count > 0:
+            logger.info(
+                f"Cleaned {cleaned_count} expired entries from coordinate cache"
+            )
+            self.save_cache()
+        else:
+            logger.info("No expired entries found in coordinate cache")
+
+    def insert_entry(self, entry: CoordinateEntry) -> None:
+        if not entry:
+            logger.warning(
+                f"Attempted to insert invalid coordinate entry for POI {str(entry.poi)}, skipping"
+            )
+            return
+        if entry in self.cache:
+            logger.debug(
+                f"Coordinate entry for POI {str(entry)} already exists in cache, skipping insert"
+            )
+            return
+        self.cache.append(entry)
+        logger.debug(
+            f"Inserted new coordinate entry for POI {str(entry)} into cache"
+        )
+        self.save_cache()
+
+    def select_coordinate(self, poi: NewsPOI) -> NewsCoordinate | None:
+        for entry in self.cache:
+            if entry.poi == poi:
+                logger.debug(
+                    f"Cache hit for POI {str(poi)}, returning cached coordinates"
+                )
+                return copy.deepcopy(entry.coordinate)
+        logger.debug(f"Cache miss for POI {str(poi)}")
+        return None
+
+
+coord_cache_manager = CoordinateCacheManager()

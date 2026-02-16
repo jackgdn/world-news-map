@@ -1,3 +1,4 @@
+import copy
 import time
 from datetime import datetime, timedelta
 
@@ -5,7 +6,7 @@ import requests
 from fake_useragent import UserAgent
 from lxml import html
 
-from config import REQUEST_INTERVAL, REEQUEST_TIMEOUT
+import config
 from utils import NewsItem, NewsLink, NewsStatus, json_manager, logger
 
 
@@ -25,27 +26,21 @@ class WikiNewsScraper:
     def fetch_news(self) -> None:
         try:
             response = requests.get(
-                self.BASE_URL, headers=self.HEADERS, timeout=REEQUEST_TIMEOUT
+                self.BASE_URL, headers=self.HEADERS, timeout=config.REQUEST_TIMEOUT
             )
-            if response.status_code == 200:
-                logger.info(f"Successfully fetched news for {self.date}.")
-                self.parse_news(response.content)
-            else:
-                logger.error(f"Failed to fetch news: {response.status_code}")
-                self.news_list = list()
+            response.raise_for_status()
+            logger.info(f"Successfully fetched news for {self.date}.")
+            self.parse_news(response.content)
 
         except requests.exceptions.Timeout:
             logger.error("Request timeout while fetching news.")
-            self.news_list = list()
         except requests.exceptions.ConnectionError as e:
             logger.error(f"Connection error while fetching news: {e}")
-            self.news_list = list()
         except requests.exceptions.RequestException as e:
             logger.error(f"Request error while fetching news: {e}")
-            self.news_list = list()
         except Exception as e:
-            logger.error(f"Unexpected error while fetching news: {e}", exc_info=True)
-            self.news_list = list()
+            logger.error(
+                f"Unexpected error while fetching news: {e}", exc_info=True)
 
     def parse_news(self, html_content: bytes) -> None:
         tree = html.fromstring(html_content)
@@ -85,7 +80,8 @@ class WikiNewsScraper:
                 logger.warning(f"Error parsing event block: {e}")
                 continue
 
-        logger.info(f"Parsed {len(self.news_list)} news items for date: {self.date}.")
+        logger.info(
+            f"Parsed {len(self.news_list)} news items for date: {self.date}.")
 
     def extract_data(
         self, item_element: html.HtmlElement
@@ -105,15 +101,17 @@ class WikiNewsScraper:
 
         full_text = "".join(item_element.itertext())
         description = full_text[:-total_link_chars].strip()
-        return description, links
+        return description, copy.deepcopy(links)
 
     def get_news_list(self) -> None:
         if not self.force_refresh:
-            logger.info(f"Attempting to read existing news items for {self.date}.")
-            self.news_list = json_manager.read_news_items(self.date)
+            logger.info(
+                f"Attempting to read existing news items for {self.date}.")
+            self.news_list = copy.deepcopy(
+                json_manager.read_news_items(self.date))
             if self.news_list:
                 logger.info(
-                    f"Found {len(self.news_list)} existing news items for {self.date}, skipping fetch."
+                    f"Found {len(self.news_list)} existing news items for {self.date}."
                 )
         else:
             logger.info(
@@ -145,24 +143,31 @@ def fetch_current_news():
 
 
 def refresh_weekly_news():
-    for date_offset in range(7):
-        date = (datetime.now() - timedelta(days=date_offset)).strftime("%Y-%m-%d")
-        scraper = WikiNewsScraper(date=date, force_refresh=False)
-        try:
+    scraper = None
+    date = None
+    try:
+        for date_offset in range(7):
+            date = (datetime.now() - timedelta(days=date_offset)
+                    ).strftime("%Y-%m-%d")
+            scraper = WikiNewsScraper(date=date, force_refresh=False)
             scraper.work()
             logger.info(
-                f"Waiting {REQUEST_INTERVAL} seconds before processing next date..."
+                f"Waiting {config.REQUEST_INTERVAL} seconds before processing next date..."
             )
-            time.sleep(REQUEST_INTERVAL)
-        except KeyboardInterrupt:
-            logger.warning(
-                f"Process interrupted by user while processing date {date}, stopping gracefully..."
-            )
+            time.sleep(config.REQUEST_INTERVAL)
+    except KeyboardInterrupt:
+        logger.warning(
+            f"Process interrupted by user while processing date {date}, stopping gracefully..."
+        )
+        if scraper is not None:
             scraper.save_json()
-            raise
-        except Exception as e:
-            logger.error(f"Error processing date {date}: {e}", exc_info=True)
+        raise
+    except Exception as e:
+        logger.error(f"Error processing date {date}: {e}", exc_info=True)
+        if scraper is not None:
             scraper.save_json()
+    finally:
+        scraper = None
 
 
 if __name__ == "__main__":
