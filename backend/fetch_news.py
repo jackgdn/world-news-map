@@ -69,8 +69,14 @@ class WikiNewsScraper:
                         description=description,
                         links=links,
                     )
-                    if current_news_item not in self.news_list:
-                        self.news_list.append(current_news_item)
+                    for i, existing_item in enumerate(self.news_list):
+                        if existing_item == current_news_item:
+                            break
+                        if existing_item.is_similar(current_news_item):
+                            self.news_list[i].description = current_news_item.description
+                            self.news_list[i].links = current_news_item.links
+                            break
+
             except IndexError:
                 logger.warning(
                     "Missing expected date element in event block, skipping."

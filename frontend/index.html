@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World News Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .layout {
+            display: flex;
+            height: 100vh;
+        }
+
+        #map {
+            flex: 1 1 auto;
+        }
+
+        #sidebar {
+            width: 360px;
+            overflow-y: auto;
+            background: #f9f9f9;
+            padding: 12px;
+            border-left: 1px solid #e5e5e5;
+        }
+
+        .news-item {
+            padding: 10px 0;
+            border-bottom: 1px solid #e6e6e6;
+        }
+
+        .news-title {
+            font-size: 14px;
+            font-weight: 600;
+            margin: 0 0 6px 0;
+        }
+
+        .news-time {
+            font-size: 12px;
+            color: #666;
+            margin: 0 0 6px 0;
+        }
+
+        .news-links a {
+            display: inline-block;
+            margin-right: 8px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="layout">
+        <div id="map"></div>
+        <div id="sidebar"></div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([0, 0], 2);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        const markersLayer = L.layerGroup().addTo(map);
+
+        function formatDate(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        function getLastSevenDates() {
+            const dates = [];
+            const now = new Date();
+            for (let i = 0; i < 7; i += 1) {
+                const d = new Date(now);
+                d.setDate(now.getDate() - i);
+                dates.push(formatDate(d));
+            }
+            return dates;
+        }
+
+        function isValidCoordinate(coord) {
+            if (!coord) return false;
+            const lat = Number(coord.latitude);
+            const lon = Number(coord.longitude);
+            if (!Number.isFinite(lat) || !Number.isFinite(lon)) return false;
+            if (lat === -1 && lon === -1) return false;
+            return true;
+        }
+
+        function buildLinksHtml(links) {
+            if (!Array.isArray(links) || links.length === 0) return '';
+            return links.map((item) => {
+                const label = item.source;
+                return `<a href="${item.url}" target="_blank" rel="noopener noreferrer">${label}</a>`;
+            }).join('');
+        }
+
+        async function fetchNews() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.innerHTML = '';
+            markersLayer.clearLayers();
+
+            const dates = getLastSevenDates();
+            const allItems = [];
+
+            await Promise.all(dates.map(async (date) => {
+                const url = `../news/${date}.json?t=${Date.now()}`;
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) return;
+                    const dayItems = await response.json();
+                    if (Array.isArray(dayItems)) {
+                        allItems.push(...dayItems);
+                    }
+                } catch (error) {
+                }
+            }));
+
+            allItems.forEach((item) => {
+                const title = item.description;
+                const time = item.date || '';
+                const linksHtml = buildLinksHtml(item.links);
+                if (isValidCoordinate(item.coordinate)) {
+                    const lat = Number(item.coordinate.latitude);
+                    const lon = Number(item.coordinate.longitude);
+                    const popupHtml = `<div><div><strong>${title}</strong></div><div>${time}</div><div class="news-links">${linksHtml}</div></div>`;
+                    L.marker([lat, lon]).addTo(markersLayer).bindPopup(popupHtml);
+                } else {
+                    const card = document.createElement('div');
+                    card.className = 'news-item';
+                    card.innerHTML = `
+                        <div class="news-title">${title}</div>
+                        <div class="news-time">${time}</div>
+                        <div class="news-links">${linksHtml}</div>
+                    `;
+                    sidebar.appendChild(card);
+                }
+            });
+        }
+
+        fetchNews();
+        setInterval(fetchNews, 3600000);
+    </script>
+</body>
+
+</html>

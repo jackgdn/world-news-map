@@ -18,7 +18,7 @@ class Logger:
         "error": logging.ERROR,
         "critical": logging.CRITICAL,
     }
-    LOG_FILE_DIR = "logs/"
+    LOG_FILE_DIR = "logs/backend/"
     LOG_FILE_PATH = os.path.join(
         LOG_FILE_DIR, f"{datetime.now().strftime('%Y-%m-%d')}.log")
 
@@ -159,6 +159,19 @@ class NewsItem:
         if not isinstance(other, NewsItem):
             return False
         return self.description == other.description and self.date == other.date
+
+    def is_similar(self, other: object) -> bool:
+        if not isinstance(other, NewsItem):
+            return False
+        if self == other:
+            return False
+        if self.date != other.date:
+            return False
+        for self_link in self.links:
+            for other_link in other.links:
+                if self_link.url == other_link.url:
+                    return True
+        return False
 
 
 class JSONManager:
