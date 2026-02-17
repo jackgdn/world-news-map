@@ -296,7 +296,7 @@ class CoordinateCacheManager:
 
     EXPIRATION_DAYS = max(config.CACHE_EXPIRATION_DAYS, 7)
     CACHE_FILE_DIR = "cache/"
-    CACHE_FILE_NAME = "coordinate.cache"
+    CACHE_FILE_NAME = "coordinate.pkl"
     CACHE_FILE_PATH = os.path.join(CACHE_FILE_DIR, CACHE_FILE_NAME)
 
     def __init__(self):
@@ -388,4 +388,4 @@ class CoordinateCacheManager:
         return None
 
 
-coord_cache_manager = CoordinateCacheManager()
+cache_manager = CoordinateCacheManager()

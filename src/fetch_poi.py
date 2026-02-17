@@ -34,7 +34,6 @@ class AIChatter:
             )
             raise e
 
-        self.model = config.LANGUAGE_MODEL_NAME
         self.force_refresh = force_refresh
         self.date = date
 
@@ -57,7 +56,7 @@ class AIChatter:
 
             try:
                 response = self.client.chat.completions.create(
-                    model=self.model,
+                    model=config.LANGUAGE_MODEL_NAME,
                     messages=[
                         {
                             "role": "user",
@@ -118,6 +117,7 @@ class AIChatter:
                     logger.warning(
                         f"All POI fields are empty for news item '{news_item.description[:config.LOG_DESCRIPTION_MAX_LENGTH]}...'"
                     )
+                    logger.debug(f"Received response: {answer_text}")
                     news_item.status = NewsStatus.POI_FETCH_FAILED
                     if attempt < config.MAX_RETRIES - 1:
                         logger.info(
@@ -181,21 +181,6 @@ class AIChatter:
         self.fetch_pois()
         self.save_json()
         logger.info(f"Completed POI fetch for date: {self.date}")
-
-
-def fetch_current_poi():
-    chatter = None
-    try:
-        chatter = AIChatter()
-        chatter.work()
-    except KeyboardInterrupt:
-        logger.warning("Process interrupted by user, stopping gracefully...")
-        if chatter is not None:
-            chatter.save_json()
-    except Exception as e:
-        logger.error(f"Error during POI fetch: {e}", exc_info=True)
-        if chatter is not None:
-            chatter.save_json()
 
 
 def refresh_weekly_poi():

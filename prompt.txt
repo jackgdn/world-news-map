@@ -1,15 +1,27 @@
 Task:
-Extract the SINGLE MOST CORE and RELEVANT POI (Point of Interest) for the event described in the news text, then output the result in the specified JSON format.
+Extract the SINGLE MOST CORE and RELEVANT POI (Point of Interest) for the event described in the news text, then output in the specified JSON format.
 
 Requirements:
 1. Output strictly valid JSON only. Do NOT add any extra text, explanation, markdown, code block, or comment.
 2. Use official English names only. No abbreviations, no translations.
-3. CRITICAL: Only extract the MOST CORE location (1 location maximum) that the event is primarily about. Ignore secondary/background/mentioned-only locations.
-   - Core location priority:
-     1. The place where the event physically occurred (highest priority)
-     2. The headquarters/actual physical location of the key institution
-     3. The most specific location if multiple places are relevant
-4. Follow the hierarchical rules below to fill country, state, city, institution:
+3. CRITICAL: Only extract the MOST CORE location (1 location maximum) where the EVENT ACTUALLY OCCURRED. Ignore secondary, background, or mentioned-only locations.
+
+   Core location priority (strictly follow):
+   1. Physical location where the event occurred (highest)
+   2. Headquarters/actual location of the key institution related to the event
+   3. Most specific location if multiple are relevant
+   4. If NO clear physical location exists → use "Cyberspace" (DO NOT output null)
+
+4. Use "Cyberspace" if the event falls into ANY of these categories:
+   - Stock, financial, crypto, currency, or global market trading
+   - Virtual goods, digital asset transactions, or online auctions
+   - Cyberattacks, online events, or internet-based activities
+   - Global announcements, reports, laws, policies, or worldwide trends
+   - World records or general statistics without a fixed location
+   - Events with both online and offline formats but NO offline location mentioned
+   - Any event that happens primarily on the Internet
+
+5. Hierarchical location rules:
    - Normal land:
      country → State/Region/Province → City → Specific Institution
    - Sea / Ocean / Marginal sea:
@@ -17,30 +29,36 @@ Requirements:
      state = null
      city = null
      institution = null
-   - Antarctica:
-     country = "Antarctica"
-     state = null
-     city = null
-     institution = Research Station name (e.g. Orcadas Base; if mentioned, else null)
    - Space / Outer space / LEO / GEO / Moon / Mars / Any spacecraft:
      country = "Outer Space"
      state = null
      city = null
      institution = null
-5. CRITICAL RULE FOR INSTITUTIONS:
-   - If the news mentions a specific organization/institution, use your knowledge base to find the ACTUAL physical location (country/state/city) of the institution, NOT just the country mentioned in the news text.
-6. CRITICAL FOR NULL VALUES:
-   - If a field is not applicable or unknown, set it to the JSON null value (WITHOUT quotation marks, strictly lowercase, exactly "null" as a JSON primitive, not a string).
-   - STRICTLY PROHIBITED: Do NOT output the string "null" (with quotation marks), "none", "NULL", "NONE", or any other string variants of null/none for any field. Only use the JSON null primitive (no quotes) for unknown/applicable fields.
-7. The "desc" field must be the original news text, unchanged.
+   - Antarctica:
+     country = "Antarctica"
+     state = null
+     city = null
+     institution = Research Station name (if mentioned, else null)
+   - Cyberspace / Online / Internet / Virtual / Digital:
+     country = "Cyberspace"
+     state = null
+     city = null
+     institution = null
+
+6. CRITICAL RULE FOR INSTITUTIONS:
+   - Use the ACTUAL PHYSICAL LOCATION of the institution related to the event.
+   - DO NOT use the location of news agencies, media, or publishers.
+
+7. CRITICAL FOR NULL VALUES:
+   - If a field is unknown or not applicable, use JSON null (lowercase, no quotes).
+   - DO NOT use "null", "None", "NULL", or any string variant.
 
 Output format (strictly follow):
 {{
-    "desc": "Original news text here",
     "poi": {{
         "country": "xxx or null",
-        "city": "xxx or null",
         "state": "xxx or null",
+        "city": "xxx or null",
         "institution": "xxx or null"
     }}
 }}

@@ -130,18 +130,6 @@ class WikiNewsScraper:
         logger.info(f"Completed news fetch and save for date: {self.date}")
 
 
-def fetch_current_news():
-    scraper = WikiNewsScraper()
-    try:
-        scraper.work()
-    except KeyboardInterrupt:
-        logger.warning("Process interrupted by user, stopping gracefully...")
-        scraper.save_json()
-    except Exception as e:
-        logger.error(f"Error during POI fetch: {e}", exc_info=True)
-        scraper.save_json()
-
-
 def refresh_weekly_news():
     scraper = None
     date = None
