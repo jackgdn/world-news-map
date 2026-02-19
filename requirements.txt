@@ -1,4 +1,6 @@
 fake_useragent
 lxml
 openai
+pyyaml
 requests
+schedule

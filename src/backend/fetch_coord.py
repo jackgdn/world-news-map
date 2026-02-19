@@ -4,10 +4,9 @@ import time
 from datetime import datetime, timedelta
 from urllib.parse import urlencode
 
+import config
 import requests
 from fake_useragent import UserAgent
-
-import config
 from utils import (CoordinateEntry, NewsCoordinate, NewsItem, NewsPOI,
                    NewsStatus, cache_manager, json_manager, logger)
 
@@ -19,6 +18,14 @@ class CoordinateCoder:
     REQUEST_PARAMS = {"dedupe": 1, "format": "jsonv2"}
     IGNORED_POSITIONS = {"outer space", "cyberspace"}
     SPECIAL_POSITIONS = {"antarctica"}
+    PARAM_FALLBACK = (
+        ("country", "state", "city", "amenity"),
+        ("country", "state", "city"),
+        ("city",),
+        ("country", "state"),
+        ("state",),
+        ("country",),
+    )
 
     def __init__(
         self,
@@ -30,6 +37,18 @@ class CoordinateCoder:
 
     def get_news_list(self) -> None:
         self.news_list = copy.deepcopy(json_manager.read_news_items(self.date))
+
+    def generate_fallback_poi(self, poi: NewsPOI) -> list[NewsPOI]:
+        fallback_poi_list = list()
+        for params in self.PARAM_FALLBACK:
+            fallback_poi = NewsPOI(
+                country=poi.country if "country" in params else None,
+                state=poi.state if "state" in params else None,
+                city=poi.city if "city" in params else None,
+                institution=poi.institution if "amenity" in params else None,
+            )
+            fallback_poi_list.append(fallback_poi)
+        return fallback_poi_list
 
     def request_for_coordinates(self, news_item: NewsItem) -> None:
         if news_item.status not in (
@@ -65,20 +84,11 @@ class CoordinateCoder:
                 self.write_cache(news_item.poi, special_coordinate)
                 return
 
-        coordinate, fallback_level = self.query(news_item.poi)
+        coordinate = self.query(news_item.poi)
         if not coordinate:
             news_item.status = NewsStatus.COORDINATE_FETCH_FAILED
         else:
             news_item.status = NewsStatus.COORDINATE_FETCHED
-            poi = copy.deepcopy(news_item.poi)
-
-            current_level = 0
-            for field in ["institution", "city", "state", "country"]:
-                if fallback_level == -1 or current_level > fallback_level:
-                    break
-                if poi:
-                    self.write_cache(poi, coordinate)
-                setattr(poi, field, None)
 
         news_item.coordinate = coordinate
         return
@@ -110,68 +120,34 @@ class CoordinateCoder:
                 return cached_coordinate
         return None
 
-    def build_fallback_poi_list(self, poi: NewsPOI) -> list[NewsPOI]:
-        fallback_poi_list = list()
-
-        p0 = NewsPOI()
-        p0.country = poi.country
-        p0.state = poi.state
-        p0.city = poi.city
-        p0.institution = poi.institution
-        fallback_poi_list.append(p0)
-
-        p1 = NewsPOI()
-        p1.country = poi.country
-        p1.state = poi.state
-        p1.city = poi.city
-        fallback_poi_list.append(p1)
-
-        p3 = NewsPOI()
-        p3.country = poi.country
-        p3.state = poi.state
-        fallback_poi_list.append(p3)
-
-        p4 = NewsPOI()
-        p4.country = poi.country
-        fallback_poi_list.append(p4)
-
-        return fallback_poi_list
-
-    def query(self, poi: NewsPOI) -> tuple[NewsCoordinate, int]:
+    def query(self, poi: NewsPOI) -> NewsCoordinate:
         param_mapping = {
             "country": poi.country,
             "state": poi.state,
             "city": poi.city,
             "amenity": poi.institution,
         }
-        param_fallback = (
-            ("country", "state", "city", "amenity"),
-            ("country", "state", "city"),
-            ("country", "state"),
-            ("country",),
-        )
         structed_params = [
             {k: param_mapping[k] for k in fallback if param_mapping[k]}
-            for fallback in param_fallback
+            for fallback in self.PARAM_FALLBACK
         ]
         free_form_params = [
             [param_mapping[k] for k in fallback if param_mapping[k]]
-            for fallback in param_fallback
+            for fallback in self.PARAM_FALLBACK
         ]
         null_coordinate = NewsCoordinate(latitude=-1, longitude=-1)
 
-        fallback_poi_list = self.build_fallback_poi_list(poi)
+        fallback_poi_list = self.generate_fallback_poi(poi)
 
-        fallback_level = 0
         for structed_param_set, free_form_param_set, fallback_poi in zip(
             structed_params, free_form_params, fallback_poi_list
         ):
             try:
                 cached_coordinate = self.query_cache(fallback_poi)
                 if cached_coordinate:
-                    return cached_coordinate, -1
+                    return cached_coordinate
                 if not structed_param_set:
-                    return null_coordinate, fallback_level
+                    return null_coordinate
 
                 logger.debug(
                     f"Querying coordinates with structured params: {structed_param_set}"
@@ -185,10 +161,16 @@ class CoordinateCoder:
                 structed_response.raise_for_status()
                 structed_data = structed_response.json()
                 if len(structed_data) == 1:
-                    return NewsCoordinate(
+                    current_coordinate = NewsCoordinate(
                         latitude=float(structed_data[0].get("lat", -1)),
                         longitude=float(structed_data[0].get("lon", -1)),
-                    ), fallback_level
+                    )
+                    for previous_fallback in fallback_poi_list:
+                        self.write_cache(previous_fallback, current_coordinate)
+                        if previous_fallback == fallback_poi:
+                            break
+                    return current_coordinate
+
                 time.sleep(config.REQUEST_INTERVAL)
 
                 logger.debug(
@@ -207,14 +189,17 @@ class CoordinateCoder:
                 )
                 free_form_response.raise_for_status()
                 free_form_data = free_form_response.json()
-                if len(free_form_data) == 1:
-                    return NewsCoordinate(
+                if len(structed_data) == 1:
+                    current_coordinate = NewsCoordinate(
                         latitude=float(free_form_data[0].get("lat", -1)),
                         longitude=float(free_form_data[0].get("lon", -1)),
-                    ), fallback_level
+                    )
+                    for previous_fallback in fallback_poi_list:
+                        self.write_cache(previous_fallback, current_coordinate)
+                        if previous_fallback == fallback_poi:
+                            break
+                    return current_coordinate
                 time.sleep(config.REQUEST_INTERVAL)
-
-                fallback_level += 1
 
             except requests.exceptions.Timeout:
                 logger.error(
@@ -238,7 +223,7 @@ class CoordinateCoder:
                     exc_info=True,
                 )
 
-        return null_coordinate, fallback_level
+        return null_coordinate
 
     def fetch_coordinates(self) -> None:
         for i, news_item in enumerate(self.news_list):

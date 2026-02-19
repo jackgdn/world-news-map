@@ -1,72 +1,24 @@
 import copy
 import json
-import logging
 import os
 import pickle
+import sys
 from datetime import datetime, timedelta
 from enum import Enum
+from pathlib import Path
 
 import config
 
-
-class Logger:
-
-    LOG_LEVELS = {
-        "debug": logging.DEBUG,
-        "info": logging.INFO,
-        "warning": logging.WARNING,
-        "error": logging.ERROR,
-        "critical": logging.CRITICAL,
-    }
-    LOG_FILE_DIR = "logs/backend/"
-    LOG_FILE_PATH = os.path.join(
-        LOG_FILE_DIR, f"{datetime.now().strftime('%Y-%m-%d')}.log")
-
-    def __init__(
-        self,
-        log_name: str = "wnm",
-    ):
-        self.logger = logging.getLogger(log_name)
-        self.logger.setLevel(self.LOG_LEVELS.get(
-            config.LOG_LEVEL.strip().lower(), logging.INFO))
-        self.logger.handlers.clear()
-        formatter = logging.Formatter(
-            "%(asctime)s - %(levelname)s - %(filename)s - %(message)s",
-            datefmt="%Y-%m-%d %H:%M:%S",
-        )
-
-        try:
-            os.makedirs("logs/", exist_ok=True)
-            file_handler = logging.FileHandler(
-                self.LOG_FILE_PATH, encoding="utf-8")
-            file_handler.setFormatter(formatter)
-            console_handler = logging.StreamHandler()
-            console_handler.setFormatter(formatter)
-            self.logger.addHandler(file_handler)
-            self.logger.addHandler(console_handler)
-
-            self.logger.debug(
-                f"Logger initialized with log file: {self.LOG_FILE_PATH}")
-        except Exception as e:
-            print(f"Error setting up logger: {e}")
-
-    def debug(self, msg):
-        self.logger.debug(msg)
-
-    def info(self, msg):
-        self.logger.info(msg)
-
-    def warning(self, msg):
-        self.logger.warning(msg)
-
-    def error(self, msg, exc_info=False):
-        self.logger.error(msg, exc_info=exc_info)
-
-    def critical(self, msg):
-        self.logger.critical(msg)
-
-
-logger = Logger()
+try:
+    current_file = os.path.abspath(__file__)
+    backend_dir = os.path.dirname(current_file)
+    src_dir = os.path.dirname(backend_dir)
+    if src_dir not in sys.path:
+        sys.path.append(src_dir)
+    from common.logger import backend_logger as logger
+except Exception as e:
+    print(f"Error importing modules: {e}")
+    raise
 
 
 class NewsLink:
@@ -176,7 +128,7 @@ class NewsItem:
 
 class JSONManager:
 
-    NEWS_FILE_DIR = "news/"
+    NEWS_FILE_DIR = Path(__file__).parent.parent.parent / "news"
 
     def __init__(self):
         try:
@@ -308,7 +260,7 @@ class CoordinateEntry:
 class CoordinateCacheManager:
 
     EXPIRATION_DAYS = max(config.CACHE_EXPIRATION_DAYS, 7)
-    CACHE_FILE_DIR = "cache/"
+    CACHE_FILE_DIR = Path(__file__).parent.parent.parent / "cache"
     CACHE_FILE_NAME = "coordinate.pkl"
     CACHE_FILE_PATH = os.path.join(CACHE_FILE_DIR, CACHE_FILE_NAME)
 
