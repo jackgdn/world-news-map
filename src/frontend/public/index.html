@@ -378,7 +378,7 @@
             if (noCoordinateItems.length === 0) {
                 const emptyMsg = document.createElement('div');
                 emptyMsg.style.cssText = 'color: #999; font-size: 12px; padding: 20px 0;';
-                emptyMsg.textContent = '没有无法定位的新闻';
+                emptyMsg.textContent = 'No News Here';
                 tabPanels.other.appendChild(emptyMsg);
             }
 
@@ -393,13 +393,12 @@
             if (allFilteredItems.length === 0) {
                 const emptyMsg = document.createElement('div');
                 emptyMsg.style.cssText = 'color: #999; font-size: 12px; padding: 20px 0;';
-                emptyMsg.textContent = '没有新闻数据';
+                emptyMsg.textContent = 'No News Here';
                 tabPanels.all.appendChild(emptyMsg);
             }
         }
 
         fetchNews();
-        setInterval(fetchNews, 300000);
     </script>
 </body>
 
