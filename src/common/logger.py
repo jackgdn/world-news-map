@@ -2,7 +2,10 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
-from . import config
+try:
+    from . import config
+except ImportError:
+    import config
 
 
 class Logger:
@@ -14,6 +17,17 @@ class Logger:
         "critical": logging.CRITICAL,
     }
 
+    class _LogTypeFilter(logging.Filter):
+        def __init__(self, log_type: str):
+            super().__init__()
+            self.log_type = log_type
+
+        def filter(self, record: logging.LogRecord) -> bool:
+            # Inject log_type so the formatter placeholder is always present.
+            if not hasattr(record, "log_type"):
+                record.log_type = self.log_type
+            return True
+
     def __init__(self, log_type: str):
         if log_type not in ("backend", "frontend"):
             raise ValueError(
@@ -24,18 +38,18 @@ class Logger:
             config.LOG_LEVEL.strip().lower(), logging.INFO))
         self.logger.handlers.clear()
 
+        self._log_type_filter = self._LogTypeFilter(log_type)
+        self.logger.addFilter(self._log_type_filter)
+
         self.log_dir = Path(__file__).parent.parent.parent / "logs" / log_type
         self.formatter = logging.Formatter(
-            "%(asctime)s - %(levelname)s - %(message)s",
+            "%(asctime)s - [%(log_type)s] - %(levelname)s - %(message)s",
             datefmt="%Y-%m-%d %H:%M:%S",
         )
         self.last_log_path = None
 
         self._ensure_log_dir_exists()
         self._setup_handlers()
-
-        self.logger.debug(
-            f"Logger initialized, log directory: {self.log_dir.absolute()}")
 
     def _ensure_log_dir_exists(self):
         try:

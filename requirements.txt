@@ -1,5 +1,6 @@
 fake_useragent
 lxml
+msgpack
 openai
 pyyaml
 requests

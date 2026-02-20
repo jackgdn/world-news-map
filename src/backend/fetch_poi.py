@@ -6,8 +6,12 @@ from datetime import datetime, timedelta
 
 from openai import OpenAI
 
-import config
-from utils import NewsItem, NewsPOI, NewsStatus, json_manager, logger
+try:
+    from . import config
+    from .utils import NewsItem, NewsPOI, NewsStatus, json_manager, logger
+except ImportError:
+    import config
+    from utils import NewsItem, NewsPOI, NewsStatus, json_manager, logger
 
 
 class AIChatter:

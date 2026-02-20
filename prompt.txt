@@ -4,28 +4,31 @@ Extract the SINGLE MOST CORE and RELEVANT POI (Point of Interest) for the event 
 Requirements:
 1. Output strictly valid JSON only. Do NOT add any extra text, explanation, markdown, code block, or comment.
 2. Use official English names only. No abbreviations, no translations.
-3. CRITICAL: Only extract the MOST CORE location (1 location maximum) where the EVENT ACTUALLY OCCURRED. Ignore secondary, background, or mentioned-only locations.
+
+3. CRITICAL: Only extract the MOST CORE location where the EVENT ACTUALLY OCCURRED.
+   - If the event happens in REAL WORLD (land, sea, ocean, lake, strait, highway, base, ship, boat, building, etc.)
+     → NEVER USE "Cyberspace".
+   - If any physical location is mentioned → NEVER USE "Cyberspace".
 
    Core location priority (strictly follow):
-   1. Physical location where the event occurred (highest)
+   1. Physical location (land, sea, ocean, lake, strait, ship, boat, highway, etc.) — HIGHEST
    2. Headquarters/actual location of the key institution related to the event
-   3. Most specific location if multiple are relevant
-   4. If NO clear physical location exists → use "Cyberspace" (DO NOT output null)
+   3. Most specific location
 
-4. Use "Cyberspace" if the event falls into ANY of these categories:
-   - Stock, financial, crypto, currency, or global market trading
-   - Virtual goods, digital asset transactions, or online auctions
-   - Cyberattacks, online events, or internet-based activities
-   - Global announcements, reports, laws, policies, or worldwide trends
-   - World records or general statistics without a fixed location
-   - Events with both online and offline formats but NO offline location mentioned
-   - Any event that happens primarily on the Internet
+4. USE "Cyberspace" ONLY IF ALL of the following are TRUE:
+   - NO physical location is mentioned anywhere in the news.
+   - The event is PURELY digital / virtual / internet-based.
+   - The event is ONE of these ONLY:
+     • Cyberattacks, hacking, data breaches, DDoS attacks
+     • Virtual goods, NFT, digital assets, online game transactions
+     • Online auctions with NO physical location
+     • Purely online/virtual events with NO real-world occurrence
 
 5. Hierarchical location rules:
    - Normal land:
      country → State/Region/Province → City → Specific Institution
-   - Sea / Ocean / Marginal sea:
-     country = Sea/Ocean name (e.g. Caribbean Sea, Atlantic Ocean)
+   - Sea / Ocean / Marginal sea / Lake / Strait:
+     country = Sea/Ocean/Lake/Strait name
      state = null
      city = null
      institution = null
@@ -39,17 +42,26 @@ Requirements:
      state = null
      city = null
      institution = Research Station name (if mentioned, else null)
-   - Cyberspace / Online / Internet / Virtual / Digital:
+   - Cyberspace:
      country = "Cyberspace"
      state = null
      city = null
      institution = null
 
-6. CRITICAL RULE FOR INSTITUTIONS:
-   - Use the ACTUAL PHYSICAL LOCATION of the institution related to the event.
-   - DO NOT use the location of news agencies, media, or publishers.
+6. HARD FORBIDDEN — MUST FOLLOW:
+   - "Cyberspace" CANNOT appear in state, city, institution — EVER.
+   - institution must be null if no real physical institution exists. DO NOT fill with Cyberspace.
+   - DO NOT use Cyberspace for:
+     • Any boat, ship, vessel, naval, military events
+     • Any sea, ocean, strait, lake, highway events
+     • Any accident, crash, injury, death, rescue, missing person
+     • Any military strike, closure, exercise, policy
 
-7. CRITICAL FOR NULL VALUES:
+7. CRITICAL RULE FOR INSTITUTIONS:
+   - Use the ACTUAL PHYSICAL LOCATION of the institution related to the event.
+   - DO NOT use news agencies, media, or publishers.
+
+8. CRITICAL FOR NULL VALUES:
    - If a field is unknown or not applicable, use JSON null (lowercase, no quotes).
    - DO NOT use "null", "None", "NULL", or any string variant.
 

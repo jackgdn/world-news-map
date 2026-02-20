@@ -7,6 +7,15 @@
     <title>World News Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
+        :root {
+            --sidebar-width: 400px;
+            --toggle-width: 30px;
+            --sidebar-bg: rgba(249, 249, 249, 0.94);
+            --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            --tab-height: 42px;
+            --tab-bg: #f3f3f3;
+        }
+
         * {
             box-sizing: border-box;
         }
@@ -14,96 +23,110 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
+            background: #fafafa;
         }
 
         .layout {
-            display: flex;
+            position: relative;
             height: 100vh;
-        }
-
-        #sidebar-left {
-            width: 360px;
-            overflow-y: auto;
-            background: #f9f9f9;
-            padding: 12px;
-            border-right: 1px solid #e5e5e5;
-            transition: transform 0.3s ease, width 0.3s ease;
-            flex-shrink: 0;
-        }
-
-        #sidebar-left.collapsed {
-            transform: translateX(-100%);
-            width: 0;
-            padding: 0;
-            border: none;
-        }
-
-        .sidebar-toggle-left {
-            position: absolute;
-            left: 0;
-            width: 30px;
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: #f0f0f0;
-            border-right: 1px solid #e5e5e5;
-            cursor: pointer;
-            user-select: none;
-            font-size: 18px;
-            transition: background 0.2s ease;
-            z-index: 1000;
-        }
-
-        .sidebar-toggle-left:hover {
-            background: #e0e0e0;
+            overflow: hidden;
         }
 
         #map {
-            flex: 1 1 auto;
-            margin-left: 30px;
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
         }
 
-        #map.sidebar-left-collapsed {
-            margin-left: 0;
+        .overlay-container {
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            z-index: 2;
         }
 
-        .sidebars-right-container {
-            display: flex;
-        }
-
-        #sidebar-right {
-            width: 360px;
+        #sidebar {
+            position: absolute;
+            top: 12px;
+            bottom: 12px;
+            width: var(--sidebar-width);
             overflow-y: auto;
-            background: #f9f9f9;
+            background: var(--sidebar-bg);
             padding: 12px;
-            border-left: 1px solid #e5e5e5;
-            transition: transform 0.3s ease, width 0.3s ease;
-            flex-shrink: 0;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            border: 1px solid #e5e5e5;
+            box-shadow: var(--shadow);
+            pointer-events: auto;
         }
 
-        #sidebar-right.collapsed {
-            transform: translateX(100%);
-            width: 0;
-            padding: 0;
-            border: none;
+        #sidebar {
+            right: var(--toggle-width);
         }
 
-        .sidebar-toggle-right {
-            width: 30px;
+        #sidebar.collapsed {
+            transform: translateX(calc(100% + var(--toggle-width)));
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .sidebar-toggle {
+            position: absolute;
+            top: 12px;
+            width: var(--toggle-width);
+            height: 40px;
             display: flex;
             align-items: center;
             justify-content: center;
-            background: #f0f0f0;
-            border-left: 1px solid #e5e5e5;
             cursor: pointer;
             user-select: none;
-            font-size: 18px;
+            font-size: 16px;
+            background: #f0f0f0;
+            border: 1px solid #e5e5e5;
+            box-shadow: var(--shadow);
             transition: background 0.2s ease;
+            pointer-events: auto;
+            z-index: 3;
         }
 
-        .sidebar-toggle-right:hover {
+        .sidebar-toggle {
+            right: 6px;
+        }
+
+        .sidebar-toggle:hover {
             background: #e0e0e0;
+        }
+
+        .tabs {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px;
+            margin-bottom: 10px;
+            height: var(--tab-height);
+        }
+
+        .tab-btn {
+            border: 1px solid #dcdcdc;
+            background: var(--tab-bg);
+            border-radius: 6px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .tab-btn.active {
+            background: #fff;
+            border-color: #c0c0c0;
+            box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        .tab-panel {
+            display: none;
+        }
+
+        .tab-panel.active {
+            display: block;
         }
 
         .sidebar-header {
@@ -163,12 +186,17 @@
 
 <body>
     <div class="layout">
-        <div class="sidebar-toggle-left" id="toggle-btn-left">«</div>
-        <div id="sidebar-left"></div>
         <div id="map"></div>
-        <div class="sidebars-right-container">
-            <div id="sidebar-right"></div>
-            <div class="sidebar-toggle-right" id="toggle-btn-right">»</div>
+        <div class="overlay-container">
+            <div class="sidebar-toggle" id="toggle-btn">«</div>
+            <div id="sidebar">
+                <div class="tabs">
+                    <button class="tab-btn active" data-tab="other">Other News</button>
+                    <button class="tab-btn" data-tab="all">News List</button>
+                </div>
+                <div class="tab-panel active" id="tab-other"></div>
+                <div class="tab-panel" id="tab-all"></div>
+            </div>
         </div>
     </div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -179,31 +207,32 @@
         }).addTo(map);
 
         const markersLayer = L.layerGroup().addTo(map);
-        const markerMap = new Map(); // 用于存储坐标对应的 marker
+        const markerMap = new Map();
 
-        const sidebarLeft = document.getElementById('sidebar-left');
-        const sidebarRight = document.getElementById('sidebar-right');
-        const toggleBtnLeft = document.getElementById('toggle-btn-left');
-        const toggleBtnRight = document.getElementById('toggle-btn-right');
-        const mapElement = document.getElementById('map');
-        let leftCollapsed = false;
-        let rightCollapsed = false;
+        const sidebar = document.getElementById('sidebar');
+        const toggleBtn = document.getElementById('toggle-btn');
+        const tabButtons = Array.from(document.querySelectorAll('.tab-btn'));
+        const tabPanels = {
+            other: document.getElementById('tab-other'),
+            all: document.getElementById('tab-all'),
+        };
+        let sidebarCollapsed = false;
 
-        // 左侧侧边栏折叠/展开
-        toggleBtnLeft.addEventListener('click', () => {
-            leftCollapsed = !leftCollapsed;
-            sidebarLeft.classList.toggle('collapsed');
-            mapElement.classList.toggle('sidebar-left-collapsed');
-            toggleBtnLeft.textContent = leftCollapsed ? '»' : '«';
+        toggleBtn.addEventListener('click', () => {
+            sidebarCollapsed = !sidebarCollapsed;
+            sidebar.classList.toggle('collapsed');
+            toggleBtn.textContent = sidebarCollapsed ? '»' : '«';
             map.invalidateSize();
         });
 
-        // 右侧侧边栏折叠/展开
-        toggleBtnRight.addEventListener('click', () => {
-            rightCollapsed = !rightCollapsed;
-            sidebarRight.classList.toggle('collapsed');
-            toggleBtnRight.textContent = rightCollapsed ? '«' : '»';
-            map.invalidateSize();
+        tabButtons.forEach((btn) => {
+            btn.addEventListener('click', () => {
+                const tab = btn.getAttribute('data-tab');
+                tabButtons.forEach((b) => b.classList.toggle('active', b === btn));
+                Object.entries(tabPanels).forEach(([key, panel]) => {
+                    panel.classList.toggle('active', key === tab);
+                });
+            });
         });
 
         function formatDate(date) {
@@ -264,23 +293,34 @@
             return card;
         }
 
-        function focusOnMarker(item) {
-            if (isValidCoordinate(item.coordinate)) {
-                const lat = Number(item.coordinate.latitude);
-                const lon = Number(item.coordinate.longitude);
-                map.setView([lat, lon], 10);
+        function buildPopupHtml(itemsAtPoint) {
+            const lines = itemsAtPoint.map((it) => {
+                const linksHtml = buildLinksHtml(it.links);
+                const time = it.date || '';
+                return `<div style="margin-bottom:10px;">
+                    <div><strong>${it.description}</strong></div>
+                    <div style="color:#777;font-size:12px;">${time}</div>
+                    <div class="news-links">${linksHtml}</div>
+                </div>`;
+            }).join('');
+            return `<div style="max-width:300px;">${lines}</div>`;
+        }
 
-                // 高亮对应的 marker
-                const key = `${lat},${lon}`;
-                if (markerMap.has(key)) {
-                    markerMap.get(key).openPopup();
-                }
+        function focusOnMarker(item) {
+            if (!isValidCoordinate(item.coordinate)) return;
+            const lat = Number(item.coordinate.latitude);
+            const lon = Number(item.coordinate.longitude);
+            map.setView([lat, lon], 10);
+
+            const key = `${lat},${lon}`;
+            if (markerMap.has(key)) {
+                markerMap.get(key).openPopup();
             }
         }
 
         async function fetchNews() {
-            sidebarLeft.innerHTML = '<div class="sidebar-header">无法定位的新闻</div>';
-            sidebarRight.innerHTML = '<div class="sidebar-header">所有新闻</div>';
+            tabPanels.other.innerHTML = '<div class="sidebar-header">Other News</div>';
+            tabPanels.all.innerHTML = '<div class="sidebar-header">News List</div>';
             markersLayer.clearLayers();
             markerMap.clear();
 
@@ -288,7 +328,7 @@
             const allItems = [];
 
             await Promise.all(dates.map(async (date) => {
-                const url = `../../../news/${date}.json?t=${Date.now()}`;
+                const url = `./news/${date}.json?t=${Date.now()}`;
                 try {
                     const response = await fetch(url);
                     if (!response.ok) return;
@@ -301,67 +341,65 @@
                 }
             }));
 
-            // 过滤并分类新闻
             const noCoordinateItems = [];
-            const validCoordinateItems = [];
+            const groupedByCoordinate = new Map();
 
             allItems.forEach((item) => {
                 const status = item.status || 'unknown';
 
-                // 只展示指定状态的新闻
                 if (status === 'no_valid_coordinate') {
                     noCoordinateItems.push(item);
                 } else if (status === 'coordinate_fetched') {
                     if (isValidCoordinate(item.coordinate)) {
-                        validCoordinateItems.push(item);
+                        const lat = Number(item.coordinate.latitude);
+                        const lon = Number(item.coordinate.longitude);
+                        const key = `${lat},${lon}`;
+                        if (!groupedByCoordinate.has(key)) {
+                            groupedByCoordinate.set(key, []);
+                        }
+                        groupedByCoordinate.get(key).push(item);
                     } else {
                         noCoordinateItems.push(item);
                     }
                 }
             });
 
-            // 在地图上显示有效坐标的新闻
-            validCoordinateItems.forEach((item) => {
-                const lat = Number(item.coordinate.latitude);
-                const lon = Number(item.coordinate.longitude);
-                const title = item.description;
-                const time = item.date || '';
-                const linksHtml = buildLinksHtml(item.links);
-                const popupHtml = `<div><div><strong>${title}</strong></div><div>${time}</div><div class="news-links">${linksHtml}</div></div>`;
+            groupedByCoordinate.forEach((itemsAtPoint, key) => {
+                const [lat, lon] = key.split(',').map(Number);
+                const popupHtml = buildPopupHtml(itemsAtPoint);
                 const marker = L.marker([lat, lon]).addTo(markersLayer).bindPopup(popupHtml);
-                markerMap.set(`${lat},${lon}`, marker);
+                markerMap.set(key, marker);
             });
 
-            // 左侧侧边栏：无法定位的新闻
             noCoordinateItems.forEach((item) => {
-                sidebarLeft.appendChild(createNewsCard(item, focusOnMarker));
+                tabPanels.other.appendChild(createNewsCard(item, focusOnMarker));
             });
 
             if (noCoordinateItems.length === 0) {
                 const emptyMsg = document.createElement('div');
                 emptyMsg.style.cssText = 'color: #999; font-size: 12px; padding: 20px 0;';
                 emptyMsg.textContent = '没有无法定位的新闻';
-                sidebarLeft.appendChild(emptyMsg);
+                tabPanels.other.appendChild(emptyMsg);
             }
 
-            // 右侧侧边栏：所有新闻，按日期排序
+            const validCoordinateItems = Array.from(groupedByCoordinate.values()).flat();
             const allFilteredItems = [...noCoordinateItems, ...validCoordinateItems];
             allFilteredItems.sort((a, b) => new Date(b.date) - new Date(a.date));
 
             allFilteredItems.forEach((item) => {
-                sidebarRight.appendChild(createNewsCard(item, focusOnMarker));
+                tabPanels.all.appendChild(createNewsCard(item, focusOnMarker));
             });
 
             if (allFilteredItems.length === 0) {
                 const emptyMsg = document.createElement('div');
                 emptyMsg.style.cssText = 'color: #999; font-size: 12px; padding: 20px 0;';
                 emptyMsg.textContent = '没有新闻数据';
-                sidebarRight.appendChild(emptyMsg);
+                tabPanels.all.appendChild(emptyMsg);
             }
         }
 
         fetchNews();
-        setInterval(fetchNews, 3600000);
+        setInterval(fetchNews, 300000);
     </script>
 </body>
 

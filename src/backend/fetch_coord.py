@@ -4,22 +4,28 @@ import time
 from datetime import datetime, timedelta
 from urllib.parse import urlencode
 
-import config
 import requests
 from fake_useragent import UserAgent
-from utils import (CoordinateEntry, NewsCoordinate, NewsItem, NewsPOI,
-                   NewsStatus, cache_manager, json_manager, logger)
+
+try:
+    from . import config
+    from .utils import (CoordinateEntry, NewsCoordinate, NewsItem, NewsPOI,
+                        NewsStatus, cache_manager, json_manager, logger)
+except ImportError:
+    import config
+    from utils import (CoordinateEntry, NewsCoordinate, NewsItem, NewsPOI,
+                       NewsStatus, cache_manager, json_manager, logger)
 
 
 class CoordinateCoder:
 
     BASE_URL = "https://nominatim.openstreetmap.org/search?"
     HEADERS = {"User-Agent": UserAgent().random}
-    REQUEST_PARAMS = {"dedupe": 1, "format": "jsonv2"}
+    REQUEST_PARAMS = {"dedupe": 1, "format": "jsonv2", "limit": 3}
     IGNORED_POSITIONS = {"outer space", "cyberspace"}
-    SPECIAL_POSITIONS = {"antarctica"}
     PARAM_FALLBACK = (
         ("country", "state", "city", "amenity"),
+        ("amenity",),
         ("country", "state", "city"),
         ("city",),
         ("country", "state"),
@@ -73,17 +79,6 @@ class CoordinateCoder:
             news_item.status = NewsStatus.NO_VALID_COORDINATE
             return
 
-        if news_item.poi.country and news_item.poi.country.lower() in self.SPECIAL_POSITIONS:
-            logger.debug(
-                f"News item '{news_item.description[:config.LOG_DESCRIPTION_MAX_LENGTH]}...' has a special position '{news_item.poi.country}'. Using special query."
-            )
-            special_coordinate = self.special_query(news_item.poi)
-            if special_coordinate:
-                news_item.coordinate = special_coordinate
-                news_item.status = NewsStatus.COORDINATE_FETCHED
-                self.write_cache(news_item.poi, special_coordinate)
-                return
-
         coordinate = self.query(news_item.poi)
         if not coordinate:
             news_item.status = NewsStatus.COORDINATE_FETCH_FAILED
@@ -93,25 +88,10 @@ class CoordinateCoder:
         news_item.coordinate = coordinate
         return
 
-    def special_query(self, poi: NewsPOI) -> NewsCoordinate | None:
-        if poi.country and poi.country.lower() == "antarctica" and poi.institution is None:
-            response = requests.get(
-                self.BASE_URL
-                + urlencode({
-                    **self.REQUEST_PARAMS,
-                    "q": "antarctica",
-                }),
-                headers=self.HEADERS,
-                timeout=config.REQUEST_TIMEOUT,
-            )
-            response.raise_for_status()
-            data = response.json()[0]
-            return NewsCoordinate(latitude=float(data.get("lat", -1)), longitude=float(data.get("lon", -1)))
-
     def write_cache(self, poi: NewsPOI, coordinate: NewsCoordinate) -> None:
         entry = CoordinateEntry(copy.deepcopy(
             poi), copy.deepcopy(coordinate), datetime.now())
-        cache_manager.insert_entry(entry)
+        cache_manager.insert_entry(entry, self.force_refresh)
 
     def query_cache(self, poi: NewsPOI) -> NewsCoordinate | None:
         if not self.force_refresh:
@@ -147,7 +127,7 @@ class CoordinateCoder:
                 if cached_coordinate:
                     return cached_coordinate
                 if not structed_param_set:
-                    return null_coordinate
+                    continue
 
                 logger.debug(
                     f"Querying coordinates with structured params: {structed_param_set}"
@@ -160,7 +140,8 @@ class CoordinateCoder:
                 )
                 structed_response.raise_for_status()
                 structed_data = structed_response.json()
-                if len(structed_data) == 1:
+                if (len(structed_data) == 1 or len({item.get("importance") for item in structed_data}) == 1
+                        or {item.get("osm_type") for item in structed_data} == {"relation", "node"}):
                     current_coordinate = NewsCoordinate(
                         latitude=float(structed_data[0].get("lat", -1)),
                         longitude=float(structed_data[0].get("lon", -1)),
@@ -170,7 +151,6 @@ class CoordinateCoder:
                         if previous_fallback == fallback_poi:
                             break
                     return current_coordinate
-
                 time.sleep(config.REQUEST_INTERVAL)
 
                 logger.debug(
@@ -189,7 +169,8 @@ class CoordinateCoder:
                 )
                 free_form_response.raise_for_status()
                 free_form_data = free_form_response.json()
-                if len(structed_data) == 1:
+                if (len(free_form_data) == 1 or len({item.get("importance") for item in free_form_data}) == 1
+                        or {item.get("osm_type") for item in free_form_data} == {"relation", "node"}):
                     current_coordinate = NewsCoordinate(
                         latitude=float(free_form_data[0].get("lat", -1)),
                         longitude=float(free_form_data[0].get("lon", -1)),

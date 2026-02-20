@@ -1,13 +1,17 @@
 import copy
 import json
 import os
-import pickle
 import sys
 from datetime import datetime, timedelta
 from enum import Enum
 from pathlib import Path
 
-import config
+import msgpack
+
+try:
+    from . import config
+except ImportError:
+    import config
 
 try:
     current_file = os.path.abspath(__file__)
@@ -128,7 +132,8 @@ class NewsItem:
 
 class JSONManager:
 
-    NEWS_FILE_DIR = Path(__file__).parent.parent.parent / "news"
+    NEWS_FILE_DIR = Path(__file__).parent.parent / \
+        "frontend" / "public" / "news"
 
     def __init__(self):
         try:
@@ -261,8 +266,8 @@ class CoordinateCacheManager:
 
     EXPIRATION_DAYS = max(config.CACHE_EXPIRATION_DAYS, 7)
     CACHE_FILE_DIR = Path(__file__).parent.parent.parent / "cache"
-    CACHE_FILE_NAME = "coordinate.pkl"
-    CACHE_FILE_PATH = os.path.join(CACHE_FILE_DIR, CACHE_FILE_NAME)
+    CACHE_FILE_NAME = "coordinate.msgpack"
+    CACHE_FILE_PATH = CACHE_FILE_DIR / CACHE_FILE_NAME
 
     def __init__(self):
         self.date = datetime.now()
@@ -275,30 +280,85 @@ class CoordinateCacheManager:
             )
             raise
 
+        self.cache: list[CoordinateEntry] = list()
         self.load_cache()
         self.clean()
 
+    @staticmethod
+    def _entry_to_data(entry: CoordinateEntry) -> dict:
+        return {
+            "poi": {
+                "country": entry.poi.country,
+                "state": entry.poi.state,
+                "city": entry.poi.city,
+                "institution": entry.poi.institution,
+            },
+            "coordinate": {
+                "latitude": entry.coordinate.latitude,
+                "longitude": entry.coordinate.longitude,
+            },
+            "timestamp": entry.timestamp.isoformat(),
+        }
+
+    @staticmethod
+    def _data_to_entry(data: dict) -> CoordinateEntry | None:
+        try:
+            poi_data = data.get("poi", {})
+            coord_data = data.get("coordinate", {})
+            timestamp_raw = data.get("timestamp")
+            if timestamp_raw is None:
+                return None
+
+            timestamp = datetime.fromisoformat(timestamp_raw)
+            poi = NewsPOI(
+                country=poi_data.get("country"),
+                state=poi_data.get("state"),
+                city=poi_data.get("city"),
+                institution=poi_data.get("institution"),
+            )
+            coordinate = NewsCoordinate(
+                latitude=coord_data.get("latitude"),
+                longitude=coord_data.get("longitude"),
+            )
+            return CoordinateEntry(poi, coordinate, timestamp)
+        except Exception as e:
+            logger.debug(f"Skipping invalid cache entry: {data} ({e})")
+            return None
+
     def load_cache(self) -> None:
-        if os.path.exists(self.CACHE_FILE_PATH):
-            try:
-                with open(self.CACHE_FILE_PATH, "rb") as f:
-                    self.cache = pickle.load(f)
-                    logger.info(
-                        f"Loaded coordinate cache with {len(self.cache)} entries")
-            except Exception as e:
-                logger.error(
-                    f"Error loading coordinate cache: {e}", exc_info=True)
-                self.cache = list()
-        else:
+        if not self.CACHE_FILE_PATH.exists():
+            return
+
+        try:
+            with open(self.CACHE_FILE_PATH, "rb") as f:
+                packed_cache = msgpack.unpack(f, raw=False)
+
+            if not isinstance(packed_cache, list):
+                raise ValueError("Invalid cache format: expected list")
+
+            for item in packed_cache:
+                entry = self._data_to_entry(
+                    item if isinstance(item, dict) else {})
+                if entry:
+                    self.cache.append(entry)
+
+            logger.info(
+                f"Loaded coordinate cache with {len(self.cache)} entries from {self.CACHE_FILE_PATH}"
+            )
+        except Exception as e:
+            logger.error(
+                f"Error loading coordinate cache: {e}", exc_info=True
+            )
             self.cache = list()
 
     def save_cache(self) -> None:
         try:
+            data = [self._entry_to_data(entry) for entry in self.cache]
             with open(self.CACHE_FILE_PATH, "wb") as f:
-                pickle.dump(self.cache, f, protocol=4)
-                logger.info(
-                    f"Saved coordinate cache with {len(self.cache)} entries to {self.CACHE_FILE_PATH}"
-                )
+                msgpack.pack(data, f, use_bin_type=True)
+            logger.info(
+                f"Saved coordinate cache with {len(self.cache)} entries to {self.CACHE_FILE_PATH}"
+            )
         except Exception as e:
             logger.error(
                 f"Error saving coordinate cache to {self.CACHE_FILE_PATH}: {e}", exc_info=True
@@ -325,17 +385,26 @@ class CoordinateCacheManager:
         else:
             logger.info("No expired entries found in coordinate cache")
 
-    def insert_entry(self, entry: CoordinateEntry) -> None:
+    def insert_entry(self, entry: CoordinateEntry, force_refresh: bool) -> None:
         if not entry:
             logger.warning(
                 f"Attempted to insert invalid coordinate entry for POI {str(entry.poi)}, skipping"
             )
             return
         if entry in self.cache:
-            logger.debug(
-                f"Coordinate entry for POI {str(entry)} already exists in cache, skipping insert"
-            )
-            return
+            if not force_refresh:
+                logger.debug(
+                    f"Coordinate entry for POI {str(entry)} already exists in cache, skipping insert"
+                )
+                return
+            else:
+                logger.debug(
+                    f"Force refreshing coordinate entry for POI {str(entry)}, removing old entry"
+                )
+                self.cache = [e for e in self.cache if e != entry]
+                self.cache.append(entry)
+                self.save_cache()
+
         self.cache.append(entry)
         logger.debug(
             f"Inserted new coordinate entry for POI {str(entry)} into cache"

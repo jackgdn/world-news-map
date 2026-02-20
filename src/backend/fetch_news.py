@@ -6,8 +6,12 @@ import requests
 from fake_useragent import UserAgent
 from lxml import html
 
-import config
-from utils import NewsItem, NewsLink, NewsStatus, json_manager, logger
+try:
+    from . import config
+    from .utils import NewsItem, NewsLink, NewsStatus, json_manager, logger
+except ImportError:
+    import config
+    from utils import NewsItem, NewsLink, NewsStatus, json_manager, logger
 
 
 class WikiNewsScraper:
