@@ -16,7 +16,7 @@ except ImportError:
 class WikiNewsScraper:
 
     BASE_URL = "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Portal:Current%20events&prop=text&formatversion=2"
-    HEADERS = {"User-Agent": "WikiNewsScraper"}
+    HEADERS = {"User-Agent": f"WorldNewsMapBot/1.0 ({config.CONTACT_INFO})"}
 
     def __init__(
         self,
@@ -24,22 +24,16 @@ class WikiNewsScraper:
     ):
         self.force_refresh = force_refresh
 
-    def fetch_news(self) -> None:
+    def fetch_news(self) -> bool:
         try:
             response = requests.get(
                 self.BASE_URL, headers=self.HEADERS, timeout=config.REQUEST_TIMEOUT
-            )
-            logger.debug(
-                "Wikipedia response status_code={} retry-after={} via={}".format(
-                    response.status_code,
-                    response.headers.get("Retry-After"),
-                    response.headers.get("Via"),
-                )
             )
             response.raise_for_status()
             logger.info("Successfully fetched news.")
             self.tree = html.fromstring(response.json().get(
                 "parse", {}).get("text", "").encode("utf-8"))
+            return True
 
         except requests.exceptions.Timeout:
             logger.error("Request timeout while fetching news.")
@@ -50,6 +44,8 @@ class WikiNewsScraper:
         except Exception as e:
             logger.error(
                 f"Unexpected error while fetching news: {e}", exc_info=True)
+        finally:
+            return False
 
     def parse_news(self, date: str) -> None:
         event_blocks = self.tree.xpath(
@@ -153,6 +149,10 @@ class WikiNewsScraper:
 def refresh_weekly_news():
     scraper = WikiNewsScraper(force_refresh=False)
     scraper.fetch_news()
+    if not scraper.fetch_news():
+        logger.error("Fetch failed; aborting to avoid parsing without tree.")
+        return
+
     date = None
     try:
         for date_offset in range(7):

@@ -5,7 +5,6 @@ from datetime import datetime, timedelta
 from urllib.parse import urlencode
 
 import requests
-from fake_useragent import UserAgent
 
 try:
     from . import config
@@ -20,7 +19,7 @@ except ImportError:
 class CoordinateCoder:
 
     BASE_URL = "https://nominatim.openstreetmap.org/search?"
-    HEADERS = {"User-Agent": UserAgent().random}
+    HEADERS = {"User-Agent": f"WorldNewsMapBot/1.0 ({config.CONTACT_INFO})"}
     REQUEST_PARAMS = {"dedupe": 1, "format": "jsonv2", "limit": 3}
     IGNORED_POSITIONS = {"outer space", "cyberspace"}
     PARAM_FALLBACK = (

@@ -2,6 +2,7 @@
 request_interval: 1
 request_timeout: 10
 max_retries: 3
+contact_info: "" # Required for request headers
 
 # Language model API configuration
 language_model_base_url: "" # Required

@@ -20,6 +20,7 @@ except Exception as e:
 REQUEST_INTERVAL = int(config.get("request_interval", 1))
 REQUEST_TIMEOUT = int(config.get("request_timeout", 10))
 MAX_RETRIES = int(config.get("max_retries", 3))
+CONTACT_INFO = config.get("contact_info", "")
 
 
 # Language model API configuration
