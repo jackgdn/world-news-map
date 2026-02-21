@@ -3,7 +3,6 @@ import time
 from datetime import datetime, timedelta
 
 import requests
-from fake_useragent import UserAgent
 from lxml import html
 
 try:
@@ -17,24 +16,29 @@ except ImportError:
 class WikiNewsScraper:
 
     BASE_URL = "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Portal:Current%20events&prop=text&formatversion=2"
-    HEADERS = {"User-Agent": UserAgent().random}
+    HEADERS = {"User-Agent": "WikiNewsScraper"}
 
     def __init__(
         self,
-        date: str = datetime.now().strftime("%Y-%m-%d"),
         force_refresh: bool = False,
     ):
         self.force_refresh = force_refresh
-        self.date = date
 
     def fetch_news(self) -> None:
         try:
             response = requests.get(
                 self.BASE_URL, headers=self.HEADERS, timeout=config.REQUEST_TIMEOUT
             )
+            logger.debug(
+                "Wikipedia response status_code={} retry-after={} via={}".format(
+                    response.status_code,
+                    response.headers.get("Retry-After"),
+                    response.headers.get("Via"),
+                )
+            )
             response.raise_for_status()
-            logger.info(f"Successfully fetched news for {self.date}.")
-            self.parse_news(response.json().get(
+            logger.info("Successfully fetched news.")
+            self.tree = html.fromstring(response.json().get(
                 "parse", {}).get("text", "").encode("utf-8"))
 
         except requests.exceptions.Timeout:
@@ -47,9 +51,8 @@ class WikiNewsScraper:
             logger.error(
                 f"Unexpected error while fetching news: {e}", exc_info=True)
 
-    def parse_news(self, html_content: bytes) -> None:
-        tree = html.fromstring(html_content)
-        event_blocks = tree.xpath(
+    def parse_news(self, date: str) -> None:
+        event_blocks = self.tree.xpath(
             '//div[@class="p-current-events-events"]//div[@class="current-events-main vevent"]'
         )
 
@@ -58,7 +61,7 @@ class WikiNewsScraper:
                 date_text = event_block.xpath(
                     './/span[@class="bday dtstart published updated itvstart"]/text()'
                 )[0]
-                if date_text != self.date:
+                if date_text != date:
                     continue
                 item_elements = event_block.xpath(
                     './/div[@class="current-events-content description"]//li[not(.//li)]'
@@ -98,7 +101,7 @@ class WikiNewsScraper:
                 continue
 
         logger.info(
-            f"Parsed {len(self.news_list)} news items for date: {self.date}.")
+            f"Parsed {len(self.news_list)} news items for date: {date}.")
 
     def extract_data(
         self, item_element: html.HtmlElement
@@ -120,42 +123,42 @@ class WikiNewsScraper:
         description = full_text[:-total_link_chars].strip()
         return description, copy.deepcopy(links)
 
-    def get_news_list(self) -> None:
+    def get_news_list(self, date: str) -> None:
         if not self.force_refresh:
             logger.info(
-                f"Attempting to read existing news items for {self.date}.")
+                f"Attempting to read existing news items for {date}.")
             self.news_list = copy.deepcopy(
-                json_manager.read_news_items(self.date))
+                json_manager.read_news_items(date))
             if self.news_list:
                 logger.info(
-                    f"Found {len(self.news_list)} existing news items for {self.date}."
+                    f"Found {len(self.news_list)} existing news items for {date}."
                 )
         else:
             logger.info(
-                f"Force refresh enabled, ignoring existing news items for {self.date}."
+                f"Force refresh enabled, ignoring existing news items for {date}."
             )
             self.news_list = list()
 
-    def save_json(self) -> None:
-        json_manager.write_news_items(self.news_list, self.date)
+    def save_json(self, date: str) -> None:
+        json_manager.write_news_items(self.news_list, date)
 
-    def work(self) -> None:
-        logger.info(f"Starting news fetch for date: {self.date}")
-        self.get_news_list()
-        self.fetch_news()
-        self.save_json()
-        logger.info(f"Completed news fetch and save for date: {self.date}")
+    def work(self, date: str) -> None:
+        logger.info(f"Starting news fetch for date: {date}")
+        self.get_news_list(date)
+        self.parse_news(date)
+        self.save_json(date)
+        logger.info(f"Completed news fetch and save for date: {date}")
 
 
 def refresh_weekly_news():
-    scraper = None
+    scraper = WikiNewsScraper(force_refresh=False)
+    scraper.fetch_news()
     date = None
     try:
         for date_offset in range(7):
             date = (datetime.now() - timedelta(days=date_offset)
                     ).strftime("%Y-%m-%d")
-            scraper = WikiNewsScraper(date=date, force_refresh=False)
-            scraper.work()
+            scraper.work(date)
             logger.info(
                 f"Waiting {config.REQUEST_INTERVAL} seconds before processing next date..."
             )
@@ -164,15 +167,13 @@ def refresh_weekly_news():
         logger.warning(
             f"Process interrupted by user while processing date {date}, stopping gracefully..."
         )
-        if scraper is not None:
-            scraper.save_json()
+        if date is not None:
+            scraper.save_json(date)
         raise
     except Exception as e:
         logger.error(f"Error processing date {date}: {e}", exc_info=True)
-        if scraper is not None:
-            scraper.save_json()
-    finally:
-        scraper = None
+        if date is not None:
+            scraper.save_json(date)
 
 
 if __name__ == "__main__":
