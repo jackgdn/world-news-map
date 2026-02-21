@@ -16,7 +16,7 @@ except ImportError:
 
 class WikiNewsScraper:
 
-    BASE_URL = "https://en.wikipedia.org/wiki/Portal:Current_events"
+    BASE_URL = "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Portal:Current%20events&prop=text&formatversion=2"
     HEADERS = {"User-Agent": UserAgent().random}
 
     def __init__(
@@ -34,7 +34,8 @@ class WikiNewsScraper:
             )
             response.raise_for_status()
             logger.info(f"Successfully fetched news for {self.date}.")
-            self.parse_news(response.content)
+            self.parse_news(response.json().get(
+                "parse", {}).get("text", "").encode("utf-8"))
 
         except requests.exceptions.Timeout:
             logger.error("Request timeout while fetching news.")
