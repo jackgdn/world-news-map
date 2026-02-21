@@ -3,6 +3,7 @@ import json
 import re
 import time
 from datetime import datetime, timedelta
+from pathlib import Path
 
 from openai import OpenAI
 
@@ -16,7 +17,7 @@ except ImportError:
 
 class AIChatter:
 
-    PROMPT_FILE_NAME = "prompt.txt"
+    PROMPT_FILE = Path(__file__).parent.parent.parent / "prompt.txt"
 
     def __init__(
         self,
@@ -30,11 +31,11 @@ class AIChatter:
         )
 
         try:
-            with open(self.PROMPT_FILE_NAME, "r") as f:
+            with open(self.PROMPT_FILE, "r") as f:
                 self.prompt = f.read()
         except Exception as e:
             logger.error(
-                f"Error reading prompt from {self.PROMPT_FILE_NAME}: {e}", exc_info=True
+                f"Error reading prompt from {self.PROMPT_FILE}: {e}", exc_info=True
             )
             raise e
 
