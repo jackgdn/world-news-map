@@ -93,7 +93,7 @@ class CoordinateCoder:
         cache_manager.insert_entry(entry, self.force_refresh)
 
     def query_cache(self, poi: NewsPOI) -> NewsCoordinate | None:
-        if not self.force_refresh:
+        if not self.force_refresh and poi:
             cached_coordinate = cache_manager.select_coordinate(poi)
             if cached_coordinate:
                 return cached_coordinate

@@ -49,8 +49,8 @@
 
         #sidebar {
             position: absolute;
-            top: 12px;
-            bottom: 12px;
+            top: 10px;
+            bottom: 46px;
             width: var(--sidebar-width);
             overflow-y: auto;
             background: var(--sidebar-bg);
@@ -62,7 +62,7 @@
         }
 
         #sidebar {
-            right: var(--toggle-width);
+            right: calc(var(--toggle-width) + 20px);
         }
 
         #sidebar.collapsed {
@@ -73,17 +73,18 @@
 
         .sidebar-toggle {
             position: absolute;
-            top: 12px;
-            width: var(--toggle-width);
-            height: 40px;
+            top: 10px;
+            width: 38px;
+            height: 38px;
             display: flex;
             align-items: center;
             justify-content: center;
             cursor: pointer;
             user-select: none;
-            font-size: 16px;
+            font-size: 14px;
             background: #f0f0f0;
             border: 1px solid #e5e5e5;
+            border-radius: 50%;
             box-shadow: var(--shadow);
             transition: background 0.2s ease;
             pointer-events: auto;
@@ -191,19 +192,22 @@
             <div class="sidebar-toggle" id="toggle-btn">«</div>
             <div id="sidebar">
                 <div class="tabs">
-                    <button class="tab-btn active" data-tab="other">Other News</button>
-                    <button class="tab-btn" data-tab="all">News List</button>
+                    <button class="tab-btn" data-tab="other">Other News</button>
+                    <button class="tab-btn active" data-tab="all">News List</button>
                 </div>
-                <div class="tab-panel active" id="tab-other"></div>
-                <div class="tab-panel" id="tab-all"></div>
+                <div class="tab-panel" id="tab-other"></div>
+                <div class="tab-panel active" id="tab-all"></div>
             </div>
         </div>
     </div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
         const map = L.map('map').setView([0, 0], 2);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        L.tileLayer('	https://tile.osm.ch/switzerland/{z}/{x}/{y}.png', {
             maxZoom: 19,
+            attribution: '<a href="https://www.openstreetmap.org/fixthemap" target="_blank" rel="noopener noreferrer">Report a map issue</a> | ' +
+                '© OpenStreetMap contributors, ASTER GDEM, EarthEnv-DEM90, CDEM contains information under OGL Canada',
+            referrerPolicy: 'origin'
         }).addTo(map);
 
         const markersLayer = L.layerGroup().addTo(map);

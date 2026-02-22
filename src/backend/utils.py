@@ -412,6 +412,8 @@ class CoordinateCacheManager:
         self.save_cache()
 
     def select_coordinate(self, poi: NewsPOI) -> NewsCoordinate | None:
+        if not poi:
+            return None
         for entry in self.cache:
             if entry.poi == poi:
                 logger.debug(
