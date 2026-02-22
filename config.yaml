@@ -2,18 +2,15 @@
 request_interval: 1
 request_timeout: 10
 max_retries: 3
-contact_info: "" # Required for request headers
+contact_info: "https://github.com/jackgdn" # Required for request headers
 
 # Language model API configuration
-language_model_base_url: "" # Required
-language_model_name: "" # Required
-language_model_api_key: "" # Required
 # Add any extra parameters required by your language model API. e.g. {"enable_enhancement": True}
 # If you don't have any extra parameters, you can leave this as an empty dictionary.
 language_model_extra_params: {}
 
 # Logging configuration
-log_level: "info" # Options: "debug", "info", "warning", "error", "critical"
+log_level: "debug" # Options: "debug", "info", "warning", "error", "critical"
 log_description_max_length: 15
 
 # Cache configuration
@@ -25,5 +22,5 @@ update_interval_hours: 12 # set to 0 to disable automatic updates
 
 # Frontend configuration
 # Set to 0.0.0.0 to allow access from any IP address, or set to "localhost" to restrict access to the local machine.
-http_server_host: "localhost"
-http_server_port: 8080
+http_server_host: "0.0.0.0"
+http_server_port: 80

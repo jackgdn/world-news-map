@@ -3,4 +3,3 @@ msgpack
 openai
 pyyaml
 requests
-schedule

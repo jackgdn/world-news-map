@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 import yaml
@@ -20,13 +21,13 @@ except Exception as e:
 REQUEST_INTERVAL = int(config.get("request_interval", 1))
 REQUEST_TIMEOUT = int(config.get("request_timeout", 10))
 MAX_RETRIES = int(config.get("max_retries", 3))
-CONTACT_INFO = config.get("contact_info", "")
+CONTACT_INFO = os.getenv("CONTACT_INFO")
 
 
 # Language model API configuration
-LANGUAGE_MODEL_BASE_URL = config.get("language_model_base_url")
-LANGUAGE_MODEL_NAME = config.get("language_model_name")
-LANGUAGE_MODEL_API_KEY = config.get("language_model_api_key")
+LANGUAGE_MODEL_BASE_URL = os.getenv("LANGUAGE_MODEL_BASE_URL")
+LANGUAGE_MODEL_NAME = os.getenv("LANGUAGE_MODEL_NAME")
+LANGUAGE_MODEL_API_KEY = os.getenv("LANGUAGE_MODEL_API_KEY")
 LANGUAGE_MODEL_EXTRA_PARAMS = config.get("language_model_extra_params", dict())
 
 
