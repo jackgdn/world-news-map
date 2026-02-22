@@ -1,8 +1,3 @@
-import time
-
-import schedule
-
-
 try:
     from . import config
     from .fetch_coord import refresh_weekly_coordinates
@@ -31,24 +26,6 @@ def refresh_all_data() -> None:
         raise
 
 
-def run_backend() -> None:
-    refresh_all_data()
-    update_interval = config.UPDATE_INTERVAL_HOURS
-    schedule.every(update_interval).hours.do(refresh_all_data)
-
-    try:
-        while True:
-            schedule.run_pending()
-            time.sleep(1)
-    except KeyboardInterrupt:
-        logger.warning("Interrupted by user, stopping backend gracefully...")
-    except Exception as e:
-        logger.error(f"Unexpected error in backend: {e}", exc_info=True)
-        raise
-    finally:
-        logger.info("Backend stopped, clearing scheduled tasks...")
-        schedule.clear()
-
 
 if __name__ == "__main__":
-    run_backend()
+    refresh_all_data()
