@@ -2,7 +2,6 @@
 request_interval: 1
 request_timeout: 10
 max_retries: 3
-contact_info: "https://github.com/jackgdn" # Required for request headers
 
 # Language model API configuration
 # Add any extra parameters required by your language model API. e.g. {"enable_enhancement": True}
