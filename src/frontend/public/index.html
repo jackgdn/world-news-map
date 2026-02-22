@@ -52,7 +52,8 @@
             top: 10px;
             bottom: 46px;
             width: var(--sidebar-width);
-            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
             background: var(--sidebar-bg);
             padding: 12px;
             transition: transform 0.3s ease, opacity 0.3s ease;
@@ -130,6 +131,23 @@
             display: block;
         }
 
+        .sidebar-body {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .sidebar-footer {
+            margin-top: 10px;
+            font-size: 12px;
+            color: #555;
+            background: rgba(255, 255, 255, 0.9);
+            border: 1px solid #e5e5e5;
+            border-radius: 6px;
+            padding: 8px 10px;
+            line-height: 1.4;
+            box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04);
+        }
+
         .sidebar-header {
             font-weight: 600;
             font-size: 14px;
@@ -191,19 +209,28 @@
         <div class="overlay-container">
             <div class="sidebar-toggle" id="toggle-btn">«</div>
             <div id="sidebar">
-                <div class="tabs">
-                    <button class="tab-btn" data-tab="other">Other News</button>
-                    <button class="tab-btn active" data-tab="all">News List</button>
+                <div class="sidebar-body">
+                    <div class="tabs">
+                        <button class="tab-btn" data-tab="other">Other News</button>
+                        <button class="tab-btn active" data-tab="all">News List</button>
+                    </div>
+                    <div class="tab-panel" id="tab-other"></div>
+                    <div class="tab-panel active" id="tab-all"></div>
                 </div>
-                <div class="tab-panel" id="tab-other"></div>
-                <div class="tab-panel active" id="tab-all"></div>
+                <div class="sidebar-footer">
+                    Content partially sourced from Wikipedia “Portal: Current events”
+                    (<a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" rel="noopener noreferrer">link</a>),
+                    authors: Wikipedia contributors, licensed under
+                    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>.
+                    Adaptations (if any) have been made.
+                </div>
             </div>
         </div>
     </div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
         const map = L.map('map').setView([0, 0], 2);
-        L.tileLayer('	https://tile.osm.ch/switzerland/{z}/{x}/{y}.png', {
+        L.tileLayer('https://tile.osm.ch/switzerland/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '<a href="https://www.openstreetmap.org/fixthemap" target="_blank" rel="noopener noreferrer">Report a map issue</a> | ' +
                 '© OpenStreetMap contributors, ASTER GDEM, EarthEnv-DEM90, CDEM contains information under OGL Canada',
@@ -298,7 +325,8 @@
         }
 
         function buildPopupHtml(itemsAtPoint) {
-            const lines = itemsAtPoint.map((it) => {
+            const sorted = [...itemsAtPoint].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+            const lines = sorted.map((it) => {
                 const linksHtml = buildLinksHtml(it.links);
                 const time = it.date || '';
                 return `<div style="margin-bottom:10px;">
@@ -307,7 +335,7 @@
                     <div class="news-links">${linksHtml}</div>
                 </div>`;
             }).join('');
-            return `<div style="max-width:300px;">${lines}</div>`;
+            return `<div style="max-width:320px; max-height:260px; overflow-y:auto; padding-right:4px;">${lines}</div>`;
         }
 
         function focusOnMarker(item) {
