@@ -132,8 +132,8 @@ class NewsItem:
 
 class JSONManager:
 
-    NEWS_FILE_DIR = Path(__file__).parent.parent / \
-        "frontend" / "public" / "news"
+    NEWS_FILE_DIR = Path(__file__).parent.parent.parent / \
+        "public" / "news"
 
     def __init__(self):
         try:

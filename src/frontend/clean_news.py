@@ -29,7 +29,7 @@ def clean_news(news_dir: Path, days: int = 15) -> int:
 
 
 def main():
-    base = Path(__file__).parent
+    base = Path(__file__).parent.parent.parent
     news_dir = base / "public" / "news"
     removed_count = clean_news(news_dir, days=15)
     print(f"Removed {removed_count} files from {news_dir}")

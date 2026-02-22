@@ -38,6 +38,13 @@ jobs:
                   python -m pip install --upgrade pip
                   if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+            - name: Restore news and cache from gh-pages
+              run: |
+                  git fetch origin gh-pages || true
+                  if git rev-parse --verify origin/gh-pages >/dev/null 2>&1; then
+                    git checkout origin/gh-pages -- news cache 2>/dev/null || true
+                  fi
+
             - name: Clean news
               run: python3 src/frontend/clean_news.py
 
@@ -57,3 +64,16 @@ jobs:
                   git add -A
                   git diff --staged --quiet || git commit -m "Update news"
                   git push
+
+            - name: Deploy to gh-pages
+              run: |
+                  mkdir -p /tmp/public-deploy
+                  cp -r public/* /tmp/public-deploy/
+                  cp -r cache /tmp/public-deploy/ 2>/dev/null || true
+                  git checkout --orphan temp-gh-pages
+                  git rm -rf .
+                  git clean -fd
+                  cp -r /tmp/public-deploy/* .
+                  git add -A
+                  git commit -m "Deploy public to gh-pages"
+                  git push -f origin temp-gh-pages:gh-pages
