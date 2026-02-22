@@ -23,10 +23,14 @@ jobs:
                   LANGUAGE_MODEL_API_KEY: ${{ secrets.LANGUAGE_MODEL_API_KEY }}
               run: |
                   echo "CONTACT_INFO length: ${#CONTACT_INFO}"
+                  echo "LANGUAGE_MODEL_BASE_URL length: ${#LANGUAGE_MODEL_BASE_URL}"
+                  echo "LANGUAGE_MODEL_NAME length: ${#LANGUAGE_MODEL_NAME}"
+                  echo "LANGUAGE_MODEL_API_KEY length: ${#LANGUAGE_MODEL_API_KEY}"
                   [ -z "$CONTACT_INFO" ] && echo "Missing CONTACT_INFO" && exit 1
                   [ -z "$LANGUAGE_MODEL_BASE_URL" ] && echo "Missing LANGUAGE_MODEL_BASE_URL" && exit 1
                   [ -z "$LANGUAGE_MODEL_NAME" ] && echo "Missing LANGUAGE_MODEL_NAME" && exit 1
                   [ -z "$LANGUAGE_MODEL_API_KEY" ] && echo "Missing LANGUAGE_MODEL_API_KEY" && exit 1
+                  echo "All secrets validated"
 
             - name: Set up Python
               uses: actions/setup-python@v5
