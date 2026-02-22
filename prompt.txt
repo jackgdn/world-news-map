@@ -28,10 +28,11 @@ Requirements:
    - Normal land:
      country → State/Region/Province → City → Specific Institution
    - Sea / Ocean / Marginal sea / Lake / Strait:
-     country = Sea/Ocean/Lake/Strait name
+     country = EXACT name of the Sea/Ocean/Strait/Bay/Gulf (e.g. Strait of Hormuz, Caribbean Sea, Lake Baikal)
      state = null
      city = null
      institution = null
+     DO NOT use the country name (e.g. Iran, Russia, USA) for country field — ONLY use the water body name.
    - Space / Outer space / LEO / GEO / Moon / Mars / Any spacecraft:
      country = "Outer Space"
      state = null
@@ -60,10 +61,15 @@ Requirements:
 7. CRITICAL RULE FOR INSTITUTIONS:
    - Use the ACTUAL PHYSICAL LOCATION of the institution related to the event.
    - DO NOT use news agencies, media, or publishers.
+   - DO NOT put geographic locations (sea, ocean, strait, lake, city, state) into the institution field — institution is ONLY for man-made organizations.
 
 8. CRITICAL FOR NULL VALUES:
    - If a field is unknown or not applicable, use JSON null (lowercase, no quotes).
    - DO NOT use "null", "None", "NULL", or any string variant.
+   - DO NOT use generic, vague, or common place types as institution.
+     Examples that MUST be null:
+     shop, store, factory, industrial unit, building, facility, premise, warehouse, garage, workshop, park.
+   - Only use institution for SPECIFIC, NAMED, or UNIQUE establishments (e.g., specific company, hospital, school, airport, stadium, base).
 
 Output format (strictly follow):
 {{

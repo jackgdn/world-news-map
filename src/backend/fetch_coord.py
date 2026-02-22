@@ -20,11 +20,10 @@ class CoordinateCoder:
 
     BASE_URL = "https://nominatim.openstreetmap.org/search?"
     HEADERS = {"User-Agent": f"WorldNewsMapBot/1.0 ({config.CONTACT_INFO})"}
-    REQUEST_PARAMS = {"dedupe": 1, "format": "jsonv2", "limit": 3}
+    REQUEST_PARAMS = {"dedupe": 1, "format": "jsonv2"}
     IGNORED_POSITIONS = {"outer space", "cyberspace"}
     PARAM_FALLBACK = (
         ("country", "state", "city", "amenity"),
-        ("amenity",),
         ("country", "state", "city"),
         ("city",),
         ("country", "state"),
@@ -140,7 +139,7 @@ class CoordinateCoder:
                 structed_response.raise_for_status()
                 structed_data = structed_response.json()
                 if (len(structed_data) == 1 or len({item.get("importance") for item in structed_data}) == 1
-                        or {item.get("osm_type") for item in structed_data} == {"relation", "node"}):
+                        or (len(structed_data) == 2 and {item.get("osm_type") for item in structed_data} == {"relation", "node"})):
                     current_coordinate = NewsCoordinate(
                         latitude=float(structed_data[0].get("lat", -1)),
                         longitude=float(structed_data[0].get("lon", -1)),
@@ -169,7 +168,7 @@ class CoordinateCoder:
                 free_form_response.raise_for_status()
                 free_form_data = free_form_response.json()
                 if (len(free_form_data) == 1 or len({item.get("importance") for item in free_form_data}) == 1
-                        or {item.get("osm_type") for item in free_form_data} == {"relation", "node"}):
+                        or (len(free_form_data) == 2 and {item.get("osm_type") for item in free_form_data} == {"relation", "node"})):
                     current_coordinate = NewsCoordinate(
                         latitude=float(free_form_data[0].get("lat", -1)),
                         longitude=float(free_form_data[0].get("lon", -1)),
