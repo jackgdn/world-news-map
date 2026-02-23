@@ -1,0 +1,254 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "At least 90 people are killed and dozens of others are injured in drone strikes on two crowded markets in North Kordofan, Sudan.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/africa/death-toll-rises-to-59-in-drone-strikes-on-market-displacement-shelter-in-sudan-s-kordofan/3834513"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "North Kordofan",
+            "city": "Two crowded markets",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 15.0,
+            "longitude": 29.9999999
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-02-16",
+        "description": "Eleven people are killed after U.S. forces launch strikes on three alleged drug smuggling boats in the eastern Pacific Ocean and the Caribbean Sea.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/11-dead-after-us-forces-strike-alleged-drug-boats-in-the-pacific-and-caribbean-13508658"
+            }
+        ],
+        "poi": {
+            "country": "Caribbean Sea or Eastern Pacific Ocean",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Two people are killed, including a child, and 12 others are injured in a motorcycle bombing near a police station in Bannu District, Khyber Pakhtunkhwa, Pakistan.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/child-among-two-killed-in-pakistan-motorcycle-bomb-blast-13508176?dcmp=snt-sf-twitter"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Khyber Pakhtunkhwa",
+            "city": "Bannu District",
+            "institution": "Police Station"
+        },
+        "coordinate": {
+            "latitude": 32.985222,
+            "longitude": 70.5976315
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Twenty-four people are killed, including 12 attackers and a child, and seven civilians are injured in an attack on a security post in Bajaur District, Khyber Pakhtunkhwa, Pakistan.",
+        "links": [
+            {
+                "source": "(AP via CTV News)",
+                "url": "https://www.ctvnews.ca/world/article/suicide-bomber-and-gunmen-kill-11-soldiers-and-a-child-in-northwestern-pakistan/"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Khyber Pakhtunkhwa",
+            "city": "Bajaur District",
+            "institution": "Security Post"
+        },
+        "coordinate": {
+            "latitude": 34.7763887,
+            "longitude": 71.5144196
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Colombia's search unit for missing persons identifies and returns the remains of Camilo Torres Restrepo, a Catholic priest and leader of the National Liberation Army who was killed in combat in 1966.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/colombia-identifies-remains-rebel-group-priest-killed-1966-2026-02-16/"
+            }
+        ],
+        "poi": {
+            "country": "Colombia",
+            "state": null,
+            "city": null,
+            "institution": "National Liberation Army"
+        },
+        "coordinate": {
+            "latitude": 4.099917,
+            "longitude": -72.9088133
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-02-16",
+        "description": "A Pikachu Illustrator Card, a Pokémon trading card, sells at auction by Logan Paul for US$16,492,000, breaking the record for the most expensive collectible card ever sold.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cp32jgkqx0lo"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Seven people are killed, 10 others are trapped and some escape in a fire at a chemical factory in Bhiwadi, Rajasthan, India.",
+        "links": [
+            {
+                "source": "(NDTV)",
+                "url": "https://www.ndtv.com/india-news/rajasthan-bhiwadi-chemical-factory-fire-7-workers-dead-10-feared-trapped-11009461"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Rajasthan",
+            "city": "Bhiwadi",
+            "institution": "Chemical Factory"
+        },
+        "coordinate": {
+            "latitude": 28.2039413,
+            "longitude": 76.837441
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Six people are killed and 46 others are injured when a bus overturns on the BR-153 highway near Marília, São Paulo, Brazil.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/16/six-killed-46-injured-in-brazil-highway-bus-crash-tragedy"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "Marília",
+            "institution": "BR-153 highway"
+        },
+        "coordinate": {
+            "latitude": -22.0702705,
+            "longitude": -48.4333875
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Five people are killed and five others are injured in a fire at a five-story apartment building in Manlleu, Catalonia, Spain.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/five-dead-after-fire-at-apartment-building-in-spain-13507943"
+            }
+        ],
+        "poi": {
+            "country": "Spain",
+            "state": "Catalonia",
+            "city": "Manlleu",
+            "institution": "apartment building"
+        },
+        "coordinate": {
+            "latitude": 41.9999811,
+            "longitude": 2.2841159
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Four people are killed and 37 others are injured in a fire at an industrial unit in Faridabad, Haryana, India.",
+        "links": [
+            {
+                "source": "(Hindustan Times)",
+                "url": "https://www.hindustantimes.com/cities/gurugram-news/fbad-fire-death-toll-rises-to-4-as-police-officer-succumbs-to-injuries-101771696275457.html"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Haryana",
+            "city": "Faridabad",
+            "institution": "Industrial Unit"
+        },
+        "coordinate": {
+            "latitude": 28.4031478,
+            "longitude": 77.3105561
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Five people are injured when a passenger train derails near Goppenstein, Ferden, Valais, Switzerland.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cvg39g3xp1wo"
+            }
+        ],
+        "poi": {
+            "country": "Switzerland",
+            "state": "Valais",
+            "city": "Goppenstein",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 46.3681412,
+            "longitude": 7.7544299
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-16",
+        "description": "Three people, including the suspect, are killed, and three others are injured in a mass shooting at an indoor ice rink in Pawtucket, Rhode Island, United States.",
+        "links": [
+            {
+                "source": "(WPRI-TV)",
+                "url": "https://www.wpri.com/news/local-news/blackstone-valley/multiple-people-shot-at-pawtucket-ice-skating-rink/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Rhode Island",
+            "city": "Pawtucket",
+            "institution": "Indoor Ice Rink"
+        },
+        "coordinate": {
+            "latitude": 41.8789531,
+            "longitude": -71.3821203
+        }
+    }
+]
