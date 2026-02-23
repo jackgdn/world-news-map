@@ -72,6 +72,8 @@ jobs:
 
             - name: Deploy to gh-pages
               run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
                   mkdir -p /tmp/public-deploy
                   cp -r public/* /tmp/public-deploy/
                   cp -r cache /tmp/public-deploy/ 2>/dev/null || true
