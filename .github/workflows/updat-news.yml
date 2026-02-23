@@ -51,8 +51,10 @@ jobs:
                     if [ -d news ]; then
                       cp -r news/* public/news/ 2>/dev/null || true
                       echo "Restored news from gh-pages"
+                      ls -la public/news/
                     fi
                     echo "Restored cache from gh-pages"
+                    ls -la cache/
                   fi
 
             - name: Clean news
