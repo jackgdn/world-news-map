@@ -112,6 +112,16 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
             logger.error(f"Path validation error for {path}: {e}")
             return False
 
+    def send_head(self):
+        """
+        Hard guard: banned IP cannot access any file (including index.html)
+        """
+        client_ip = self.client_address[0]
+        if self.is_ip_banned(client_ip):
+            self.send_error(403, "Forbidden")
+            return None
+        return super().send_head()
+
     def send_response(self, code, message=None):
         """
         Override send_response
