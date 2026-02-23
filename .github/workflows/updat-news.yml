@@ -17,7 +17,7 @@ jobs:
 
             - name: Validate required secrets
               env:
-                  CONTACT_INFO: ${{ secrets.CONTACT_INFO }}
+                  CONTACT_INFO: https://github.com/${{ github.actor }}
                   LANGUAGE_MODEL_BASE_URL: ${{ secrets.LANGUAGE_MODEL_BASE_URL }}
                   LANGUAGE_MODEL_NAME: ${{ secrets.LANGUAGE_MODEL_NAME }}
                   LANGUAGE_MODEL_API_KEY: ${{ secrets.LANGUAGE_MODEL_API_KEY }}
@@ -64,7 +64,7 @@ jobs:
 
             - name: Update News
               env:
-                  CONTACT_INFO: ${{ secrets.CONTACT_INFO }}
+                  CONTACT_INFO: https://github.com/${{ github.actor }}
                   LANGUAGE_MODEL_BASE_URL: ${{ secrets.LANGUAGE_MODEL_BASE_URL }}
                   LANGUAGE_MODEL_NAME: ${{ secrets.LANGUAGE_MODEL_NAME }}
                   LANGUAGE_MODEL_API_KEY: ${{ secrets.LANGUAGE_MODEL_API_KEY }}
