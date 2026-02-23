@@ -27,12 +27,12 @@ except Exception as e:
 class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     HTTP_LOG_FORMAT = "[HTTP] %(remote_addr)s - %(protocol)s %(method)s %(path)s - %(status_code)s %(bytes_sent)s"
+    RELOAD_BLOCKLIST_INTERVAL_SECONDS = config.RELOAD_BLOCKLIST_INTERVAL_SECONDS
 
     # Shared set of IP blocklist
     banned_ips = set()
     banned_ips_lock = threading.Lock()
     banned_ips_file = Path(__file__).parent / "banned_ip.txt"
-    RELOAD_INTERVAL_SECONDS = 1800
 
     # Allowed paths
     ALLOWED_PATHS = [
@@ -95,7 +95,7 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     @classmethod
     def banned_ip_reload_worker(cls, stop_event: threading.Event) -> None:
-        while not stop_event.wait(cls.RELOAD_INTERVAL_SECONDS):
+        while not stop_event.wait(cls.RELOAD_BLOCKLIST_INTERVAL_SECONDS):
             cls.reload_banned_ips()
 
     @classmethod

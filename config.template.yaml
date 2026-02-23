@@ -27,3 +27,8 @@ update_interval_hours: 12 # set to 0 to disable automatic updates
 # Set to 0.0.0.0 to allow access from any IP address, or set to "localhost" to restrict access to the local machine.
 http_server_host: "localhost"
 http_server_port: 8080
+
+# IP blocklist configuration
+# Interval in seconds to reload the IP blocklist from the file.
+# DO NOT set this to 0 or a very low value, as it may cause performance issues.
+reload_blocklist_interval_seconds: 1800
