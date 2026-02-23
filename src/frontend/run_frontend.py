@@ -32,6 +32,7 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
     banned_ips = set()
     banned_ips_lock = threading.Lock()
     banned_ips_file = Path(__file__).parent / "banned_ip.txt"
+    RELOAD_INTERVAL_SECONDS = 1800
 
     # Allowed paths
     ALLOWED_PATHS = [
@@ -46,24 +47,56 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
         super().__init__(*args, directory=self.public_dir, **kwargs)
 
     @classmethod
+    def _read_banned_ips_from_file(cls) -> set:
+        banned_ips = set()
+        if not cls.banned_ips_file.exists():
+            return banned_ips
+
+        with open(cls.banned_ips_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    ip = line.split('|')[0].strip()
+                    if ip:
+                        banned_ips.add(ip)
+        return banned_ips
+
+    @classmethod
     def load_banned_ips(cls) -> None:
         """
         Load banned IPs from file
         """
         try:
-            if cls.banned_ips_file.exists():
-                with open(cls.banned_ips_file, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if line and not line.startswith('#'):
-                            # Extract IPs
-                            ip = line.split('|')[0].strip()
-                            if ip:
-                                cls.banned_ips.add(ip)
+            latest_banned_ips = cls._read_banned_ips_from_file()
+            with cls.banned_ips_lock:
+                cls.banned_ips = latest_banned_ips
                 logger.info(
                     f"Loaded {len(cls.banned_ips)} banned IPs from {cls.banned_ips_file}")
         except Exception as e:
             logger.error(f"Failed to load banned IPs: {e}", exc_info=True)
+
+    @classmethod
+    def reload_banned_ips(cls) -> None:
+        """
+        Reload banned IPs from file during runtime (file is source of truth)
+        """
+        try:
+            latest_banned_ips = cls._read_banned_ips_from_file()
+            with cls.banned_ips_lock:
+                previous_count = len(cls.banned_ips)
+                cls.banned_ips = latest_banned_ips
+                current_count = len(cls.banned_ips)
+
+            if previous_count != current_count:
+                logger.info(
+                    f"Reloaded banned IPs from file: {previous_count} -> {current_count}")
+        except Exception as e:
+            logger.error(f"Failed to reload banned IPs: {e}", exc_info=True)
+
+    @classmethod
+    def banned_ip_reload_worker(cls, stop_event: threading.Event) -> None:
+        while not stop_event.wait(cls.RELOAD_INTERVAL_SECONDS):
+            cls.reload_banned_ips()
 
     @classmethod
     def save_banned_ip(cls, ip: str, reason: str = "") -> None:
@@ -247,9 +280,19 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
 
 def run_frontend() -> None:
     httpd = None
+    reload_stop_event = threading.Event()
+    reload_thread = None
     try:
         # Load banned IPs before starting the server
         WNMHTTPRequestHandler.load_banned_ips()
+
+        reload_thread = threading.Thread(
+            target=WNMHTTPRequestHandler.banned_ip_reload_worker,
+            args=(reload_stop_event,),
+            daemon=True,
+            name="banned-ip-reloader",
+        )
+        reload_thread.start()
 
         server_address = (config.HTTP_SERVER_HOST, config.HTTP_SERVER_PORT)
         httpd = HTTPServer(server_address, WNMHTTPRequestHandler)
@@ -267,6 +310,10 @@ def run_frontend() -> None:
         logger.error(f"Failed to start HTTP server: {e}", exc_info=True)
         raise
     finally:
+        reload_stop_event.set()
+        if reload_thread and reload_thread.is_alive():
+            reload_thread.join(timeout=2)
+
         if httpd:
             httpd.server_close()
             logger.info("HTTP server socket closed successfully")
