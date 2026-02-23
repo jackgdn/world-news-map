@@ -1,5 +1,6 @@
 __pycache__
 .venv
+banned_ips.txt
 cache
 config.yaml
 logs
