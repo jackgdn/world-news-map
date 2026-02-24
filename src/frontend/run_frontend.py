@@ -164,11 +164,13 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
         Override send_response
         """
         client_ip = self.client_address[0]
+        request_path = getattr(self, "path", "<unparsed>")
+        request_line = getattr(self, "requestline", "<unparsed>")
 
         # If the response code indicates an error, consider banning the IP
         if code >= 400 and code != 404:
             logger.warning(
-                f"High error code {code} from {client_ip} for {self.path}")
+                f"High error code {code} from {client_ip} for {request_path} | requestline={request_line}")
             self.ban_ip(client_ip, f"HTTP {code} error")
 
         super().send_response(code, message)
@@ -279,7 +281,26 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
             logger.error(f"Failed to log HTTP request: {e}", exc_info=True)
 
     def log_error(self, format: str, *args) -> None:
-        logger.error(f"HTTP error: {format % args}", exc_info=True)
+        client_ip = self.client_address[0] if getattr(
+            self, "client_address", None) else "-"
+        try:
+            error_text = format % args
+        except Exception:
+            error_text = f"{format} | args={args}"
+
+        raw_line = getattr(self, "raw_requestline", b"")
+        raw_preview = raw_line[:120].decode(
+            "latin1", errors="replace").strip() if raw_line else "<empty>"
+
+        logger.error(
+            f"HTTP error from {client_ip}: {error_text} | raw_requestline={raw_preview}"
+        )
+
+        # Ensure malformed requests are banned even when parsing failed before normal handlers
+        code = args[0] if len(args) >= 1 and isinstance(args[0], int) else None
+        if code is not None and code >= 400 and code != 404:
+            self.ban_ip(
+                client_ip, f"HTTP parse/handler error {code}: {error_text}")
 
 
 def run_frontend() -> None:
