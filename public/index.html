@@ -117,6 +117,14 @@
             transition: all 0.2s ease;
         }
 
+        .header-update {
+            font-size: 11px;
+            color: #777;
+            white-space: nowrap;
+            font-weight: 400;
+            margin-left: 6px;
+        }
+
         .tab-btn.active {
             background: #fff;
             border-color: #c0c0c0;
@@ -219,9 +227,11 @@
                 </div>
                 <div class="sidebar-footer">
                     Content partially sourced from Wikipedia “Portal: Current events”
-                    (<a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" rel="noopener noreferrer">link</a>),
+                    (<a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank"
+                        rel="noopener noreferrer">link</a>),
                     authors: Wikipedia contributors, licensed under
-                    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>.
+                    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"
+                        rel="noopener noreferrer">CC BY-SA 4.0</a>.
                     Adaptations (if any) have been made.
                 </div>
             </div>
@@ -247,6 +257,7 @@
             other: document.getElementById('tab-other'),
             all: document.getElementById('tab-all'),
         };
+        let lastUpdateValue = '--';
         let sidebarCollapsed = false;
 
         toggleBtn.addEventListener('click', () => {
@@ -350,9 +361,43 @@
             }
         }
 
+        function renderTabHeaders() {
+            tabPanels.other.innerHTML = `<div class="sidebar-header">Other News <span class="header-update">Last Update: ${lastUpdateValue}</span></div>`;
+            tabPanels.all.innerHTML = `<div class="sidebar-header">News List <span class="header-update">Last Update: ${lastUpdateValue}</span></div>`;
+        }
+
+        function setLastUpdateText(value) {
+            lastUpdateValue = value || '--';
+            renderTabHeaders();
+        }
+
+        async function fetchLastUpdateFromSecurityTxt() {
+            try {
+                const response = await fetch(`./.well-known/security.txt}`);
+                if (!response.ok) {
+                    setLastUpdateText('');
+                    return;
+                }
+
+                const text = await response.text();
+                const lines = text.split(/\r?\n/);
+                const secondLine = (lines[1] || '').trim();
+                const matched = secondLine.match(/^#\s*Generated on\s+(.+)$/i);
+
+                if (matched && matched[1]) {
+                    setLastUpdateText(matched[1].trim());
+                    return;
+                }
+
+                setLastUpdateText('');
+            } catch (error) {
+                console.error('Failed to fetch last update from security.txt:', error);
+                setLastUpdateText('');
+            }
+        }
+
         async function fetchNews() {
-            tabPanels.other.innerHTML = '<div class="sidebar-header">Other News</div>';
-            tabPanels.all.innerHTML = '<div class="sidebar-header">News List</div>';
+            renderTabHeaders();
             markersLayer.clearLayers();
             markerMap.clear();
 
@@ -360,7 +405,7 @@
             const allItems = [];
 
             await Promise.all(dates.map(async (date) => {
-                const url = `./news/${date}.json?t=${Date.now()}`;
+                const url = `./news/${date}.json`;
                 try {
                     const response = await fetch(url);
                     if (!response.ok) return;
@@ -430,7 +475,10 @@
             }
         }
 
-        fetchNews();
+        (async () => {
+            await fetchLastUpdateFromSecurityTxt();
+            await fetchNews();
+        })();
     </script>
 </body>
 

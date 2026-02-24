@@ -1,6 +1,10 @@
 __pycache__/
 .venv/
+.well-known/
 cache/
+src/frontend/public/
 logs/
 news/
+robots.txt
+sitemap.xml
 public/news/
