@@ -89,6 +89,7 @@ jobs:
                   git clean -fd
                   cp -r /tmp/public-deploy/* .
                   cp -r /tmp/public-deploy/.well-known .
+                  touch .nojekyll
                   git add -A
                   git commit -m "Deploy public to gh-pages"
                   git push -f origin temp-gh-pages:gh-pages
