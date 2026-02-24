@@ -1,5 +1,6 @@
 import os
 import re
+import ssl
 import sys
 import threading
 from datetime import datetime
@@ -153,7 +154,9 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
         """
         Hard guard: banned IP cannot access any file (including index.html)
         """
-        client_ip = self.client_address[0]
+        client_ip = (self.headers.get("X-Real-IP") or
+                     self.headers.get("X-Forwarded-For") or
+                     self.client_address[0])
         if self.is_ip_banned(client_ip):
             self.send_error(403, "Forbidden")
             return None
@@ -321,7 +324,35 @@ def run_frontend() -> None:
 
         server_address = (config.HTTP_SERVER_HOST, config.HTTP_SERVER_PORT)
         httpd = HTTPServer(server_address, WNMHTTPRequestHandler)
-        logger.info(f"Starting HTTP server at {config.BASE_URL}...")
+
+        # Setup HTTPS if certificates are configured
+        cert_path = config.HTTPS_CERTIFICATE_PATH.strip()
+        key_path = config.HTTPS_KEY_PATH.strip()
+        if cert_path and key_path:
+            cert_file = Path(cert_path).expanduser()
+            key_file = Path(key_path).expanduser()
+            if cert_file.exists() and key_file.exists():
+                logger.info(
+                    f"Found certificate files for HTTPS: cert={cert_file}, key={key_file}")
+                try:
+                    ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+                    ctx.load_cert_chain(
+                        certfile=str(cert_file),
+                        keyfile=str(key_file))
+                    httpd.socket = ctx.wrap_socket(
+                        httpd.socket, server_side=True)
+                    logger.info(
+                        f"Starting HTTPS server at {config.BASE_URL}...")
+                except Exception as e:
+                    logger.error(f"Failed to set up HTTPS: {e}", exc_info=True)
+                    logger.info(
+                        f"Starting HTTP server at {config.BASE_URL}... (failed to set up HTTPS)")
+            else:
+                logger.info(
+                    f"Starting HTTP server at {config.BASE_URL}... (certificate files not found)")
+        else:
+            logger.info(f"Starting HTTP server at {config.BASE_URL}...")
+
         httpd.serve_forever()
 
     except KeyboardInterrupt:

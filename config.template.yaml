@@ -33,3 +33,9 @@ base_url: "http://localhost:8080" # Used to generate sitemap URLs.
 # Interval in seconds to reload the IP blocklist from the file.
 # DO NOT set this to 0 or a very low value, as it may cause performance issues.
 reload_blocklist_interval_seconds: 1800
+
+# HTTPS certificate configuration
+# If you want to enable HTTPS, provide the paths to your certificate and key files.
+# If you don't want to enable HTTPS, set both of these to null.
+https_certificate_path: ""
+https_key_path: ""

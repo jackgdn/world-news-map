@@ -25,3 +25,8 @@ BASE_URL = config.get("base_url")
 # IP blocklist configuration
 RELOAD_BLOCKLIST_INTERVAL_SECONDS = int(
     config.get("reload_blocklist_interval_seconds"))
+
+
+# HTTPS certificate configuration
+HTTPS_CERTIFICATE_PATH = config.get("https_certificate_path", "")
+HTTPS_KEY_PATH = config.get("https_key_path", "")
