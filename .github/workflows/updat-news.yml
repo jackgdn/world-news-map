@@ -83,12 +83,12 @@ jobs:
                   cp -r public/* /tmp/public-deploy/
                   cp -r cache /tmp/public-deploy/
                   cp -r public/.well-known /tmp/public-deploy/
-                  ls -la /tmp/public-deploy/
                   test ! -f CNAME || cp CNAME /tmp/public-deploy/
                   git checkout --orphan temp-gh-pages
                   git rm -rf .
                   git clean -fd
                   cp -r /tmp/public-deploy/* .
+                  cp -r /tmp/public-deploy/.well-known .
                   git add -A
                   git commit -m "Deploy public to gh-pages"
                   git push -f origin temp-gh-pages:gh-pages
