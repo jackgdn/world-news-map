@@ -81,9 +81,10 @@ jobs:
                   git config user.email "github-actions[bot]@users.noreply.github.com"
                   mkdir -p /tmp/public-deploy
                   cp -r public/* /tmp/public-deploy/
-                  cp -r cache /tmp/public-deploy/ 2>/dev/null || true
-                  cp -r public/.well-known /tmp/public-deploy/ 2>/dev/null || true
-                  [ -f CNAME ] && cp CNAME /tmp/public-deploy/ || true
+                  cp -r cache /tmp/public-deploy/
+                  cp -r public/.well-known /tmp/public-deploy/
+                  ls -la /tmp/public-deploy/
+                  test ! -f CNAME || cp CNAME /tmp/public-deploy/
                   git checkout --orphan temp-gh-pages
                   git rm -rf .
                   git clean -fd
