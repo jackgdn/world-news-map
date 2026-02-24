@@ -36,10 +36,14 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     # Allowed paths
     ALLOWED_PATHS = [
-        r'^/$',                          # Root path
-        r'^/index\.html$',               # index.html
-        r'^/favicon\.ico$',              # favicon.ico
-        r'^/news/[^/]+\.json$',          # /news/*.json
+        r'^/$',                    # Root path
+        r'^/index\.html$',         # index.html
+        r'^/favicon\.ico$',        # favicon.ico
+        r'^/robots\.txt$',         # robots.txt
+        r'^/sitemap\.xml$',        # sitemap.xml
+        r'^/\.well-known/?$',      # .well-known directory
+        r'^/\.well-known/[^/]+$',  # files under .well-known
+        r'^/news/[^/]+\.json$',    # /news/*.json
     ]
 
     def __init__(self, *args, **kwargs):
@@ -162,7 +166,7 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
         client_ip = self.client_address[0]
 
         # If the response code indicates an error, consider banning the IP
-        if code > 400 and code != 404:
+        if code >= 400 and code != 404:
             logger.warning(
                 f"High error code {code} from {client_ip} for {self.path}")
             self.ban_ip(client_ip, f"HTTP {code} error")
@@ -296,8 +300,7 @@ def run_frontend() -> None:
 
         server_address = (config.HTTP_SERVER_HOST, config.HTTP_SERVER_PORT)
         httpd = HTTPServer(server_address, WNMHTTPRequestHandler)
-        logger.info(
-            f"Starting HTTP server at http://{config.HTTP_SERVER_HOST}:{config.HTTP_SERVER_PORT}...")
+        logger.info(f"Starting HTTP server at {config.BASE_URL}...")
         httpd.serve_forever()
 
     except KeyboardInterrupt:

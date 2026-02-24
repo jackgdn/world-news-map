@@ -1,7 +1,10 @@
 __pycache__
 .venv
-banned_ips.txt
+.well-known
+banned_ip.txt
 cache
 config.yaml
 logs
 news
+robots.txt
+sitemap.xml

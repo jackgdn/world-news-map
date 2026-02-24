@@ -40,3 +40,7 @@ CACHE_EXPIRATION_DAYS = int(config.get("cache_expiration_days", 7))
 
 # Update scheduling
 UPDATE_INTERVAL_HOURS = int(config.get("update_interval_hours", 12))
+
+
+# Frontend configuration
+BASE_URL = config.get("base_url")

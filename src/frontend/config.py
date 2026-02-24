@@ -17,8 +17,10 @@ except Exception as e:
 
 
 # Frontend configuration
-HTTP_SERVER_HOST = config.get("http_server_host", "0.0.0.0")
+HTTP_SERVER_HOST = config.get("http_server_host", "localhost")
 HTTP_SERVER_PORT = int(config.get("http_server_port", 8080))
+BASE_URL = config.get("base_url")
+
 
 # IP blocklist configuration
 RELOAD_BLOCKLIST_INTERVAL_SECONDS = int(

@@ -1,5 +1,4 @@
 import copy
-import time
 from datetime import datetime, timedelta
 
 import requests
@@ -159,10 +158,6 @@ def refresh_weekly_news():
             date = (datetime.now() - timedelta(days=date_offset)
                     ).strftime("%Y-%m-%d")
             scraper.work(date)
-            logger.info(
-                f"Waiting {config.REQUEST_INTERVAL} seconds before processing next date..."
-            )
-            time.sleep(config.REQUEST_INTERVAL)
     except KeyboardInterrupt:
         logger.warning(
             f"Process interrupted by user while processing date {date}, stopping gracefully..."
