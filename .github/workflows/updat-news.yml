@@ -82,6 +82,7 @@ jobs:
                   mkdir -p /tmp/public-deploy
                   cp -r public/* /tmp/public-deploy/
                   cp -r cache /tmp/public-deploy/ 2>/dev/null || true
+                  cp -r .well-known /tmp/public-deploy/ 2>/dev/null || true
                   [ -f CNAME ] && cp CNAME /tmp/public-deploy/ || true
                   git checkout --orphan temp-gh-pages
                   git rm -rf .
