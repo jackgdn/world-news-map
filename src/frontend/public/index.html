@@ -373,7 +373,7 @@
 
         async function fetchLastUpdateFromSecurityTxt() {
             try {
-                const response = await fetch(`./.well-known/security.txt?t=${Date.now()}`);
+                const response = await fetch(`./.well-known/security.txt}`);
                 if (!response.ok) {
                     setLastUpdateText('');
                     return;
@@ -405,7 +405,7 @@
             const allItems = [];
 
             await Promise.all(dates.map(async (date) => {
-                const url = `./news/${date}.json?t=${Date.now()}`;
+                const url = `./news/${date}.json`;
                 try {
                     const response = await fetch(url);
                     if (!response.ok) return;
