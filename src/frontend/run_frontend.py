@@ -42,8 +42,7 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
         r'^/favicon\.ico$',        # favicon.ico
         r'^/robots\.txt$',         # robots.txt
         r'^/sitemap\.xml$',        # sitemap.xml
-        r'^/\.well-known/?$',      # .well-known directory
-        r'^/\.well-known/[^/]+$',  # files under .well-known
+        r'^/\.well-known/.*$',     # .well-known directory and all subdirectories
         r'^/news/[^/]+\.json$',    # /news/*.json
     ]
 
