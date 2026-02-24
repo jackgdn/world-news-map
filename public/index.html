@@ -373,7 +373,7 @@
 
         async function fetchLastUpdateFromSecurityTxt() {
             try {
-                const response = await fetch(`./.well-known/security.txt}`);
+                const response = await fetch(`./.well-known/security.txt`);
                 if (!response.ok) {
                     setLastUpdateText('');
                     return;
