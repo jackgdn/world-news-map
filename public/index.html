@@ -258,6 +258,7 @@
             all: document.getElementById('tab-all'),
         };
         let lastUpdateValue = '--';
+        let lastUpdateParsedDate = null;
         let sidebarCollapsed = false;
 
         toggleBtn.addEventListener('click', () => {
@@ -282,6 +283,47 @@
             const month = String(date.getMonth() + 1).padStart(2, '0');
             const day = String(date.getDate()).padStart(2, '0');
             return `${year}-${month}-${day}`;
+        }
+
+        function formatLocalDateTime(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            const hour = String(date.getHours()).padStart(2, '0');
+            const minute = String(date.getMinutes()).padStart(2, '0');
+            const second = String(date.getSeconds()).padStart(2, '0');
+            return `${year}-${month}-${day} ${hour}:${minute}:${second}`;
+        }
+
+        function formatTimezoneLabel(date) {
+            const offsetMinutes = -date.getTimezoneOffset();
+            const sign = offsetMinutes >= 0 ? '+' : '-';
+            const absoluteMinutes = Math.abs(offsetMinutes);
+            const hours = String(Math.floor(absoluteMinutes / 60)).padStart(2, '0');
+            const minutes = String(absoluteMinutes % 60).padStart(2, '0');
+            return `UTC${sign}${hours}:${minutes}`;
+        }
+
+        function formatRelativeTime(date) {
+            const diffMs = Date.now() - date.getTime();
+            if (!Number.isFinite(diffMs)) return '';
+
+            if (diffMs < 60 * 1000) {
+                return 'just updated';
+            }
+
+            const minutes = Math.floor(diffMs / (60 * 1000));
+            if (minutes < 60) {
+                return `${minutes} minutes ago`;
+            }
+
+            const hours = Math.floor(diffMs / (60 * 60 * 1000));
+            if (hours < 24) {
+                return `${hours} hours ago`;
+            }
+
+            const days = Math.floor(diffMs / (24 * 60 * 60 * 1000));
+            return `${days} days ago`;
         }
 
         function getLastSevenDates() {
@@ -366,9 +408,37 @@
             tabPanels.all.innerHTML = `<div class="sidebar-header">News List <span class="header-update">Last Update: ${lastUpdateValue}</span></div>`;
         }
 
-        function setLastUpdateText(value) {
-            lastUpdateValue = value || '--';
+        function refreshLastUpdateDisplay() {
+            if (!lastUpdateParsedDate) {
+                return;
+            }
+
+            const timezoneLabel = formatTimezoneLabel(lastUpdateParsedDate);
+            const localText = formatLocalDateTime(lastUpdateParsedDate);
+            const relativeText = formatRelativeTime(lastUpdateParsedDate);
+            lastUpdateValue = `${timezoneLabel} ${localText} (${relativeText})`;
             renderTabHeaders();
+        }
+
+        function setLastUpdateText(value) {
+            const raw = (value || '').trim();
+            if (!raw) {
+                lastUpdateValue = '--';
+                lastUpdateParsedDate = null;
+                renderTabHeaders();
+                return;
+            }
+
+            const parsed = new Date(raw);
+            if (Number.isNaN(parsed.getTime())) {
+                lastUpdateValue = raw;
+                lastUpdateParsedDate = null;
+                renderTabHeaders();
+                return;
+            }
+
+            lastUpdateParsedDate = parsed;
+            refreshLastUpdateDisplay();
         }
 
         async function fetchLastUpdateFromSecurityTxt() {
@@ -479,6 +549,16 @@
             await fetchLastUpdateFromSecurityTxt();
             await fetchNews();
         })();
+
+        setInterval(() => {
+            refreshLastUpdateDisplay();
+        }, 60 * 1000);
+
+        document.addEventListener('visibilitychange', () => {
+            if (!document.hidden) {
+                refreshLastUpdateDisplay();
+            }
+        });
     </script>
 </body>
 

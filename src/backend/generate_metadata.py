@@ -31,7 +31,13 @@ def generate_security_txt() -> None:
 
     now = datetime.now(timezone.utc)
     expiration_date = now.replace(
-        year=now.year + 1).strftime("%Y-%m-%dT%H:%M:%SZ")
+        year=now.year + 1,
+        month=1,
+        day=1,
+        hour=0,
+        minute=0,
+        second=0
+    ).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     content = f"# security.txt for {config.BASE_URL}\n"
     content += f"# Generated on {now.strftime('%Y-%m-%dT%H:%M:%SZ')}\n\n"
@@ -94,7 +100,7 @@ def generate_robots_txt() -> None:
     """
     robots_file = PUBLIC_DIR / "robots.txt"
     content = "User-agent: *\n"
-    content += "Allow: *"
+    content += "Allow: /"
     try:
         with robots_file.open("w") as f:
             f.write(content)
