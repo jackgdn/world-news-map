@@ -34,6 +34,10 @@ olms.apply(openfreemap, 'https://tiles.openfreemap.org/styles/liberty');
 const popupElement = document.getElementById('marker-popup');
 const POPUP_ANIMATION_MS = 220;
 let popupHideTimer = null;
+let popupSwitchTimer = null;
+let popupShowRaf1 = null;
+let popupShowRaf2 = null;
+let pendingPopupData = null;
 const popupOverlay = new ol.Overlay({
     element: popupElement,
     positioning: 'bottom-center',
@@ -42,10 +46,45 @@ const popupOverlay = new ol.Overlay({
 });
 map.addOverlay(popupOverlay);
 
+function cancelPopupShowFrames() {
+    if (popupShowRaf1 !== null) {
+        cancelAnimationFrame(popupShowRaf1);
+        popupShowRaf1 = null;
+    }
+    if (popupShowRaf2 !== null) {
+        cancelAnimationFrame(popupShowRaf2);
+        popupShowRaf2 = null;
+    }
+}
+
+function runPopupFadeIn(html, lon, lat) {
+    popupElement.innerHTML = html;
+    popupOverlay.setPosition(ol.proj.fromLonLat([lon, lat]));
+    popupElement.style.display = 'block';
+    popupElement.setAttribute('aria-hidden', 'false');
+
+    void popupElement.offsetWidth;
+
+    popupShowRaf1 = requestAnimationFrame(() => {
+        popupShowRaf1 = null;
+        popupShowRaf2 = requestAnimationFrame(() => {
+            popupShowRaf2 = null;
+            popupElement.classList.add('is-visible');
+        });
+    });
+}
+
 function closePopup() {
+    cancelPopupShowFrames();
+    pendingPopupData = null;
+
     if (popupHideTimer) {
         clearTimeout(popupHideTimer);
         popupHideTimer = null;
+    }
+    if (popupSwitchTimer) {
+        clearTimeout(popupSwitchTimer);
+        popupSwitchTimer = null;
     }
 
     popupElement.classList.remove('is-visible');
@@ -59,18 +98,36 @@ function closePopup() {
 }
 
 function openPopup(html, lon, lat) {
+    cancelPopupShowFrames();
+    pendingPopupData = { html, lon, lat };
+
     if (popupHideTimer) {
         clearTimeout(popupHideTimer);
         popupHideTimer = null;
     }
+    if (popupSwitchTimer) {
+        clearTimeout(popupSwitchTimer);
+        popupSwitchTimer = null;
+    }
 
-    popupElement.innerHTML = html;
-    popupOverlay.setPosition(ol.proj.fromLonLat([lon, lat]));
-    popupElement.style.display = 'block';
-    popupElement.setAttribute('aria-hidden', 'false');
-    requestAnimationFrame(() => {
-        popupElement.classList.add('is-visible');
-    });
+    const isCurrentlyVisible = popupElement.classList.contains('is-visible') && popupElement.style.display !== 'none';
+    if (isCurrentlyVisible) {
+        popupElement.classList.remove('is-visible');
+        popupElement.setAttribute('aria-hidden', 'true');
+
+        popupSwitchTimer = setTimeout(() => {
+            popupSwitchTimer = null;
+            if (!pendingPopupData) return;
+            const { html: nextHtml, lon: nextLon, lat: nextLat } = pendingPopupData;
+            pendingPopupData = null;
+            runPopupFadeIn(nextHtml, nextLon, nextLat);
+        }, POPUP_ANIMATION_MS);
+        return;
+    }
+
+    const { html: nextHtml, lon: nextLon, lat: nextLat } = pendingPopupData;
+    pendingPopupData = null;
+    runPopupFadeIn(nextHtml, nextLon, nextLat);
 }
 
 map.on('singleclick', (event) => {
