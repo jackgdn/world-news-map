@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 jobs:
-    run-main:
+    update-news:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
