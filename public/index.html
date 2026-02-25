@@ -550,15 +550,6 @@
             await fetchNews();
         })();
 
-        setInterval(() => {
-            refreshLastUpdateDisplay();
-        }, 60 * 1000);
-
-        document.addEventListener('visibilitychange', () => {
-            if (!document.hidden) {
-                refreshLastUpdateDisplay();
-            }
-        });
     </script>
 </body>
 
