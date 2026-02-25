@@ -39,6 +39,8 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
     ALLOWED_PATHS = [
         r'^/$',                    # Root path
         r'^/index\.html$',         # index.html
+        r'^/styles\.css$',         # styles.css
+        r'^/app\.js$',             # app.js
         r'^/favicon\.ico$',        # favicon.ico
         r'^/robots\.txt$',         # robots.txt
         r'^/sitemap\.xml$',        # sitemap.xml
