@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>World News Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v9.2.4/ol.css" />
     <style>
         :root {
             --sidebar-width: 400px;
@@ -208,12 +208,54 @@
         .news-links a:hover {
             text-decoration: underline;
         }
+
+        .ol-popup {
+            position: absolute;
+            width: var(--sidebar-width);
+            min-width: var(--sidebar-width);
+            max-width: var(--sidebar-width);
+            max-height: 260px;
+            overflow-y: auto;
+            background: rgba(255, 255, 255, 0.96);
+            border: 1px solid #dcdcdc;
+            border-radius: 6px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.16);
+            padding: 10px;
+            pointer-events: auto;
+        }
+
+        .ol-attribution {
+            background: rgba(255, 255, 255, 0.94) !important;
+            font-size: 12px;
+            line-height: 1.4;
+            color: #333;
+        }
+
+        .ol-attribution ul {
+            margin: 0 6px;
+            padding: 2px 0;
+        }
+
+        .ol-attribution li {
+            color: #333;
+        }
+
+        .ol-attribution a {
+            color: #1f4fa3;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .ol-attribution a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 
 <body>
     <div class="layout">
         <div id="map"></div>
+        <div id="marker-popup" class="ol-popup" style="display:none;"></div>
         <div class="overlay-container">
             <div class="sidebar-toggle" id="toggle-btn">«</div>
             <div id="sidebar">
@@ -237,17 +279,90 @@
             </div>
         </div>
     </div>
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ol@v9.2.4/dist/ol.js"></script>
     <script>
-        const map = L.map('map').setView([0, 0], 2);
-        L.tileLayer('https://tile.osm.ch/switzerland/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '<a href="https://www.openstreetmap.org/fixthemap" target="_blank" rel="noopener noreferrer">Report a map issue</a> | ' +
-                '© OpenStreetMap contributors, ASTER GDEM, EarthEnv-DEM90, CDEM contains information under OGL Canada',
-            referrerPolicy: 'origin'
-        }).addTo(map);
+        const attributionText = '<a href="https://www.openstreetmap.org/fixthemap" target="_blank" rel="noopener noreferrer">Report a map issue</a> | ' +
+            '© OpenStreetMap contributors, ASTER GDEM, EarthEnv-DEM90, CDEM contains information under OGL Canada';
 
-        const markersLayer = L.layerGroup().addTo(map);
+        const vectorSource = new ol.source.Vector();
+        const markersLayer = new ol.layer.Vector({
+            source: vectorSource,
+            style: new ol.style.Style({
+                image: new ol.style.Circle({
+                    radius: 7,
+                    fill: new ol.style.Fill({ color: '#2a70d6' }),
+                    stroke: new ol.style.Stroke({ color: '#ffffff', width: 1.5 }),
+                }),
+            }),
+        });
+
+        const map = new ol.Map({
+            target: 'map',
+            layers: [
+                new ol.layer.Tile({
+                    source: new ol.source.XYZ({
+                        url: 'https://tile.osm.ch/switzerland/{z}/{x}/{y}.png',
+                        maxZoom: 19,
+                        attributions: [attributionText],
+                    }),
+                }),
+                markersLayer,
+            ],
+            view: new ol.View({
+                center: ol.proj.fromLonLat([0, 0]),
+                zoom: 2,
+            }),
+            controls: ol.control.defaults.defaults({
+                zoom: false,
+                rotate: false,
+                attribution: true,
+            }),
+        });
+
+        const popupElement = document.getElementById('marker-popup');
+        const popupOverlay = new ol.Overlay({
+            element: popupElement,
+            positioning: 'bottom-center',
+            offset: [0, -12],
+            stopEvent: true,
+        });
+        map.addOverlay(popupOverlay);
+
+        function closePopup() {
+            popupOverlay.setPosition(undefined);
+            popupElement.style.display = 'none';
+        }
+
+        function openPopup(html, lon, lat) {
+            popupElement.innerHTML = html;
+            popupElement.style.display = 'block';
+            popupOverlay.setPosition(ol.proj.fromLonLat([lon, lat]));
+        }
+
+        map.on('singleclick', (event) => {
+            const feature = map.forEachFeatureAtPixel(event.pixel, (foundFeature) => foundFeature);
+            if (!feature) {
+                closePopup();
+                return;
+            }
+
+            const popupHtml = feature.get('popupHtml') || '';
+            const lon = Number(feature.get('longitude'));
+            const lat = Number(feature.get('latitude'));
+            if (!Number.isFinite(lon) || !Number.isFinite(lat)) {
+                closePopup();
+                return;
+            }
+
+            openPopup(popupHtml, lon, lat);
+        });
+
+        map.on('pointermove', (event) => {
+            if (event.dragging) return;
+            const hasFeature = map.hasFeatureAtPixel(event.pixel);
+            map.getTargetElement().style.cursor = hasFeature ? 'pointer' : '';
+        });
+
         const markerMap = new Map();
 
         const sidebar = document.getElementById('sidebar');
@@ -265,7 +380,7 @@
             sidebarCollapsed = !sidebarCollapsed;
             sidebar.classList.toggle('collapsed');
             toggleBtn.textContent = sidebarCollapsed ? '»' : '«';
-            map.invalidateSize();
+            map.updateSize();
         });
 
         tabButtons.forEach((btn) => {
@@ -382,24 +497,29 @@
             const lines = sorted.map((it) => {
                 const linksHtml = buildLinksHtml(it.links);
                 const time = it.date || '';
-                return `<div style="margin-bottom:10px;">
-                    <div><strong>${it.description}</strong></div>
-                    <div style="color:#777;font-size:12px;">${time}</div>
+                return `<div class="news-item">
+                    <div class="news-title">${it.description}</div>
+                    <div class="news-time">${time}</div>
                     <div class="news-links">${linksHtml}</div>
                 </div>`;
             }).join('');
-            return `<div style="max-width:320px; max-height:260px; overflow-y:auto; padding-right:4px;">${lines}</div>`;
+            return `<div>${lines}</div>`;
         }
 
         function focusOnMarker(item) {
             if (!isValidCoordinate(item.coordinate)) return;
             const lat = Number(item.coordinate.latitude);
             const lon = Number(item.coordinate.longitude);
-            map.setView([lat, lon], 10);
+            map.getView().animate({
+                center: ol.proj.fromLonLat([lon, lat]),
+                zoom: 10,
+                duration: 250,
+            });
 
             const key = `${lat},${lon}`;
             if (markerMap.has(key)) {
-                markerMap.get(key).openPopup();
+                const markerInfo = markerMap.get(key);
+                openPopup(markerInfo.popupHtml, markerInfo.longitude, markerInfo.latitude);
             }
         }
 
@@ -468,8 +588,9 @@
 
         async function fetchNews() {
             renderTabHeaders();
-            markersLayer.clearLayers();
+            vectorSource.clear();
             markerMap.clear();
+            closePopup();
 
             const dates = getLastSevenDates();
             const allItems = [];
@@ -514,8 +635,19 @@
             groupedByCoordinate.forEach((itemsAtPoint, key) => {
                 const [lat, lon] = key.split(',').map(Number);
                 const popupHtml = buildPopupHtml(itemsAtPoint);
-                const marker = L.marker([lat, lon]).addTo(markersLayer).bindPopup(popupHtml);
-                markerMap.set(key, marker);
+                const markerFeature = new ol.Feature({
+                    geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
+                });
+                markerFeature.set('popupHtml', popupHtml);
+                markerFeature.set('latitude', lat);
+                markerFeature.set('longitude', lon);
+                vectorSource.addFeature(markerFeature);
+
+                markerMap.set(key, {
+                    popupHtml,
+                    latitude: lat,
+                    longitude: lon,
+                });
             });
 
             noCoordinateItems.forEach((item) => {
