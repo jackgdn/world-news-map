@@ -23,11 +23,12 @@ cache_expiration_days: 7
 # Update scheduling
 update_interval_hours: 12 # set to 0 to disable automatic updates
 
-# Frontend configuration
+# HTTP server configuration
 # Set to 0.0.0.0 to allow access from any IP address, or set to "localhost" to restrict access to the local machine.
 http_server_host: "localhost"
 http_server_port: 8080
 base_url: "http://localhost:8080" # Used to generate sitemap URLs.
+connection_timeout_seconds: 10
 
 # IP blocklist configuration
 # Interval in seconds to reload the IP blocklist from the file.

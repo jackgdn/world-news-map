@@ -4,7 +4,7 @@ import ssl
 import sys
 import threading
 from datetime import datetime
-from http.server import HTTPServer, SimpleHTTPRequestHandler
+from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import unquote
 
@@ -29,6 +29,7 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     HTTP_LOG_FORMAT = "[HTTP] %(remote_addr)s - %(protocol)s %(method)s %(path)s - %(status_code)s %(bytes_sent)s"
     RELOAD_BLOCKLIST_INTERVAL_SECONDS = config.RELOAD_BLOCKLIST_INTERVAL_SECONDS
+    CONNECTION_TIMEOUT_SECONDS = config.CONNECTION_TIMEOUT_SECONDS
 
     # Shared set of IP blocklist
     banned_ips = set()
@@ -51,6 +52,14 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         self.public_dir = Path(__file__).parent / "public"
         super().__init__(*args, directory=self.public_dir, **kwargs)
+
+    def setup(self) -> None:
+        super().setup()
+        try:
+            self.connection.settimeout(self.CONNECTION_TIMEOUT_SECONDS)
+        except Exception as e:
+            logger.error(
+                f"Failed to set connection timeout: {e}", exc_info=True)
 
     @classmethod
     def _read_banned_ips_from_file(cls) -> set:
@@ -307,6 +316,11 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
                 client_ip, f"HTTP parse/handler error {code}: {error_text}")
 
 
+class WNMThreadingHTTPServer(ThreadingHTTPServer):
+
+    daemon_threads = True
+
+
 def run_frontend() -> None:
     httpd = None
     reload_stop_event = threading.Event()
@@ -324,7 +338,7 @@ def run_frontend() -> None:
         reload_thread.start()
 
         server_address = (config.HTTP_SERVER_HOST, config.HTTP_SERVER_PORT)
-        httpd = HTTPServer(server_address, WNMHTTPRequestHandler)
+        httpd = WNMThreadingHTTPServer(server_address, WNMHTTPRequestHandler)
 
         # Setup HTTPS if certificates are configured
         cert_path = config.HTTPS_CERTIFICATE_PATH.strip()
