@@ -1,0 +1,316 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "At least three aid workers are killed and four others are injured in a drone attack by the Rapid Support Forces and Sudan People's Liberation Movement–North on an aid convoy in South Kordofan, Sudan.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/20/three-aid-workers-killed-4-wounded-in-rsf-drone-attack-in-sudans-kordofan"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "South Kordofan",
+            "city": "none",
+            "institution": "Rapid Support Forces and Sudan People's Liberation Movement–North"
+        },
+        "coordinate": {
+            "latitude": 44.933143,
+            "longitude": 7.540121
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Eighteen people are killed and three others are injured when two trucks collide head-on near Port Said, Egypt.",
+        "links": [
+            {
+                "source": "(Egypt Today)",
+                "url": "https://www.egypttoday.com/Article/1/145138/18-killed-in-truck-collision-in-Egypt%E2%80%99s-Port-Said"
+            }
+        ],
+        "poi": {
+            "country": "Egypt",
+            "state": "Port Said",
+            "city": "Port Said",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 31.263235,
+            "longitude": 32.305505
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Sixteen people are killed and several others are injured after a gas explosion which then caused the building to collapse in Karachi, Pakistan.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/19/gas-explosion-kills-13-in-pakistans-karachi-collapsing-building"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": null,
+            "city": "Karachi",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 24.8546842,
+            "longitude": 67.0207055
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Six firefighters are killed and another is injured when a fire engine plunges off a cliff in Xinhua County, Hunan, China.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260219/7b36dcc9f3fb45558e6a203b8b359fe8/c.html"
+            }
+        ],
+        "poi": {
+            "country": "China",
+            "state": "Hunan",
+            "city": "Xinhua County",
+            "institution": "Fire Department"
+        },
+        "coordinate": {
+            "latitude": 27.8376355,
+            "longitude": 111.2747406
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "At least four people are killed and 17 others are injured when a truck transporting liquid gas crashes and explodes in Santiago, Chile.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/least-three-dead-10-injured-santiago-explosion-local-radio-says-2026-02-19/"
+            }
+        ],
+        "poi": {
+            "country": "Chile",
+            "state": "Santiago",
+            "city": "Santiago",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": -33.4377752,
+            "longitude": -70.6505796
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "A person is killed and five others are injured in Pétion-Ville, Port-au-Prince, Haiti, when a high-voltage power line breaks and falls into a public market.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/one-killed-5-hospitalized-cable-electrocution-haiti-market-2026-02-19/"
+            }
+        ],
+        "poi": {
+            "country": "Haiti",
+            "state": "Port-au-Prince",
+            "city": "Pétion-Ville",
+            "institution": "Public Market"
+        },
+        "coordinate": {
+            "latitude": 18.5132181,
+            "longitude": -72.2860209
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Five miners are trapped underground and presumed dead in a diamond mine after a mudslide in Kimberley, Northern Cape, South Africa.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/south-africa-mine-miners-trapped-diamond-3c5876bf3013dd776ce52c6ffae8650b"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/south-african-minister-says-five-miners-missing-since-tuesday-are-now-presumed-2026-02-20/"
+            }
+        ],
+        "poi": {
+            "country": "South Africa",
+            "state": "Northern Cape",
+            "city": "Kimberley",
+            "institution": "Diamond Mine"
+        },
+        "coordinate": {
+            "latitude": -28.7383012,
+            "longitude": 24.7642251
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Acting Venezuelan president Delcy Rodríguez signs a general amnesty bill into law, enabling the release of hundreds of political prisoners, including former National Assembly vice president Juan Pablo Guanipa.",
+        "links": [
+            {
+                "source": "(AFP via Business Recorder)",
+                "url": "https://www.brecorder.com/news/40408210/imprisoned-ally-of-venezuelas-machado-says-released-after-amnesty-law-approved"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/venezuela-amnesty-prisoners-delcy-rodriguez-855e4fa19251f29e7abd42f18e167365"
+            }
+        ],
+        "poi": {
+            "country": "Venezuela",
+            "state": null,
+            "city": null,
+            "institution": "Venezuelan President's Office"
+        },
+        "coordinate": {
+            "latitude": 8.0018709,
+            "longitude": -66.1109318
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Former South Korean president Yoon Suk Yeol is sentenced to life in prison after being found guilty of leading an insurrection when he declared martial law on December 3, 2024.",
+        "links": [
+            {
+                "source": "(The Korea Herald)",
+                "url": "https://www.koreaherald.com/article/10678550"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/south-korea-braces-verdict-expresident-yoons-insurrection-trial-2026-02-19/"
+            }
+        ],
+        "poi": {
+            "country": "South Korea",
+            "state": null,
+            "city": null,
+            "institution": "Courts"
+        },
+        "coordinate": {
+            "latitude": 36.638392,
+            "longitude": 127.6961188
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "In the United Kingdom, police arrest royal Andrew Mountbatten-Windsor on charges of misconduct in public office related to his links to convicted American sex offender Jeffrey Epstein. He is later released from police custody.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/britain-epstein-andrew-former-prince-arrested-fb0b9e738bf7ede10651914ee3f3583d"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/c70kjr9wjw0t"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": null,
+            "city": null,
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 54.7023545,
+            "longitude": -3.2765753
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Andrey Gyurov is sworn in as Prime Minister of Bulgaria.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/bulgaria-government-elections-premier-gyurov-bf8d3423d49db01cf3552d859e1cb005"
+            }
+        ],
+        "poi": {
+            "country": "Bulgaria",
+            "state": null,
+            "city": null,
+            "institution": "Prime Minister's Office"
+        },
+        "coordinate": {
+            "latitude": 42.6073975,
+            "longitude": 25.4856617
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "United States president Donald Trump says he has ordered defense secretary Pete Hegseth and other relevant department heads to \"begin the process\" of releasing classified government files related to extraterrestrial life and  UAPs.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/americas/20260220-trump-directing-pentagon-other-us-agencies-to-release-files-ufos-aliens-uap"
+            },
+            {
+                "source": "(The Wall Street Journal)",
+                "url": "https://www.wsj.com/politics/national-security/trump-orders-release-of-ufo-government-files-9c49b6cd"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": "White House"
+        },
+        "coordinate": {
+            "latitude": 38.8976387,
+            "longitude": -77.0365528
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Ski mountaineer Oriol Cardona wins the men's sprint event and captures Spain's first Winter Olympics gold medal in 54 years.",
+        "links": [
+            {
+                "source": "(NBC)",
+                "url": "https://www.nbcolympics.com/news/oriol-cardona-coll-wins-men-ski-mountaineering-sprint"
+            }
+        ],
+        "poi": {
+            "country": "Spain",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.3260685,
+            "longitude": -4.8379791
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-19",
+        "description": "Scientists discover a new dinosaur species (Spinosaurus mirabilis) deep in the Sahara Desert.",
+        "links": [
+            {
+                "source": "(ABC News)",
+                "url": "https://abcnews.com/International/scientists-discover-new-dinosaur-species-deep-sahara-desert/story?id=130241403"
+            }
+        ],
+        "poi": {
+            "country": "Sahara Desert",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 22.25,
+            "longitude": 9.8
+        }
+    }
+]

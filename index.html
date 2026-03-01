@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World News Map</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v9.2.4/ol.css" />
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+    <div class="layout">
+        <div id="map"></div>
+        <div id="marker-popup" class="ol-popup" style="display:none;"></div>
+        <div class="overlay-container">
+            <div class="sidebar-toggle" id="toggle-btn">«</div>
+            <div id="sidebar">
+                <div class="sidebar-body">
+                    <div class="tabs">
+                        <button class="tab-btn" data-tab="other">Other News</button>
+                        <button class="tab-btn active" data-tab="all">News List</button>
+                    </div>
+                    <div class="tab-panel" id="tab-other"></div>
+                    <div class="tab-panel active" id="tab-all"></div>
+                </div>
+                <div class="sidebar-footer">
+                    Content partially sourced from Wikipedia “Portal: Current events”
+                    (<a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank"
+                        rel="noopener noreferrer">link</a>),
+                    authors: Wikipedia contributors, licensed under
+                    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"
+                        rel="noopener noreferrer">CC BY-SA 4.0</a>.
+                    Adaptations (if any) have been made.
+                    <br><br>
+                    News and map content from third-party sources are for reference only and do not represent the
+                    position of the website maintainer;
+                    no accuracy guarantee or liability assumed.
+                    <br><br>
+                    Github Repository · <a href="https://github.com/jackgdn/world-news-map" target="_blank"
+                        rel="noopener noreferrer">world-news-map</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/ol@v9.2.4/dist/ol.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ol-mapbox-style@12.3.5/dist/olms.js"></script>
+    <script src="./app.js"></script>
+</body>
+
+</html>

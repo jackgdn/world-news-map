@@ -1,0 +1,489 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "At least 15 people are killed and 18 others are critically injured in an explosion at an explosives factory in Nagpur district, Maharashtra, India.",
+        "links": [
+            {
+                "source": "(DNA India)",
+                "url": "https://www.dnaindia.com/india/report-maharashtra-massive-explosion-at-explosive-factory-in-nagpur-s-katol-15-killed-18-injured-3201845"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "institution": "Explosives Factory"
+        },
+        "coordinate": {
+            "latitude": 21.1498134,
+            "longitude": 79.0820556
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-03-01",
+        "description": "Iran confirms the death of its supreme leader Ali Khamenei in a decapitation strike yesterday in Tehran by Israel and the United States. Forty days of mourning are declared.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/28/ayatollah-ali-khamenei-the-leader-who-shaped-irans-defiance"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-03-01",
+        "description": "Key Iranian regime officials Abdolrahim Mousavi, Aziz Nasirzadeh, Mohammad Pakpour and Ali Shamkhani are confirmed killed after an airstrike during a meeting yesterday in Tehran.",
+        "links": [
+            {
+                "source": "(The Hill)",
+                "url": "https://thehill.com/homenews/ap/ap-international/ap-trump-warns-iran-not-to-escalate-attacks-saying-us-will-strike-back-with-force/mlite/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "A person is injured in a drone strike on Duqm port in Oman.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/middle-east/1-injured-in-drone-strike-on-oman-s-duqm-port-amid-us-israeli-confrontation-with-iran/3844783"
+            }
+        ],
+        "poi": {
+            "country": "Oman",
+            "state": null,
+            "city": "Duqm",
+            "institution": "Duqm Port"
+        },
+        "coordinate": {
+            "latitude": 19.6629965,
+            "longitude": 57.7116611
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-01",
+        "description": "Iran launches two ballistic missiles towards Cyprus, not far from the British military bases on the island. They were both intercepted before reaching Cyprus.",
+        "links": [
+            {
+                "source": "(Cyprus Mail)",
+                "url": "https://cyprus-mail.com/2026/03/01/iran-missiles-fired-towards-uk-bases-in-cyprus"
+            }
+        ],
+        "poi": {
+            "country": "Cyprus",
+            "state": null,
+            "city": null,
+            "institution": "British military bases"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Hundreds of protestors storm the consulate of the United States in Karachi, Pakistan, leading to clashes with security forces which left at least nine people dead and multiple others wounded.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/1/at-least-9-killed-in-pro-iran-protest-at-us-consulate-in-pakistans-karachi"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": null,
+            "city": "Karachi",
+            "institution": "Consulate of the United States"
+        },
+        "coordinate": {
+            "latitude": 24.8409479,
+            "longitude": 67.0098041
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Iran appoints Ayatollah Alireza Arafi to the Interim Leadership Council that assumed authority following the assassination of supreme leader Ali Khamenei, with the body set to govern alongside president Masoud Pezeshkian and chief justice Gholam-Hossein Mohseni-Eje'i until the Assembly of Experts selects a new supreme leader.",
+        "links": [
+            {
+                "source": "(AFP via Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/middle-east/2026/03/01/iran-names-alireza-arafi-to-leadership-council-after-khamenei-killing"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Supreme Leader's Office"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-03-01",
+        "description": "The Israeli Air Force launches a new wave of airstrikes across Tehran, targeting Islamic Revolutionary Guard Corps (IRGC) and Basij facilities with multiple explosions reported.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-tehran-as-new-israeli-airstrikes-hit-iranian-capital/3844811"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "A Palau-flagged tanker is struck by a missile in the Gulf of Oman, injuring four crew members.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/oil-tanker-hit-off-oman-coast-after-drones-strike-duqm-port-2026-03-01/"
+            }
+        ],
+        "poi": {
+            "country": "Oman",
+            "state": null,
+            "city": "Gulf of Oman",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 24.2138029,
+            "longitude": 58.9845823
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "An Iranian drone strikes the Crowne Plaza Hotel in Manama, Bahrain, which houses American embassy personnel. No casualties are reported.",
+        "links": [
+            {
+                "source": "(Egypt Independnent)",
+                "url": "https://www.egyptindependent.com/iranian-strike-on-hotel-in-bahrain-forces-us-embassy-personnel-evacuation/"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": "Manama",
+            "institution": "Crowne Plaza Hotel"
+        },
+        "coordinate": {
+            "latitude": 26.2436716,
+            "longitude": 50.5903674
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-03-01",
+        "description": "Anti-aircraft fire is reported over Kabul, Afghanistan, as Pakistani warplanes launch strikes against Taliban targets.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/asia-pacific/20260301-explosions-kabul-afghan-forces-pakistani-aircraft"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Former Iranian president Mahmoud Ahmadinejad is killed along with his bodyguards in an Israeli targeted killing strike on his home in Narmak. Iranian state media confirms his death.",
+        "links": [
+            {
+                "source": "(News.az)",
+                "url": "https://news.az/news/ahmadinejad-was-killed"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": "Narmak",
+            "city": "Narmak",
+            "institution": "Unknown"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Nine people are killed and 49 others are wounded in an Iranian ballistic missile strike on a synagogue in Beit Shemesh, Jerusalem District, Israel.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/beit-shemesh-missile-strike-death-toll-rises-to-8/"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Jerusalem District",
+            "city": "Beit Shemesh",
+            "institution": "Synagogue"
+        },
+        "coordinate": {
+            "latitude": 31.746214,
+            "longitude": 34.9886825
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "The IRGC says it has launched missiles at the United States Navy aircraft carrier USS Abraham Lincoln in the Indian Ocean.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cn5ge95q6y7t"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Indian Ocean",
+            "city": "USS Abraham Lincoln",
+            "institution": "United States Navy"
+        },
+        "coordinate": {
+            "latitude": -9.9999999,
+            "longitude": 69.9999999
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Three U.S. service members are killed and five others are seriously wounded in an Iranian missile strike, according to the United States Central Command.",
+        "links": [
+            {
+                "source": "(LBC)",
+                "url": "https://www.lbc.co.uk/article/three-service-members-killed-five-injured-iran-uss-abraham-lincoln-5HjdTgC_2/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Multiple Iranian Shahed drones strike French naval air station Camp de la Paix in Abu Dhabi, United Arab Emirates.",
+        "links": [
+            {
+                "source": "(The New Arab)",
+                "url": "https://www.newarab.com/news/iran-drone-attack-caused-fire-base-hosting-french-forces-uae"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": null,
+            "city": "Abu Dhabi",
+            "institution": "Camp de la Paix"
+        },
+        "coordinate": {
+            "latitude": 24.5209258,
+            "longitude": 54.3959808
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Four Popular Mobilization Forces members are killed in an unidentified airstrike targeting one of their headquarters in Diyala Governorate.",
+        "links": [
+            {
+                "source": "(Al Arabiya)",
+                "url": "https://www.alarabiya.net/arab-and-world/iraq/2026/03/01/%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D9%85%D8%AC%D9%87%D9%88%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%82%D8%B1%D9%87%D9%85-%D8%A8%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Diyala Governorate",
+            "city": "Diyala",
+            "institution": "Four Popular Mobilization Forces headquarters"
+        },
+        "coordinate": {
+            "latitude": 34.4143602,
+            "longitude": 45.207579
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Russian forces launch artillery strikes on Kherson, Ukraine, killing three people and wounding two others.",
+        "links": [
+            {
+                "source": "(Ukrinform)",
+                "url": "https://www.ukrinform.net/rubric-ato/4096831-invaders-shell-kherson-leaving-three-dead-and-two-wounded.html"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": "Kherson Oblast",
+            "city": "Kherson",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 46.6401295,
+            "longitude": 32.6143922
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Danish shipping firm Maersk says that it is suspending all vessel transits through the Strait of Hormuz until further notice due to the ongoing conflict in the Persian Gulf.",
+        "links": [
+            {
+                "source": "(AFP via Business Recorder)",
+                "url": "https://www.brecorder.com/news/40409561/maersk-suspends-vessel-transit-through-strait-of-hormuz"
+            }
+        ],
+        "poi": {
+            "country": "Strait of Hormuz",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 26.4494061,
+            "longitude": 56.2027702
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Belgium's special forces, with French Naval assistance, seize a Russian shadow fleet oil tanker in the North Sea.",
+        "links": [
+            {
+                "source": "(Le Monde)",
+                "url": "https://www.lemonde.fr/en/international/article/2026/03/01/belgium-with-france-s-assistance-seizes-suspected-russian-shadow-fleet-tanker_6750977_4.html"
+            }
+        ],
+        "poi": {
+            "country": "Belgium",
+            "state": "North Sea",
+            "city": null,
+            "institution": "Special Forces"
+        },
+        "coordinate": {
+            "latitude": 51.1006824,
+            "longitude": 2.592036
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Hundreds of protestors attempted to storm the consulate of the United States in Karachi, Pakistan, leading to clashes with security forces which left at least 22 people dead and multiple others wounded.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-protesters-attacked-us-consulate-karachi-iran-a3cc0c3c6f126cc54a657f61d312a203"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": null,
+            "city": "Karachi",
+            "institution": "Consulate of the United States"
+        },
+        "coordinate": {
+            "latitude": 24.8409479,
+            "longitude": 67.0098041
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Three people are killed, including the perpetrator, and 14 others are injured in a mass shooting at a bar in Austin, Texas, United States. The Federal Bureau of Investigation is investigating the attack as potential terrorism.",
+        "links": [
+            {
+                "source": "(KVUE)",
+                "url": "https://www.kvue.com/article/news/local/active-attack-reported-in-downtown-austin/269-1a19c462-1416-4316-8dba-732c395fbfcf"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Texas",
+            "city": "Austin",
+            "institution": "Federal Bureau of Investigation"
+        },
+        "coordinate": {
+            "latitude": 30.2711286,
+            "longitude": -97.7436995
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-01",
+        "description": "Vietnam's artificial intelligence (AI) law takes effect, mandating labeling of AI-generated content and disclosure when users interact with automated systems. The law, which applies to domestic and foreign developers, providers, and deployers operating in the country, also provides for the creation of a national AI data center.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/se-asia/vietnam-ai-law-takes-effect-first-in-south-east-asia"
+            }
+        ],
+        "poi": {
+            "country": "Vietnam",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 15.9266657,
+            "longitude": 107.9650855
+        }
+    }
+]

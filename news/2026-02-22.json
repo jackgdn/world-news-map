@@ -1,0 +1,266 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "At the 2026 BAFTA Awards, the American film One Battle After Another wins the most awards with six, including Best Film. Hamnet became the most-nominated film by a female director and Sinners became the most-nominated film by a Black director in BAFTA history.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/bafta-film-awards-sinners-hamnet-15651cec9d900fff5e8347ffbec3b608"
+            },
+            {
+                "source": "(Rolling Out)",
+                "url": "https://rollingout.com/2026/01/28/ryan-coogler-makes-bafta-history/"
+            },
+            {
+                "source": "(The Hollywood Reporter)",
+                "url": "https://www.hollywoodreporter.com/movies/movie-news/chloe-zhao-hamnet-bafta-most-nominated-film-female-director-1236485900/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": "Los Angeles",
+            "institution": "BAFTA Awards"
+        },
+        "coordinate": {
+            "latitude": 34.0536909,
+            "longitude": -118.242766
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "In the United States, a major nor'easter snowstorm hits the East Coast, causing blizzard conditions and major transportation disruptions.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/weather/live-news/blizzard-snow-nyc-storm-forecast-02-22-26"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "null",
+            "city": "null",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "Search and rescue operations begin for three individuals who have been reported missing after a collapse of a landfill in Rodriguez, Rizal, Philippines, two days prior. There are other claims that up to 50 people are feared missing from the incident.",
+        "links": [
+            {
+                "source": "(Kahleej Times)",
+                "url": "https://www.khaleejtimes.com/world/asia/50-feared-missing-after-another-philippines-landfill-collapse"
+            },
+            {
+                "source": "(Manila Bulletin)",
+                "url": "https://mb.com.ph/2026/02/22/3-scavengers-feared-dead-as-landfill-collapses-in-rizal-ocd"
+            }
+        ],
+        "poi": {
+            "country": "Philippines",
+            "state": "Rizal",
+            "city": "Rodriguez",
+            "institution": "Search and rescue team"
+        },
+        "coordinate": {
+            "latitude": 14.7324642,
+            "longitude": 121.1453418
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "The Financial Times reports that Iran had signed a confidential €500 million (US$589 million) arms agreement with Russia in December 2025 to buy 500 9K333 Verba man-portable air-defense systems and 2,500 associated missiles, with deliveries scheduled between 2027 and 2029 under a contract negotiated between Iran's defence ministry and the Rosoboronexport.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/iran-agreed-secret-shoulder-fired-missile-deal-with-russia-ft-reports-2026-02-22/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "At least seven National Guard troops are killed in clashes with CJNG forces in Western Mexico.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8"
+            }
+        ],
+        "poi": {
+            "country": "Mexico",
+            "state": "Jalisco",
+            "city": "Tapalpa",
+            "institution": "Jalisco New Generation Cartel (CJNG)"
+        },
+        "coordinate": {
+            "latitude": 19.9448978,
+            "longitude": -103.7576028
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "Secret Service and police officials kill an armed 21-year-old man who entered Mar-a-Lago, President Donald Trump's estate in Palm Beach, Florida, United States.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cr57l3rj3yqt"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Florida",
+            "city": "Palm Beach",
+            "institution": "Mar-a-Lago"
+        },
+        "coordinate": {
+            "latitude": 26.6769953,
+            "longitude": -80.037918
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "North Korea's supreme leader, Kim Jong Un, is re-elected as the General Secretary of the Workers' Party of Korea, the most powerful position in the one-party state.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/asia-pacific/20260222-north-korea-kim-re-elected-ruling-party-congress"
+            }
+        ],
+        "poi": {
+            "country": "North Korea",
+            "state": null,
+            "city": null,
+            "institution": "Workers' Party of Korea"
+        },
+        "coordinate": {
+            "latitude": 40.3736611,
+            "longitude": 127.0870417
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "Laotians vote in a parliamentary election to elect the 175 members of the tenth National Assembly. The only legal party in Laos contesting the election is the Lao People's Revolutionary Party.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260220-outspoken-laos-lawmaker-s-election-exit-sparks-rare-dissent"
+            }
+        ],
+        "poi": {
+            "country": "Laos",
+            "state": null,
+            "city": null,
+            "institution": "National Assembly"
+        },
+        "coordinate": {
+            "latitude": 17.978534,
+            "longitude": 102.6340784
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "The United States defeats Canada 2–1 during overtime, winning gold in the men's tournament in ice hockey for the first time since 1980, exactly 46 years after the Miracle on Ice.",
+        "links": [
+            {
+                "source": "(KNBC-TV)",
+                "url": "https://www.nbclosangeles.com/olympics/2026-milan-cortina/team-usa-canada-mens-hockey-gold-medal-game/3851942/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "The Winter Olympics conclude with Norway as the highest-ranked team in the medal table. The Olympic flag is handed over to the organizers of the 2030 Winter Olympics to be held in the French Alps.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/sport/20260222-milan-cortina-hands-over-flag-to-french-alps-for-2030-winter-olympics"
+            }
+        ],
+        "poi": {
+            "country": "France",
+            "state": null,
+            "city": "French Alps",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 45.8919657,
+            "longitude": 6.7119853
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "A suspect is injured in a shootout with a United States Border Patrol agent near the Canada–United States border in Pittsburg, New Hampshire, United States. The Federal Bureau of Investigation says they are investigating.",
+        "links": [
+            {
+                "source": "(CTV News)",
+                "url": "https://www.ctvnews.ca/canada/article/fbi-investigate-shooting-at-canada-new-hampshire-border-crossing-suspect-hospitalized"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "New Hampshire",
+            "city": "Pittsburgh",
+            "institution": "United States Border Patrol"
+        },
+        "coordinate": {
+            "latitude": 42.7382996,
+            "longitude": -71.490689
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-22",
+        "description": "Hernando de Soto is (falsely) announced as the new prime minister of Peru. (Gestión in Spanish). Two days later Denisse Miralles is swor",
+        "links": [
+            {
+                "source": "(Gestión in Spanish)",
+                "url": "https://gestion.pe/peru/politica/hernando-de-soto-sera-el-presidente-del-consejo-de-ministros-noticia/"
+            }
+        ],
+        "poi": {
+            "country": "Peru",
+            "state": null,
+            "city": null,
+            "institution": "Peru"
+        },
+        "coordinate": {
+            "latitude": -6.8699697,
+            "longitude": -75.0458515
+        }
+    }
+]

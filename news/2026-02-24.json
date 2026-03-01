@@ -1,0 +1,396 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Two people are killed, including the suspect, and two others are injured in a suicide bombing targeting a police car near the Savyolovsky railway station in Moscow, Russia.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/node/2634181/world"
+            },
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260224/f3ebd1bdb30b411fae527d0942c6f7ea/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Moscow",
+            "city": "Savyolovsky railway station",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 55.7955692,
+            "longitude": 37.5887393
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "The Foreign Intelligence Service of Russia accuses France and the United Kingdom of preparing to supply Ukraine with a nuclear weapon, prompting the Russian foreign ministry to warn that such a move would lead to a direct conflict between NATO states and Russia.",
+        "links": [
+            {
+                "source": "(TRT World)",
+                "url": "https://www.trtworld.com/article/7210ec0375a5"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/russia-issues-statement-warning-risks-clash-between-nuclear-powers-2026-02-24/"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": null,
+            "city": null,
+            "institution": "Foreign Intelligence Service of Russia"
+        },
+        "coordinate": {
+            "latitude": 64.6863136,
+            "longitude": 97.7453061
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Five police officers are killed by the Pakistani Taliban during two ambushes in Kohat District, Khyber Pakhtunkhwa, Pakistan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-militant-attacks-police-northwest-0d9adcf70f40215d1153b73016642ca7"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Khyber Pakhtunkhwa",
+            "city": "Kohat District",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.333333,
+            "longitude": 71.166667
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "American technology company Meta agrees to purchase millions of artificial intelligence chips from AMD, with AMD committing to supply up to six gigawatts of graphics processing units and issuing Meta warrants convertible into 160 million shares as part of a long-term partnership.",
+        "links": [
+            {
+                "source": "(AFP via The Peninsula Qatar)",
+                "url": "https://thepeninsulaqatar.com/article/24/02/2026/meta-amd-agree-to-major-chips-deal"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": null,
+            "city": null,
+            "institution": "Meta"
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Thirty people are killed, 39 others are reported missing and at least 440 are displaced from their homes after heavy rain triggers flash flooding in Juiz de Fora, Minas Gerais, Brazil.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260224-torrential-rains-leave-23-dead-in-brazil-dozens-missing"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/least-14-dead-after-heavy-rains-hit-southeastern-brazil-2026-02-24/"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": "Minas Gerais",
+            "city": "Juiz de Fora",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -21.7609533,
+            "longitude": -43.3501129
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Four people are killed and several others are injured when an Islamic Republic of Iran Army Aviation Bell AH-1 SuperCobra helicopter crashes into a fruit market in Dorcheh, Isfahan province, Iran.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/iranian-military-helicopter-crashes-into-fruit-market-four-dead-2026-02-24"
+            },
+            {
+                "source": "(JFeed)",
+                "url": "https://www.jfeed.com/news-world/iran-helicopter-crash-isfahan"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": "Isfahan Province",
+            "city": "Dorcheh",
+            "institution": "Unknown"
+        },
+        "coordinate": {
+            "latitude": 32.6171666,
+            "longitude": 51.5560012
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Sierra Leone says that Guinea has detained several of its army and police personnel and seized their ammunition during construction work on border facilities in Sulima Chiefdom, Falaba District.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/sierra-leone-says-members-its-security-forces-held-by-guinea-border-row-2026-02-24/"
+            }
+        ],
+        "poi": {
+            "country": "Sierra Leone",
+            "state": "null",
+            "city": "Sulima Chiefdom, Falaba District",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 8.6400349,
+            "longitude": -11.8400269
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Hungarian prime minister Viktor Orbán announces that Hungary has ended all support for Ukraine, including through European Union framework, until Ukraine resumes oil transfers via the Druzhba pipeline.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/europe/hungarys-premier-says-due-to-druzhba-oil-dispute-he-cant-back-eu-decisions-to-help-ukraine/3838779"
+            }
+        ],
+        "poi": {
+            "country": "Hungary",
+            "state": null,
+            "city": null,
+            "institution": "European Union"
+        },
+        "coordinate": {
+            "latitude": 47.5040322,
+            "longitude": 19.0581958
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Four people are killed and another is critically injured from carbon monoxide poisoning at an apartment building in Kursk Oblast, Russia.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260225/98f725a9237c49c8bd65c4adfc4de1eb/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Kursk Oblast",
+            "city": "Kursk",
+            "institution": "apartment building"
+        },
+        "coordinate": {
+            "latitude": 51.7309249,
+            "longitude": 36.1923123
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "The death toll from an explosion and fire at a six-story residential building in Chattogram, Bangladesh, rises to three.",
+        "links": [
+            {
+                "source": "(News.Az)",
+                "url": "https://news.az/news/death-toll-rises-to-3-in-southeast-bangladesh-gas-blast"
+            }
+        ],
+        "poi": {
+            "country": "Bangladesh",
+            "state": "Chattogram",
+            "city": "Chattogram",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 22.333778,
+            "longitude": 91.8344348
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Denisse Miralles is sworn in as the new Prime Minister of Peru, succeeding Ernesto Álvarez Miranda.",
+        "links": [
+            {
+                "source": "(Andina)",
+                "url": "https://andina.pe/agencia/noticia-peru-denisse-miralles-sworn-in-new-prime-minister-1064350.aspx"
+            }
+        ],
+        "poi": {
+            "country": "Peru",
+            "state": null,
+            "city": null,
+            "institution": "Prime Minister's Office"
+        },
+        "coordinate": {
+            "latitude": -6.8699697,
+            "longitude": -75.0458515
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Bolivia resumes operational cooperation with the United States Drug Enforcement Administration (DEA) to combat drug trafficking and organized crime after a 17-year suspension. Bolivia says the renewed collaboration will include efforts to address money laundering linked to the illicit drug trade.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/bolivia-restores-us-dea-ties-after-17-years-push-against-drug-trafficking-2026-02-24/"
+            }
+        ],
+        "poi": {
+            "country": "Bolivia",
+            "state": null,
+            "city": null,
+            "institution": "United States Drug Enforcement Administration (DEA)"
+        },
+        "coordinate": {
+            "latitude": -17.0568696,
+            "longitude": -64.9912286
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Three Saraya al-Jawad gunmen and a soldier are killed in a shootout in Latakia, Syria.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/25/syria-faces-twin-battles-as-assad-loyalists-and-isil-attack-in-west-east"
+            }
+        ],
+        "poi": {
+            "country": "Syria",
+            "state": "Latakia",
+            "city": "Latakia",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 35.5200185,
+            "longitude": 35.7781044
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "Four police officers are killed and three civilians injured in a suicide bombing at a checkpoint in Bhakkar District, Punjab, Pakistan.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260225/00dac217eb9e4b4ca95659ade610bc1b/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Punjab",
+            "city": "Bhakkar District",
+            "institution": "Checkpoint"
+        },
+        "coordinate": {
+            "latitude": 31.6724528,
+            "longitude": 71.3389501
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "The United Kingdom's Information Commissioner's Office (ICO) fines American social media network Reddit £14.5m for \"using the data of children under the age of 13 unlawfully\", and potentially exposing them to \"inappropriate and harmful content\", including pornography.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/technology/2026/feb/24/reddit-fined-uk-children-under-13-data"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": null,
+            "city": null,
+            "institution": "Information Commissioner's Office (ICO)"
+        },
+        "coordinate": {
+            "latitude": 53.3255164,
+            "longitude": -2.2360092
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "The Myanmar Air Force airstrikes on suspected rebel targets kill at least 17 in the Rakhine state.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/25/military-government-air-strikes-kill-17-in-western-myanmar-state"
+            }
+        ],
+        "poi": {
+            "country": "Myanmar",
+            "state": "Rakhine",
+            "city": "Rakhine State",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 20.1290626,
+            "longitude": 92.894245
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "The governor of South Kivu, Democratic Republic of the Congo, reports the discovery of two mass graves containing at least 172 bodies in Uvira, South Kivu, following the withdrawal of the March 23 Movement (M23) from the city. Rights groups previously reported alleged killings during the M23's presence.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/mass-graves-found-eastern-congo-after-rebel-withdrawal-governor-says-2026-02-27/"
+            }
+        ],
+        "poi": {
+            "country": "Democratic Republic of the Congo",
+            "state": "South Kivu",
+            "city": "Uvira",
+            "institution": "Governor's Office"
+        },
+        "coordinate": {
+            "latitude": -3.4055866,
+            "longitude": 29.1375509
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-24",
+        "description": "At least four people are killed and nine others are injured in an explosion at a house in Antonio Ante Canton, Imbabura Province, Ecuador.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260225/ed7feb4aa2c74d4c93ac27476cd411a0/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Ecuador",
+            "state": "Imbabura Province",
+            "city": "Antonio Ante Canton",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -0.2131169,
+            "longitude": -78.5054317
+        }
+    }
+]

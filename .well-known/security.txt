@@ -1,0 +1,7 @@
+# security.txt for https://newsmap.zhongyao.li
+# Generated on 2026-03-01T18:36:34Z
+
+Contact: https://github.com/jackgdn
+Contact: https://github.com/jackgdn/world-news-map
+Expires: 2027-01-01T00:00:00Z
+Preferred-Languages: zh-CN, en

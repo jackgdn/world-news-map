@@ -1,0 +1,527 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Israel launches an attack on Iran, calling it a preemptive strike.",
+        "links": [
+            {
+                "source": "(The War Zone)",
+                "url": "https://www.twz.com/news-features/iran-is-under-attack"
+            },
+            {
+                "source": "(Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/israel-has-launched-a-preemptive-attack-on-iran-defense-minister-katz-says-sirens-sound-across-israel/"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "The Islamic Republic of Iran Navy's lead Moudge-class frigate IRIS Jamaran is sunk by U.S forces off Chabahar Port.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cn5ge95q6y7t"
+            }
+        ],
+        "poi": {
+            "country": "Dubai",
+            "state": null,
+            "city": "Dubai",
+            "institution": "Burj Khalifa"
+        },
+        "coordinate": {
+            "latitude": 25.1970336,
+            "longitude": 55.2741329
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "The United States takes part in the attack on Iran with president Trump announcing a \"major U.S. combat operation\" targeting Iranian missile facilities and naval assets, and calls on the Iranian military to overthrow Khamenei.",
+        "links": [
+            {
+                "source": "(Iran International)",
+                "url": "https://www.iranintl.com/en/202602281238"
+            },
+            {
+                "source": "(Ynet)",
+                "url": "https://www.ynet.co.il/news/blogs/article/hyvvmuyywl?#HyezEabeKZg"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Iran launches ballistic missiles at a United States Navy facility in Bahrain, targeting the headquarters of the U.S. Fifth Fleet, and Iranian drones strike residential areas of Manama. The Bahraini interior ministry urges citizens and residents to seek nearest safe locations.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c"
+            },
+            {
+                "source": "(AFP via Al Khaleej)",
+                "url": "https://www.alkhaleej.ae/2026-02-28/%D8%B5%D9%81%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AA%D8%AF%D9%88%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D9%82%D9%8A%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%87-%D8%A5%D9%84%D9%89-%D8%A3%D9%82%D8%B1%D8%A8"
+            },
+            {
+                "source": "(Defense Mirror)",
+                "url": "https://defensemirror.com/news/41210/U_S__Naval_Base_in_Bahrain_under_Attack_from_Iran__20_Storey_Building_Damaged_in_Manama"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": "Bahrain",
+            "institution": "United States Navy facility"
+        },
+        "coordinate": {
+            "latitude": 26.1551249,
+            "longitude": 50.5344606
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "The Cabinet of Israel declares a state of emergency related to the strikes on Iran. Israel closes all border crossings with the Gaza Strip, citing security measures, and suspends the rotation of humanitarian personnel.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/us-and-israel-launch-major-joint-assault-on-iran-trump-indicates-goal-is-to-topple-regime/"
+            },
+            {
+                "source": "(AAP via The Canberra Times)",
+                "url": "https://www.canberratimes.com.au/story/9186526/israel-closes-rafah-border-crossing-into-gaza-again/"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": null,
+            "city": null,
+            "institution": "Cabinet of Israel"
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Iran launches missiles at Bahrain, Jordan, Kuwait, Saudi Arabia, and the United Arab Emirates (UAE). Bahrain, Jordan, Kuwait, Qatar, and the UAE state that they have intercepted Iranian missiles. The U.S. embassies in Bahrain and Qatar instruct their personnel to shelter in plac",
+        "links": [
+            {
+                "source": "(AFP via L'Orient–Le Jour)",
+                "url": "https://today.lorientlejour.com/article/1496336/us-embassy-in-qatar-orders-lockdown-for-staff.html"
+            },
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/afp-loud-explosions-heard-saudi-capital-riyadh"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-gulf-arab-states-one-killed-abu-dhabi-2026-02-28/"
+            },
+            {
+                "source": "(Wafa)",
+                "url": "https://english.wafa.ps/Pages/Details/167825"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": null,
+            "city": "Abu Dhabi",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 24.4538352,
+            "longitude": 54.3774014
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "​At least two people are killed and five more are injured when an unidentified airstrike targets the Popular Mobilization Forces headquarters in Jurf al-Nasr, Iraq.",
+        "links": [
+            {
+                "source": "(AFP via Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/air-strike-hits-iraqi-base-hosting-pro-iran-militia-sources-say/"
+            },
+            {
+                "source": "(An-Nahar)",
+                "url": "https://www.annahar.com/international/iran/281231/%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%82%D8%B1-%D9%84%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1-%D9%88%D8%B3%D9%82%D9%88%D8%B7-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89"
+            },
+            {
+                "source": "(The National)",
+                "url": "https://www.thenationalnews.com/news/mena/2026/02/28/iran-backed-militias-in-iraq-say-us-israel-attack-kills-at-least-two-fighters/"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": null,
+            "city": "Jurf al-Nasr",
+            "institution": "Popular Mobilization Forces headquarters"
+        },
+        "coordinate": {
+            "latitude": 32.8681523,
+            "longitude": 44.2159436
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-02-28",
+        "description": "Iran, Iraq, Israel, Kuwait, Qatar, and Syria close their respective airspaces to civilian flights as a precautionary measure, while the UAE partially closes its airspace. Later, the UAE indefinitely suspends all flights from the Al Maktoum and Dubai international airports.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/bulletin/news/dubai-flights-cancelled-iran-attack-airspace-airport-b2929467.html"
+            },
+            {
+                "source": "(Gulf News)",
+                "url": "https://gulfnews.com/uae/gulf-countries-close-airspace-uae-qatar-kuwait-bahrain-suspend-flights-amid-regional-strikes-1.500458416"
+            },
+            {
+                "source": "(Hindustan Times)",
+                "url": "https://www.hindustantimes.com/world-news/indigo-issues-advisory-after-iran-israel-and-iraq-shut-airspace-over-strikes-closely-monitoring-101772267982181.html"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-02-28",
+        "description": "Yemen's Houthis announce the resumption of attacks on Red Sea shipping routes and on Israel in support of Iran.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-protests-us-aircraft-carrier-crackdown-yemen-e0a6b3c72775348c553ad185af5bfb20"
+            }
+        ],
+        "poi": {
+            "country": "Red Sea",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Iranian Shahed drones strike Kuwait International Airport resulting in minor injures to several airport workers as well as damage to the main airport terminal.",
+        "links": [
+            {
+                "source": "(The Times Kuwait)",
+                "url": "https://timeskuwait.com/kuwait-airport-targetted-by-drones/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": "Kuwait",
+            "city": "Kuwait City",
+            "institution": "Kuwait International Airport"
+        },
+        "coordinate": {
+            "latitude": 29.3796532,
+            "longitude": 47.9734174
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Iranian drones strike residential areas of Manama, Bahrain, including a direct hit on a 20-storey tower block.",
+        "links": [
+            {
+                "source": "(Defense Mirror)",
+                "url": "https://defensemirror.com/news/41210/U_S__Naval_Base_in_Bahrain_under_Attack_from_Iran__20_Storey_Building_Damaged_in_Manama"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": "Manama",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 26.2235041,
+            "longitude": 50.5822436
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Iranian defence minister Aziz Nasirzadeh, Islamic Revolutionary Guard Corps (IRGC) commander Mohammad Pakpour, and Expediency Discernment Council member Ali Shamkhani are killed by Israeli strikes.",
+        "links": [
+            {
+                "source": "(AFP via BSS)",
+                "url": "https://www.bssnews.net/international/364834"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/iran-defence-minister-guards-commander-killed-israeli-attacks-three-sources-say-2026-02-28/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "The IRGC Navy announces the closure of the Strait of Hormuz to all vessels.",
+        "links": [
+            {
+                "source": "(News18)",
+                "url": "https://www.news18.com/world/iran-announces-closure-of-strait-of-hormuz-bars-vessel-movement-report-ws-l-9935851.html"
+            }
+        ],
+        "poi": {
+            "country": "Strait of Hormuz",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 26.4494061,
+            "longitude": 56.2027702
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "An Israeli attack on girls' elementary school in Minab reportedly kills 85 student",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/over-50-killed-in-strike-on-girls-elementary-school-in-iran"
+            },
+            {
+                "source": "(EFE)",
+                "url": "https://efe.com/en/latest-news/2026-02-28/at-least-40-girls-killed-in-israeli-strike-on-iranian-school/"
+            },
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/asia-pacific/20260228-us-israeli-strike-on-iranian-school-kills-more-than-50-students-state-media-says"
+            },
+            {
+                "source": "(The New Arab)",
+                "url": "https://www.newarab.com/news/massacre-us-israel-strike-kills-51-southern-iran-school"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Minab",
+            "city": "Minab",
+            "institution": "Elementary School"
+        },
+        "coordinate": {
+            "latitude": 27.1505605,
+            "longitude": 57.0752814
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "At least 21 people are killed and eight others are injured in an explosion at a firecracker factory in Kakinada, Andhra Pradesh, India.",
+        "links": [
+            {
+                "source": "(AFP via CTV News)",
+                "url": "https://www.ctvnews.ca/world/article/blast-at-india-firecracker-factory-kills-21-media"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Andhra Pradesh",
+            "city": "Kakinada",
+            "institution": "Firecracker Factory"
+        },
+        "coordinate": {
+            "latitude": 16.9437385,
+            "longitude": 82.2350607
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Five people are killed when an ammunition and missile depot belonging to the National Guard detonates in Suwayda, Sweida Governorate, Syria.",
+        "links": [
+            {
+                "source": "(AFP via LBCI)",
+                "url": "https://www.lbcgroup.tv/news/middleeastnews/908270/five-killed-in-south-syria-by-depot-explosion-not-iran-missile-state-t/en"
+            },
+            {
+                "source": "(Arabi21)",
+                "url": "https://arabi21.com/story/1740880/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B4%D8%A7%D9%87%D8%AF"
+            }
+        ],
+        "poi": {
+            "country": "Syria",
+            "state": "Sweida Governorate",
+            "city": "Suwayda",
+            "institution": "National Guard"
+        },
+        "coordinate": {
+            "latitude": 32.7093878,
+            "longitude": 36.5687496
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Six people, including a legislator from Emurua Dikirr, are killed when an Airbus Helicopters H125 crashes in Nandi County, Kenya.",
+        "links": [
+            {
+                "source": "(Aviation Safety Network)",
+                "url": "https://aviation-safety.net/wikibase/567466"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/kenyan-mp-among-six-people-killed-helicopter-crash-2026-03-01/"
+            }
+        ],
+        "poi": {
+            "country": "Kenya",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 1.4419683,
+            "longitude": 38.4313975
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "Israel launches an attack on Iran, calling it a preemptive strike, killing several Iranian high-ranking officials including supreme leader Ali Khamenei.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl?post-id=cmm6r22el000c357505j8ahxy"
+            },
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/iran/live-blog/israel-iran-live-updates-rcna261099"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "The Iranian Red Crescent Society reports 201 people have been killed and 747 others have been injured so far in Israeli and American strikes on Iran.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/live/live-updates-israel-iran-february-28-2026"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "The Iranian Red Crescent Society"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "An Iranian missile strikes Tel Aviv, killing a woman, and wounding at least 22 other people, including several seriously, and badly damaging several buildings. Search and rescue efforts are underway.",
+        "links": [
+            {
+                "source": "(Ynet News)",
+                "url": "https://www.ynetnews.com/article/bj3sy0gt11l"
+            },
+            {
+                "source": "(Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/medics-say-at-least-20-hurt-in-tel-aviv-missile-strike-1-person-critical/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": "Tel Aviv",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.0852997,
+            "longitude": 34.7818064
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-28",
+        "description": "One person is killed and seven others are wounded in an Iranian airstrike on Zayed International Airport in Abu Dhabi, United Arab Emirates, while four are injured in a similar airstrike on Dubai International Airport.",
+        "links": [
+            {
+                "source": "(Newswire)",
+                "url": "https://www.newswire.lk/2026/03/01/one-killed-seven-injure-at-abu-dhabi-airport-amid-iranian-strikes/"
+            },
+            {
+                "source": "(AFP via Philippine Daily Inquirer)",
+                "url": "https://globalnation.inquirer.net/311346/dubai-airport-damaged-four-wounded-in-incident-statement"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": null,
+            "city": "Abu Dhabi",
+            "institution": "Zayed International Airport"
+        },
+        "coordinate": {
+            "latitude": 24.4409311,
+            "longitude": 54.637726
+        }
+    }
+]
