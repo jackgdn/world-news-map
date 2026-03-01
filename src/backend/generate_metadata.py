@@ -13,7 +13,7 @@ except ImportError:
     from utils import logger
 
 
-PUBLIC_DIR = Path(__file__).parent.parent / "frontend" / "public"
+PUBLIC_DIR = Path(__file__).parent.parent.parent / "public"
 SITEMAP_FILE = PUBLIC_DIR / "sitemap.xml"
 WELL_KNOWN_DIR = PUBLIC_DIR / ".well-known"
 SECURITY_TXT_FILE = WELL_KNOWN_DIR / "security.txt"
