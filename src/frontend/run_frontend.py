@@ -39,15 +39,15 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     # Allowed paths
     ALLOWED_PATHS = [
-        r'^/$',                    # Root path
-        r'^/index\.html$',         # index.html
-        r'^/styles\.css$',         # styles.css
-        r'^/app\.js$',             # app.js
-        r'^/favicon\.ico$',        # favicon.ico
-        r'^/robots\.txt$',         # robots.txt
-        r'^/sitemap\.xml$',        # sitemap.xml
-        r'^/\.well-known/.*$',     # .well-known directory and all subdirectories
-        r'^/news/[^/]+\.json$',    # /news/*.json
+        r'^/$',                         # Root path
+        r'^/index\.html$',              # index.html
+        r'^/styles\.css$',              # styles.css
+        r'^/app\.js$',                  # app.js
+        r'^/favicon\.ico$',             # favicon.ico
+        r'^/robots\.txt$',              # robots.txt
+        r'^/sitemap\.xml$',             # sitemap.xml
+        r'^/\.well-known/.*$',          # .well-known directory and all subdirectories
+        r'^/news(?:/?|/[^/]+\.json)$',  # news directory and JSON files under it
     ]
 
     def __init__(self, *args, **kwargs):
