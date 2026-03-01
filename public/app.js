@@ -463,6 +463,8 @@ async function fetchNews() {
         });
     });
 
+    noCoordinateItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+
     noCoordinateItems.forEach((item) => {
         tabPanels.other.appendChild(createNewsCard(item, focusOnMarker));
     });
