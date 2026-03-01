@@ -28,7 +28,8 @@ update_interval_hours: 12 # set to 0 to disable automatic updates
 http_server_host: "localhost"
 http_server_port: 8080
 base_url: "http://localhost:8080" # Used to generate sitemap URLs.
-connection_timeout_seconds: 10
+connection_timeout_seconds: 5
+http_listen_backlog: 128 # Maximum number of queued connections.
 
 # IP blocklist configuration
 # Interval in seconds to reload the IP blocklist from the file.

@@ -20,7 +20,8 @@ except Exception as e:
 HTTP_SERVER_HOST = config.get("http_server_host", "localhost")
 HTTP_SERVER_PORT = int(config.get("http_server_port", 8080))
 BASE_URL = config.get("base_url")
-CONNECTION_TIMEOUT_SECONDS = int(config.get("connection_timeout_seconds", 10))
+CONNECTION_TIMEOUT_SECONDS = int(config.get("connection_timeout_seconds", 5))
+HTTP_LISTEN_BACKLOG = int(config.get("http_listen_backlog", 128))
 
 
 # IP blocklist configuration

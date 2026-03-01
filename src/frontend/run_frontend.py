@@ -1,5 +1,6 @@
 import os
 import re
+import socket
 import ssl
 import sys
 import threading
@@ -320,6 +321,70 @@ class WNMThreadingHTTPServer(ThreadingHTTPServer):
 
     daemon_threads = True
 
+    def __init__(self, server_address, RequestHandlerClass, ssl_context=None):
+        self.tls_handshake_timeout_seconds = float(
+            config.CONNECTION_TIMEOUT_SECONDS)
+        self.listen_backlog = int(config.HTTP_LISTEN_BACKLOG)
+        self.ssl_context = ssl_context
+
+        super().__init__(server_address, RequestHandlerClass)
+
+    def server_bind(self):
+        super().server_bind()
+        try:
+            # Increase listen backlog to reduce connection drops under bursts/scans
+            self.socket.listen(self.listen_backlog)
+        except Exception as e:
+            logger.error(f"Failed to set listen backlog: {e}", exc_info=True)
+
+    def get_request(self):
+        """
+        Accept the connection, then perform TLS wrap + handshake with a strict timeout.
+        This avoids blocking the main accept loop indefinitely during SSL handshakes.
+        """
+        newsocket, fromaddr = self.socket.accept()
+
+        try:
+            # Enable TCP keepalive to help the kernel detect dead peers
+            newsocket.setsockopt(socket.SOL_SOCKET, socket.SO_KEEPALIVE, 1)
+        except Exception:
+            pass
+
+        # Wrap accepted socket with TLS if configured
+        if self.ssl_context is not None:
+            try:
+                # Strict timeout for TLS handshake phase
+                newsocket.settimeout(self.tls_handshake_timeout_seconds)
+
+                sslsock = self.ssl_context.wrap_socket(
+                    newsocket,
+                    server_side=True,
+                    do_handshake_on_connect=True,
+                )
+
+                # Clear handshake timeout; handler will apply its own timeout in setup()
+                try:
+                    sslsock.settimeout(None)
+                except Exception:
+                    pass
+
+                return sslsock, fromaddr
+
+            except Exception as e:
+                # Always close on handshake failure to avoid leaking sockets
+                try:
+                    newsocket.close()
+                except Exception:
+                    pass
+
+                logger.error(
+                    f"TLS handshake failed from {fromaddr}: {e}",
+                    exc_info=True,
+                )
+                raise
+
+        return newsocket, fromaddr
+
 
 def run_frontend() -> None:
     httpd = None
@@ -338,7 +403,8 @@ def run_frontend() -> None:
         reload_thread.start()
 
         server_address = (config.HTTP_SERVER_HOST, config.HTTP_SERVER_PORT)
-        httpd = WNMThreadingHTTPServer(server_address, WNMHTTPRequestHandler)
+
+        ssl_ctx = None
 
         # Setup HTTPS if certificates are configured
         cert_path = config.HTTPS_CERTIFICATE_PATH.strip()
@@ -350,23 +416,33 @@ def run_frontend() -> None:
                 logger.info(
                     f"Found certificate files for HTTPS: cert={cert_file}, key={key_file}")
                 try:
-                    ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
-                    ctx.load_cert_chain(
+                    ssl_ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+                    ssl_ctx.load_cert_chain(
                         certfile=str(cert_file),
                         keyfile=str(key_file))
-                    httpd.socket = ctx.wrap_socket(
-                        httpd.socket, server_side=True)
+                    ssl_ctx.minimum_version = ssl.TLSVersion.TLSv1_2
+
+                    try:
+                        ssl_ctx.options |= ssl.OP_NO_COMPRESSION
+                    except Exception:
+                        pass
+
                     logger.info(
                         f"Starting HTTPS server at {config.BASE_URL}...")
                 except Exception as e:
                     logger.error(f"Failed to set up HTTPS: {e}", exc_info=True)
                     logger.info(
                         f"Starting HTTP server at {config.BASE_URL}... (failed to set up HTTPS)")
+                    ssl_ctx = None
             else:
                 logger.info(
                     f"Starting HTTP server at {config.BASE_URL}... (certificate files not found)")
         else:
             logger.info(f"Starting HTTP server at {config.BASE_URL}...")
+
+        httpd = WNMThreadingHTTPServer(
+            server_address, WNMHTTPRequestHandler, ssl_context=ssl_ctx
+        )
 
         httpd.serve_forever()
 
