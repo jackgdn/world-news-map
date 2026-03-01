@@ -51,7 +51,7 @@ class WNMHTTPRequestHandler(SimpleHTTPRequestHandler):
     ]
 
     def __init__(self, *args, **kwargs):
-        self.public_dir = Path(__file__).parent / "public"
+        self.public_dir = Path(__file__).parent.parent.parent / "public"
         super().__init__(*args, directory=self.public_dir, **kwargs)
 
     def setup(self) -> None:

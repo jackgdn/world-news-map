@@ -26,7 +26,7 @@ HTTP_LISTEN_BACKLOG = int(config.get("http_listen_backlog", 128))
 
 # IP blocklist configuration
 RELOAD_BLOCKLIST_INTERVAL_SECONDS = int(
-    config.get("reload_blocklist_interval_seconds"))
+    config.get("reload_blocklist_interval_seconds", 1800))
 
 
 # HTTPS certificate configuration
