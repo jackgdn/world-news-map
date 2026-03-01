@@ -163,6 +163,11 @@ const tabPanels = {
     other: document.getElementById('tab-other'),
     all: document.getElementById('tab-all'),
 };
+const initialSidebarFooter = document.querySelector('.sidebar-footer');
+const sidebarFooterHtml = initialSidebarFooter ? initialSidebarFooter.innerHTML : '';
+if (initialSidebarFooter) {
+    initialSidebarFooter.remove();
+}
 let lastUpdateValue = '--';
 let lastUpdateParsedDate = null;
 let sidebarCollapsed = false;
@@ -331,8 +336,11 @@ function focusOnMarker(item) {
 }
 
 function renderTabHeaders() {
-    tabPanels.other.innerHTML = `<div class="sidebar-header">Other News <span class="header-update">Last Update: ${lastUpdateValue}</span></div>`;
-    tabPanels.all.innerHTML = `<div class="sidebar-header">News List <span class="header-update">Last Update: ${lastUpdateValue}</span></div>`;
+    const footerBlock = sidebarFooterHtml
+        ? `<div class="sidebar-footer">${sidebarFooterHtml}</div>`
+        : '';
+    tabPanels.other.innerHTML = `<div class="sidebar-header">Other News <span class="header-update">Last Update: ${lastUpdateValue}</span></div>${footerBlock}`;
+    tabPanels.all.innerHTML = `<div class="sidebar-header">News List <span class="header-update">Last Update: ${lastUpdateValue}</span></div>${footerBlock}`;
 }
 
 function refreshLastUpdateDisplay() {
@@ -340,10 +348,8 @@ function refreshLastUpdateDisplay() {
         return;
     }
 
-    const timezoneLabel = formatTimezoneLabel(lastUpdateParsedDate);
-    const localText = formatLocalDateTime(lastUpdateParsedDate);
     const relativeText = formatRelativeTime(lastUpdateParsedDate);
-    lastUpdateValue = `${timezoneLabel} ${localText} (${relativeText})`;
+    lastUpdateValue = relativeText || '--';
     renderTabHeaders();
 }
 
