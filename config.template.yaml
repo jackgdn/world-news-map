@@ -1,3 +1,6 @@
+# Configuration template for the World News Map application.
+# Copy this file to config.yaml and fill in the required values.
+
 # Request parameters
 request_interval: 1
 request_timeout: 10
