@@ -28,10 +28,10 @@ The workflow file is .github/workflows/update-news.yml.
   - Manual: workflow_dispatch
 - Runtime: ubuntu-latest, Python 3.10
 - Flow:
-  1) Restore previous news/cache from gh-pages branch
-  2) Clean old news via src/frontend/clean_news.py
-  3) Run backend pipeline via src/backend/run_backend.py
-  4) Force-push generated public content to gh-pages
+  1. Restore previous news/cache from gh-pages branch
+  2. Clean old news via src/frontend/clean_news.py
+  3. Run backend pipeline via src/backend/run_backend.py
+  4. Force-push generated public content to gh-pages
 
 Published gh-pages content includes:
 
