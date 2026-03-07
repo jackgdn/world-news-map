@@ -1,0 +1,686 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Russian forces launch a wave of missile and drone strikes across Ukraine, killing four people, including two civilians in Odesa.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/23/four-killed-in-russian-attacks-in-ukraine-of-eu-ministers-meeting"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": "Odesa",
+            "city": "Odesa",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 46.4843023,
+            "longitude": 30.7322878
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "The death toll among Mexican National Guard troops in Jalisco rises to at least 25 with dozens more wounded amid clashes with Jalisco New Generation Cartel gunmen.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/cx2lp7xwql4o"
+            }
+        ],
+        "poi": {
+            "country": "Mexico",
+            "state": "Jalisco",
+            "city": "Jalisco",
+            "institution": "Mexican National Guard"
+        },
+        "coordinate": {
+            "latitude": 20.3333331,
+            "longitude": -103.6666671
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Three security personnel are killed and two others are injured in a quadcopter strike on a paramilitary fort in Karak District, Khyber Pakhtunkhwa, Pakistan.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260223/41d3801c7a2e42a888ade0b155c78953/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Khyber Pakhtunkhwa",
+            "city": "Karak District",
+            "institution": "Paramilitary Fort"
+        },
+        "coordinate": {
+            "latitude": 33.0922516,
+            "longitude": 71.1100375
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Chad closes its border with Sudan after five Chadian soldiers and three civilians are killed, and 12 others are injured, in clashes between the Rapid Support Forces and militia groups affiliated with the Sudanese government.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/chad-closes-border-with-sudan-after-clashes-kill-five-soldiers-2026-02-23/"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": null,
+            "city": null,
+            "institution": "Rapid Support Forces"
+        },
+        "coordinate": {
+            "latitude": 14.5844444,
+            "longitude": 29.4917691
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Four security personnel and an Islamic State gunman are killed in a shootout at a checkpoint in Raqqa, Syria.",
+        "links": [
+            {
+                "source": "(AFP via Asharq Al-Awsat)",
+                "url": "https://english.aawsat.com/arab-world/5243966-four-syrian-security-personnel-killed-isis-attack"
+            }
+        ],
+        "poi": {
+            "country": "Syria",
+            "state": "Raqqa",
+            "city": "Raqqa",
+            "institution": "Syrian Interior Ministry"
+        },
+        "coordinate": {
+            "latitude": 35.949678,
+            "longitude": 39.0089212
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Panama's canal authority assumes control of the Balboa and Cristóbal ports on the Panama Canal after the Supreme Court annulled the concessions held by Hong Kong–based CK Hutchison, with an 18-month transition period and a new international tender process planned.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260223-panama-takes-control-of-canal-ports-from-ck-hutchison"
+            }
+        ],
+        "poi": {
+            "country": "Panama",
+            "state": null,
+            "city": "Panama City",
+            "institution": "Panama Canal Authority"
+        },
+        "coordinate": {
+            "latitude": 8.9714493,
+            "longitude": -79.5341802
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "A bus plunges off a mountainous section of the Prithvi Highway near Benighat, Nepal, killing 19 people and injuring 25 others.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/c39wz97y90no"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/nepal-bus-accident-mountain-5c89d3db6c992390cd0dd64c513e1cdd"
+            }
+        ],
+        "poi": {
+            "country": "Nepal",
+            "state": "Prithvi Highway",
+            "city": "Benighat",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 27.8053755,
+            "longitude": 84.7056703
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "A Mil Mi-17 helicopter of the Peruvian Air Force that went missing the previous day is found crashed near Chala, Peru. All 15 people on board are confirmed dead.",
+        "links": [
+            {
+                "source": "(AFP via Gulf News)",
+                "url": "https://gulfnews.com/world/americas/15-dead-in-peru-military-helicopter-crash-authorities-1.500452903"
+            }
+        ],
+        "poi": {
+            "country": "Peru",
+            "state": "Peru",
+            "city": "Chala",
+            "institution": "Peruvian Air Force"
+        },
+        "coordinate": {
+            "latitude": -15.8622346,
+            "longitude": -74.2470069
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "British politician Peter Mandelson is arrested on charges of misconduct in public office related to his links to convicted American sex offender Jeffrey Epstein.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cew8jde9pxqt"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 54.7023545,
+            "longitude": -3.2765753
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Rob Jetten is sworn in as the new prime minister of the Netherlands, becoming the country's youngest and its first openly gay prime minister.",
+        "links": [
+            {
+                "source": "(Politico)",
+                "url": "https://www.politico.eu/article/rob-jetten-sworn-in-youngest-dutch-prime-minister/"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/clygj3421pqo"
+            }
+        ],
+        "poi": {
+            "country": "Netherlands",
+            "state": null,
+            "city": null,
+            "institution": "The Netherlands"
+        },
+        "coordinate": {
+            "latitude": 52.2434979,
+            "longitude": 5.6343227
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Hernando de Soto is announced as the new prime minister of Peru.",
+        "links": [
+            {
+                "source": "(Gestión in Spanish)",
+                "url": "https://gestion.pe/peru/politica/hernando-de-soto-sera-el-presidente-del-consejo-de-ministros-noticia/"
+            }
+        ],
+        "poi": {
+            "country": "Peru",
+            "state": null,
+            "city": null,
+            "institution": "Peru"
+        },
+        "coordinate": {
+            "latitude": -6.8699697,
+            "longitude": -75.0458515
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-02-23",
+        "description": "Hugo César \"El Tuli\" Macías Ureña, a right-hand man of El Mencho, who coordinated attacks after his death, is confirmed killed in a shootout with authorities.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Three people are killed in an airstrike by the United States Southern Command on an alleged drug vessel in the Caribbean Sea.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/23/another-us-boat-strike-in-caribbean-sea-kills-three-pentagon-says"
+            }
+        ],
+        "poi": {
+            "country": "Caribbean Sea",
+            "state": null,
+            "city": null,
+            "institution": "United States Southern Command"
+        },
+        "coordinate": {
+            "latitude": 15.0000001,
+            "longitude": -75.0000001
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Nigerian Army troops kill five suspected Lakurawa insurgents near Mayama Hill, Kebbi State, Nigeria, and recover a cache of weapons.",
+        "links": [
+            {
+                "source": "(Channels TV)",
+                "url": "https://www.channelstv.com/2026/02/23/troops-kill-five-terrorists-in-kebbi/"
+            }
+        ],
+        "poi": {
+            "country": "Nigeria",
+            "state": "Kebbi State",
+            "city": "Mayama Hill",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 11.4167574,
+            "longitude": 4.1074545
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "In Ecuador, seven people are killed in a mass shooting in a rural area in Jama, while two people are killed at a seaside resort of San Vincente.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260224/2dd65930333040cbbdd46d6697a9ffb2/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Ecuador",
+            "state": "Manabi Province",
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1.3397668,
+            "longitude": -79.3666965
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Three security personnel are killed and six others are injured, including some seriously, in an ambush on ambulances by unidentified gunmen in Karak District.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/asia-pacific/3-security-personnel-killed-as-gunmen-ambush-ambulances-in-northwest-pakistan/3837896"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Khyber Pakhtunkhwa",
+            "city": "Karak District",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.0922516,
+            "longitude": 71.1100375
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "A nationwide power outage occurs in the Dominican Republic, which the Ministry of Energy and Mines attributes to a transmission line switch malfunction that triggered system protection mechanisms. Power generation begins to recover later in the day, reaching about 30 percent of normal capacity.",
+        "links": [
+            {
+                "source": "(AFP via Jamaica Observer)",
+                "url": "https://www.jamaicaobserver.com/2026/02/23/dominican-republic-hit-major-blackouts/"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/major-grid-failure-triggers-nationwide-blackout-dominican-republic-2026-02-23/"
+            }
+        ],
+        "poi": {
+            "country": "Dominican Republic",
+            "state": null,
+            "city": null,
+            "institution": "Ministry of Energy and Mines"
+        },
+        "coordinate": {
+            "latitude": 19.0974031,
+            "longitude": -70.3028026
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Seven people are killed when a Beechcraft King Air air ambulance crashes in Chatra district, Jharkhand, India.",
+        "links": [
+            {
+                "source": "(Hindustan Times)",
+                "url": "https://www.hindustantimes.com/india-news/chartered-plane-crashes-near-ranchi-7-people-onboard-101771865457647.html"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Jharkhand",
+            "city": "Chatra",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 23.4559809,
+            "longitude": 85.2557301
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Five people are killed and 45 others are injured when a double-decker bus overturns on the Purvanchal Expressway in Lucknow, Uttar Pradesh, India.",
+        "links": [
+            {
+                "source": "(NDTV)",
+                "url": "https://www.ndtv.com/india-news/5-killed-14-injured-as-double-decker-bus-overturns-in-lucknow-police-11126762"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Uttar Pradesh",
+            "city": "Lucknow",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 26.8381,
+            "longitude": 80.9346001
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "A body of one of the three people that were reported missing after a garbage mound collapsed at a landfill in Rodriguez, Rizal, Philippines, three days ago, is recovered. The claims of up to 50 people missing are dismissed.",
+        "links": [
+            {
+                "source": "(Philippine Daily Inquirer)",
+                "url": "https://newsinfo.inquirer.net/2186443/1-dead-2-remain-missing-in-rizal-landfill-collapse"
+            }
+        ],
+        "poi": {
+            "country": "Philippines",
+            "state": "Rizal",
+            "city": "Rodriguez",
+            "institution": "Landfill"
+        },
+        "coordinate": {
+            "latitude": 14.7760318,
+            "longitude": 121.1545796
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Brazil announces that it will revoke a decree expanding the waterways in the Amazon rainforest under a federal privatization program following protests by Indigenous groups.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/brazil-revoke-waterway-decree-after-indigenous-protesters-occupied-cargill-port-2026-02-23/"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": "Amazon",
+            "city": "Amazon River",
+            "institution": "Federal Government"
+        },
+        "coordinate": {
+            "latitude": -10.3333333,
+            "longitude": -53.2
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "France restricts United States ambassador Charles Kushner's direct access to government ministers after he skipped a meeting requested by foreign minister Jean-Noël Barrot to address comments concerning the killing of Quentin Deranque.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/us-ambassador-france-banned-meeting-french-government-2026-02-23/"
+            }
+        ],
+        "poi": {
+            "country": "France",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 46.603354,
+            "longitude": 1.8883335
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Slovak prime minister Robert Fico announces the suspension of emergency electricity supplies to Ukraine amid the Russo-Ukrainian war unless oil transit through the Druzhba pipeline resumes, following a disruption that Slovakia attributes to Ukraine.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": "null",
+            "city": "null",
+            "institution": "Druzhba pipeline"
+        },
+        "coordinate": {
+            "latitude": 48.6073904,
+            "longitude": 22.2911528
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Two people are killed, including the suspect, and two others are injured in a suicide bombing near a train station in Moscow, Russia.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260224/f3ebd1bdb30b411fae527d0942c6f7ea/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Moscow",
+            "city": "Moscow",
+            "institution": "Train Station"
+        },
+        "coordinate": {
+            "latitude": 55.4297846,
+            "longitude": 36.8391716
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Nick Reiner pleads not guilty to stabbing his father, Hollywood director Rob Reiner, and his mother, film producer Michele Singer Reiner, to death in their home in Brentwood, Los Angeles, California, United States, in December.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cly3vm7ddjmo"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "California",
+            "city": "Brentwood",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 36.7014631,
+            "longitude": -118.755997
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Canadian-American author and former researcher Peter Attia resigns from CBS News following backlash after lewd messages between him and Jeffery Epstein were released.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/02/23/business/peter-attia-resigns-from-cbs-news-following-epstein-backlash"
+            }
+        ],
+        "poi": {
+            "country": "Canada",
+            "state": "Alberta",
+            "city": "Calgary",
+            "institution": "CBS News"
+        },
+        "coordinate": {
+            "latitude": 51.0456064,
+            "longitude": -114.057541
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Seven police officers are injured, including two seriously, in a seperate bombing targeting police vehicles at a filling station in Mykolaiv, Ukraine.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/explosion-mykolaiv-injures-seven-ukrainian-police-officers-police-chief-says-2026-02-23"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": "Mykolaiv Oblast",
+            "city": "Mykolaiv",
+            "institution": "Filling station"
+        },
+        "coordinate": {
+            "latitude": 46.9758615,
+            "longitude": 31.9939666
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Spanish prime minister Pedro Sánchez announces the declassification of the documents relating to the attempted coup that took place in the Congress of Deputies in 1981.",
+        "links": [
+            {
+                "source": "(RTVE)",
+                "url": "https://www.rtve.es/noticias/20260223/gobierno-desclasificara-documentos-23-f/16949372.shtml"
+            }
+        ],
+        "poi": {
+            "country": "Spain",
+            "state": null,
+            "city": "Madrid",
+            "institution": "Congress of Deputies"
+        },
+        "coordinate": {
+            "latitude": 40.4164424,
+            "longitude": -3.6970343
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "At least 28 people are killed and 39 others are injured in an attack by the Rapid Support Forces in Misteriha, North Darfur, Sudan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/sudan-darfur-rsf-paramilitary-attack-c7d06dbcb6d7f40139b380de075bf47a"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "North Darfur",
+            "city": "Misteriha",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 13.5401766,
+            "longitude": 23.8223231
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Six people are killed in a fire at a three-story residential building in Meerut, Uttar Pradesh, India.",
+        "links": [
+            {
+                "source": "(Hindustan Times)",
+                "url": "https://www.hindustantimes.com/india-news/six-members-of-family-killed-in-meerut-fire-101771914635405.html"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Uttar Pradesh",
+            "city": "Meerut",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 28.9963296,
+            "longitude": 77.7061915
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "At least six soldiers and National Guards were wounded after an ambush in the Zamora–Carapan highway, Zamora Municipality, Michoacán.",
+        "links": [
+            {
+                "source": "(Quadrantin)",
+                "url": "https://www.quadratin.com.mx/justicia/heridos-6-agentes-de-gn-y-ejercito-en-emboscada-en-la-zamora-carapan/"
+            }
+        ],
+        "poi": {
+            "country": "Mexico",
+            "state": "Michoacán",
+            "city": "Zamora",
+            "institution": "Zamora Municipality"
+        },
+        "coordinate": {
+            "latitude": 19.9828948,
+            "longitude": -102.28363
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-23",
+        "description": "Militiamen suspected to be loyal to the South Sudanese government reportedly lure a dozen civilians from their homes with the promise of humanitarian aid and then shot them dead.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/south-sudan-jonglei-ayod-killings-3a80749870051de4bcebf2083415dc97"
+            }
+        ],
+        "poi": {
+            "country": "South Sudan",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 7.8699431,
+            "longitude": 29.6667897
+        }
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "South Korea's benchmark KOSPI index surpasses 6,000 points for the first time, crossing the threshold shortly after the opening of trading.",
+        "links": [
+            {
+                "source": "(AFP via BSS)",
+                "url": "https://www.bssnews.net/business/363667"
+            }
+        ],
+        "poi": {
+            "country": "South Korea",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 36.638392,
+            "longitude": 127.6961188
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "A Turkish Air Force F-16 fighter jet crashes in western Turkey, killing the pilot.",
+        "links": [
+            {
+                "source": "(NOS)",
+                "url": "https://nos.nl/artikel/2603926-f-16-stort-neer-in-westen-van-turkije-piloot-komt-om"
+            }
+        ],
+        "poi": {
+            "country": "Turkey",
+            "state": "Western Turkey",
+            "city": "Antalya",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 36.8865728,
+            "longitude": 30.7030242
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "The Cuban coast guard trades fire with an American marked speedboat registered in Florida 1 nautical mile (1.9 km; 1.2 mi) off of Cuba. According to Cuban government sources, the boat's occupants fired on coast guard personnel who approached it for identification, and injured a coast guard commander in the shootout, with returning fire killing four and injuring six unidentified gunmen.",
+        "links": [
+            {
+                "source": "(CBS News)",
+                "url": "https://www.cbsnews.com/news/cuba-florida-speedboat-shooting/"
+            }
+        ],
+        "poi": {
+            "country": "Cuba",
+            "state": null,
+            "city": null,
+            "institution": "Cuban Coast Guard"
+        },
+        "coordinate": {
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "The United States announces that it will ease certain restrictions to permit Venezuelan oil exports to Cuba's private sector for commercial and humanitarian purposes amid an energy shortage.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "Israel's Knesset speaker Amir Ohana awards Indian prime minister Narendra Modi the newly established Medal of the Knesset to honor him for his \"significant contributions to the State of Israel and the Jewish people.\"",
+        "links": [
+            {
+                "source": "(Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/modi-awarded-new-medal-of-the-knesset-for-his-significant-contributions-to-israel-and-jews/"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": null,
+            "city": null,
+            "institution": "Knesset"
+        },
+        "coordinate": {
+            "latitude": 31.7764741,
+            "longitude": 35.205383
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "The Supreme Federal Court of Brazil sentences former Rio de Janeiro legislators Chiquinho and Domingos Brazão to 76 years and three months in prison each for ordering the 2018 killing of city councilor Marielle Franco and her driver, convicting them of double aggravated homicide, participation in an armed criminal organization, and attempted murder.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/americas/20260225-brazil-politicians-convicted-for-ordering-murder-of-black-activist-councilor"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": "Rio de Janeiro",
+            "city": "Rio de Janeiro",
+            "institution": "Supreme Federal Court of Brazil"
+        },
+        "coordinate": {
+            "latitude": -22.9110137,
+            "longitude": -43.2093727
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "Mojahedin-e-Khalq (MEK)  fighters allegedly attack Iranian security forces near Supreme Leader Ali Khamenei's headquarters in Tehran. Both MEK and Iranian government sources claim dozens of MEK fighters were killed or arrested, though MEK additionally asserts that government forces also suffered \"heavy losses\" during the alleged clashes.",
+        "links": [
+            {
+                "source": "(Jerusalem Post)",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-887869"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": "Tehran",
+            "institution": "Supreme Leader Ali Khamenei's headquarters"
+        },
+        "coordinate": {
+            "latitude": 35.6892523,
+            "longitude": 51.3896004
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "Seven people are killed and ten others are injured in a Ukrainian drone strike on a fertilizer plant just outside of Dorogobuzh in Smolensk Oblast, Russia.",
+        "links": [
+            {
+                "source": "(TRT World)",
+                "url": "https://www.trtworld.com/article/60d118ee2651"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Smolensk Oblast",
+            "city": "Dorogobuzh",
+            "institution": "Fertilizer Plant"
+        },
+        "coordinate": {
+            "latitude": 54.9148236,
+            "longitude": 33.2989051
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-25",
+        "description": "The death toll from the explosion of a truck on a highway in Santiago, Chile, on February 19, rises to 12. Nine people remain hospitalized, including five in critical condition.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260226/92e6aefa63a04e6c9a8f51f86baddc98/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Chile",
+            "state": "Santiago",
+            "city": "Santiago",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": -33.4377752,
+            "longitude": -70.6505796
+        }
+    }
+]

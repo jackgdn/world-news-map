@@ -1,0 +1,618 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Qatari authorities evacuate residents near the United States embassy in Doha as a precautionary measure.",
+        "links": [
+            {
+                "source": "(AFP via Gulf News)",
+                "url": "https://gulfnews.com/world/gulf/qatar/qatar-evacuates-residents-near-us-embassy-in-doha-1.500463758"
+            }
+        ],
+        "poi": {
+            "country": "Qatar",
+            "state": null,
+            "city": "Doha",
+            "institution": "United States Embassy"
+        },
+        "coordinate": {
+            "latitude": 25.2856329,
+            "longitude": 51.5264162
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "South Korean president Lee Jae Myung orders the activation of a ₩100 trillion (about US$68 billion) stabilization fund to address volatility in the country's financial markets linked to the Iran war.",
+        "links": [
+            {
+                "source": "(AFP via The Economic Times)",
+                "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-korea-activates-68-bn-market-stability-fund-over-mideast-crisis/articleshow/129065643.cms"
+            }
+        ],
+        "poi": {
+            "country": "South Korea",
+            "state": null,
+            "city": null,
+            "institution": "South Korean President's Office"
+        },
+        "coordinate": {
+            "latitude": 36.638392,
+            "longitude": 127.6961188
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The United Kingdom Maritime Trade Operations reports that an explosion struck a tanker anchored in waters about 60 kilometers off the coast of Kuwait, causing an oil spill from a damaged cargo tank.",
+        "links": [
+            {
+                "source": "(AFP via The New Zealand Herald)",
+                "url": "https://www.nzherald.co.nz/world/uk-maritime-agency-reports-explosion-oil-spill-off-kuwait/MIWZUT7Z6RHS5NG5HRUMVN7XLE/"
+            }
+        ],
+        "poi": {
+            "country": "Kuwait",
+            "state": null,
+            "city": null,
+            "institution": "United Kingdom Maritime Trade Operations"
+        },
+        "coordinate": {
+            "latitude": 29.2733964,
+            "longitude": 47.4979476
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "In Kosovo, 120 members of the Kuvendi are due to indirectly elect the president. If no president is elected, the Kuvendi dissolves and new parliamentary elections are set within 45 days.",
+        "links": [
+            {
+                "source": "(DTT-NET)",
+                "url": "https://dtt-net.com/kosovo-headed-toward-new-elections-as-election-of-president-about-to-fail/"
+            }
+        ],
+        "poi": {
+            "country": "Kosovo",
+            "state": null,
+            "city": null,
+            "institution": "Kuvendi"
+        },
+        "coordinate": {
+            "latitude": 42.5869578,
+            "longitude": 20.9021231
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Nepalis vote to elect 275 seats of the House of Representatives nearly six months after the Gen Z protests.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/nepal-shah-oli-protests-election-58cac72e25490c8c6363626a7dc10171"
+            }
+        ],
+        "poi": {
+            "country": "Nepal",
+            "state": null,
+            "city": null,
+            "institution": "House of Representatives"
+        },
+        "coordinate": {
+            "latitude": 28.3780464,
+            "longitude": 83.9999901
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-05",
+        "description": "Spain announces that the frigate Cristóbal Colón will join French aircraft carrier Charles de Gaulle and Greek Navy ships to protect the British military bases in Cyprus.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/world/europe/spain-to-send-frigate-to-cyprus-after-drone-strike"
+            }
+        ],
+        "poi": {
+            "country": "Cyprus",
+            "state": null,
+            "city": null,
+            "institution": "French aircraft carrier Charles de Gaulle, Greek Navy ships, Spanish frigate Cristóbal Colón"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-05",
+        "description": "Italy announces that it will dispatch naval assets to Cyprus. The Dutch navy is also joining the European naval task force.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/03/05/spain-italy-and-netherlands-join-european-naval-deployment-to-cyprus"
+            }
+        ],
+        "poi": {
+            "country": "Cyprus",
+            "state": null,
+            "city": null,
+            "institution": "Navy Base"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Suspected Iranian drones strike Nakhchivan International Airport in Azerbaijan, targeting the passenger terminal. At least two people are injured.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/03/05/iranian-drones-strike-azerbaijans-razi-airport-in-nakhchivan"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/missiles-drones-coming-iran-fell-airport-azerbaijan-source-says-2026-03-05/"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/c62gg44d53xt"
+            }
+        ],
+        "poi": {
+            "country": "Azerbaijan",
+            "state": null,
+            "city": "Nakhchivan",
+            "institution": "Nakhchivan International Airport"
+        },
+        "coordinate": {
+            "latitude": 39.217497,
+            "longitude": 45.4069671
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The United Arab Emirates's air defence systems intercept six ballistic missiles and 125 drones launched by Iran.  Six people were injured by falling debris over Abu Dhabi.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/5/drone-targets-us-base-in-iraq-as-iran-attacks-hit-region-amid-us-israel-war"
+            },
+            {
+                "source": "(The National News)",
+                "url": "https://www.thenationalnews.com/news/mena/2026/03/05/live-israel-us-iran-missiles-uae/"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 26.1551249,
+            "longitude": 50.5344606
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The United Arab Emirates's air defence systems intercept six ballistic missiles and 125 drones launched by Iran.",
+        "links": [
+            {
+                "source": "(The National News)",
+                "url": "https://www.thenationalnews.com/news/mena/2026/03/05/live-israel-us-iran-missiles-uae/"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 24.0002488,
+            "longitude": 53.9994829
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "United States president Donald Trump says U.S. Air Force jets will provide \"extensive air cover\" for Kurdish forces in any ground offensive against the Iranian government.",
+        "links": [
+            {
+                "source": "(The Telegraph)",
+                "url": "https://www.telegraph.co.uk/world-news/2026/03/05/iran-latest-news-trump-israel-us-war-netanyahu/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "U.S. Air Force Base"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The Israeli military issues an evacuation order for Dahieh, Beirut, Lebanon, a densely populated suburb which is also a stronghold of Hezbollah, telling residents to \"save your lives and evacuate your homes immediately\". Thousands of people flee following the warning.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/idf-issues-unprecedented-evacuation-warning-for-entire-hezbollah-stronghold-in-beirut/"
+            },
+            {
+                "source": "(The Los Angeles Times)",
+                "url": "https://www.latimes.com/world-nation/story/2026-03-05/thousands-flee-beirut-suburbs-after-unprecedented-israeli-evacuation-order"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Tel Aviv District or Haifa District or Other relevant district",
+            "city": "Dahieh or Beirut",
+            "institution": "Hezbollah"
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The Ukrainian Navy shoots down a Russian Naval Aviation Kamov Ka-27 helicopter over the Black Sea.",
+        "links": [
+            {
+                "source": "(RBC-Ukraine)",
+                "url": "https://newsukraine.rbc.ua/news/ukrainian-navy-destroys-russian-ka-27-helicopter-1772716052.html"
+            },
+            {
+                "source": "(ASN)",
+                "url": "https://aviation-safety.net/wikibase/567623"
+            }
+        ],
+        "poi": {
+            "country": "Black Sea",
+            "state": null,
+            "city": null,
+            "institution": "Ukrainian Navy"
+        },
+        "coordinate": {
+            "latitude": 43.872824,
+            "longitude": 33.9938077
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "At least six people are killed, eight others are rescued, and six are trapped when a nursing home collapses in Belo Horizonte, Minas Gerais, Brazil.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260306/27289fffb62c47708007d94f489426b1/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": "Minas Gerais",
+            "city": "Belo Horizonte",
+            "institution": "Nursing Home"
+        },
+        "coordinate": {
+            "latitude": -19.9227318,
+            "longitude": -43.9450948
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Two people are killed and four others are injured when a Beechcraft 1900 of the Algerian Air Force crashes at Boufarik Airport near Boufarik, Blida Province, Algeria.",
+        "links": [
+            {
+                "source": "(ASN)",
+                "url": "https://aviation-safety.net/wikibase/567625"
+            }
+        ],
+        "poi": {
+            "country": "Algeria",
+            "state": "Blida Province",
+            "city": "Boufarik",
+            "institution": "Algerian Air Force"
+        },
+        "coordinate": {
+            "latitude": 36.5755523,
+            "longitude": 2.9128963
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The Lebanese cabinet bans activities by members of Iran's Islamic Revolutionary Guard Corps within Lebanon and instructs authorities to detain and deport individuals linked to the group. The cabinet also introduces a visa requirement for Iranian nationals entering the country.",
+        "links": [
+            {
+                "source": "(AFP via Al-Ahram)",
+                "url": "https://english.ahram.org.eg/News/563456.aspx"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.8750629,
+            "longitude": 35.843409
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Ecuador declares Cuba's ambassador to the country a persona non grata and orders him and all his diplomatic staff to leave the country within 48 hours. Shortly after the announcement, a man was filmed by the Associated Press on the roof of the Cuban embassy in Quito burning a bag of papers.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/ecuador-cuba-trump-noboa-bc7b4bab79e54a39bb8f18d683105b22"
+            }
+        ],
+        "poi": {
+            "country": "Ecuador",
+            "state": null,
+            "city": "Quito",
+            "institution": "Cuban Embassy in Ecuador"
+        },
+        "coordinate": {
+            "latitude": -0.2201641,
+            "longitude": -78.5123274
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "U.S. president Donald Trump dismisses Kristi Noem as Secretary of Homeland Security and nominates Oklahoma senator Markwayne Mullin to replace her.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/news/world/americas/us-politics/kristi-noem-fired-homeland-security-secretary-trump-b2932900.html"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": null,
+            "city": null,
+            "institution": "Homeland Security Department"
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Iranian foreign minister Abbas Araghchi says that Iran is not seeking a ceasefire or negotiations with the United States.",
+        "links": [
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/2026/03/05/iran-us-war-invasion-abbas-araghchi.html"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "China is reportedly in talks with Iran to allow crude oil and Qatari liquefied natural gas vessels safe passage through the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/china-talks-with-iran-allow-safe-oil-gas-passage-through-hormuz-sources-say-2026-03-05/"
+            }
+        ],
+        "poi": {
+            "country": "China",
+            "state": null,
+            "city": null,
+            "institution": "Strait of Hormuz"
+        },
+        "coordinate": {
+            "latitude": 35.000074,
+            "longitude": 104.999927
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-05",
+        "description": "Russia and Ukraine exchange prisoners of war, with 200 soldiers returned to each side.",
+        "links": [
+            {
+                "source": "(Meduza)",
+                "url": "https://meduza.io/news/2026/03/05/minoborony-rf-soobschilo-ob-obmene-plennymi-s-ukrainoy-storony-peredali-drug-drugu-po-200-voennosluzhaschih"
+            }
+        ],
+        "poi": {
+            "country": "Russia and Ukraine",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Around 24 U.S. states file a lawsuit against the Trump administration after president Trump imposed a 10% global tariff, the first lawsuit challenging those tariffs.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/legal/government/twelve-us-states-announce-lawsuit-stop-trumps-latest-global-tariffs-2026-03-05/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Various",
+            "city": "Various",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-05",
+        "description": "Australia and New Zealand deploy military assets, including two RNZAF aircraft, and crisis response teams to the Middle East to assist and evacuate their respective nationals.",
+        "links": [
+            {
+                "source": "(AFP via Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/middle-east/2026/03/05/australia-pm-says-military-assets-deployed-to-middle-east"
+            }
+        ],
+        "poi": {
+            "country": "Middle East",
+            "state": null,
+            "city": null,
+            "institution": "RNZAF Base (Middle East)"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "The United States and Venezuela agree to re-establish diplomatic and consular relations.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20260306-us-venezuela-restore-ties-as-washington-pushes-for-minerals-access"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "Belarusian president Alexander Lukashenko pardons 18 political prisoners, including 15 for political charges and three who were convicted of unspecified crimes.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/belarus-leader-lukashenko-pardons-18-prisoners-his-administration-says-2026-03-05/"
+            }
+        ],
+        "poi": {
+            "country": "Belarus",
+            "state": null,
+            "city": null,
+            "institution": "Belarusian President's Office"
+        },
+        "coordinate": {
+            "latitude": 53.4250605,
+            "longitude": 27.6971358
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "In Kosovo, the 120 members of the Kuvendi fail to elect the president. The Kuvendi is expected to dissolve, with parliamentary elections scheduled to be set within 45 days.",
+        "links": [
+            {
+                "source": "(DTT-NET)",
+                "url": "https://dtt-net.com/kosovo-goes-early-elections-again-as-election-of-president-fails/"
+            },
+            {
+                "source": "(RKS)",
+                "url": "https://rks.news/no-quorum-to-continue-presidential-vote-in-kosovo-parliament/"
+            }
+        ],
+        "poi": {
+            "country": "Kosovo",
+            "state": null,
+            "city": null,
+            "institution": "Kuvendi"
+        },
+        "coordinate": {
+            "latitude": 42.5869578,
+            "longitude": 20.9021231
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "An Indian Air Force Su-30MKI fighter jet crashes shortly after taking off from Jorhat Airport in Karbi Anglong district, Assam, India, killing both pilots.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/india-fighter-jet-sukhoi-crash-063aae0943b9201ddd5dffd7219d8334"
+            },
+            {
+                "source": "(Deccan Herald)",
+                "url": "https://www.deccanherald.com/india/assam/two-indian-air-force-pilots-killed-in-su-30-mki-fighter-jet-crash-in-assam-3921603"
+            }
+        ],
+        "poi": {
+            "country": "India",
+            "state": "Assam",
+            "city": "Jorhat",
+            "institution": "Jorhat Airport"
+        },
+        "coordinate": {
+            "latitude": 26.7293429,
+            "longitude": 94.1720967
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-05",
+        "description": "French president Emmanuel Macron announces that France will strengthen its cooperation with the Lebanese Armed Forces and provide them with armored transport vehicles as well as operational and logistical support.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/france-to-send-armored-vehicles-to-lebanon-macron-says/"
+            }
+        ],
+        "poi": {
+            "country": "France",
+            "state": null,
+            "city": null,
+            "institution": "French presidency"
+        },
+        "coordinate": {
+            "latitude": 46.603354,
+            "longitude": 1.8883335
+        }
+    }
+]

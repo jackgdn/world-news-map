@@ -1,0 +1,153 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "Afghanistan announces attacks against Pakistani military positions along their shared border in response to Pakistani air strikes launched 4 days prior. Pakistan, in turn, says its forces have responded.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/2/26/afghanistan-says-it-launches-attacks-against-pakistan"
+            }
+        ],
+        "poi": {
+            "country": "Afghanistan",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.7680065,
+            "longitude": 66.2385139
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "The death toll from the floods across Minas Gerais, Brazil, rises to 54 people, with fourteen more still missing.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260226-more-rain-lashes-southeast-brazil-as-death-toll-hits-54"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": "Minas Gerais",
+            "city": "None",
+            "institution": "None"
+        },
+        "coordinate": {
+            "latitude": -18.8453047,
+            "longitude": -42.2876053
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "A Greek court sentences four individuals, including Intellexa's Israel-based founder Tal Dilian, to eight years in prison for breaching data and violating privacy laws after they deployed the Predator spyware, targeting the mobile phones of more than 90 politicians, journalists, businesspeople, and military officials in 2022.",
+        "links": [
+            {
+                "source": "(AFP via Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/greek-spyware-scandal-suspects-including-two-israelis-get-8-year-jail-terms/"
+            }
+        ],
+        "poi": {
+            "country": "Greece",
+            "state": null,
+            "city": null,
+            "institution": "Cyberspace"
+        },
+        "coordinate": {
+            "latitude": 38.9953683,
+            "longitude": 21.9877132
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "Danish prime minister Mette Frederiksen calls a snap election for March 24 amid the Greenland crisis.",
+        "links": [
+            {
+                "source": "(AP via NBC News)",
+                "url": "https://www.nbcnews.com/world/europe/denmark-calls-early-election-tense-us-greenland-standoff-rcna260824"
+            }
+        ],
+        "poi": {
+            "country": "Greenland",
+            "state": null,
+            "city": null,
+            "institution": "Prime Minister's Office"
+        },
+        "coordinate": {
+            "latitude": 77.6192349,
+            "longitude": -42.8125967
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "Seven people are killed and 25 others are injured after a gas cylinder explodes inside a house in Chaman, Pakistan.",
+        "links": [
+            {
+                "source": "(Daily Times)",
+                "url": "https://dailytimes.com.pk/1457031/gas-cylinder-blast-kills-seven-in-chaman-home/"
+            }
+        ],
+        "poi": {
+            "country": "Pakistan",
+            "state": "Chaman",
+            "city": "Chaman",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 30.915948,
+            "longitude": 66.4631051
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "Albanian prime minister Edi Rama dismisses deputy prime minister and infrastructure minister Belinda Balluku after anti-corruption prosecutors indicted her on suspicion of interfering in the award of two public construction contracts worth more than €200 million.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/albanian-pm-fires-deputy-corruption-investigation-heats-up-2026-02-26/"
+            }
+        ],
+        "poi": {
+            "country": "Albania",
+            "state": null,
+            "city": null,
+            "institution": "Albanian Government"
+        },
+        "coordinate": {
+            "latitude": 41.000028,
+            "longitude": 19.9999619
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-02-26",
+        "description": "Green Party candidate Hannah Spencer wins the constituency of Gorton and Denton in Greater Manchester, England, in the party's first by-election win.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html"
+            },
+            {
+                "source": "(The Washington Post)",
+                "url": "https://www.washingtonpost.com/world/2026/02/26/uk-election-starmer-labour-reform-greens-gorton/70361f42-12f7-11f1-8e8d-fe91db44677b_story.html"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": "Greater Manchester",
+            "city": "Gorton and Denton",
+            "institution": "Green Party"
+        },
+        "coordinate": {
+            "latitude": 53.5065249,
+            "longitude": -2.3374401
+        }
+    }
+]

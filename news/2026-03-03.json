@@ -1,0 +1,581 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Explosions and fires are reported at the United States embassy in Riyadh, Saudi Arabia, following a series of Iranian drone strikes.",
+        "links": [
+            {
+                "source": "(YnetNews)",
+                "url": "https://www.ynetnews.com/article/mspwyx63s"
+            }
+        ],
+        "poi": {
+            "country": "Saudi Arabia",
+            "state": null,
+            "city": "United States Embassy in Saudi Arabia",
+            "institution": "United States Embassy"
+        },
+        "coordinate": {
+            "latitude": 25.6242618,
+            "longitude": 42.3528328
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "An Iranian drone strike damages Al Minhad Air Base, the headquarters of the Australian military's Joint Task Force 633. Australian defence minister Richard Marles confirms that there were no casualties in the strike.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/australia-says-defence-personnel-safe-after-drone-attack-near-dubai-air-base-2026-03-03/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Al Minhad Air Base"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-03",
+        "description": "A total lunar eclipse occurs in eastern Asia, Oceania, Pacific, and the Americas.",
+        "links": [
+            {
+                "source": "(EclipseWise)",
+                "url": "https://eclipsewise.com/lunar/LEprime/2001-2100/LE2026Mar03Tprime.html"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "A large fire is reported at an oil terminal in Fujairah, United Arab Emirates, following an Iranian Shahed drone attack.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/video/fire-at-uaes-fujairah-oil-facility-as-drone-attack-intercepted-13514579"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": "Fujairah",
+            "city": "Fujairah",
+            "institution": "Oil Terminal"
+        },
+        "coordinate": {
+            "latitude": 25.198839,
+            "longitude": 56.3542257
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "France deploys Rafale fighter jets to the UAE in response to Iranian attacks, according to French foreign minister Jean-Noël Barrot.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/middle-east/20260303-france-deploys-fighter-jets-over-uae-to-protect-its-military-bases"
+            }
+        ],
+        "poi": {
+            "country": "France",
+            "state": null,
+            "city": null,
+            "institution": "French Foreign Ministry"
+        },
+        "coordinate": {
+            "latitude": 46.603354,
+            "longitude": 1.8883335
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-03",
+        "description": "British prime minister Keir Starmer says he has approved the deployment of Royal Navy warship HMS Dragon to the island of Cyprus to protect the British Overseas Territory of Akrotiri and Dhekelia from further Iranian attacks.",
+        "links": [
+            {
+                "source": "(Cyprus Mail)",
+                "url": "https://cyprus-mail.com/2026/03/03/uks-starmer-announces-deployment-of-hms-dragon-warship-to-cyprus"
+            }
+        ],
+        "poi": {
+            "country": "Cyprus",
+            "state": null,
+            "city": null,
+            "institution": "Royal Navy"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "The Iranian Red Crescent Society says the death toll from Israeli and American airstrikes in Iran has risen to 787 with thousands more wounded.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-israel-us-03-03-2026-8755877b603e46ed3df8107689c1ee23"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "The Iranian Red Crescent Society"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-03-03",
+        "description": "The Israeli Air Force strikes the presidential administration and Supreme National Security Council buildings in Tehran, Iran, with \"multiple munitions\".",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cy0dp1l57nxt"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "U.S. Secretary of State Marco Rubio discloses that the initial U.S. attack on Iran was due to an Israeli intention to attack Iranian leadership, which would have jeopardized U.S. forces in the region.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://dw.com/de/news-kompakt-usa-begr%25C3%25BCnden-iran-angriff-mit-israel-pl%25C3%25A4nen-s%25C3%25BCdsudan-frankreich-atomwaffen-merz-trump/a-76192273"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "U.S. Department of State"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "The International Atomic Energy Agency confirms the entrances to the underground Natanz Nuclear Facility in Iran have been bombed. However, there are no signs of any increase in radiation at the facility.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/china/iaea-confirms-entrances-irans-natanz-enrichment-plant-were-bombed-2026-03-03/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": "Natanz",
+            "institution": "International Atomic Energy Agency"
+        },
+        "coordinate": {
+            "latitude": 33.5071275,
+            "longitude": 51.9135547
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Airstrikes hit the Assembly of Experts building in Qom, Iran. The building appears to have been severely damaged in the attack.",
+        "links": [
+            {
+                "source": "(Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/middle-east/2026/03/03/iran-says-strikes-hit-building-of-body-responsible-for-choosing-new-supreme-leader"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": "Qom",
+            "institution": "Assembly of Experts"
+        },
+        "coordinate": {
+            "latitude": 34.6422939,
+            "longitude": 50.8801184
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Following a series of drone and rocket attacks by Hezbollah, the Israeli military launch a ground offensive into Lebanon, capturing several positions along the Israel—Lebanon border.",
+        "links": [
+            {
+                "source": "(7 Israel)",
+                "url": "https://www.israelnationalnews.com/news/423289"
+            },
+            {
+                "source": "(Turkiye Today)",
+                "url": "https://www.turkiyetoday.com/region/israeli-ground-forces-enter-southern-lebanon-as-war-on-iran-expands-3215510"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Lebanon",
+            "city": "border",
+            "institution": "Israeli military"
+        },
+        "coordinate": {
+            "latitude": 32.325226,
+            "longitude": 34.8759262
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "The Taliban confirms 28 Afghan troops have been killed in recent clashes with Pakistani forces along their border. The UN Assistance Mission in Afghanistan reports at least 42 civilians have been killed.",
+        "links": [
+            {
+                "source": "(Hasht-e-Subh Daily)",
+                "url": "https://8am.media/eng/taliban-confirms-28-fighters-killed-in-clashes-with-pakistan/"
+            }
+        ],
+        "poi": {
+            "country": "Afghanistan",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.7680065,
+            "longitude": 66.2385139
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Two people are killed and three others are critically injured after a helicopter crashes in Pililla, Rizal, Philippines.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/se-asia/helicopter-crash-kills-two-in-philippines"
+            }
+        ],
+        "poi": {
+            "country": "Philippines",
+            "state": "Rizal",
+            "city": "Pililla",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 14.4811791,
+            "longitude": 121.3075948
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Trinidad and Tobago declares a new state of emergency in response to a wave of violent crime in the country, including 63 murders since the beginning of the year and a series of gang-related mass shootings.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/trinidad-state-of-emergency-tobago-crime-gangs-kamla-4a8777b64acd62d3d2ebca44cb779a0f"
+            }
+        ],
+        "poi": {
+            "country": "Trinidad and Tobago",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 10.7466905,
+            "longitude": -61.0840075
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Qatar announces it has arrested 10 people from two Islamic Revolutionary Guard Corps cells for espionage and sabotage.",
+        "links": [
+            {
+                "source": "(Gulf Times)",
+                "url": "https://www.gulf-times.com/article/721786/qatar/qatar-arrests10-suspects-oftwo-cellslinked-to-irg"
+            }
+        ],
+        "poi": {
+            "country": "Qatar",
+            "state": null,
+            "city": null,
+            "institution": "Islamic Revolutionary Guard Corps"
+        },
+        "coordinate": {
+            "latitude": 25.3336984,
+            "longitude": 51.2295295
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-03",
+        "description": "Jordan reopens their airspace to civilian aviation traffic, including for transits, arrivals, and departures, after a closure that has been in effect since Monday evening.",
+        "links": [
+            {
+                "source": "(Ammon News)",
+                "url": "https://en.ammonnews.net/mobile/article/89523"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": "Jordan"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "The U.S. Southern Command announces that the U.S. military has joined the Ecuadorian Armed Forces against narcoterrorists and drug cartels in the country.",
+        "links": [
+            {
+                "source": "(Politico)",
+                "url": "https://www.politico.com/news/2026/03/03/us-military-operations-ecuador-00811272"
+            }
+        ],
+        "poi": {
+            "country": "Ecuador",
+            "state": null,
+            "city": null,
+            "institution": "U.S. Southern Command"
+        },
+        "coordinate": {
+            "latitude": -1.3397668,
+            "longitude": -79.3666965
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Russian liquified natural gas (LNG) tanker Arctic Metagaz catches fire in the Mediterranean Sea after being struck by a Ukrainian naval drone.",
+        "links": [
+            {
+                "source": "(Kyiv Independent)",
+                "url": "https://kyivindependent.com/russian-tanker-reportedly-on-fire-in-mediterranean-sea-media-reports/"
+            },
+            {
+                "source": "(The Moscow Times)",
+                "url": "https://www.themoscowtimes.com/2026/03/04/ukrainian-naval-drone-attacked-russian-flagged-lng-tanker-near-malta-transportation-ministry-confirms-a92113"
+            }
+        ],
+        "poi": {
+            "country": "Mediterranean Sea",
+            "state": null,
+            "city": null,
+            "institution": "Arctic Metagaz"
+        },
+        "coordinate": {
+            "latitude": 35.0000035,
+            "longitude": 19.9999957
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-03",
+        "description": "Astronomers announce the discovery 1,900 light-years from Earth of TIC 120362137, the tightest known quadruple star system, using data from NASA's Transiting Exoplanet Survey Satellite.",
+        "links": [
+            {
+                "source": "(Space.com)",
+                "url": "https://www.space.com/astronomy/stars/this-record-breaking-quadruple-star-system-is-so-jam-packed-it-could-fit-between-jupiter-and-our-sun"
+            }
+        ],
+        "poi": {
+            "country": "null",
+            "state": "null",
+            "city": "null",
+            "institution": "Transiting Exoplanet Survey Satellite"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "U.S. forces destroy Iran's lead Shahid Soleimani-class corvette, the IRIS Shahid Soleimani.",
+        "links": [
+            {
+                "source": "(Naval News)",
+                "url": "https://www.navalnews.com/naval-news/2026/03/irans-catamaran-corvette-struck-during-operation-epic-fury/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Cuban prosecutors charge six Cuban nationals with \"crimes of terrorism\" and accuse them of entering Cuba with a US-flagged boat to cause unrest in the country, which was intercepted by the Cuban coast guard, resulting in a shootout.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/cuba-charges-6-with-terrorism-over-speedboat-shootout/a-76207233"
+            }
+        ],
+        "poi": {
+            "country": "Cuba",
+            "state": null,
+            "city": null,
+            "institution": "Cuban Coast Guard"
+        },
+        "coordinate": {
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-03",
+        "description": "The United Kingdom announces that it will stop issuing student visas to nationals of Afghanistan, Cameroon, Myanmar, and Sudan and suspend work visas for Afghan nationals, citing a rise in asylum applications from individuals entering through legal visa processes.",
+        "links": [
+            {
+                "source": "(AFP via CNA)",
+                "url": "https://www.channelnewsasia.com/world/uk-stop-issuing-study-visas-myanmar-afghanistan-sudan-cameroon-5968591"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "More than 200 people are killed, including around 70 minors, when a landslide collapses a mine at the Rubaya mines in Masisi Territory, North Kivu, Democratic Republic of the Congo. A different landslide collapsed mines at the same site in January, killing over 400.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260305/c28d8bee99e34ed99d9d2644d5d1efe6/c.html"
+            },
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/africa/over-100-killed-in-landslide-at-mining-site-in-eastern-dr-congo-report/3849584"
+            }
+        ],
+        "poi": {
+            "country": "Democratic Republic of the Congo",
+            "state": "North Kivu",
+            "city": "Masisi Territory",
+            "institution": "Rubaya mines"
+        },
+        "coordinate": {
+            "latitude": 40.0634223,
+            "longitude": 44.4426282
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Oman Foreign Minister Badr bin Hamad Al Busaidi renews his push for diplomacy, stating that diplomatic options are still available.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/3/oman-calls-for-immediate-ceasefire-says-off-ramps"
+            }
+        ],
+        "poi": {
+            "country": "Oman",
+            "state": null,
+            "city": null,
+            "institution": "Oman Foreign Ministry"
+        },
+        "coordinate": {
+            "latitude": 30.5081737,
+            "longitude": 47.8338638
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Purported yakuza leader Takeshi Ebisawa is convicted by a New York federal court and sentenced to 20 years in prison for trafficking nuclear material, drugs, and weapons.",
+        "links": [
+            {
+                "source": "(Japan Times)",
+                "url": "https://www.japantimes.co.jp/news/2026/03/04/japan/crime-legal/yakuza-new-york-court-sentence/"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": "New York",
+            "city": "New York",
+            "institution": "Federal Court"
+        },
+        "coordinate": {
+            "latitude": 43.1576414,
+            "longitude": -77.6133531
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-03",
+        "description": "Anti-war protests are held in Des Moines, Iowa, against the US-Israel strikes.",
+        "links": [
+            {
+                "source": "(USA Today)",
+                "url": "https://www.usatoday.com/story/news/local/des-moines/2026/03/03/des-moines-protesters-us-war-iran/88949238007/"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": "Iowa",
+            "city": "Des Moines",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 41.5868654,
+            "longitude": -93.6249494
+        }
+    }
+]
