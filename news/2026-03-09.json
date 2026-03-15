@@ -1,0 +1,396 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Turkey and NATO forces shoot down a suspected Iranian ballistic missile violating Turkish airspace, with debris falling in Gaziantep Province.",
+        "links": [
+            {
+                "source": "(Türkiye Today)",
+                "url": "https://www.turkiyetoday.com/region/iranian-missile-downed-in-turkiyes-southeast-second-incident-in-week-3215911"
+            },
+            {
+                "source": "(Türkiye Today)",
+                "url": "https://www.turkiyetoday.com/region/iran-denies-firing-missile-toward-turkiye-says-it-respects-sovereignty-3215630"
+            }
+        ],
+        "poi": {
+            "country": "Turkey",
+            "state": "Gaziantep Province",
+            "city": "Gaziantep",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 37.0628317,
+            "longitude": 37.3792617
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Bapco Energies declares force majeure on certain refinery operations in Bahrain after damage to its facilities by Iranian strikes, temporarily affecting shipments.",
+        "links": [
+            {
+                "source": "(AFP via Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/gulf/2026/03/09/bahrain-s-bapco-declares-force-majeure-after-iran-strikes-statement"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": "Bahrain",
+            "institution": "Bapco Energies refinery"
+        },
+        "coordinate": {
+            "latitude": 26.1551249,
+            "longitude": 50.5344606
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Bangladesh closes all universities by advancing the Eid al-Fitr holidays as part of emergency measures to reduce electricity consumption during an energy crisis linked to the Iran war.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/bangladesh-shuts-universities-early-save-power-amid-energy-crisis-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "Bangladesh",
+            "state": null,
+            "city": null,
+            "institution": "University of Dhaka"
+        },
+        "coordinate": {
+            "latitude": 23.7312443,
+            "longitude": 90.3915283
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "At least fourteen migrants are found drowned and seven others are rescued after their boat collides with a Coast Guard boat off the coast of Demre, Antalya Province, Turkey.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/turkey-migrants-drown-mediterranean-chase-collision-b399ada90696efa6c34c14640ed42652"
+            }
+        ],
+        "poi": {
+            "country": "Turkey",
+            "state": "Antalya Province",
+            "city": "Demre",
+            "institution": "Coast Guard"
+        },
+        "coordinate": {
+            "latitude": 36.5258807,
+            "longitude": 29.6486485
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "The death toll from floods in Nairobi, Kenya, rises to 42.",
+        "links": [
+            {
+                "source": "(CBC)",
+                "url": "https://www.cbc.ca/news/world/kenya-nairobi-floods-death-toll-rises-9.7120228"
+            }
+        ],
+        "poi": {
+            "country": "Kenya",
+            "state": "Nairobi",
+            "city": "Nairobi",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 1.4419683,
+            "longitude": 38.4313975
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Azerbaijan reopens its border crossings with Iran to cargo traffic after closing them following a drone incident in the Nakhchivan Autonomous Republic. Iranian president Masoud Pezeshkian, who denies Iran's involvement, tells Azerbaijani president Ilham Aliyev that Iran is investigating the incident.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/azerbaijan-reopens-iran-border-cargo-traffic-after-drone-incident-tass-reports-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "Azerbaijan",
+            "state": "Nakhchivan Autonomous Republic",
+            "city": "Nakhchivan",
+            "institution": "Nakhchivan Autonomous Republic"
+        },
+        "coordinate": {
+            "latitude": 39.217497,
+            "longitude": 45.4069671
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "The Crown Prosecution Service charges a former Syrian soldier from the Air Force Intelligence Directorate with three counts of murder and three counts of torture as crimes against humanity under the International Criminal Court Act for his attacks on civilians in Damascus in 2011.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/syria-crimes-against-humanity-britain-damascus-2011-0caf8269792ec96ddcfac47caf4a6837"
+            }
+        ],
+        "poi": {
+            "country": "Syria",
+            "state": null,
+            "city": "Damascus",
+            "institution": "Air Force Intelligence Directorate"
+        },
+        "coordinate": {
+            "latitude": 33.5130695,
+            "longitude": 36.3095814
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "A synagogue in Liège, Belgium, is damaged by an explosion. It is being investigated as a potential act of terrorism.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/03/09/historic-synagogue-in-liege-damaged-in-explosion-police-probe-cause"
+            }
+        ],
+        "poi": {
+            "country": "Belgium",
+            "state": "Liège",
+            "city": "Liège",
+            "institution": "Synagogue"
+        },
+        "coordinate": {
+            "latitude": 50.6337183,
+            "longitude": 5.5761068
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "António José Seguro is sworn in as President of Portugal, succeeding Marcelo Rebelo de Sousa.",
+        "links": [
+            {
+                "source": "(Público)",
+                "url": "https://www.publico.pt/2026/03/09/politica/noticia/dez-anos-marcelo-sai-belem-seguro-toma-posse-10h-2167241#119718"
+            }
+        ],
+        "poi": {
+            "country": "Portugal",
+            "state": null,
+            "city": null,
+            "institution": "Presidential Palace of Portugal"
+        },
+        "coordinate": {
+            "latitude": 39.6621648,
+            "longitude": -8.1353519
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Islamist militants conduct coordinated overnight attacks on several locations in northeastern Nigeria, killing at least 12 soldiers and three civilians in fighting with government forces. The assaults target military positions in Borno and Yobe states and result in damage to military facilities and nearby homes.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/islamist-militants-kill-15-coordinated-raids-across-northeast-nigeria-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "Nigeria",
+            "state": "Borno and Yobe",
+            "city": "Various locations in northeastern Nigeria",
+            "institution": "Military bases"
+        },
+        "coordinate": {
+            "latitude": 9.6000359,
+            "longitude": 7.9999721
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "The Dow Jones Industrial Average and S&P 500 rises after United States president Donald Trump says that the war in Iran is “very complete”, hinting that it could end soon. Additionally, oil prices have dipped under $100 following his remarks.",
+        "links": [
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html"
+            },
+            {
+                "source": "(Semafor)",
+                "url": "https://www.semafor.com/article/03/09/2026/oil-prices-dip-under-100-as-trump-says-iran-war-very-complete"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "NATO conducts military drills in Greenland involving over 25,000 troops from 14 nations including Denmark and the United States in a effort to de-escalate tensions over efforts by Trump to annex the island. The exercise will last until March 19.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.the-independent.com/bulletin/news/nato-cold-response-greenland-us-denmark-b2934644.html"
+            }
+        ],
+        "poi": {
+            "country": "Greenland",
+            "state": null,
+            "city": null,
+            "institution": "NATO"
+        },
+        "coordinate": {
+            "latitude": 77.6192349,
+            "longitude": -42.8125967
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "The United States reaches a deferred prosecution agreement with Turkey's state-owned lender Halkbank to resolve criminal charges alleging that the bank helped Iran evade U.S. sanctions. Under the agreement, Halkbank must implement compliance monitoring and avoid transactions that benefit Iran, after which the charges may be dismissed pending court approval.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/finance/turkeys-halkbank-us-justice-department-deferred-prosecution-agreement-judge-says-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": "Halkbank"
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Malagasy president Michael Randrianirina dismisses prime minister Herintsalama Rajaonarivelo and his cabinet.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/madagascars-president-randrianirina-dismisses-prime-minister-cabinet-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "Madagascar",
+            "state": null,
+            "city": "Antananarivo",
+            "institution": "Office of the President of Madagascar"
+        },
+        "coordinate": {
+            "latitude": -18.9100122,
+            "longitude": 47.5255809
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-09",
+        "description": "The ruling Historic Pact coalition wins 25 of 102 seats in the Senate, becoming the largest bloc but falling short of a majority. The Democratic Centre places second with 17 seats, while other seats are distributed among several parties, resulting in a hung parliament that will require coalition negotiations.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/colombias-ruling-party-be-top-force-senate-without-majority-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "The Constitutional Court of Kosovo issues an injunction that freezes President Vjosa Osmani's decree dissolving the Kuvendi, while also preventing both the President from calling snap elections and the Kuvendi from carrying out parliamentary business until the Constitutional Court delivers its final ruling.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://euronews.al/en/kosovo-constitutional-court-suspends-vjosa-osmanis-decree-government-reacts/"
+            },
+            {
+                "source": "(KOHA)",
+                "url": "https://www.koha.net/en/lajmet-e-mbremjes-ktv/gjykata-vendos-mase-te-perkohshme-deri-me-31-mars-presidentja-smund-ti-shpalle-zgjedhjet"
+            }
+        ],
+        "poi": {
+            "country": "Kosovo",
+            "state": null,
+            "city": null,
+            "institution": "Constitutional Court of Kosovo"
+        },
+        "coordinate": {
+            "latitude": 42.6587593,
+            "longitude": 21.1569462
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "French president Emmanuel Macron announces that France and other states will create a naval escort mission for merchant ships in the framework of Operation Aspides.",
+        "links": [
+            {
+                "source": "(USNI News)",
+                "url": "https://news.usni.org/2026/03/09/french-navy-pledges-10-additional-warships-to-middle-east-escorts-for-strait-of-hormuz"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron"
+            }
+        ],
+        "poi": {
+            "country": "France",
+            "state": null,
+            "city": null,
+            "institution": "Operation Aspides"
+        },
+        "coordinate": {
+            "latitude": 46.603354,
+            "longitude": 1.8883335
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-09",
+        "description": "Lebanon Maronite Catholic priest Father Pierre al-Rahi is killed by an Israeli double strike on a house in the Christian-majority town of Al-Qlayaa.",
+        "links": [
+            {
+                "source": "(ICN)",
+                "url": "https://www.indcatholicnews.com/news/54530"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "null",
+            "city": "Al-Qlayaa",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 33.8750629,
+            "longitude": 35.843409
+        }
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "The port of Fujairah, a bunkering hub and export terminal in the Emirate of Fujairah, United Arab Emirates, suffers a drone attack.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/fire-occurred-uaes-fujairah-after-debris-fell-during-interception-drone-no-2026-03-14/"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": "Fujairah",
+            "city": "Fujairah",
+            "institution": "Port of Fujairah"
+        },
+        "coordinate": {
+            "latitude": 25.186082,
+            "longitude": 56.3554548
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "The U.S. embassy in Baghdad, Iraq, is hit by a missile from an unknown origin.",
+        "links": [
+            {
+                "source": "(Politico)",
+                "url": "https://www.politico.eu/article/us-embassy-baghdad-hit-missile-drone-iran-war-defense/"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": null,
+            "city": "Baghdad",
+            "institution": "United States Embassy"
+        },
+        "coordinate": {
+            "latitude": 33.2989559,
+            "longitude": 44.38794
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Five people are killed and three others are injured in Russian drone strikes on residential areas and critical infrastructure across Ukraine.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/four-killed-russian-air-attack-kyiv-region-officials-say-2026-03-14/"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 49.4871968,
+            "longitude": 31.2718321
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "According to Taliban officials, fourteen Pakistani soldiers are killed and eleven others are injured by Afghan fighters during the capture of a Pakistani guard post along the Durand Line in Kunar Province, Afghanistan.",
+        "links": [
+            {
+                "source": "(Kabul Now)",
+                "url": "https://kabulnow.com/2026/03/escalating-border-clashes-between-taliban-and-pakistan/"
+            }
+        ],
+        "poi": {
+            "country": "Afghanistan",
+            "state": "Kunar Province",
+            "city": "Kunar",
+            "institution": "Pakistani Guard Post"
+        },
+        "coordinate": {
+            "latitude": 34.647505,
+            "longitude": 70.901598
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Cuban authorities arrest five people after a small group of protesters damaged and set fire to a Communist Party office in Morón, Ciego de Ávila Province, during demonstrations over prolonged blackouts and shortages of basic goods.",
+        "links": [
+            {
+                "source": "(AFP via Jamaica Observer)",
+                "url": "https://www.jamaicaobserver.com/2026/03/14/protesters-ransack-cuban-communist-party-office-state-media/"
+            }
+        ],
+        "poi": {
+            "country": "Cuba",
+            "state": "Ciego de Ávila Province",
+            "city": "Morón",
+            "institution": "Communist Party office"
+        },
+        "coordinate": {
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "An explosion lightly damages a Jewish school in Amsterdam, Netherlands, with no reported injuries, making it the third attack against Jewish buildings in the Low Countries this week.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/03/14/explosion-damages-jewish-school-in-amsterdam-with-no-injuries-reported-mayor-says"
+            }
+        ],
+        "poi": {
+            "country": "Netherlands",
+            "state": null,
+            "city": "Amsterdam",
+            "institution": "Jewish school"
+        },
+        "coordinate": {
+            "latitude": 52.2434979,
+            "longitude": 5.6343227
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Ecuador begins enforcing a curfew from 11:00 p.m. to 5:00 a.m. in the provinces of El Oro, Guayas, Los Ríos, and Santo Domingo de los Tsáchilas to support military operations against criminal organizations.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/ecuador-declares-curfew-coastal-provinces-security-operations-2026-03-13/"
+            }
+        ],
+        "poi": {
+            "country": "Ecuador",
+            "state": "El Oro, Guayas, Los Ríos, and Santo Domingo de los Tsáchilas",
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1.3397668,
+            "longitude": -79.3666965
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "United States president Donald Trump calls on the country's allies to help lift the Iranian blockade of the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/ckg1w1jp8kjt"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": "White House"
+        },
+        "coordinate": {
+            "latitude": 38.8976387,
+            "longitude": -77.0365528
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Five U.S. warplanes are damaged in an Iranian drone strike on Prince Sultan Air Base, Saudi Arabia.",
+        "links": [
+            {
+                "source": "(WSJ)",
+                "url": "https://www.wsj.com/livecoverage/us-israel-iran-war-news-2026/card/five-air-force-refueling-planes-hit-in-iranian-strike-on-saudi-arabia-wHYFMW2YG3p0rwH3HaGU#:~:text=Five%20U.S.%20Air%20Force%20refueling,recent%20days%2C%20the%20officials%20said."
+            }
+        ],
+        "poi": {
+            "country": "Saudi Arabia",
+            "state": null,
+            "city": "Prince Sultan Air Base",
+            "institution": "Prince Sultan Air Base"
+        },
+        "coordinate": {
+            "latitude": 24.066252,
+            "longitude": 47.5823882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Fifteen people are killed in a reported Israeli and United States missile strike on an HVAC factory in Isfahan, Iran.",
+        "links": [
+            {
+                "source": "(AFP via LBCI)",
+                "url": "https://www.lbcgroup.tv/news/middleeastnews/914569/missile-strike-on-isfahan-industrial-area-kills-15-iran-media/en"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": "Isfahan",
+            "city": "Isfahan",
+            "institution": "HVAC factory"
+        },
+        "coordinate": {
+            "latitude": 32.6707877,
+            "longitude": 51.6650002
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Three Kuwaiti soldiers are injured after two drones struck Ahmad al-Jaber Air Base, damaging the facility.",
+        "links": [
+            {
+                "source": "(AFP via The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/kuwait-reports-injuries-and-damage-after-drones-target-airbase-used-by-us/"
+            }
+        ],
+        "poi": {
+            "country": "Kuwait",
+            "state": null,
+            "city": null,
+            "institution": "Ahmad al-Jaber Air Base"
+        },
+        "coordinate": {
+            "latitude": 29.2733964,
+            "longitude": 47.4979476
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-14",
+        "description": "Palestinian militant group Hamas calls for Iran to cease their attacks on Middle East neighbors during the war. They also reaffirm Tehran’s right to defend itself from Israel and the United States.",
+        "links": [
+            {
+                "source": "(CBS News)",
+                "url": "https://www.cbsnews.com/news/hamas-iran-stop-targeting-neighbor-countries/"
+            }
+        ],
+        "poi": {
+            "country": "Middle East",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "Israel and Lebanon are expected to hold direct talks in the coming days amidst the reignited war between Israel and Hezbollah.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israel-threatens-strike-ambulances-lebanon-hezbollah-fighting-2026-03-14/"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": null,
+            "city": null,
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "In auto racing, the Fédération Internationale de l'Automobile cancels the upcoming Bahrain and Saudi Arabian Grands Prix due to safety concerns amid the Iran war. Both events were scheduled to take place in mid-April.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260314-f1-races-in-bahrain-saudi-cancelled-due-to-iran-war"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": null,
+            "institution": "Fédération Internationale de l'Automobile"
+        },
+        "coordinate": {
+            "latitude": 26.1551249,
+            "longitude": 50.5344606
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "In association football, English attacking midfielder Max Dowman scores for Arsenal in a 2–0 win over Everton to become the youngest ever goal scorer in Premier League history at 16 years and 73 days old.",
+        "links": [
+            {
+                "source": "(Sky Sports)",
+                "url": "https://www.skysports.com/football/video/12606/13519834/goal-m-dowman-90-7-arsenal-2-0-everton"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": null,
+            "city": "London",
+            "institution": "Arsenal F.C."
+        },
+        "coordinate": {
+            "latitude": 51.5550429,
+            "longitude": -0.1083873
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-14",
+        "description": "In rugby union, France defeats England 48–46 to win the Six Nations Championship in the final.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/sport/2026/mar/14/france-win-six-nations-with-last-kick-as-thomas-ramos-sinks-england-in-thriller"
+            }
+        ],
+        "poi": {
+            "country": "France",
+            "state": null,
+            "city": null,
+            "institution": "Stade de France"
+        },
+        "coordinate": {
+            "latitude": 48.9244726,
+            "longitude": 2.3601325
+        }
+    }
+]

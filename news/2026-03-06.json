@@ -1,0 +1,568 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "United States president Donald Trump calls for the \"unconditional surrender\" of Iran, saying there will be no deal or further talks. This comes after Iranian president Masoud Pezeshkian says that several countries have initiated mediation efforts to end the war.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/ceqvwrydzpqt"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": "White House"
+        },
+        "coordinate": {
+            "latitude": 38.8976387,
+            "longitude": -77.0365528
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "An Iranian ballistic missile strikes Prince Sultan Air Base in Riyadh Province, Saudi Arabia. The Saudi defense ministry says air defenses intercepted three missiles launched to the base, as well as four drones east of  the province.",
+        "links": [
+            {
+                "source": "(The Caspian Post)",
+                "url": "https://caspianpost.com/iran/iranian-ballistic-missile-hits-saudi-arabia-s-prince-sultan-airbase-video"
+            },
+            {
+                "source": "(Saudi Gazette)",
+                "url": "https://saudigazette.com.sa/article/659499/saudi-arabia/saudi-intercepts-4-drones-over-riyadh-region-foils-missile-attacks"
+            }
+        ],
+        "poi": {
+            "country": "Saudi Arabia",
+            "state": "Riyadh Province",
+            "city": "Prince Sultan Air Base",
+            "institution": "Prince Sultan Air Base"
+        },
+        "coordinate": {
+            "latitude": 24.066252,
+            "longitude": 47.5823882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "An Israeli IAI Heron UAV is shot down over Khuzestan province, Iran.",
+        "links": [
+            {
+                "source": "(Aviation Safety Network)",
+                "url": "https://aviation-safety.net/wikibase/567652"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": "Khuzestan Province",
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 31.5563051,
+            "longitude": 49.0058885
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The Japanese agriculture ministry confirms a H5N1 bird flu outbreak at a poultry farm in Abira, Hokkaido.",
+        "links": [
+            {
+                "source": "(MENAFN)",
+                "url": "https://menafn.com/1110825938/Japan-Confirms-New-Highly-Pathogenic-Bird-Flu-Outbreak-In-Hokkaido"
+            }
+        ],
+        "poi": {
+            "country": "Japan",
+            "state": "Hokkaido",
+            "city": "Abira",
+            "institution": "Poultry Farm"
+        },
+        "coordinate": {
+            "latitude": 42.7626739,
+            "longitude": 141.8178742
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Kosovan president Vjosa Osmani dissolves the Kuvendi, attempting to set new parliamentary elections within 45 days. The Vetëvendosje party maintains that the constitution allows parliament 60 more days to try to elect a president, seeking to challenge Osmani's decree at the Constitutional Court.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/kosovo-parliament-dissolved-crisis-443afcb868fb2dd7de0ff9ae073eb5df"
+            },
+            {
+                "source": "(Balkan Insight)",
+                "url": "https://balkaninsight.com/2026/03/06/kosovo-mps-fail-to-elect-president-sparking-new-political-crisis/"
+            },
+            {
+                "source": "(RKS)",
+                "url": "https://rks.news/osmani-holds-meeting-with-party-leaders-on-election-date-vetevendosje-not-present/"
+            }
+        ],
+        "poi": {
+            "country": "Kosovo",
+            "state": null,
+            "city": null,
+            "institution": "Kuvendi"
+        },
+        "coordinate": {
+            "latitude": 42.5869578,
+            "longitude": 20.9021231
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Indonesia announces that it will prohibit social media access for users under the age of 16 and begin deactivating accounts belonging to minors on several major platforms as part of a phased policy intended to address risks such as internet fraud and excessive internet use.",
+        "links": [
+            {
+                "source": "(AFP via CNA)",
+                "url": "https://www.channelnewsasia.com/asia/indonesia-social-media-ban-under-16-children-5976561"
+            }
+        ],
+        "poi": {
+            "country": "Indonesia",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -2.4833826,
+            "longitude": 117.8902853
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The Qatari government announces that its military had intercepted nine Iranian drones, while one drone struck an uninhabited area.",
+        "links": [
+            {
+                "source": "(QNA via Gulf Times)",
+                "url": "https://www.gulf-times.com/article/722007/qatar/9-drones-intercepted-on-friday-ministry-of-defence"
+            }
+        ],
+        "poi": {
+            "country": "Qatar",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 25.3336984,
+            "longitude": 51.2295295
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The Qatar Civil Aviation Authority partially reopens the country's airspace through designated contingency routes with limited capacity. Operations initially included evacuation flights for stranded passengers and air cargo services.",
+        "links": [
+            {
+                "source": "(AFP via Deccan Chronicle)",
+                "url": "https://www.deccanchronicle.com/world/qatar-civil-aviation-authority-announces-partial-reopening-of-airspace-1942060"
+            }
+        ],
+        "poi": {
+            "country": "Qatar",
+            "state": null,
+            "city": null,
+            "institution": "Qatar Civil Aviation Authority"
+        },
+        "coordinate": {
+            "latitude": 25.3336984,
+            "longitude": 51.2295295
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The Bahraini military announces that its air defence continue to intercept successive waves of Iranian attacks, with 84 missiles and 147 drones destroyed since the onset of hostilities.",
+        "links": [
+            {
+                "source": "(Emirates News Agency)",
+                "url": "https://www.wam.ae/en/article/173wizp-bahrain-defence-force-missiles-147-drones"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": null,
+            "city": null,
+            "institution": "Air Defence Force of Bahrain"
+        },
+        "coordinate": {
+            "latitude": 26.1551249,
+            "longitude": 50.5344606
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "U.S. Army AH-64 Apache helicopters launch air-to-surface missiles at Popular Mobilization Forces positions near Mosul, Iraq.",
+        "links": [
+            {
+                "source": "(Iraqi News)",
+                "url": "https://www.iraqinews.com/iraq/mosul-airstrikes-pmf-checkpoints-shariykhan-2026/"
+            },
+            {
+                "source": "(Shafaq)",
+                "url": "https://shafaq.com/en/Security/US-helicopter-strike-hits-near-PMF-post-in-Iraq-s-Mosul"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": null,
+            "city": "Mosul",
+            "institution": "Popular Mobilization Forces"
+        },
+        "coordinate": {
+            "latitude": 36.3436941,
+            "longitude": 43.0997156
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Drones hit a hotel in Erbil, Iraqi Kurdistan.",
+        "links": [
+            {
+                "source": "(Iraqi News)",
+                "url": "https://www.iraqinews.com/iraq/drone-strike-hits-hotel-in-erbil-after-us-security-warning/"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Kurdistan Region",
+            "city": "Erbil",
+            "institution": "Hotel"
+        },
+        "coordinate": {
+            "latitude": 36.2346343,
+            "longitude": 43.9868966
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The Iranian Red Crescent Society reports the death toll from the Israeli and American air campaign in Iran has risen to 1,332.",
+        "links": [
+            {
+                "source": "(Turkiye Today)",
+                "url": "https://www.turkiyetoday.com/region/iran-says-death-toll-from-us-israeli-attacks-rises-to-1332-3215720"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "The Iranian Red Crescent Society"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Three Ghanaian peacekeepers are injured in an Israeli missile strike in southern Lebanon.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/middle-east/20260306-us-warns-bombardment-surge-as-israel-strikes-iran-lebanon"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "Southern Lebanon",
+            "city": "No specific city mentioned",
+            "institution": "No specific institution mentioned"
+        },
+        "coordinate": {
+            "latitude": 34.1289767,
+            "longitude": -86.545813
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The U.S. defense department says its military has carried out airstrikes on narcoterrorists in Ecuador at the request of the Ecuadorian government, targeting a camp belonging to a faction of the FARC dissidents at the border with Colombia.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/us-conducts-lethal-operations-ecuador-military-says-2026-03-06/"
+            }
+        ],
+        "poi": {
+            "country": "Ecuador",
+            "state": null,
+            "city": null,
+            "institution": "U.S. Department of Defense"
+        },
+        "coordinate": {
+            "latitude": -1.3397668,
+            "longitude": -79.3666965
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-06",
+        "description": "The United Nations High Commissioner for Refugees reports at least 100,000 civilians have now been displaced from their homes due to the fighting between Afghanistan and Pakistan, while Afghan forces say they have destroyed 14 more Pakistani military outposts along the border and downed a drone.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/pakistan-afghanistan-conflict-displaces-more-than-100-000-people-un-says-13516103"
+            }
+        ],
+        "poi": {
+            "country": "Afghanistan or Pakistan",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The Sudanese military recaptures the town of Barah in North Kordofan, Sudan, following a ground assault backed by airstrikes against the Rapid Support Forces (RSF), reportedly inflicting heavy losses on the RSF and destroying 32 RSF combat vehicles.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/6/sudanese-army-retakes-bara-secures-el-obeid-in-north-kordofan"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "North Kordofan",
+            "city": "Barah",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 13.6968325,
+            "longitude": 30.3703697
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "A wave of severe weather and a related tornado outbreak, kill at least eight people and cause widespread damage in the central United States.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/03/06/weather/tornado-storms-oklahoma-texas-climate"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Central United States",
+            "city": "null",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Police in Moscow, Russia, detain Iranian nationals who celebrated the killing of former supreme leader Ali Khamenei in public.",
+        "links": [
+            {
+                "source": "(The Moscow Times)",
+                "url": "https://www.themoscowtimes.com/2026/03/06/moscow-police-detain-iranians-celebrating-khameneis-death-reports-a92140"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Moscow",
+            "city": "Moscow",
+            "institution": "Police Department"
+        },
+        "coordinate": {
+            "latitude": 55.7029333,
+            "longitude": 36.1942651
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "The opening ceremony of the Winter Paralympics in Milan and Cortina d'Ampezzo is held in Verona Arena, Verona, Italy.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/paralympics-milan-cortina-opening-ceremony-russian-flag-e791cf0241cf42fd919f80ec816f5b01"
+            }
+        ],
+        "poi": {
+            "country": "Italy",
+            "state": "Veneto",
+            "city": "Verona",
+            "institution": "Verona Arena"
+        },
+        "coordinate": {
+            "latitude": 45.439021,
+            "longitude": 10.9949316
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Iranian diaspora protesters clash with anti-war protesters at a Ali Khamenei vigil at Washington Square Park in New York City, United States.",
+        "links": [
+            {
+                "source": "(Times of Israel)",
+                "url": "https://www.timesofisrael.com/death-to-america-chanters-counter-protesters-clash-at-nyc-khamenei-memorial/"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": "NY",
+            "city": "New York City",
+            "institution": "Ali Khamenei vigil at Washington Square Park"
+        },
+        "coordinate": {
+            "latitude": 40.7127281,
+            "longitude": -74.0060152
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Demonstrators in Sanaa, Yemen, rally in solitary with Iran and Lebanon amidst the conflict.",
+        "links": [
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/demonstrators-rally-sanaa-solidarity-iran-and-lebanon?nid=434266&topic=War%2520on%2520Iran&fid=552797"
+            }
+        ],
+        "poi": {
+            "country": "Yemen",
+            "state": null,
+            "city": "Sanaa",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 15.3538569,
+            "longitude": 44.2058841
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "At least 41 people are killed, including three soldiers, and 40 more injured in Israeli air and ground raids on Al-Nabi Shayth, Beqaa Valley. The Israeli commandos tried unsuccessfully to locate and take away the remains of missing pilot Ron Arad. (",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/mar/07/israel-strikes-eastern-lebanon-killing-dozens-after-raid-to-recover-idf-pilots-remains-fails"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "Beqaa Valley",
+            "city": "Al-Nabi Shayth",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.8886842,
+            "longitude": 36.1181097
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Exiled Iranian crown prince Reza Pahlavi, son of the late former shah Mohammad Reza Pahlavi, says he is ready to lead a potential transition if the Iranian government falls.",
+        "links": [
+            {
+                "source": "(Naijan News)",
+                "url": "https://www.naijanews.com/2026/03/07/exiled-prince-reza-pahlavi-accepts-call-to-lead-iran/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Azerbaijan's State Security Service affirms it has thwarted a terror attack plotted by Iran's Islamic Revolutionary Guard Corps, including possible strikes against the Baku-Tbilisi-Ceyhan pipeline.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/03/07/azerbaijan-releases-footage-after-foiling-iran-linked-plot-targeting-pipeline-and-jewish-s"
+            }
+        ],
+        "poi": {
+            "country": "Azerbaijan",
+            "state": null,
+            "city": "Baku",
+            "institution": "Security Service (DTX)"
+        },
+        "coordinate": {
+            "latitude": 40.4141024,
+            "longitude": 49.8213915
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "A United States appeals court declines to allow Donald Trump's administration to end temporary protected status for more than 350,000 Haitian nationals, leaving in place a lower court order that blocks the policy while the case proceeds.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/us/trump-cannot-end-protections-350000-haitians-us-appeals-court-rules-2026-03-07/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": "United States Appeals Court"
+        },
+        "coordinate": {
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-06",
+        "description": "Russia and Ukraine exchange prisoners of war, with 300 soldiers returned to each side. (T",
+        "links": [
+            {
+                "source": "The Moscow Times",
+                "url": "https://www.themoscowtimes.com/2026/03/06/russia-and-ukraine-release-hundreds-of-pows-with-us-and-uae-mediation-a92128"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 64.6863136,
+            "longitude": 97.7453061
+        }
+    }
+]

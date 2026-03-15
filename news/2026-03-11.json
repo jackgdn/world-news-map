@@ -1,0 +1,501 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Seven people are killed and 23 others are injured after an Israeli strike on Temnine Et Tahta, Baalbek-Hermel Governorate, Lebanon. Five people are also injured after a strike on the nearby village of Aali en Nahri.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cd70wzw9vqlt?post=asset%3A9f40e711-67e7-4f96-ba6a-48cfdf365c6b#post"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "Baalbek-Hermel Governorate",
+            "city": "Temnine Et Tahta",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 33.8834355,
+            "longitude": 35.991597
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Four people are injured in the United Arab Emirates after two drones fall near Dubai International Airport.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260311/d32a9c1a9907498085b96c176b557752/c.html"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": null,
+            "city": "Dubai",
+            "institution": "Dubai International Airport"
+        },
+        "coordinate": {
+            "latitude": 25.2515424,
+            "longitude": 55.3666519
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "A United Nations aid worker from France is killed in a series of explosions caused by drone strikes in Goma, Democratic Republic of the Congo, with the occupying M23 rebels blaming the Congolese government.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/congo-goma-drone-attack-606b7feba8685436d1f757de65d4efce"
+            }
+        ],
+        "poi": {
+            "country": "Democratic Republic of the Congo",
+            "state": null,
+            "city": "Goma",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -2.9814344,
+            "longitude": 23.8222636
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "At least 17 people are killed in a drone strike on a secondary school and a health center in Shukeiri, White Nile State, Sudan. Local authorities and the Sudan Doctors Union blame the Rapid Support Forces.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/sudan-war-rsf-military-drone-schoolgirls-e1e102861f0d4cc193a51669f297c670"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "White Nile State",
+            "city": "Shukeiri",
+            "institution": "Secondary School and Health Center"
+        },
+        "coordinate": {
+            "latitude": 13.5102189,
+            "longitude": 32.3934634
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Spain permanently withdraws its ambassador to Israel and terminates the position after bilateral diplomatic relations worsened this week.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/spain-removes-ambassador-israel-2026-03-11/"
+            }
+        ],
+        "poi": {
+            "country": "Spain",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 39.3260685,
+            "longitude": -4.8379791
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "José Antonio Kast is sworn in as President of Chile, succeeding Gabriel Boric.",
+        "links": [
+            {
+                "source": "(Washington Post)",
+                "url": "https://www.washingtonpost.com/world/2026/03/11/chile-kast-inauguration-new-administration/f90f47d0-1d06-11f1-a29c-fd43da9a479a_story.html"
+            }
+        ],
+        "poi": {
+            "country": "Chile",
+            "state": null,
+            "city": null,
+            "institution": "Chilean Presidential Palace"
+        },
+        "coordinate": {
+            "latitude": -31.7613365,
+            "longitude": -71.3187697
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Iranian sports minister Ahmad Donyamali states that Iran will not participate in the 2026 FIFA World Cup to be hosted by Canada, Mexico, and the United States, citing security concerns amid the Iran war.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/soccer/iran-cannot-participate-world-cup-sports-minister-says-2026-03-11/"
+            }
+        ],
+        "poi": {
+            "country": "Canada",
+            "state": "null",
+            "city": "null",
+            "institution": "FIFA"
+        },
+        "coordinate": {
+            "latitude": 50.5408968,
+            "longitude": -90.0516799
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Hezbollah launches over 100 rockets at Israel, injuring five civilians in Upper Galilee.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-889639"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Upper Galilee",
+            "city": "Upper Galilee",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Iranian president Masoud Pezeshkian lists preconditions for ending the war between Iran, Israel, and the United States. The conditions include recognizing Iran's legitimate rights, payment of reparations, and firm international guarantees against future aggression.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260312/3b85b3af3ac5430b9b788e6108a1e1d6/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Presidential Office of Iran"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "A crew member is killed on an oil tanker in Iraqi waters by an Iranian projectile.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/trump-iran-signal-no-quick-end-war-tankers-burn-iraqi-waters-2026-03-12/"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": null,
+            "city": null,
+            "institution": "Oil Tanker"
+        },
+        "coordinate": {
+            "latitude": 33.0955793,
+            "longitude": 44.1749775
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Norwegian police arrest three brothers on suspicion of involvement in a bombing outside the U.S. embassy in Oslo on 8 March that caused minor damage but no injuries. A terrorist motive is suspected.",
+        "links": [
+            {
+                "source": "(AFP via CTV News)",
+                "url": "https://www.ctvnews.ca/world/article/three-brothers-arrested-over-us-embassy-blast-in-oslo-police/"
+            }
+        ],
+        "poi": {
+            "country": "Norway",
+            "state": null,
+            "city": "Oslo",
+            "institution": "U.S. Embassy"
+        },
+        "coordinate": {
+            "latitude": 61.1529386,
+            "longitude": 8.7876653
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Romania authorizes the United States to use its air bases to refuel aircraft and deploy monitoring and satellite communications equipment in support of military operations related to the Iran war, following approval by the Romanian parliament and the Supreme Council of National Defence.",
+        "links": [
+            {
+                "source": "(AFP via Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/world/2026/03/11/three-brothers-arrested-over-us-embassy-blast-in-oslo-police"
+            }
+        ],
+        "poi": {
+            "country": "Romania",
+            "state": null,
+            "city": null,
+            "institution": "United States Air Force Base in Romania"
+        },
+        "coordinate": {
+            "latitude": 45.9852129,
+            "longitude": 24.6859225
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "The Albanian constitutional court rules that the government's ban on the social media platform TikTok violated constitutional protections for freedom of expression and press freedom, after authorities blocked the service in 2025 following a fatal stabbing linked to a dispute on the platform.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260311-albania-tiktok-ban-violated-free-speech-court-rules"
+            }
+        ],
+        "poi": {
+            "country": "Albania",
+            "state": null,
+            "city": null,
+            "institution": "Constitutional Court of Albania"
+        },
+        "coordinate": {
+            "latitude": 41.000028,
+            "longitude": 19.9999619
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-11",
+        "description": "Europol reports that more than 330 people in 70 countries have been arrested during an international operation against organized networks suspected of trafficking illegal waste within Europe and exporting it to Africa, Asia, and Latin America, with large quantities of dangerous goods and nearly €10 million (US$11.6 million) in assets seized.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/more-than-330-arrested-europol-led-operation-against-illicit-waste-trade-2026-03-11/"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "The Thailand-flagged bulk carrier MV Mayuree Naree is hit by two Iranian missiles shortly after passing the Strait of Hormuz. Twenty people are rescued and three are reported missing after the vessel catches on fire.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/thailand-says-3-crew-missing-after-ship-hit-by-projectiles-strait-hormuz-2026-03-11/"
+            }
+        ],
+        "poi": {
+            "country": "Thailand",
+            "state": "null",
+            "city": "null",
+            "institution": "MV Mayuree Naree"
+        },
+        "coordinate": {
+            "latitude": 9.7775318,
+            "longitude": 100.0536119
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-11",
+        "description": "Two cargo vessels, the Marshall Islands-flagged Star Gwyneth, operated by Star Bulk Carriers, and the Japan-flagged ONE Majesty, operated by Mitsui OSK Lines, are struck by unknown projectiles, with no casualties reported.",
+        "links": [
+            {
+                "source": "(Kathimerini)",
+                "url": "https://www.ekathimerini.com/economy/1297708/greek-owned-vessel-among-three-hit-near-strait-of-hormuz/"
+            }
+        ],
+        "poi": {
+            "country": "Marshall Islands or Japan or null",
+            "state": null,
+            "city": null,
+            "institution": "Star Bulk Carriers or Mitsui OSK Lines or null"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-11",
+        "description": "The International Energy Agency agrees to discharge 400 million barrels of oil from its members’ strategic reserves, its largest-ever release, to counter soaring global energy prices due to the war. Despite the measure, the price of the crude barrel rises above US$100 again in international markets.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/11/iea-proposes-release-of-400m-barrels-of-oil-from-strategic-reserves"
+            },
+            {
+                "source": "(Forbes)",
+                "url": "https://www.forbes.com/sites/siladityaray/2026/03/11/crude-hits-100-per-barrel-as-strategic-oil-reserve-release-fails-to-calm-iran-war-fears/"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-11",
+        "description": "The UN Security Council approves a resolution (S/RES/2817) condemning Iran's attacks on the Gulf Cooperation Council (GCC) states and Jordan. The text, presented by Bahrain and co-sponsored by 135 countries, is passed with 13 votes in favor and the abstentions of Russia and China.",
+        "links": [
+            {
+                "source": "(United Nations Press)",
+                "url": "https://press.un.org/en/2026/sc16315.doc.htm"
+            }
+        ],
+        "poi": {
+            "country": "Gulf Cooperation Council (GCC) states",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "A bulk carrier is hit by an unknown projectile 50NM northwest of Dubai, United Arab Emirates.",
+        "links": [
+            {
+                "source": "(UKMTO)",
+                "url": "https://www.ukmto.org/-/media/ukmto/products/20260311-ukmto_warning_020-26.pdf?rev=4855fffc68324923a752024b4b6b574f"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": null,
+            "city": "Dubai",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 25.2296341,
+            "longitude": 55.289585
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Iran drones strike oil storage facilities at the port of Salalah, causing several fuel tanks to burst into flames.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/oil-storage-facilities-hit-omans-salalah-port-ambrey-state-tv-say-2026-03-11/"
+            },
+            {
+                "source": "(Oil Price)",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Evacuates-Key-Oil-Port-as-Iran-War-Intensifies.html"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": "Salalah",
+            "city": "Salalah",
+            "institution": "Oil Storage Facilities"
+        },
+        "coordinate": {
+            "latitude": 17.0174945,
+            "longitude": 54.1010923
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Two tankers carrying Iraqi oil and gas, Marshall Islands-flagged Safesea Vishnu and Malta-flagged Zefyros, catch fire after being struck in Iraqi territorial waters off Khor Al Zubair Port and near the Al-Faw port area. An Indian member of the first crew is killed in the attack.",
+        "links": [
+            {
+                "source": "(Oil Price)",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Oil-Tankers-Set-Ablaze-Near-Iraqs-Key-Export-Terminals.html"
+            },
+            {
+                "source": "(Deccan Herald)",
+                "url": "https://www.deccanherald.com/india/indian-crew-member-dies-in-attack-by-iran-against-us-owned-oil-tanker-safesea-vishnu-3929335"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Khor Al Zubair",
+            "city": "Khor Al Zubair Port",
+            "institution": "Khor Al Zubair Port"
+        },
+        "coordinate": {
+            "latitude": 30.1940013,
+            "longitude": 47.8812798
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Over 20 people are killed and 23 others injured in a Sudanese Armed Forces drone strike Abu Zabad, West Kordofan, Sudan.",
+        "links": [
+            {
+                "source": "(Dabanga Sudan)",
+                "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-hit-west-darfur-market-bombing-resumes-in-south-kordofan-as-sudan-fighting-intensifies"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "West Kordofan",
+            "city": "Abu Zabad",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 12.3596783,
+            "longitude": 29.2348957
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-11",
+        "description": "Wynn Resorts says it plans to resume construction on the upcoming Al Marjan Island resort in Ras Al Khaimah following a short pause amidst the war.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/wynn-resorts-resumes-construction-uae-luxury-project-after-brief-pause-2026-03-11/"
+            },
+            {
+                "source": "(Khaleej Times)",
+                "url": "https://www.khaleejtimes.com/business/property/work-on-wynn-al-marjan-resumes-after-a-short-pause-due-to-israel-iran-war?_refresh=true"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": "Ras Al Khaimah",
+            "city": "Al Marjan Island",
+            "institution": "Wynn Resorts"
+        },
+        "coordinate": {
+            "latitude": 25.6776748,
+            "longitude": 55.7395983
+        }
+    }
+]

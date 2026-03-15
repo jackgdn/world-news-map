@@ -1,0 +1,86 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-15",
+        "description": "Kazakhs vote to determine whether to approve a new constitution.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/kazakhs-vote-new-constitution-referendum-sunday-2026-03-13/"
+            }
+        ],
+        "poi": {
+            "country": "Kazakhstan",
+            "state": null,
+            "city": null,
+            "institution": "Parliament of Kazakhstan"
+        },
+        "coordinate": {
+            "latitude": 48.1012954,
+            "longitude": 66.7780818
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-15",
+        "description": "North Koreans vote to elect the 687 members of the 15th Supreme People's Assembly.",
+        "links": [
+            {
+                "source": "(The Diplomat)",
+                "url": "https://thediplomat.com/2026/03/a-primer-on-north-koreas-upcoming-parliamentary-election/"
+            }
+        ],
+        "poi": {
+            "country": "North Korea",
+            "state": null,
+            "city": null,
+            "institution": "Supreme People's Assembly"
+        },
+        "coordinate": {
+            "latitude": 40.3736611,
+            "longitude": 127.0870417
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-15",
+        "description": "Congolese people vote to elect a president, with incumbent Denis Sassou Nguesso seeking a fifth consecutive term.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/incumbent-sassou-favoured-congo-republic-ballot-amid-rights-concerns-2026-03-13/"
+            }
+        ],
+        "poi": {
+            "country": "Congo",
+            "state": null,
+            "city": null,
+            "institution": "Constitutional Court of Congo"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-15",
+        "description": "Vietnamese people vote to elect the 500 members of the 16th National Assembly. The sole legal party of Vietnam contesting the election is the Communist Party of Vietnam.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/communist-party-fields-nearly-93-candidates-vietnam-holds-parliament-elections-2026-03-15/"
+            }
+        ],
+        "poi": {
+            "country": "Vietnam",
+            "state": null,
+            "city": null,
+            "institution": "16th National Assembly"
+        },
+        "coordinate": {
+            "latitude": 15.9266657,
+            "longitude": 107.9650855
+        }
+    }
+]

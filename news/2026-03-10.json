@@ -1,0 +1,585 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Train services between Beijing, China, and Pyongyang, North Korea, are announced to resume for the first time since it was suspended six years ago due to the COVID-19 pandemic.",
+        "links": [
+            {
+                "source": "(Yonhap)",
+                "url": "https://en.yna.co.kr/view/AEN20260310006100315"
+            }
+        ],
+        "poi": {
+            "country": "China",
+            "state": "Beijing",
+            "city": "Beijing",
+            "institution": "Beijing Railway Bureau"
+        },
+        "coordinate": {
+            "latitude": 39.9057136,
+            "longitude": 116.3912972
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Supreme Leader Kim Jong-un reaffirms North Korea's relations with China in a letter written to Chinese president Xi Jinping.",
+        "links": [
+            {
+                "source": "(Korea Times)",
+                "url": "https://www.koreatimes.co.kr/world/20260310/n-koreas-kim-reaffirms-relations-with-china-in-letter-with-xi-jinping-kcna"
+            }
+        ],
+        "poi": {
+            "country": "North Korea",
+            "state": null,
+            "city": null,
+            "institution": "Chinese President's Office"
+        },
+        "coordinate": {
+            "latitude": 40.3736611,
+            "longitude": 127.0870417
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "The Ruwais refinery in Al Dhannah, Abu Dhabi Emirate, United Arab Emirates, shuts down after a drone strike that causes a fire.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/fire-hits-site-housing-abu-dhabi-national-oil-company-operations-after-drone-2026-03-10/"
+            }
+        ],
+        "poi": {
+            "country": "United Arab Emirates",
+            "state": "Al Dhannah",
+            "city": "Abu Dhabi Emirate",
+            "institution": "Ruwais refinery"
+        },
+        "coordinate": {
+            "latitude": 24.3437541,
+            "longitude": 55.1000058
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-10",
+        "description": "Royal Navy warship HMS Dragon leaves Portsmouth and heads to Cyprus in response to a drone strike on the United Kingdom's RAF Akrotiri base.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cd70wzw9vqlt"
+            }
+        ],
+        "poi": {
+            "country": "Cyprus",
+            "state": "null",
+            "city": "Akrotiri",
+            "institution": "RAF Akrotiri Base"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "According to Iran International, American and Israeli airstrikes have killed many Islamic Revolutionary Guard Corps commanders and generals, including Basij chief Asadollah Badfar. Prior to his reported death, Badfar was involved in crackdowns against the 2025–2026 protests.",
+        "links": [
+            {
+                "source": "(Iran International)",
+                "url": "https://www.iranintl.com/en/202603109175"
+            },
+            {
+                "source": "(Jerusalem Post)",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-889488"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Islamic Revolutionary Guard Corps"
+        },
+        "coordinate": {
+            "latitude": 39.0180971,
+            "longitude": 48.0794267
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "The Ukrainian Special Operations Forces announce several overnight drone strikes on Russian electronic warfare stations and warehouses in Donetsk and Makiivka, Donetsk Oblast, Ukraine.",
+        "links": [
+            {
+                "source": "(Ukrainska Pravda)",
+                "url": "https://www.pravda.com.ua/eng/news/2026/03/10/8024805/"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": "Donetsk Oblast",
+            "city": "Donetsk",
+            "institution": "Russian electronic warfare stations and warehouses"
+        },
+        "coordinate": {
+            "latitude": 48.0158753,
+            "longitude": 37.8013407
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Five people are killed and eleven others are injured when a bus collides with a truck on the Kampala–Gulu Highway near Bweyale Town, Kiryandongo District, Uganda.",
+        "links": [
+            {
+                "source": "(Daily Monitor)",
+                "url": "https://www.monitor.co.ug/uganda/news/national/five-killed-in-bus-truck-crash-on-gulu-kampala-highway-5386210"
+            }
+        ],
+        "poi": {
+            "country": "Uganda",
+            "state": "Kiryandongo District",
+            "city": "Bweyale Town",
+            "institution": "Kampala–Gulu Highway"
+        },
+        "coordinate": {
+            "latitude": 1.9478196,
+            "longitude": 32.1360313
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Australia grants humanitarian visas to five Iranian women football players who sought asylum, including captain Zahra Ghanbari, Mona Hamoudi, Fatemeh Pasandideh, Atefeh Ramezanizadeh, and Zahra Sarbali, citing fears of persecution after refusing to sing Iran's national anthem before an Asian Cup match in Gold Coast, Queensland.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/trump-calls-australia-give-asylum-iranian-womens-soccer-team-2026-03-09/"
+            }
+        ],
+        "poi": {
+            "country": "Australia",
+            "state": "Queensland",
+            "city": "Gold Coast",
+            "institution": "None"
+        },
+        "coordinate": {
+            "latitude": -28.0023731,
+            "longitude": 153.4145987
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "The Iranian intelligence ministry announces the arrest of 30 individuals, including one unidentified foreign national, on allegations of espionage during the war, accusing the foreign suspect of providing information on the locations and movements of Iranian security forces and military facilities to hostile parties.",
+        "links": [
+            {
+                "source": "(AFP via News24)",
+                "url": "https://www.news24.com/world/developing-gaza-rescuers-say-seven-killed-in-israeli-air-strikes-20250422-0395"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Iranian Intelligence Ministry"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Shots are fired at the United States consulate in Toronto, Ontario, Canada, with no casualties. Police are investigating the shooting as a national security incident.",
+        "links": [
+            {
+                "source": "(CBS News)",
+                "url": "https://www.cbsnews.com/news/us-consulate-toronto-canada-shots-fired-after-synagogues-attacked/"
+            }
+        ],
+        "poi": {
+            "country": "Canada",
+            "state": "Ontario",
+            "city": "Toronto",
+            "institution": "United States Consulate"
+        },
+        "coordinate": {
+            "latitude": 43.6528059,
+            "longitude": -79.3879101
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Brazilian skier Cristian Ribera wins Brazil's, Latin America's and South America's first ever medal at the Winter Paralympics.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.co.uk/sport/articles/c9dn2wyzjwno"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": null,
+            "city": null,
+            "institution": "Winter Paralympics"
+        },
+        "coordinate": {
+            "latitude": -10.3333333,
+            "longitude": -53.2
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "United States intelligence sources report that Iran has started to deploy underwater mines in the Strait of Hormuz. The Central Command says that American forces have sunk several Iranian ships, including 16 minelaying vessels.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/03/10/politics/iran-begins-laying-mines-in-strait-of-hormuz"
+            },
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Strait of Hormuz"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "The price of West Texas Intermediate crude oil rises by more than five percent to US$87.65 per barrel after United States president Donald Trump escalated threats related to the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(AFP via SpaceWar.com)",
+                "url": "https://www.spacewar.com/afp/260310225705.vmi1sjif.html"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Texas",
+            "city": "West Texas",
+            "institution": "Strait of Hormuz"
+        },
+        "coordinate": {
+            "latitude": 35.5519765,
+            "longitude": -100.7544156
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Thai prime minister Anutin Charnvirakul orders remote work and the suspension of official international trips for government officials, and reduced electricity use in government buildings amid supply concerns linked to the Iranian war.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/thailand-orders-bureaucrats-use-stairs-work-home-energy-saving-drive-2026-03-10/"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "The Indonesian rescue agency ends search and rescue operations after a garbage landslide at the Bantar Gebang landfill in Bekasi, West Java, on March 8 killed seven people, with all individuals previously reported missing accounted for.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/indonesia-says-7-killed-landfill-collapse-rescue-operation-ends-2026-03-10/"
+            }
+        ],
+        "poi": {
+            "country": "Indonesia",
+            "state": "West Java",
+            "city": "Bekasi",
+            "institution": "Bantar Gebang landfill"
+        },
+        "coordinate": {
+            "latitude": -6.3493891,
+            "longitude": 106.9973779
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Dutch foreign minister Tom Berendsen announces the temporary relocation of staff and operations of the Netherlands' embassy in Tehran to Baku, Azerbaijan, citing security risks to personnel amid the Iranian war.",
+        "links": [
+            {
+                "source": "(AFP via Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/world/2026/03/10/dutch-embassy-staff-in-tehran-to-move-to-azerbaijan-"
+            }
+        ],
+        "poi": {
+            "country": "Azerbaijan",
+            "state": null,
+            "city": "Baku",
+            "institution": "Dutch Embassy in Tehran"
+        },
+        "coordinate": {
+            "latitude": 40.3755885,
+            "longitude": 49.8328009
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Six people are killed and five others are injured in a suspected arson attack on a postal bus in Kerzers, Fribourg Canton, Switzerland.",
+        "links": [
+            {
+                "source": "(AFP via The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/mar/10/multiple-deaths-injuries-bus-fire-switzerland"
+            }
+        ],
+        "poi": {
+            "country": "Switzerland",
+            "state": "Fribourg",
+            "city": "Kerzers",
+            "institution": "Postal Bus"
+        },
+        "coordinate": {
+            "latitude": 46.9761315,
+            "longitude": 7.1972834
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-10",
+        "description": "Cardinal Louis Sako, the Patriarch of the Chaldean Catholic Church, based in Iraq, retires at the age of 76.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/vatican-pope-patriarch-cardinal-sako-aae178c5b95b765108c2fc76264c8eb6"
+            },
+            {
+                "source": "(Vatican News)",
+                "url": "https://www.vaticannews.va/en/vatican-city/news/2026-03/cardinal-sako-resigns-as-chaldean-patriarch-of-baghdad.html"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "In basketball, Miami Heat player Bam Adebayo scores 83 points in a 150–129 win over the Washington Wizards, marking the second-most points in a game in NBA history and most since Wilt Chamberlain's 100-point game in 1962. Adebayo’s 36 free throws and 43 attempts also set single-game NBA records.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/wizards-heat-score-bam-adebayo-7ecf861fe78484688e0990bc7d2da1b9"
+            },
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/nba/story/_/id/48168997/bam-adebayo-scores-83-second-most-points-nba-history"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": "FL",
+            "city": "Miami",
+            "institution": "Miami Heat"
+        },
+        "coordinate": {
+            "latitude": 25.7880406,
+            "longitude": -80.3805133
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Six people are killed and 37 others are injured in a Ukrainian missile attack in Bryansk, Russia.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/europe/20260311/2e7754e162b34c519b6fe6802e4c668d/c.html"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Bryansk",
+            "city": "Bryansk",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 53.2423778,
+            "longitude": 34.3668288
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "At least two are killed and six are injured after a hailstorm and four possible tornadoes strike the vicinity of Kankakee, Illinois, and Wheatfield, Indiana, United States.",
+        "links": [
+            {
+                "source": "(WLS-TV)",
+                "url": "https://abc7chicago.com/post/least-4-tornadoes-suspected-leaving-trail-damage-kankakee-illinois-lake-village-indiana-nws-says/18702070/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Illinois",
+            "city": "Kankakee",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 41.1200325,
+            "longitude": -87.8611531
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Malagasy interim president and military leader Michael Randrianirina removes prime minister Herintsalama Rajaonarivelo from power and dissolves the entire Cabinet without explanation, five months after they were assigned following the 2025 protests.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/madagascar-strongman-sacks-government-after-just-5-months/a-76294299"
+            }
+        ],
+        "poi": {
+            "country": "Madagascar",
+            "state": null,
+            "city": null,
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": -18.9249604,
+            "longitude": 46.4416422
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-10",
+        "description": "The U.S. National Snow and Ice Data Center reports that Arctic sea ice reached about 14.22 million square kilometers, which is among the lowest yearly high points recorded in more than four decades of satellite monitoring.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20260311-arctic-sea-ice-among-lowest-on-record-afp-review-of-us-data"
+            }
+        ],
+        "poi": {
+            "country": "Arctic",
+            "state": null,
+            "city": null,
+            "institution": "U.S. National Snow and Ice Data Center"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Tibetans protest worldwide after 67 years of China's occupation of Tibet.",
+        "links": [
+            {
+                "source": "(CNBC TV18)",
+                "url": "https://www.cnbctv18.com/world/tibetans-protest-worldwide-as-china-tightens-grip-on-tibetan-identity-ws-l-19865304.htm"
+            }
+        ],
+        "poi": {
+            "country": "China",
+            "state": null,
+            "city": null,
+            "institution": "Tibetan Government-in-Exile"
+        },
+        "coordinate": {
+            "latitude": 35.000074,
+            "longitude": 104.999927
+        }
+    },
+    {
+        "status": "coordinate_fetch_failed",
+        "date": "2026-03-10",
+        "description": "Members of the House of Lords vote to pass a bill to remove hereditary peers and heads to King Charles III for royal assent.",
+        "links": [
+            {
+                "source": "(NPR)",
+                "url": "https://www.npr.org/2026/03/11/g-s1-113300/britain-parliament-hereditary-house-of-lords-aristocrats-duke-earl-viscount"
+            }
+        ],
+        "poi": {
+            "country": "United Kingdom",
+            "state": null,
+            "city": null,
+            "institution": "House of Lords"
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Forty people are killed in a drone strike on a truck carrying funeralgoers near Abu Zabad, West Kordofan, Sudan.",
+        "links": [
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/node/2636082/middle-east"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "West Kordofan",
+            "city": "Abu Zabad",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 12.3596783,
+            "longitude": 29.2348957
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-10",
+        "description": "Seven people, including three children, are killed and 13 others are injured in a Rapid Support Forces drone strike in Dilling, South Kordofan, Sudan.",
+        "links": [
+            {
+                "source": "(Daily Sabah)",
+                "url": "https://www.dailysabah.com/world/africa/3-children-among-7-killed-in-sudan-drone-attack-blamed-on-rsf"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "South Kordofan",
+            "city": "Dilling",
+            "institution": "Rapid Support Forces"
+        },
+        "coordinate": {
+            "latitude": 12.0315831,
+            "longitude": 29.6516649
+        }
+    }
+]

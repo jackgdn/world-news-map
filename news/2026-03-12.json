@@ -1,0 +1,845 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Lebanese health ministry reports that an Israeli airstrike on the Ramlet al-Baida beach in central Beirut killed at least seven people and injured 21 others.",
+        "links": [
+            {
+                "source": "(AFP via SpaceWar.com)",
+                "url": "https://www.spacewar.com/afp/260312012716.rot975wo.html"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "Beirut",
+            "city": "Ramlet al-Baida",
+            "institution": "Lebanese Health Ministry"
+        },
+        "coordinate": {
+            "latitude": 33.8738126,
+            "longitude": 35.4863842
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "20 people are killed in an airstrike targeting Popular Mobilization Forces in western Iraq.",
+        "links": [
+            {
+                "source": "(Al Quds)",
+                "url": "https://www.alquds.co.uk/%D9%85%D9%82%D8%AA%D9%84-%D9%86%D8%AD%D9%88-20-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%BA%D8%B1%D8%A8/"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Western Iraq",
+            "city": null,
+            "institution": "Popular Mobilization Forces"
+        },
+        "coordinate": {
+            "latitude": 32.5224817,
+            "longitude": 46.5076723
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Norwegian Police responded to an incident outside of the  synagogue in Trondheim, Norway. A manhunt after two suspects started shortly after, and one is detained. A terrorist motive is under investigation.",
+        "links": [
+            {
+                "source": "(Channel2now)",
+                "url": "https://channel2now.com/2026/03/12/article/news/world/active-police-operation-reported-at-synagogue-in-trondheim-norway/"
+            }
+        ],
+        "poi": {
+            "country": "Norway",
+            "state": "Trøndelag",
+            "city": "Trondheim",
+            "institution": "Synagogue"
+        },
+        "coordinate": {
+            "latitude": 63.4304475,
+            "longitude": 10.3952118
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Iranian supreme leader Mojtaba Khamenei issues his first public message since his election in which he says that Iran should continue blocking the Strait of Hormuz and advises neighboring countries to close American military bases in their territory. Khamenei also vows to \"avenge the blood of our martyrs\".",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/c4gqjyk0vx3t?post=asset%3A0bcdc28a-0230-4947-aa0d-2cdaf3ab93fe#post"
+            },
+            {
+                "source": "(Los Angeles Times)",
+                "url": "https://www.latimes.com/politics/story/2026-03-12/us-israel-iran-war-iranian-leader-mojtaba-khamenei-statement"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Supreme Leader's Office"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "German shipping company Hapag-Lloyd says that projectile ​fragments ​hit the Liberia-flagged container vessel Source Blessing ⁠near the ​Strait.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/projectile-fragments-hit-hapag-lloyd-container-vessel-near-strait-hormuz-2026-03-12/"
+            }
+        ],
+        "poi": {
+            "country": "Liberia",
+            "state": null,
+            "city": null,
+            "institution": "Strait"
+        },
+        "coordinate": {
+            "latitude": 5.7499721,
+            "longitude": -9.3658524
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Eight people are killed and 31 more injured by an Israeli airstrike on the Ramlet al-Baida beach in central Beirut, Lebanon. Seven more people are also killed in other attacks in the country.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "Central Lebanon",
+            "city": "Beirut",
+            "institution": "Ramlet al-Baida beach"
+        },
+        "coordinate": {
+            "latitude": 33.8955958,
+            "longitude": 35.4889242
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Hezbollah launches over 200 rockets and 20 UAVs at northern Israel, injuring two people.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/hezbollah-fires-at-least-150-rockets-at-north-iran-launches-missiles-in-integrated-operation/"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Northern Israel",
+            "city": "Various locations in Northern Israel",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "At least 20 people are killed in an airstrike targeting a Popular Mobilization Forces building in Akashat, Iraq.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://www.skynewsarabia.com/middle-east/1858294-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%82%D8%AA%D9%84-20-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": null,
+            "city": "Akashat",
+            "institution": "Popular Mobilization Forces building"
+        },
+        "coordinate": {
+            "latitude": 33.6674552,
+            "longitude": 39.9669887
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Chilean architect Smiljan Radić receives the 2026 Pritzker Architecture Prize, recognizing his contributions to contemporary architecture.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260312-chile-s-smiljan-radic-clarke-wins-pritzker-architecture-prize"
+            }
+        ],
+        "poi": {
+            "country": "Chile",
+            "state": null,
+            "city": null,
+            "institution": "Pritzker Architecture Prize"
+        },
+        "coordinate": {
+            "latitude": -31.7613365,
+            "longitude": -71.3187697
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Lufthansa pilot union announces a 48-hour strike for all flights departing German airports until Saturday over ongoing disputes about pensions, causing major delays.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/travel/news-and-advice/lufthansa-strike-vc-b2936962.html"
+            }
+        ],
+        "poi": {
+            "country": "Germany",
+            "state": null,
+            "city": null,
+            "institution": "Lufthansa"
+        },
+        "coordinate": {
+            "latitude": 51.1638175,
+            "longitude": 10.4478313
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "At least 102 people are killed and one person is rescued after a series of landslides in the Gamo Zone of Ethiopia.",
+        "links": [
+            {
+                "source": "(Ethiopia Observer)",
+                "url": "https://www.ethiopiaobserver.com/2026/03/12/death-toll-from-floods-and-landslides-rises-to-more-than-100/"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/ethiopia-landslides-deaths-b5cfde29f703aa1c025beb7cef1c9f57"
+            }
+        ],
+        "poi": {
+            "country": "Ethiopia",
+            "state": "Gamo Zone",
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 6.0095303,
+            "longitude": 37.5354187
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Eight people are killed after an artisanal mine collapses in Ouham-Pendé, Central African Republic.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/central-african-republic-mine-collapse-47cbf48bbd09a82541ce2f731eeba46e"
+            }
+        ],
+        "poi": {
+            "country": "Central African Republic",
+            "state": "Ouham-Pendé",
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 6.7057282,
+            "longitude": 16.1443202
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Thailand summons Iran's ambassador, demanding an apology and an explanation for the attack on the bulk carrier MV Mayuree Naree in the waters of the Strait the previous day.",
+        "links": [
+            {
+                "source": "(BERNAMA)",
+                "url": "https://www.bernama.com/en/news.php/?id=2533661"
+            }
+        ],
+        "poi": {
+            "country": "Thailand",
+            "state": null,
+            "city": null,
+            "institution": "Government of Thailand"
+        },
+        "coordinate": {
+            "latitude": 13.7637911,
+            "longitude": 100.5113132
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Iceland and the Netherlands announce they will both intervene on the side of South Africa in the International Court of Justice's genocide case against Israel.",
+        "links": [
+            {
+                "source": "(The Express Tribune)",
+                "url": "https://tribune.com.pk/story/2597264/iceland-netherlands-join-icj-genocide-case-against-israel"
+            }
+        ],
+        "poi": {
+            "country": "Iceland",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 64.9841821,
+            "longitude": -18.1059013
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "A Russian military court sentences 19 people for their involvement in the terrorist attack at the Crocus City Hall in Krasnogorsk, Moscow Oblast, in 2024. Fifteen of those are sentenced to life in prison while the other four are given between 19 and 22 years in prison.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o"
+            }
+        ],
+        "poi": {
+            "country": "Russia",
+            "state": "Moscow Oblast",
+            "city": "Krasnogorsk",
+            "institution": "Crocus City Hall"
+        },
+        "coordinate": {
+            "latitude": 55.8204707,
+            "longitude": 37.3196942
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Police respond to an active shooter incident at the Temple Israel synagogue in West Bloomfield Township, Michigan, United States. The perpetrator is fatally shot.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/03/12/us/west-bloomfield-michigan-incident"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Michigan",
+            "city": "West Bloomfield Township",
+            "institution": "Temple Israel Synagogue"
+        },
+        "coordinate": {
+            "latitude": 42.5684073,
+            "longitude": -83.3740333
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Two people are killed, including the perpetrator, and two other people are critically injured in a school shooting at Old Dominion University in Norfolk, Virginia, United States.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/03/12/us/old-dominion-university-shooting-virginia"
+            },
+            {
+                "source": "(WAVY-TV)",
+                "url": "https://www.wavy.com/news/local-news/old-dominion-university-issues-active-threat-at-constant-hall/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Virginia",
+            "city": "Norfolk",
+            "institution": "Old Dominion University"
+        },
+        "coordinate": {
+            "latitude": 36.8862699,
+            "longitude": -76.3097248
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Israeli military drops charges against five soldiers accused of raping a Palestinian prisoner at the Sde Teiman detention camp.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/israel-gaza-war-palestinians-prison-abuse-b11e5f0639b7fe51c5ea101f4b320f56?utm_source=copy&utm_medium=share"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": null,
+            "city": "Sde Teiman",
+            "institution": "Sde Teiman detention camp"
+        },
+        "coordinate": {
+            "latitude": 31.2898868,
+            "longitude": 34.7100993
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Nepalese election commission releases the official results of the recent election, with Balen Shah's Rastriya Swatantra Party winning 182 seats in the 275-member House of Representatives. The result gives the party a majority in the House and places it two seats short of a supermajority.",
+        "links": [
+            {
+                "source": "(AFP via The Hindu)",
+                "url": "https://www.thehindu.com/news/international/nepals-rsp-party-of-balendra-shah-wins-majority-election-commission/article70736058.ece"
+            }
+        ],
+        "poi": {
+            "country": "Nepal",
+            "state": null,
+            "city": null,
+            "institution": "Electoral Commission of Nepal"
+        },
+        "coordinate": {
+            "latitude": 28.3780464,
+            "longitude": 83.9999901
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Oman orders the evacuation of vessels from the Mina Al Fahal oil port.",
+        "links": [
+            {
+                "source": "(Oil Price)",
+                "url": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Evacuates-Key-Oil-Port-as-Iran-War-Intensifies.html"
+            }
+        ],
+        "poi": {
+            "country": "Oman",
+            "state": null,
+            "city": "Mina Al Fahal",
+            "institution": "Oil Port"
+        },
+        "coordinate": {
+            "latitude": 23.6230782,
+            "longitude": 58.5182468
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "An Iranian strike hits fuel storage tanks at a facility in Muharraq Governorate, Bahrain.",
+        "links": [
+            {
+                "source": "(Qatar News Agency)",
+                "url": "https://qna.org.qa/en/news/news-details?id=bahrain-says-firefighters-contain-blaze-after-iranian-strike-on-fuel-tanks&date=12/03/2026"
+            }
+        ],
+        "poi": {
+            "country": "Bahrain",
+            "state": "Muharraq Governorate",
+            "city": "Muharraq",
+            "institution": "Facility"
+        },
+        "coordinate": {
+            "latitude": 26.2681413,
+            "longitude": 50.6164445
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "A French soldier is killed and six others are injured in an Iranian drone attack on a military base in Erbil, Iraq.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/drone-attack-wounds-least-six-french-soldiers-base-iraqs-makhmour-erbil-governor-2026-03-12/"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.net/news/2026/3/13/%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-6-%D8%AC%D9%86%D9%88%D8%AF-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D9%8A%D9%86"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Erbil",
+            "city": "Erbil",
+            "institution": "Military Base"
+        },
+        "coordinate": {
+            "latitude": 37.1509395,
+            "longitude": 44.7167989
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Kuwait International Airport is targeted by several drones, causing material damage but no injuries.",
+        "links": [
+            {
+                "source": "(NDTV)",
+                "url": "https://www.ndtv.com/world-news/iran-war-live-iranian-drones-strike-kuwait-international-airport-no-casualties-11205363"
+            }
+        ],
+        "poi": {
+            "country": "Kuwait",
+            "state": null,
+            "city": "Kuwait City",
+            "institution": "Kuwait International Airport"
+        },
+        "coordinate": {
+            "latitude": 29.3796532,
+            "longitude": 47.9734174
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Saudi defense ministry announces the interception of two missiles and the destruction of seven drones.",
+        "links": [
+            {
+                "source": "(Qatar News Agency)",
+                "url": "https://qna.org.qa/en/news/news-details?id=saudi-defense-ministry-two-missiles-intercepted-seven-drones-destroyed&date=12/03/2026"
+            }
+        ],
+        "poi": {
+            "country": "Saudi Arabia",
+            "state": null,
+            "city": null,
+            "institution": "Saudi Defense Ministry"
+        },
+        "coordinate": {
+            "latitude": 25.6242618,
+            "longitude": 42.3528328
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "It is reported that the strike on the home of former Iranian president Mahmoud Ahmadinejad was to act like a jailbreak from regime control rather than killing him.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/middle-east/iran-news/article-889594"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": null,
+            "institution": "Former Iranian President's Residence"
+        },
+        "coordinate": {
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The Italian military base in Erbil, Kurdistan Region, Iraq, is struck by a missile, with no casualties of injuries reported.",
+        "links": [
+            {
+                "source": "(Asharq Al-Awsat)",
+                "url": "https://english.aawsat.com/arab-world/5250334-italian-base-iraqi-kurdistan-hit-missile-says-defense-ministry"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Kurdistan Region",
+            "city": "Erbil",
+            "institution": "Italian military base"
+        },
+        "coordinate": {
+            "latitude": 36.1911744,
+            "longitude": 44.0094145
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The United States treasury department issues a temporary license permitting the delivery and sale of Russian oil and petroleum products already loaded onto vessels before March 12, easing sanctions on such shipments until April 11 amid rising global energy prices.",
+        "links": [
+            {
+                "source": "(AFP via Philippine Daily Inquirer)",
+                "url": "https://globalnation.inquirer.net/313806/us-temporarily-allows-sale-of-some-russian-oil"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": null,
+            "city": null,
+            "institution": "Treasury Department"
+        },
+        "coordinate": {
+            "latitude": 38.8976061,
+            "longitude": -77.0343456
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "A United States Air Force Boeing KC-135 Stratotanker carrying at least six crew members crashes after an incident involving another aircraft in western Iraq. The condition of the crew is unknown.",
+        "links": [
+            {
+                "source": "(BNO News)",
+                "url": "https://bnonews.com/index.php/2026/03/u-s-military-refueling-plane-crashes-in-iraq-6-on-board/"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Western Iraq",
+            "city": null,
+            "institution": "United States Air Force"
+        },
+        "coordinate": {
+            "latitude": 32.5224817,
+            "longitude": 46.5076723
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Canadian prime minister Mark Carney announces nearly CAN$35 billion (US$25.7 ‌billion) in funding to strengthen Canada's Arctic infrastructure, including upgrades to military facilities and the construction of new icebreakers to expand the country's operational capacity in the region.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260313-with-new-ships-canada-aims-to-be-icebreaking-superpower"
+            }
+        ],
+        "poi": {
+            "country": "Canada",
+            "state": null,
+            "city": null,
+            "institution": "Arctic Infrastructure Development"
+        },
+        "coordinate": {
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Brazilian Supreme Federal Court justice Alexandre de Moraes denies a request by imprisoned former president Jair Bolsonaro to receive a visit from American diplomat Darren Beattie, ruling that the meeting falls outside the diplomatic purposes stated in Beattie's visa authorization.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/brazils-top-diplomat-raises-concerns-over-trump-aides-planned-visit-bolsonaro-2026-03-12/"
+            }
+        ],
+        "poi": {
+            "country": "Brazil",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -10.3333333,
+            "longitude": -53.2
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Cuba announces plans to release 51 prisoners following discussions with the Holy See, stating that the detainees have served most of their sentences and demonstrated good conduct.",
+        "links": [
+            {
+                "source": "(AFP via Indo Premier)",
+                "url": "https://www.indopremier.com/ipotnews/newsDetail.php?jdl=Cuba_announces_release_of_51_prisoners_after_talks_with_Vatican__official&news_id=1723448&group_news=ALLNEWS&taging_subtype=CUBA&name=&search=y_general&q=CUBA,%20&halaman=1"
+            }
+        ],
+        "poi": {
+            "country": "Cuba",
+            "state": null,
+            "city": null,
+            "institution": "Holy See"
+        },
+        "coordinate": {
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Hungary returns two seized armored cars to Ukraine but retains approximately US$82 million in cash and gold as authorities investigate suspected money laundering.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/finance/hungary-returns-seized-ukrainian-bank-vehicles-withholds-cash-gold-2026-03-12/"
+            }
+        ],
+        "poi": {
+            "country": "Ukraine",
+            "state": null,
+            "city": null,
+            "institution": "Hungarian National Bank"
+        },
+        "coordinate": {
+            "latitude": 49.4871968,
+            "longitude": 31.2718321
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The perpetrator is killed and 31 others are injured in a shooting and vehicle-ramming attack at the Temple Israel synagogue in West Bloomfield Township, Michigan, United States.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/us/live-news/michigan-synagogue-shooting-03-12-26?t=1773355657241"
+            }
+        ],
+        "poi": {
+            "country": "United States",
+            "state": "Michigan",
+            "city": "West Bloomfield Township",
+            "institution": "Temple Israel synagogue"
+        },
+        "coordinate": {
+            "latitude": 42.5684073,
+            "longitude": -83.3740333
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "The International Criminal Court at The Hague dismisses an investigation into whether U.S. sanctions against Venezuelan officials qualify as crimes against humanity.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/icc-venezuela-sanctions-belarus-69050a392fbe77023cab37b3195afbfb"
+            }
+        ],
+        "poi": {
+            "country": "Netherlands",
+            "state": null,
+            "city": "The Hague",
+            "institution": "International Criminal Court"
+        },
+        "coordinate": {
+            "latitude": 52.1054408,
+            "longitude": 4.3179791
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "A rabbi is seriously injured in a stabbing in Ramat Gan, Israel, as local police suspect a terrorist motive.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/man-seriously-wounded-in-ramat-gan-stabbing-police-suspect-terror-motive/"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Ramat Gan",
+            "city": "Ramat Gan",
+            "institution": "Ramat Gan Synagogue"
+        },
+        "coordinate": {
+            "latitude": 32.0686867,
+            "longitude": 34.8246812
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Polish president Karol Nawrocki announces that he will veto legislation enabling Poland to access €43.7 billion (US$50.3 billion) in European Union loans under the Security Action for Europe program to fund military spending.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/polish-president-vetoes-eu-defence-loan-bill-2026-03-12/"
+            }
+        ],
+        "poi": {
+            "country": "Poland",
+            "state": null,
+            "city": null,
+            "institution": "Polish President's Office"
+        },
+        "coordinate": {
+            "latitude": 52.215933,
+            "longitude": 19.134422
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "In basketball, Oklahoma City Thunder player Shai Gilgeous-Alexander breaks the NBA record set by Wilt Chamberlain for most consecutive 20-point games with 127 games.",
+        "links": [
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/nba/story/_/id/48190692/gilgeous-alexander-eclipses-wilt-nba-longest-20-point-streak"
+            }
+        ],
+        "poi": {
+            "country": "USA",
+            "state": "Oklahoma",
+            "city": "Oklahoma City",
+            "institution": "Oklahoma City Thunder"
+        },
+        "coordinate": {
+            "latitude": 35.4729886,
+            "longitude": -97.5170536
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "At least four crew members are killed when a United States Air Force Boeing KC-135 Stratotanker carrying six crew members crashes after an incident involving another aircraft in western Iraq.",
+        "links": [
+            {
+                "source": "(BNO News)",
+                "url": "https://bnonews.com/index.php/2026/03/4-crew-members-confirmed-dead-after-u-s-refueling-plane-crash-in-iraq/"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": null,
+            "city": null,
+            "institution": "United States Air Force"
+        },
+        "coordinate": {
+            "latitude": 33.0955793,
+            "longitude": 44.1749775
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-12",
+        "description": "Two unidentified men assault and injure the deputy director of KontraS, an Indonesian human rights organization, in an acid attack in central Jakarta.",
+        "links": [
+            {
+                "source": "(AFP via CNA)",
+                "url": "https://www.channelnewsasia.com/asia/indonesia-activist-acid-attack-andrie-yunus-5993076"
+            },
+            {
+                "source": "(Tempo English)",
+                "url": "https://en.tempo.co/read/2092448/jakarta-police-probe-acid-attack-on-kontras-activist-andrie-yunus"
+            }
+        ],
+        "poi": {
+            "country": "Indonesia",
+            "state": "Central Java",
+            "city": "Jakarta",
+            "institution": "Unknown"
+        },
+        "coordinate": {
+            "latitude": -6.1433757,
+            "longitude": 106.8315132
+        }
+    }
+]

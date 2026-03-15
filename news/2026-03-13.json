@@ -1,0 +1,346 @@
+[
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "At least 58 people are injured by an Iranian ballistic missile strike on northern Israel.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-889842"
+            }
+        ],
+        "poi": {
+            "country": "Israel",
+            "state": "Northern Israel",
+            "city": "Various locations in northern Israel",
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 30.8124247,
+            "longitude": 34.8594762
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Turkey intercepts an Iranian ballistic missile violating its airspace.",
+        "links": [
+            {
+                "source": "(Türkiye Today)",
+                "url": "https://www.turkiyetoday.com/region/third-iranian-missile-intercepted-in-turkish-airspace-defense-ministry-3216167?s=1"
+            },
+            {
+                "source": "(Caspian Post)",
+                "url": "https://caspianpost.com/regions/sirens-sound-at-turkiye-s-incirlik-air-base"
+            }
+        ],
+        "poi": {
+            "country": "Turkey",
+            "state": null,
+            "city": "Incirlik",
+            "institution": "Incirlik Air Base"
+        },
+        "coordinate": {
+            "latitude": 39.294076,
+            "longitude": 35.2316631
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Sri Lanka repatriates the bodies of 84 Iranian sailors killed when the frigate IRIS Dena was sunk by a United States submarine off the coast of Galle on 4 March. Thirty-two rescued sailors remain in Sri Lanka while authorities continue to host other Iranian naval personnel under humanitarian arrangements.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20260313-sri-lanka-to-repatriate-remains-of-84-iranians-killed-in-us-attack"
+            }
+        ],
+        "poi": {
+            "country": "Sri Lanka",
+            "state": "Galle",
+            "city": "Galle",
+            "institution": "United States Navy"
+        },
+        "coordinate": {
+            "latitude": 6.0328139,
+            "longitude": 80.214955
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Two migrant workers are killed and several other people are injured after security forces intercept a drone in an industrial area in Sohar, Oman.",
+        "links": [
+            {
+                "source": "(AFP via Daily Sun)",
+                "url": "https://www.daily-sun.com/world/863076/two-dead-as-oman-thwarts-drone-attack"
+            }
+        ],
+        "poi": {
+            "country": "Oman",
+            "state": "Sohar",
+            "city": "Sohar",
+            "institution": "Industrial Area"
+        },
+        "coordinate": {
+            "latitude": 24.4352335,
+            "longitude": 56.559611
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Six people are killed and several others injured in a Pakistani airstrike on a residential area in Kabul, Afghanistan. A fuel depot in Kandahar is also bombed.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/pakistan-bombs-fuel-depot-private-airline-near-kandahar-airport-afghan-taliban-2026-03-13/"
+            }
+        ],
+        "poi": {
+            "country": "Afghanistan",
+            "state": "Kabul",
+            "city": "Kabul",
+            "institution": "Kandahar Fuel Depot"
+        },
+        "coordinate": {
+            "latitude": 34.5269503,
+            "longitude": 69.1850584
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "The United States military confirms that all six crew members aboard an Air Force Boeing KC-135 Stratotanker died when the aircraft crashed in western Iraq yesterday.",
+        "links": [
+            {
+                "source": "(AFP via The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/us-raises-death-toll-from-refueling-aircraft-crash-from-four-to-six/"
+            }
+        ],
+        "poi": {
+            "country": "Iraq",
+            "state": "Western Iraq",
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": 32.5224817,
+            "longitude": 46.5076723
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Bolivian authorities arrest suspected Uruguayan drug cartel leader Sebastián Marset during a police operation in Santa Cruz de la Sierra. Marset, who is wanted by several countries and has a US$2 million reward linked to money laundering allegations, is detained along with four other individuals.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260313-top-latin-american-narco-trafficker-marset-arrested-in-bolivia-govt-source"
+            }
+        ],
+        "poi": {
+            "country": "Uruguay",
+            "state": "Santa Cruz",
+            "city": "Santa Cruz de la Sierra",
+            "institution": "Police Department"
+        },
+        "coordinate": {
+            "latitude": -32.8755548,
+            "longitude": -56.0201525
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "United States president Donald Trump says that U.S. forces conducted airstrikes on military targets on Kharg Island, Iran, and warns that the U.S. may also target the island's oil infrastructure if shipping through the Strait of Hormuz is disrupted.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/world/2026/3/14/trump-says-us-bombed-iran-s-kharg-island-threatens-oil-infrastructure-0801"
+            }
+        ],
+        "poi": {
+            "country": "Iran",
+            "state": null,
+            "city": "Kharg Island",
+            "institution": "null"
+        },
+        "coordinate": {
+            "latitude": 29.2405943,
+            "longitude": 50.3117293
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "U.S. officials say a marine expeditionary unit of 5,000 marines and sailors will deploy to the Persian Gulf to reinforce existing forces stationed in the region.",
+        "links": [
+            {
+                "source": "(The Wall Street Journal)",
+                "url": "https://www.wsj.com/livecoverage/us-israel-iran-war-news-2026"
+            },
+            {
+                "source": "(Forbes)",
+                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/03/13/thousands-of-marines-and-3-us-warships-deployed-to-the-middle-east-reports-say/"
+            }
+        ],
+        "poi": {
+            "country": "Persian Gulf",
+            "state": null,
+            "city": null,
+            "institution": "Marine Expeditionary Unit"
+        },
+        "coordinate": {
+            "latitude": 27.2381259,
+            "longitude": 51.1972311
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Saudi Arabia cuts oil production by 20% after the shutdown of two offshore oil fields, including Safaniya.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/saudi-arabia-cuts-oil-output-20-8-million-bpd-amid-iran-war-sources-say-2026-03-13/"
+            }
+        ],
+        "poi": {
+            "country": "Saudi Arabia",
+            "state": null,
+            "city": null,
+            "institution": "Safaniya"
+        },
+        "coordinate": {
+            "latitude": 27.9923661,
+            "longitude": 48.7910841
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Cuban president Miguel Díaz-Canel confirms that Cuba is in talks with the U.S. to find solutions to the oil blockade in his country.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cwy8zv9gp0go"
+            }
+        ],
+        "poi": {
+            "country": "Cuba",
+            "state": null,
+            "city": null,
+            "institution": "Cuban President's Office"
+        },
+        "coordinate": {
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "El Salvador and the United States sign Agreement 123 under the Atomic Energy Act of 1954 to build a nuclear power plant in El Salvador that is planned to be operational by 2030.",
+        "links": [
+            {
+                "source": "(El Mundo)",
+                "url": "https://diario.elmundo.sv/economia/ee-uu-y-el-salvador-finalizan-negociaciones-para-acuerdo-de-cooperacion-nuclear"
+            }
+        ],
+        "poi": {
+            "country": "El Salvador",
+            "state": null,
+            "city": "El Salvador",
+            "institution": "Atomic Energy Commission"
+        },
+        "coordinate": {
+            "latitude": 13.8000382,
+            "longitude": -88.9140683
+        }
+    },
+    {
+        "status": "no_valid_coordinate",
+        "date": "2026-03-13",
+        "description": "The Islamic Revolutionary Guard Corps warns of a stronger response than in January if new protests against the regime erupt.",
+        "links": [
+            {
+                "source": "(AFP via Al Arabiya)",
+                "url": "https://english.alarabiya.net/News/middle-east/2026/03/13/irgc-vow-stronger-response-than-in-january-if-new-protests-erupt"
+            }
+        ],
+        "poi": {
+            "country": "Cyberspace",
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": -1,
+            "longitude": -1
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Twelve medical staff members, including doctors, nurses and paramedics, are killed in an Israeli airstrike against a medical facility in Burj Qalaouiyah, Bint Jbeil District, Lebanon.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on"
+            }
+        ],
+        "poi": {
+            "country": "Lebanon",
+            "state": "Bint Jbeil District",
+            "city": "Burj Qalaouiyah",
+            "institution": "Medical Facility"
+        },
+        "coordinate": {
+            "latitude": 33.1832536,
+            "longitude": 35.4138051
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "The Saudi Arabian defense ministry reports that air defenses intercepted and destroyed 56 hostile drones targeting several areas across the country.",
+        "links": [
+            {
+                "source": "(Saudi Gazette)",
+                "url": "https://saudigazette.com.sa/article/659732/saudi-arabia/saudi-air-defenses-intercept-and-destroy-58-hostile-drones-across-kingdom"
+            }
+        ],
+        "poi": {
+            "country": "Saudi Arabia",
+            "state": null,
+            "city": null,
+            "institution": "Saudi Arabian Ministry of Defense"
+        },
+        "coordinate": {
+            "latitude": 25.6242618,
+            "longitude": 42.3528328
+        }
+    },
+    {
+        "status": "coordinate_fetched",
+        "date": "2026-03-13",
+        "description": "Eleven people are killed and 20 others are injured in a drone strike on a fuel reserve in western Sudan.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/drone-strike-sudan-kills-11-injures-over-20-msf-says-2026-03-13/"
+            }
+        ],
+        "poi": {
+            "country": "Sudan",
+            "state": "Western Sudan",
+            "city": "No specific city mentioned",
+            "institution": "No specific institution mentioned"
+        },
+        "coordinate": {
+            "latitude": 14.5844444,
+            "longitude": 29.4917691
+        }
+    }
+]
