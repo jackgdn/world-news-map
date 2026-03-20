@@ -85,11 +85,6 @@ Copy-Item config.template.yaml config.yaml
 | `http_server_host`                  |          | Bind host (`localhost` or `0.0.0.0`).                                       |
 | `http_server_port`                  |          | Listening port for the frontend HTTP server.                                |
 | `base_url`                          | Yes      | Public site base URL used for generated metadata links.                     |
-| `connection_timeout_seconds`        |          | Socket timeout per client connection.                                       |
-| `http_listen_backlog`               |          | Max pending TCP connections.                                                |
-| `reload_blocklist_interval_seconds` |          | Interval to reload banned IP list from file.                                |
-| `https_certificate_path`            |          | TLS certificate path. Leave empty to disable HTTPS.                         |
-| `https_key_path`                    |          | TLS private key path. Leave empty to disable HTTPS.                         |
 
 ## Usage
 
