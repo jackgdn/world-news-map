@@ -1,0 +1,23 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-05",
+        "description": "An unidentified group of masked protesters block the Port of Dover in Kent, England, causing massive disruption to traffic.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cmwyzxlzxpzgt"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "At least 21 people are killed and 28 others are injured following a bus accident in South Sinai, Egypt.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/sixteen-killed-28-injured-egypts-south-sinai-bus-accident-health-ministry-says-2026-09-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "The MV Tuğberk İmamoğlu cargo ship sinks in the Marmara Sea after a collision with an oil tanker, leaving ten people missing.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/09/02/cargo-ship-with-10-crew-sinks-off-istanbul-after-collision-maritime-authorities-say"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "An explosion at the Augsburg train station in Swabia, Germany, injures two people. The cause is unknown.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/my-europe/2026/09/02/at-least-two-people-injured-in-explosion-at-german-train-station-police-say"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "The crew on the USS Abraham Lincoln arrives at Laem Chabang port near the resort city of Pattaya, Thailand, following a 286-day deployment and reports of mental health challenges on the carrier.",
+        "links": [
+            {
+                "source": "(Military Times)",
+                "url": "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Twenty-one insurgents and six soldiers are killed in separate shootouts across multiple districts in Balochistan, Pakistan.",
+        "links": [
+            {
+                "source": "(Caliber.az)",
+                "url": "https://caliber.az/en/post/six-martyred-in-balochistan-attack-as-21-terrorists-killed"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "The global stock index rises following recent declines amidst the war in Iran including renewed tensions with the Japanese yen gaining against the United States dollar.",
+        "links": [
+            {
+                "source": "(CNA)",
+                "url": "https://www.channelnewsasia.com/business/stocks-rise-after-recent-declines-japanese-yen-jumps-against-us-dollar-6356271"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "The Dutch central bank reallocates 86 tonnes of gold reserves from Ottawa, Canada, and New York City, United States, to London, United Kingdom, increasing the share held there to 32.1%, citing \"increasing geopolitical unrest\".",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260902-dutch-shift-86-tonnes-of-gold-from-us-canada-to-uk"
+            },
+            {
+                "source": "(Seoul Economic Daily)",
+                "url": "https://en.sedaily.com/international/2026/09/02/dutch-central-bank-shifts-86-tons-of-gold-to-london"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "At least 22 people, including ten Jordanians, are killed and 28 others are injured in a bus accident in South Sinai, Egypt.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260902-bus-crash-in-egypt-s-sinai-kills-22-including-10-jordanians"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "A crew member is killed, six others are missing, and one is rescued when a tugboat capsizes and sinks off the coast of Busan, South Korea.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/south-korea-tugboat-sinks-busan-crew-search-842629f4f2721a1b71d8e7737bfc6ecc"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Following the attempted attack, security authorities are focusing on several suspects with ties to Russia. According to investigations by NDR, WDR, and SZ, the suspects are two men from Belarus and Lithuania who are also said to hold Russian passports.",
+        "links": [
+            {
+                "source": "(tagesschau)",
+                "url": "https://tsde.li/verdaechtige-leipzig"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Digital rights organization SHARE Foundation documents at least 14 Serbian students and opposition activists targeted with Pegasus or NoviSpy spyware in 2026, while Citizen Lab confirms Pegasus infection in at least one case.",
+        "links": [
+            {
+                "source": "(Financial Times)",
+                "url": "https://www.ft.com/content/c9c3a0ef-98d5-4aeb-9d20-e6250d6fcf99?syn-25a6b1a6=1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Following a short circuit at a substation near Cologne, an investigation is underway into anti-constitutional sabotage. According to North Rhine-Westphalia’s Interior Minister Herbert Reul, the search for suspects is proceeding in two directions: “foreign-directed sabotage and left-wing extremism.”",
+        "links": [
+            {
+                "source": "(tagesschau)",
+                "url": "https://tsde.li/ermittlungen-nrw"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Following the fatal shootings at a rave in Aarau, Switzerland, over the weekend, police are now treating the incident as a rampage.",
+        "links": [
+            {
+                "source": "(tagesschau)",
+                "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Darren James Service pleads guilty to two charges relating to a hoax bomb threat that targeted the Houben Centre in Belfast when then Irish Minister for Foreign Affairs and Trade Simon Coveney was scheduled to address a conference there.",
+        "links": [
+            {
+                "source": "(RTÉ)",
+                "url": "https://www.rte.ie/news/2026/0902/1590088-coveney-bomb-hoax-court/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Chancellor of Justice Ülle Madise, the only candidate, is elected by the Riigikogu as President of Estonia. She will be sworn into office on October 12, succeeding Alar Karis.",
+        "links": [
+            {
+                "source": "(ERR)",
+                "url": "https://news.err.ee/1610126071/estonia-elects-new-president"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/estonia-elects-human-rights-ombudsman-madise-its-next-president-2026-09-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "The World Food Programme reports that an airstrike hit two UN food aid trucks in Dilling, South Kordofan, Sudan, over the weekend, destroying emergency supplies.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/middle-east/two-un-aid-trucks-destroyed-in-sudan-attack-wfp-3000264"
+            },
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/318242"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "At least 13 people are killed and five others sustain critical injuries after two minivans collide head-on in Greater Accra, Ghana.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260902/f0109d4b64f849d7a13c7f8997cc5e38/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Five people are killed and 20 others injured after a passenger bus collides with a tanker truck on the National Highway 39 in Rewa District, Madhya Pradesh, India.",
+        "links": [
+            {
+                "source": "(Times of India)",
+                "url": "https://timesofindia.indiatimes.com/india/mp-highway-crash-5-killed-20-hurt-after-bus-collides-with-bulker-pm-modi-mourns-deaths/articleshow/133715684.cms"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "A study published in the New England Journal of Medicine reports that the RAS inhibitor drug daraxonrasib, which was approved by the U.S. Food and Drug Administration as a treatment for metastatic pancreatic cancer, also shows promise against lung cancer.",
+        "links": [
+            {
+                "source": "(Nature)",
+                "url": "https://www.nature.com/articles/d41586-026-02745-5"
+            },
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/health/health-news/newly-approved-pancreatic-cancer-drug-shows-promise-lung-cancer-rcna595753"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Following a short circuit at a substation near Cologne, an investigation is underway into anti-constitutional sabotage. According to North Rhine-Westphalia's Interior Minister Herbert Reul, the search for suspects is proceeding in two directions: \"foreign-directed sabotage and left-wing extremism\".",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/germany-updates-augsburg-explosion-bergheim-power-sabotage/live-78669282"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "In association football, Major League Soccer announces that all 27 teams from the United States will return to the U.S. Open Cup beginning in 2027, making it the first full participation in the tournament since 2023.",
+        "links": [
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/soccer/story/_/id/49795119/us-mls-teams-make-full-return-open-cup-2027"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "In basketball, the NBA announces the results of its investigation into the Los Angeles Clippers' signing of star player Kawhi Leonard in 2022. The league determines that the Clippers violated the league salary cap via a series of external dealings. Penalties include fines of $30 million for the Clippers and $700,000 for Leonard, the loss of the Clippers' first-round picks in each draft from 2029–2033, and a one-year suspension for Clippers owner Steve Ballmer.",
+        "links": [
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/nba/story/_/id/49806356/nba-announces-punishments-clippers-kawhi-probe"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Palestinian officials say two teenagers were killed during an incident involving Israeli settlers and soldiers in al-Mughayyir, Ramallah and al-Bireh Governorate, West Bank. The villiage council states that the Palestinian teenagers were killed when they were trying to prevent the Israeli settlers from stealing livestock. Israel's military says troops shot stone-throwers while protecting an Israeli civilian and police retrieving livestock.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cj6482r6yl4o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Following the drone attacks at Leipzig/Halle Airport last month, German security authorities are focusing on several suspects with ties to Russia. According to investigations by the NDR, WDR, and SZ, the suspects are two men from Belarus and Lithuania who are also said to hold Russian passports.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/europe/20260902-eu-summons-russia-envoys-eyes-sanctions-after-germany-drone-attack"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "U.S. federal judge Deborah Boardman of Maryland's district court blocks an attempt by the Trump administration from implementing an executive order aimed at ending birthright citizenship in the country.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/us-judge-blocks-trumps-newest-order-limiting-birthright-citizenship-2026-09-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "A Maltese jury acquits businessman Yorgen Fenech of complicity in the 2017 car-bomb killing of journalist Daphne Caruana Galizia and of criminal association, finding him not guilty by an 8–1 vote.",
+        "links": [
+            {
+                "source": "(AP via NPR)",
+                "url": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Three people are killed, including the perpetrator, and six others are injured in a mass shooting in Loring Park, Minneapolis, United States.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/minneapolis-shooting-police-wounded-3ff6046fde9edd1c764701c10aa4a1ac"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-02",
+        "description": "Twenty-one insurgents and six Pakistani personnel, including five security forces and a customs official, are killed in separate shootouts across multiple districts in Balochistan, Pakistan.",
+        "links": [
+            {
+                "source": "(Dawn)",
+                "url": "https://www.dawn.com/news/2026635"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

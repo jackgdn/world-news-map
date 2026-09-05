@@ -1,0 +1,656 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The 26th Shanghai Cooperation Organisation summit is held in Bishkek, Kyrgyzstan, which coincides with the country's Independence Day and the opening ceremony of the 2026 World Nomad Games.",
+        "links": [
+            {
+                "source": "(The Times of Central Asia)",
+                "url": "https://timesca.com/kyrgyzstan-hosts-sco-summit-as-bloc-marks-25-years/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A South Korean court sentences Unification Church leader Hak Ja Han to two years in prison for bribing officials, including former first lady Kim Keon Hee, in an effort to obtain policy favors.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260831-south-korea-court-gives-unification-church-leader-2-years-prison-1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) says that a supertanker caught fire after hitting two naval mines in the Strait of Hormuz. The IRGC accuses the United States of responsibility for the attack, which the United States Central Command on an X post denies.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates?CMP=share_btn_url&page=with%3Ablock-6a957d358f089f2cda79ab60#block-6a957d358f089f2cda79ab60"
+            },
+            {
+                "source": "(Reuters via Arab News)",
+                "url": "https://www.arabnews.com/node/2656391/amp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The United Arab Emirates defense ministry reports that an Iranian drone has been intercepted over the country's airspace. Additionally, Iran's army says that they have attacked the Al Minhad Air Base, which the UAE denies.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-us-war-uea-august-31-2026-9f34873bad9a928574c36ee984c3f96b"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Israeli attacks across the Gaza Strip kill ⁠at least five people.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/8/31/israeli-air-strikes-on-gaza-kill-at-least-five-people"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The estate of former American country singer Dolly Parton announces that two DollyFest festivals will be held next year in London, United Kingdom, and Nashville, Tennessee, U.S., to honor her life and legacy.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/c5ywd9q3ywvo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "It is reported that school principal Rajendra Dawadi saved over 900 students and 16 faculty members at the Tribhuvan Trishuli Secondary School in Bidur, Nuwakot District, Nepal, 10 minutes before flash floods hit the area last week.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/nepal-flash-floods-school-principal-rajendra-dawadi-de0b24519de6514dd150737c2a729d97"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/last-minute-flood-warning-saved-over-900-nepal-students-school-head-says-2026-08-31/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The death toll from the flash floods in Nepal has reached past 950. Additionally, hundreds are reported to be feared stuck in hydropower tunnels in wake of the floods.",
+        "links": [
+            {
+                "source": "(CBC)",
+                "url": "https://www.cbc.ca/news/world/nepal-tibet-flood-rescue-9.7326270"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/nepal-tibet-china-flash-floods-744fe6e15ae7751e15efcd6dff70170c"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The Mount Sinabung stratovolcano in North Sumatra, Indonesia, erupts, sending 3,500 meters of ash in the air. Residents and visitors around Lake Lau Kawar are ordered to evacuate.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/asia-pacific/indonesias-mount-sinabung-erupts-spewing-ash-3-500-meters-into-sky/4042457"
+            },
+            {
+                "source": "(Antara News)",
+                "url": "https://en.antaranews.com/amp/news/429175/mount-sinabung-raised-to-alert-level-after-3500-meter-ash-eruption"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The total amount of cases of ebola in the Democratic Republic of the Congo exceeds 6,000.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A data from the Methane Alert and Response System reports that Turkmenistan has started the process of clearing methane leaks from its oil and gas facilities.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Israel and Greece sign a €3 billion (US$3.48 billion) arms export deal that will enable the Israeli defense ministry to build the \"Achilles Shield\", a multi-layered air defense array similar to the Iron Dome, made entirely by Israeli systems, including David's Sling, SPYDER, and Barak MX.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/israel-signs-3-billion-arms-export-deal-with-greece/a-78572062"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Italian prime minister Giorgia Meloni announces the Italian government will extend its suspension of the Schengen free movement agreement with Spain for another 15 days in response to the brief migrant crisis event at Ceuta border fence with Morocco.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/italy-extends-schengen-suspension-with-spain/a-78573029"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A judiciary in Iraq sentences Kata'ib Hezbollah member Amir Rahim Jabbar to 15 years in prison for his role in the kidnapping of American journalist Shelly Kittleson.",
+        "links": [
+            {
+                "source": "(Asharq Al Awsat)",
+                "url": "https://english.aawsat.com/arab-world/5313105-iraq-sentences-kidnapper-us-journalist-15-years-prison"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A suspect is arrested in relation to a mass shooting over the weekend at a rave in Aarau, Aargau, Switzerland, which killed a woman and injured five other people.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/swiss-police-arrest-man-over-deadly-rave-shooting/a-78575110"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Kosovo's Vetëvendosje and Democratic League parties agree to support former Constitutional Court judge Bekim Sejdiu for president, potentially ending nearly two years of political deadlock and enabling the formation of a new government.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/kosovo-parties-strike-deal-elect-president-breaking-deadlock-2026-08-31/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Adobe Inc. reaches a US$4 billion deal to offer free access to AI tools in Saudi Arabia with its Ministry of Communications and Information Technology and Humain.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/adobe-offer-free-access-ai-tools-saudi-arabia-4-billion-deal-2026-08-31/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "In association football, Lionel Messi announces his retirement from the Argentina national team after 21 years as the country's top scorer, the player with the most caps, and captain when they won the 2022 FIFA World Cup.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Ukraine tightens security measures for Kyiv's public transport, schools, and parliament amid increased Russian drone attacks, including restrictions on large school gatherings, possible remote learning, and expanded shelter arrangements.",
+        "links": [
+            {
+                "source": "(AFP via Bangkok Post)",
+                "url": "https://www.bangkokpost.com/world/3311733/kyiv-orders-heightened-security-amid-intense-russian-drone-strikes"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The death toll from the flash flood in Grand Canyon National Park, Arizona, United States, last Saturday rises to two, while the number of people missing falls from more than 20 to one after park rangers locate most of those previously unaccounted for.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260831-heavy-rain-at-grand-canyon-after-flood-kills-2-dozen-missing"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The Permanent Court of Arbitration in The Hague, Netherlands, orders India to comply with the Indus Waters Treaty and restrict work on two hydroelectric projects that could violate it. India rejects the ruling and maintains that the treaty remains suspended.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260831-tribunal-says-india-cannot-withdraw-from-water-treaty-with-pakistan"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Italian prime minister Giorgia Meloni announces that Italy will extend its suspension of the Schengen free movement agreement with Spain for another 15 days in response to the migrant crisis event at the Ceuta border fence with Morocco.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/italy-extends-border-curbs-with-spain-month-after-migrant-rush-2026-08-31/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A jury in Las Vegas, Nevada, United States, finds former Crips gang leader Duane Davis guilty of first-degree murder for orchestrating the murder of rapper Tupac Shakur during a drive-by shooting in Paradise in 1996.",
+        "links": [
+            {
+                "source": "(ABC News)",
+                "url": "https://abcnews.com/US/jury-begins-deliberating-trial-murder-tupac-shakur/story?id=136099547"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c24j5192j7jo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A woman stabs two people in Times Square, New York City, U.S., killing a Bank of America vice president and injuring another person, before police fatally shot her after she refused commands to drop her knives.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-two-dead-after-stabbing-in-new-york-s-times-square"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/1/bank-of-america-vice-president-identified-as-killed-in-times-square-attack"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "The Prime Minister of Saint Kitts and Nevis Terrance Drew is hospitalised.",
+        "links": [
+            {
+                "source": "(Jamaican Observer)",
+                "url": "https://www.jamaicaobserver.com/2026/08/31/st-kitts-pm-hospitalised-seek-medical-attention-overseas/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A car bomb outside a police station in Los Patios, Norte de Santander, Colombia, kills one civilian and injures 11 others, including two officers. Police attribute the attack to the National Liberation Army.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-car-bomb-at-colombian-police-station-kills-one-injures-11"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A tribunal of first instance in Brussels, Belgium, orders biometrics company Semlex and 13 other defendants to stand trial over alleged corruption, money laundering, and tax fraud linked to a passport contract in the Democratic Republic of the Congo.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/belgian-court-orders-trial-corruption-money-laundering-linked-congo-passport-2026-09-01/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Saudi shipping company Bahri says that two Filipino crew members were killed after unidentified projectiles struck the oil tanker SIDR while it transited the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/world/2026/9/2/two-filipinos-killed-in-attack-on-saudi-oil-tanker-in-hormuz-shipping-firm-1702"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "Twelve civilians are killed in an attack by alleged armed People's Defence Force members after they claim to have entered a village in Mahlaing Township, Mandalay Region, Myanmar.",
+        "links": [
+            {
+                "source": "(Myanmar Digital News)",
+                "url": "https://www.mdn.gov.mm/en/12-civilians-slain-brutal-pdf-attack"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-31",
+        "description": "A car bomb outside a local police station in Ojocaliente, Zacatecas, México left then people injuried and important materail damage. Authorities arrested one suspect related to the attacl.",
+        "links": [
+            {
+                "source": "(Nmás)",
+                "url": "https://www.nmas.com.mx/zacatecas/politica/gobierno-de-zacatecas-detalla-agresiones-con-explosivos-a-policias-de-ojocaliente/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

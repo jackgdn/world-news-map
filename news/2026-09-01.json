@@ -1,0 +1,772 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Abu Hudhayfah al-Ansari, the spokesperson for the Islamic State, is killed during a security operation by the Yemeni Armed Forces.",
+        "links": [
+            {
+                "source": "(Voice of Emirates)",
+                "url": "https://www.voiceofemirates.com/en/politics/2026/09/01/a-joint-security-operation-resulted-in-the-death-of-the-isis-spokesman-in-yemen/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "South Korea's foreign ​ministry announces that the country will deploy a 44-member emergency relief team to Nepal to support search-and-rescue operations after flash floods hit the South Asian country.",
+        "links": [
+            {
+                "source": "(The Korea Herald)",
+                "url": "https://www.koreaherald.com/article/10858444"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/south-korea-says-send-disaster-relief-team-nepal-2026-09-01/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The United States carries out additional airstrikes against Islamic Revolutionary Guards Corp (IRGC) targets in Iran, in response to recent attempted attacks on commercial shipping vessels in the Strait of Hormuz and on U.S. troops in the region, according to the U.S. Central Command. Five members of the IRGC Aerospace Force are killed in Kermanshah.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?update=4909793"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cj06q4ynpmjo"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/09/01/politics/us-military-strikes-iran?utm_source=cnn_Breaking_News&utm_medium=email"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Iranian president Masoud Pezeshkian says that his country is ready to return to the Islamabad Memorandum signed in June if the United States does the same amidst renewed fighting between the two countries.",
+        "links": [
+            {
+                "source": "(Fortune)",
+                "url": "https://fortune.com/2026/09/01/iran-ceasefire-hormuz-japan/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Four people are killed in Israeli strikes during a ground operation in Gaza. Israeli prime minister Benjamin Netanyahu says that Israeli forces captured a senior Hamas internal security official in the operation.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-israeli-strikes-kill-four-in-operation-to-seize-hamas-figure-in-gaza-officials"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Ukrainian officials say that Russian missile and drone attacks on Kyiv and surrounding areas killed at least 12 people, including an Indian national, and injure dozens, while damaging residential buildings and other civilian infrastructure.",
+        "links": [
+            {
+                "source": "(NDTV)",
+                "url": "https://www.ndtv.com/world-news/indian-among-12-killed-in-russian-attack-on-kyiv-says-ukraines-zelensky-11985931"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The International Monetary Fund reaches a staff-level agreement with Senegal on a new US$2.2 billion, 36-month loan program supporting economic reforms after an earlier arrangement was suspended over previously unreported government debt.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-imf-reaches-agreement-with-senegal-on-new-2-2-bn-loan-programme"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Ghana begins requiring artisanal doré bars purchased by privately financed gold buyers to undergo domestic refining before export, with GoldBod considering export applications only after processing at approved refineries.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/ghana-bars-unrefined-artisanal-gold-dore-exports-september-1-2026-08-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The Nepali Army reports that around 119 people have been rescued.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Germany raises its threat assessment to \"high\", orders the closure of Russia's consulate in Bonn, North Rhine-Westphalia, and the Russian House in Berlin, and tightens entry controls for Russian nationals after attributing the drone attacks at Leipzig/Halle Airport, Saxony, last month to Russia.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/09/01/europe/leipzig-drone-germany-russia-intl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Jurors in the American murder trial of Lindsay Clancy, who pleaded not guilty citing postpartum mental illness in the killing of her three children, indicate to the judge that they are deadlocked. The judge subsequently sends them back into deliberations.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cxddjvqv0zv0t"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/09/01/us/live-news/lindsay-clancy-trial?utm_source=cnn_Breaking_News&utm_medium=email"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Haakon VIII takes the oath as King of Norway before the Storting following the death of his father, Harald V. His daughter, Ingrid Alexandra, takes the oath as Crown Princess.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/norway-king-haakon-oath-allegiance-constitution-harald-0c4e5de3b7bcc7069af52500e34ec86c"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/norways-new-king-swear-oath-before-parliament-after-haralds-death-2026-09-01/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "In Major League Baseball, the Los Angeles Angels are sold to Stan Kroenke of Kroenke Sports & Entertainment for an unspecified price, ending 23 years of ownership by Arte Moreno. The deal faces pending regulatory review and is expected to be complete by 2027.",
+        "links": [
+            {
+                "source": "(Reuters via CNA)",
+                "url": "https://www.channelnewsasia.com/sport/baseball-kroenke-reaches-deal-add-angels-sports-portfolio-6355861"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Iranian state media reports that five civilians were killed and 63 more were wounded at a wedding party at a home in Kuhestak, Hormozgan province, during an American airstrike against Iranian military targets.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The 75,000-seater Kingdome, built by the Christian sect Kingdom of Jesus Christ, opens in Davao City, Philippines, becoming the largest indoor arena in the world. It surpasses the 55,000-seater Philippine Arena in Bulacan.",
+        "links": [
+            {
+                "source": "(Manila Bulletin)",
+                "url": "https://mb.com.ph/2026/09/02/davao-city-council-cites-kingdome-as-emerging-city-landmark"
+            },
+            {
+                "source": "(MindaNews)",
+                "url": "https://mindanews.com/top-stories/2026/09/kojcs-75000-seater-kingdome-opens-nearly-2-years-after-siege-that-led-to-quiboloys-arrest/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Japan eases overtime enforcement by ending pressure on companies with special labor-management agreements to keep monthly overtime below 45 hours, as businesses face labor shortages.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-japan-to-relax-overtime-regulation-under-workaholic-pm"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Tropical Storm Edouard makes landfall on the Gulf Coast of the United States.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/08/31/weather/tropical-storm-edouard-texas-louisiana-path-climate?utm_source=cnn_Breaking_News&utm_medium=email"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Seven people are killed and 13 others are injured when a speeding passenger van, with an Ipil–Pagadian route, crashes into a motorcycle and a wing van in Dumalinao, Zamboanga del Sur, Philippines.",
+        "links": [
+            {
+                "source": "(Philippine Daily Inquirer)",
+                "url": "https://newsinfo.inquirer.net/2297371/zamboanga-del-sur-highway-crash-death-toll-climbs-to-7-13-hurt"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Six pilgrims are killed and 14 others sustain serious injuries after a pickup truck carrying devotees collides with a truck along an expressway in Palwal district, Haryana, India.",
+        "links": [
+            {
+                "source": "(Times of India)",
+                "url": "https://timesofindia.indiatimes.com/city/gurgaon/6-devotees-killed-14-injured-after-pickup-truck-rams-into-parked-truck-on-kmp-expressway-in-haryana/amp_articleshow/133668708.cms"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The New Zealand Conservation Department reports that the amount of endangered kākāpō species have reached 325 in the country following the addition of 90 chicks, exceeding 300 for the first time in 75 years.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo"
+            },
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/asia/kakapo-parrot-baby-boom-worlds-heaviest-bird-rise-new-zealand-rcna595479"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "An American judge rules that the case against Tyler James Robinson, accused of murdering political activist Charlie Kirk in September 2025, can go to trial, citing sufficient probable cause.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cj4jn9q7evpo"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/09/01/us/live-news/charlie-kirk-tyler-robinson-hearing"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The U.S. Department of Justice files a lawsuit against the public schools district of Kansas City, Kansas, over its policies that allow transgender students to share their preferred name, gender, and pronouns with school staff.",
+        "links": [
+            {
+                "source": "(KCUR)",
+                "url": "https://www.kcur.org/education/2026-09-01/justice-department-sues-kansas-city-kansas-public-schools-transgender-policies"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/legal/government/us-sues-kansas-school-district-aiding-transgender-students-transitions-2026-09-01/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "A Honduran judge dismisses a corruption case against former president Juan Orlando Hernández, ruling that he neither authorized nor managed the public funds allegedly diverted to finance his 2013 presidential campaign.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-honduran-judge-drops-corruption-charges-against-ex-leader-hernandez"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Nicaragua's National Assembly approves on first reading a constitutional amendment barring opposition parties from elections and extending presidential and other elected terms from six to seven years. A second legislative vote is required for ratification.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/nicaraguan-congress-passes-ortega-backed-reform-excluding-opposition-elections-2026-09-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Former British prime minister Keir Starmer resigns as a member of the House of Commons for his appointment to the Chiltern Hundreds; a by-election will be held to fill his parlimentary seat of Holborn and St Pancras.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cvgy4258kgyo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The International Atomic Energy Agency reports that Syria's former government under Bashar al-Assad failed to declare nuclear material and facilities, confirming that infrastructure at Deir ez-Zor is consistent with an unfinished nuclear reactor and identifying about 73 tonnes of natural uranium.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260901-syria-site-infrastructure-consistent-with-nuclear-reactor-iaea"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The Turkish foreign ministry reports that Turkey has joined the U.S.-led Artemis Accords, becoming the 71st country to do so.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/science-technology/turkiye-joins-nasa-s-artemis-accords-as-71st-signatory-to-peaceful-space-exploration-pact/4043176"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "In baseball, the Los Angeles Angels of the MLB are sold to Stan Kroenke of Kroenke Sports & Entertainment for an unspecified price, ending 23 years of ownership by Arte Moreno. The deal faces pending regulatory review and is expected to be complete by 2027.",
+        "links": [
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/legal/transactional/kroenke-reaches-deal-add-angels-sports-portfolio-2026-09-01/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Four people are killed and more than ten others are injured when a car crashes into a gathering of government and military supporters in Mashhad, Razavi Khorasan, Iran. Traffic police arrest the driver and say the incident was unintentional.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/car-hits-pro-government-gathering-iran-killing-four-2026-09-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Peru's foreign ministry says that the country has cut off ties with Iran, accusing it of escalating the war in the Middle East.",
+        "links": [
+            {
+                "source": "(AP in Spanish)",
+                "url": "https://apnews.com/article/peru-iran-relaciones-diplomaticas-5c2f381543084e3745542995b55e1d54"
+            },
+            {
+                "source": "(Al-Arabiya)",
+                "url": "https://english.alarabiya.net/News/middle-east/2026/09/02/peru-says-it-cut-ties-with-iran-accusing-tehran-of-escalating-mideast-war"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "A car bomb explodes outside a police station in Norte de Santander Department, Colombia, killing a person and wounding eleven more.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reutersconnect.com/item/one-dead-and-eleven-injured-in-terrorist-attack-on-police-station-in-colombia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MDkyNjMwMDE"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "In basketball, the NBA announces that the Los Angeles Clippers had violated the league salary cap by signing Kawhi Leonard in 2022 via a series of external dealings. Penalties include fines of US$30 million for the Clippers and $700,000 for Leonard, the loss of the Clippers' first-round picks in each draft from 2029 to 2033, and a one-year suspension for Clippers owner Steve Ballmer.",
+        "links": [
+            {
+                "source": "(AFP via Daily Tribune)",
+                "url": "https://tribune.net.ph/2026/09/03/nba-cracks-whip-on-clippers-over-salary-cap-row"
+            },
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/nba/story/_/id/49806356/nba-announces-punishments-clippers-kawhi-probe"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "Mexican musician Jonathan Meléndez of the band Camilo Séptimo, his pregnant wife, their three-year-old daughter, a domestic worker, and their pet dog are shot dead in a penthouse outside Mexico City, while Meléndez's six-year-old son is found unharmed. Prosecutors arrest two suspects.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/media-telecom/mexican-musician-family-members-slain-gruesome-shooting-upscale-penthouse-2026-09-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-01",
+        "description": "The height of the Jeddah Tower in Jeddah, Saudi Arabia, surpasses the Petronas Towers in Kuala Lumpur, Malaysia amidst ongoing construction.",
+        "links": [
+            {
+                "source": "(Newsweek)",
+                "url": "https://www.newsweek.com/jeddah-tower-worlds-tallest-skyscraper-construction-milestone-12401838"
+            },
+            {
+                "source": "(Construction Briefing)",
+                "url": "https://www.constructionbriefing.com/news/jeddah-tower-surpasses-height-of-petronas-towers-as-construction-continues/8130300.article?zephr_sso_ott=MIR7uj"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,316 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "The Pacific Islands Forum Fisheries Agency reports that authorities in Kiribati, Palau, and Papua New Guinea have detained four Chinese and Indonesian fishing vessels for alleged illegal fishing or licence violations during a regional enforcement operation across the Pacific Ocean.",
+        "links": [
+            {
+                "source": "(AFP via Daily Tribune)",
+                "url": "https://tribune.net.ph/2026/08/21/pacific-nations-detain-chinese-indonesian-boats-over-illegal-fishing"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "The Israeli Army Radio reports that the Israel Defense Forces (IDF) launched a drone strike against a militant in southern Syria whom they accuse of prepping an improvised explosive device (IED) attack against Israeli troops currently occupying the region.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/middle-east/article-906244"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "The IDF says that Sharif al-Hasanat, an alleged Hamas company commander affiliated with the Deir al-Balah Battalion of the Al-Qassam Brigades, was killed in an airstrike in Gaza, violating the ongoing ceasefire.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-strike-on-gaza-earlier-killed-hamas-commander-involved-in-attempts-to-restore-tunnels/"
+            },
+            {
+                "source": "(JFeed)",
+                "url": "https://www.jfeed.com/latest-news/israeli-strike-kills-hamas-commander-in-deir-al-balah-gaza-50000"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "Five people are killed in a head-on road collision along the Lagos–Badagry Expressway near Lagos, Nigeria.",
+        "links": [
+            {
+                "source": "(The Daily Post Nigeria)",
+                "url": "https://dailypost.ng/2026/08/22/five-killed-in-fatal-head-on-collision-on-lagos-badagry-expressway/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "Seven people are killed, including two police officers, and several others are injured in a three-vehicle collision on the A66 road in Middlesbrough, North Yorkshire, England.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cq6151gdp50t"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/uk/multiple-deaths-after-uk-police-car-crash-police-say-2026-08-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "Syrian state media reports that an IED struck a bus carrying security forces on the Maarounah–Al-Tall road near Damascus, injuring several passengers.",
+        "links": [
+            {
+                "source": "(AFP via Arab News Japan)",
+                "url": "https://www.arabnews.jp/en/middle-east/article_176527/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "The United States imposes 50% tariffs on about US$20 billion of Canadian goods after trade talks fail to produce an agreement. Canadian prime minister Mark Carney says Canada will impose equivalent retaliatory tariffs.",
+        "links": [
+            {
+                "source": "(AFP via Daily Tribune)",
+                "url": "https://tribune.net.ph/2026/08/22/us-canada-fail-to-reach-tariff-pact"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "Sudan's industry ministry establishes a high-level committee to rehabilitate industrial zones in Khartoum State that were damaged during the ongoing civil war along with helping shuttered factories resume production.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/317747"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "The Central African Republic's government closes down a gold mine site  in Zamboye that killed over 100 people after it collapsed, citing non-compliance with regulatory procedures.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/central-african-republic-gold-mine-closed-bf3cfcdbad6dae8a43fc0ec250a30aab"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "The Indian Coast Guard launches a rescue operation after a Panama–flagged cargo bulk carrier sunk off the coast of eastern India.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/panamaflagged-cargo-ship-sinks-off-eastern-india-coast-guard-says-2026-08-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "A humanoid robot at the World Humanoid Robot Games in Beijing, China, runs 100 meters in 9.39 seconds, surpassing a record set by Usain Bolt of 9.58 seconds at the World Athletics Championships in 2009.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "In open-wheel racing, the Freedom 250 Grand Prix kicks off in Washington, D.C. on the National Mall to commemorate the 250th anniversary of the U.S. Declaration of Independence, with former NASCAR driver Jeff Gordon winning the International Race of Champions.",
+        "links": [
+            {
+                "source": "(The Athletic via The New York Times)",
+                "url": "https://www.nytimes.com/athletic/7531751/2026/08/22/jeff-gordon-wins-iroc-race-freedom-250-grand-prix/"
+            },
+            {
+                "source": "(Motorsport)",
+                "url": "https://www.motorsport.com/general/news/jeff-gordon-sweeps-iroc-races-in-washington-dc/10848440/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "American far-right activist Jake Lang, who was pardoned last year for his role in the January 6 riot at the United States Capitol, is arrested during a protest in Minneapolis, Minnesota, U.S.",
+        "links": [
+            {
+                "source": "(The Detroit News)",
+                "url": "https://www.detroitnews.com/story/news/nation/2026/08/23/jake-lang-arrested-suspicion-of-rioting-muslim-minneapolis-dearborn/91431272007/"
+            },
+            {
+                "source": "(Minnesota Star Tribune)",
+                "url": "https://www.startribune.com/far-right-agitator-jake-lang-arrested-on-suspicion-of-rioting-in-minneapolis/601881529"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-22",
+        "description": "Pope Leo XIV makes a half-day papal visit to San Marino, including meeting with the Captains Regent, the local religious community, and visiting the Basilica of Saint Marinus.",
+        "links": [
+            {
+                "source": "(Vatican News)",
+                "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-republic-san-marino-civil-leaders-human-person.html"
+            },
+            {
+                "source": "(Holy See)",
+                "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/08/22/260822a.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
