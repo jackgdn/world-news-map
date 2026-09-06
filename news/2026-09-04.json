@@ -1,0 +1,698 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "New Zealand becomes the second country after Australia to authorize pharmaceutical-grade MDMA for severe post-traumatic stress disorder, with Medsafe allowing two psychiatrists to prescribe it alongside psychotherapy in controlled clinical settings.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260904-new-zealand-approves-use-of-party-drug-mdma-to-treat-trauma"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "A Philippine regional trial court issues an arrest warrant for vice president Sara Duterte on three counts of grave threats against president Bongbong Marcos, first lady Liza Araneta Marcos, and former House speaker Martin Romualdez, setting bail at ₱120,000 (US$2,000) per count.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/philippine-court-issues-warrant-vp-dutertes-arrest-in-grave-threats-case-2026-09-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Police in Guangxi, China, arrest 52 Singaporeans over suspected involvement in illegal pyramid-scheme activities as part of a broader law-enforcement operation. Singapore's foreign ministry says it is providing consular assistance.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/china/china-arrests-52-singaporeans-alleged-pyramid-scheme-activities-singapore-2026-09-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Prime Minister Giorgia Meloni's government becomes the longest serving in Italy during the postwar era.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://amp.dw.com/en/meloni-government-becomes-longest-serving-in-postwar-italy/a-78910642"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The Israel Defense Forces state that Mohammad Mahmoud Marshad al-Qadi, a Nukhba Force commander who participated in the October 7 attacks on the Sufa post, was killed in an airstrike in Khan Yunis, Gaza Strip.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/idf-says-it-killed-a-hamas-commander-who-led-oct-7-assault-on-border-post/amp/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "An Argentine judge orders the repatriation of Giacomo Ceruti's 18th-century painting Portrait of a Lady, looted by Nazi Germany from Dutch Jewish art dealer Jacques Goudstikker during World War II, to Goudstikker's daughter-in-law Marei von Saher.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260904-argentina-to-return-nazi-looted-painting-to-jewish-collector-s-heir"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The American Automobile Association reports that the average U.S. diesel price reached a record $5.85 per gallon, up from $3.71 a year earlier, amid disruptions to global energy markets caused by the Iran war.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260904-us-diesel-price-hits-new-high-on-iran-war-squeezing-voters"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "France allocates more than €1 billion to support farms affected by drought and heatwaves, including compensation for crop losses, liquidity assistance, tax relief, and support for fertilizer and agricultural diesel costs.",
+        "links": [
+            {
+                "source": "(The Peninsula)",
+                "url": "https://thepeninsulaqatar.com/article/04/09/2026/france-allocates-more-than-eur-1-billion-to-support-agricultural-sector"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The U.S. National Highway Traffic Safety Administration opens an investigation into whether Tesla's new Cybercab robotaxi models are properly certified and demonstrates compliance with motor vehicle safety standards.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://reuters.com/business/autos-transportation/us-auto-safety-regulator-opens-probe-into-nearly-1000-tesla-cybercabs-2026-09-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The Nepali Army rescues two people from a tunnel at the Upper Trishuli 3A Hydropower Station in Rasuwa District, a week after floods ravaged the country.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/asia/two-trapped-workers-rescued-alive-tunnel-nepal-rcna596050"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Malaysia declares a state of emergency in Serian Division, Sarawak, after haze from wildfires in nearby Kalimantan, Indonesia, pushed air pollution above hazardous levels, closing 647 schools.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260904-malaysia-declares-haze-emergency-in-sarawak-state-on-borneo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The United Nations General Assembly adopts a resolution supporting the Equal Earth map projection over the Mercator projection, with 164 countries voting in favor, one against (United States), and six abstaining.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The remains of King Rukidi IV of the Tooro Kingdom return to Uganda for his burial.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/clylwgn8jk3o"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/body-king-oyo-nyimba-once-worlds-youngest-monarch-returns-uganda-burial-2026-09-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Israel frees four prisoners, including two Syrian citizens, via International Committee of the Red Cross as part of efforts to revive U.S.-backed peace talks signed between Israel and Lebanon.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover"
+            },
+            {
+                "source": "(The Hill)",
+                "url": "https://thehill.com/homenews/ap/ap-international/ap-israel-frees-4-more-lebanese-prisoners-in-a-deal-tied-to-missing-jews-from-lebanons-civil-war/amp/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Over 120 people are confirmed to have been killed since yesterday during the clashes between Houthis and the Yemeni Armed Forces in western Yemen.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260904-more-than-120-killed-in-yemen-s-worst-clashes-in-years-sources"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The Royal Cambodian Army announces that they will resume joint military exercises with the United States beginning in February 2027 after they were suspended in 2017. The exercise will be codenamed Exercise Angkor Sentinel.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/cambodia-us-military-exercise-china-manet-colby-bffea503a189e25ee1d01d4a5764ee0a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "European Union enlargement chief Marta Kos cancels a visit to Serbia after a Serbian government plane took the remains of convicted war criminal Ratko Mladić to Belgrade for his funeral.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/serbia-mladic-eu-funeral-belgrade-vucic-96408e87f62243f7a81d2a3b8a8bafbe"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/eu-commissioner-kos-cancels-trip-serbia-after-planned-tribute-mladic-2026-09-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The opening ceremony for the FIBA Women's Basketball World Cup is held in Berlin, Germany, with the defending champions United States defeating China 94–61.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/us-china-world-cup-score-9ff47b0711e2b4b5a36f3e051e568367"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "A Russian drone strikes the Security Service of Ukraine (SSU) headquarters in central Kyiv, injuring five people. Ukrainian president Volodymyr Zelenskyy says the attack targeted acting SSU head Oleksandr Poklad, who was unharmed.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/09/04/europe/russia-strikes-ukraine-security-service-kyiv-intl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The Pakistani military says it has killed 48 Baloch seperatists in a series of raids on hideouts over the past 72 hours in Balochistan, Pakistan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-militants-killed-multiple-raids-balochistan-339bdaaaca592d2d9f19a9509708aa0a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Nine people, including five Department of State Services personnel, are killed during a security operation to rescue kidnapped victims in Oyo State, Nigeria.",
+        "links": [
+            {
+                "source": "(Vanguard)",
+                "url": "https://www.vanguardngr.com/2026/09/nine-killed-in-oyo-kidnap-victims-rescue-operation-dss-dg/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "At least two people are killed, 62 others sustain injuries, and 14 others remain unaccounted for after a blast at a military base storing pyrotechnic material in Viacha, Bolivia.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/explosion-bolivia-military-base-kills-least-10-official-says-2026-09-05/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "At least three soldiers are killed and four are wounded by explosives dropped from drones in Ocaña, Norte de Santander, Colombia. Local authorities blame the attack on the National Liberation Army.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/colombia-drone-attack-army-eln-dff0b8f7af030e0c6b97112f8a76d7d5"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Tajikistan's capital Dushanbe begins construction on the 340-meter-high Dushanbe Tower, which is set to become the tallest building in Central Asia. President Emomali Rahmon and Mayor Rustami Emomali laying the building's foundation stone.",
+        "links": [
+            {
+                "source": "(Asia-News)",
+                "url": "https://asiaplus.news/en/2026/09/04/tajikistans-capital-will-build-the-dushanbe-tower-with-a-height-of-340-meters-emomali-rahmon-launched-the-construction-of-a-large-scale-architectural-complex/"
+            },
+            {
+                "source": "(Caspian Post)",
+                "url": "https://caspianpost.com/tajikistan/dushanbe-tower-set-to-become-central-asia-s-tallest-building"
+            },
+            {
+                "source": "(The Gulf Observer)",
+                "url": "https://thegulfobserver.com/tajikistan-begins-construction-of-multi-purpose-modern-architectural-and-services-complex-in-dushanbe/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Around 22 people are killed in a blaze of unknown origin at a wedding party in Lingwala, Kinshasa, Democratic Republic of the Congo.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/congo-wedding-fire-dd585caa5bc1b990bdefa6b33e3ff446"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "The Democratic Republic of the Congo issues an updated 180-day response to the Ebola outbreak in the country.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260905/5d9fa2a1b92b4a31b1639efb29b4806a/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "In the United States, Massachusetts Superior Court associate justice William F. Sullivan declares a mistrial in Lindsay Clancy's murder trial after jurors were deadlocked following more than 38 hours of deliberations, with the panel split 11–1.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cm3v49dg61gxt"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/sep/04/lindsay-clancy-mistrial"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Mexico's navy, the attorney general, and the Secretariat of Security and Citizen Protection seize approximately 16.8 tonnes of methamphetamine and dismantle three clandestine drug laboratories in Sinaloa.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/world/mexico-seizes-17-tons-of-amphetamines-in-sinaloa-govt-3000534"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Mexican federal deputy Zenyazen Escobar García is found dead inside his vehicle in his home state of Veracruz with at least one gunshot wound. State prosecutors open an investigation without determining whether his death is suicide or homicide.",
+        "links": [
+            {
+                "source": "(AFP via The Manila Times)",
+                "url": "https://www.manilatimes.net/2026/09/05/world/asia-oceania/mexican-lawmaker-found-dead-with-gunshot-wound/2419000"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "A Tunisian judge orders journalist Mohamed Ali Yousfi detained on allegations of illicit enrichment, money laundering, and conspiracy after police arrest him outside Express FM in Tunis.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Sri Lankan MP Namal Rajapaksa is arrested over alleged corruption involving SriLankan Airlines' 2013 Airbus purchases. A court in Colombo remands him until September 18.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-ex-presidents-son-arrested-graft-charges-2026-09-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-04",
+        "description": "Palestinian football resumes after nearly three years due to the Gaza war, with the Palestinian Football Association launching a tournament involving more than 200 teams from refugee camps.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260906-with-joy-and-grief-palestinian-football-marks-return"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

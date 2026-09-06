@@ -1,0 +1,396 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "Israel strikes the Shuhada al-Aqsa Hospital in the Deir al-Balah area of the Gaza Strip, killing three people, in violation of the October 2025 ceasefire. The Israel Defense Forces (IDF) stated that they targeted a Hamas commander who, according to it, was hiding within the compound of the hospital.",
+        "links": [
+            {
+                "source": "(MENA via The New Arab)",
+                "url": "https://www.newarab.com/news/israeli-army-bombs-hospital-kills-three-gaza-strip"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "The IDF confirms that they have killed Nukhba Force commander Hani Abd al-Hai Fakhri Mazloum and Hamas sniper Hassan Zidan Hassan Deiri in separate strikes in the northern Gaza Strip.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-hamas-commander-and-sniper-killed-in-strike-in-north-gaza-yesterday/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "The Cameroon-flagged Turkish cargo ship MV LUTUF, which was hijacked on August 17, is freed by Somali and Turkish forces off the coast of Somalia. Conversely, the Puntland ministry of security says a ransom was paid.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/somalia-pirates-turkish-vessel-freed-4e271b3e63921d7589864ce17b23eedb"
+            },
+            {
+                "source": "(Garowe Online)",
+                "url": "https://garoweonline.com/en/news/puntland/somalia-puntland-says-somali-officials-phoned-pirates-facilitated-ransom-for-hijacked-mv-lutuf-ship"
+            },
+            {
+                "source": "(Hiiraan Online)",
+                "url": "https://www.hiiraan.com/news4/2026/Aug/206122/puntland_state_accuses_somalia_trkiye_of_paying_pirates_after_mv_lutuf_freed.aspx"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "Tuareg rebels free 60 Malian soldiers in exchange for army officer-turned-defector Inkinane Ag Attaher.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "Nigerien television confirms that dissenting elements of the Niger Armed Forces attempted a coup in the nation's capital, Niamey. Attacks are reported on Diori Hamani International Airport and the Presidential Palace.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/niger-niamey-gunfire-explosions-airport-presidential-district-77d0c701e5729f2779580ea557e0a2c3"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/gunfire-blasts-heard-several-areas-niger-capital-niamey-witness-says-2026-08-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "The death toll from flash floods in Nepal rises to 669, with more than 2,400 people reported missing.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/asia/nepal-floods-death-toll-climbs-missing-rescue-efforts-rcna594990"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "Icelanders vote on a referendum to decide whether to restart membership negotiations with the EU.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iceland-european-union-election-e08b367664056ba7d599e53e23dc2cf3"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "Iceland rejects restarting membership negotiations with the EU in a referendum.",
+        "links": [
+            {
+                "source": "(RÚV)",
+                "url": "https://www.ruv.is/english/2026-08-29-iceland-rejects-eu-accession-talks-485377"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "In field hockey, Argentina beat the Netherlands in the final after a 1–1 draw and a penalty shoot-out to secure their third Women's World Cup title.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/argentina-lift-womens-hockey-world-cup-title-break-dutch-dominance-2026-08-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "In volleyball, the Canadian women’s national team qualifies for the upcoming Summer Olympics in Los Angeles, California, U.S., their first qualification since 1996 following a victory against the Dominican Republic in the Women's NORCECA Volleyball Continental Championship.",
+        "links": [
+            {
+                "source": "(CBC)",
+                "url": "https://www.cbc.ca/sports/olympics/summer/volleyball/canada-women-volleyball-dominican-republic-recap-olympic-qualifier-9.7325709"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "In boxing, Filip Hrgović defeats Moses Itauma by ninth-round stoppage to win the vacant IBF heavyweight title. Hrgović becomes the first Croatian heavyweight boxing world champion.",
+        "links": [
+            {
+                "source": "(AFP via The Philippine Star)",
+                "url": "https://www.philstar.com/sports/2026/08/30/2552848/hrgovic-wins-ibf-world-heavyweight-title-itauma-hospitalized"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "A tanker is struck by a unknown projectile while transiting through the Strait of Hormuz near Khasab, Oman, according to the United Kingdom Maritime Trade Operations.",
+        "links": [
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-struck-projectile-hormuz-ukmto-says"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "A Ukrainian drone attack on Shebekino, Belgorod Oblast, Russia, kills three people and damages residential buildings, according to the regional emergency response center.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260829/263a4d21732c4e139600bcc0383ba4ab/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "A flash flood in the Grand Canyon National Park in Arizona, United States, leaves about 15 people missing and prompts the evacuation of at least 62 others.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260830-about-15-people-missing-after-grand-canyon-flash-flood"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "A person is rescued while four people are missing when a sport utility vehicle plunges into a river after a bridge in Tarlac City, Philippines, collapses. The bridge has been serving as an alternative route as another partially collapsed days prior amid monsoon rains.",
+        "links": [
+            {
+                "source": "(Philippine Daily Inquirer)",
+                "url": "https://newsinfo.inquirer.net/2295013/4-missing-1-rescued-after-suv-falls-as-another-tarlac-bridge-collapses"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "The U.S. State Department says that the U.S. will provide US$3.6 million in humanitarian aid to Nepal in wake of the floods.",
+        "links": [
+            {
+                "source": "(Malay Mail)",
+                "url": "https://www.malaymail.com/news/world/2026/08/30/us-steps-up-nepal-flood-aid-with-us36m-package/233226"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "In tennis, former player Roger Federer is inducted into the player category, while former player and current sportscaster Mary Carillo is inducted into the contributor category of the International Tennis Hall of Fame respectively.",
+        "links": [
+            {
+                "source": "(Sports Business Journal)",
+                "url": "https://www.sportsbusinessjournal.com/Articles/2026/08/30/intl-tennis-hof-holds-star-studded-induction-for-federer-carillo/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-29",
+        "description": "Pope Leo XIV publishes a motu proprio to amend the Code of Canons of the Eastern Churches, granting them the ability to remove their respective Patriarchs via a two-thirds vote with papal approval, if the relationship between them and the council is broken beyond repair.",
+        "links": [
+            {
+                "source": "(Vatican News)",
+                "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-grants-eastern-synods-the-faculty-to-remove-patriarchs.html"
+            },
+            {
+                "source": "(National Catholic Register)",
+                "url": "https://www.ncregister.com/cna/pope-leo-eastern-patriarchs"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Four people are killed and 20 more injured in a series of Israeli airstrikes in southern Lebanon.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?update=4921602"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "A shooting five days ago outside a bar frequented by LGBTQ people in Tucson, Arizona, United States, which left three people killed, including the perpetrator, is confirmed to be motivated by homophobia.",
+        "links": [
+            {
+                "source": "(Tucson Sentinel)",
+                "url": "https://www.tucsonsentinel.com/local/report/090326_venture-n_memorial/more-than-1000-mourn-vigil-2-men-killed-hate-crime-tucson-gay-bar/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Jakarta's Soekarno–Hatta International Airport, Indonesia's busiest airport, suspends flight operations after volcanic ash from Anak Krakatoa reaches the airport.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/world/2026/9/6/indonesia-s-main-airport-suspends-operations-after-volcanic-eruption-1218"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "An Israeli raid targeting a car in Al Nasr District, Gaza City, Palestine, resulted in the death of a Palestinian and his daughter and the wounding of 6 others In violation of October 2025 Gaza war ceasefire.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-two-people-gaza-medics-say-2026-09-06/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "U.S. envoys Steve Witkoff and Jared Kushner make their first visit to Kyiv, Ukraine, to meet with Ukrainian president Volodymyr Zelenskyy for talks amidst renewed efforts to end the war.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/aerospace-defense/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-2026-09-06/"
+            },
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/2026/09/06/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Seven people are killed and 20 more injured in a series of Israeli airstrikes in southern Lebanon.",
+        "links": [
+            {
+                "source": "(Al Jazeera 1)",
+                "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four"
+            },
+            {
+                "source": "(Al Jazeera 2)",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?update=4923404"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "The death toll from mudslides caused by Typhoon Saudel in Suichuan County, Jiangxi, China, increases to three.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/china-mudslide-jiang-xi-deaths-saudel-typhoon-8e302d3fae97f3b0c2f74dca908039ec"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Eleven people are killed and seven others are injured when a fuel tanker hits other cars and explodes, reportedly due to a faulty brake system, near Sanandaj, Kurdistan province, Iran.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-road-accident-death-toll-90148bfbc4007e09d4ad5130aecd1ed6"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Exit polls show the far-right Alternative for Germany party winning the Saxony-Anhalt state election in Germany, but failing to secure an absolute majority of seats.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "In Formula One, Mercedes driver Kimi Antonelli wins the Italian Grand Prix, becoming the first Italian driver in 60 years to win on home soil after Ludovico Scarfiotti in 1966.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/formula1/antonelli-takes-sensational-home-italian-gp-win-back-grid-2026-09-06/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

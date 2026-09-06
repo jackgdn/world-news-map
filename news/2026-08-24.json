@@ -1,0 +1,420 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "British prime minister Andy Burnham, during a visit to Kyiv, confirms that he has approved supplying Ukraine with the classified blueprints to produce Storm Shadow cruise missiles despite Russian threats against such a move, which will give Ukrainian forces the ability to strike key targets deep inside Russian territory.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o"
+            },
+            {
+                "source": "(The Japan Times)",
+                "url": "https://www.japantimes.co.jp/news/2026/08/24/world/politics/burnham-world-stage-debut-ukraine/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "A Russian missile strike on the outskirts of Kharkiv kills three people and leaves eight others wounded.",
+        "links": [
+            {
+                "source": "(TRT World)",
+                "url": "https://www.trtworld.com/article/bc04b964fde0"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "Drone strikes by the Sudanese Armed Forces hits several Rapid Support Forces Paramilitary targets in Nyala, South Darfur, Sudan, hours after a cargo aircraft landed in the area.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/317809"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "The Central Election Commission of Kazakhstan declares the preliminary results from yesterday's election, stating that Ädilet secured 71% of the vote.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/pro-presidential-party-kazakhstan-won-71-votes-weekend-election-electoral-2026-08-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "The United States Southern Command's Joint Task Force Western Hemisphere launches a strike on a vessel in the eastern Pacific Ocean on alleged drug traffickers, killing two people.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/08/24/politics/us-military-strike-alleged-drug-boat-intl-hnk"
+            },
+            {
+                "source": "(PBS)",
+                "url": "https://www.pbs.org/newshour/nation/u-s-forces-strike-vessel-in-pacific-killing-2-accused-of-trafficking-drugs"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "Two peacekeepers from Ethiopia of the United Nations Mission in South Sudan are killed in an ambush by unknown gunmen in Jonglei State, South Sudan. Three more peacekeepers, two policemen and two civilians are also wounded.",
+        "links": [
+            {
+                "source": "(RFI in French)",
+                "url": "https://www.rfi.fr/fr/afrique/20260824-soudan-du-sud-deux-casques-bleus-%C3%A9thiopiens-tu%C3%A9s-dans-une-embuscade-dans-le-centre-du-pays"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "At least 47 people are killed and 22 others are injured in an overnight gang raid on the outskirts of Port-au-Prince, Haiti.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/gang-attack-near-haitis-capital-leaves-30-dead-2026-08-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "U.S. treasury secretary Scott Bessent announces Operation Economic Outcast, a campaign involving new sanctions against Iran, in an effort to isolate the regime.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c0qxew81y83o"
+            },
+            {
+                "source": "(Politico)",
+                "url": "https://www.politico.com/news/2026/08/24/bessent-iran-economy-01047365"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "The Iranian rial reaches 2.02 million rials ahead of the U.S. dollar, a record-low, ahead of U.S. sanctions.",
+        "links": [
+            {
+                "source": "(Time)",
+                "url": "https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "The Arkansas Department of Health reports seven new cases of cyclosporiasis in the state, including the first cases in Ashley and Cleburne counties, amidst a decline in the outbreak across the United States.",
+        "links": [
+            {
+                "source": "(Arkansas Democrat-Gazette)",
+                "url": "https://www.arkansasonline.com/news/2026/aug/24/arkansas-reports-7-new-cyclosporiasis-cases-since/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "Armenian prime minister Nikol Pashinyan announces that the country will soon formally apply for membership of the European Union.",
+        "links": [
+            {
+                "source": "(TASS)",
+                "url": "https://tass.com/world/2176843"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "Syria's Grand Mufti Ahmad Badreddin Hassoun is found guilty of committing war crimes spanning nearly 14 years of civil war under Bashar al-Assad's former regime and is sentenced to life in prison.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/syria-court-mufti-assad-sentenced-e1d6078e20fdee13f2c77c72a5b9f9a3"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/syria-sentences-assad-era-top-muslim-cleric-to-life-in-prison/a-78485344"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "Former British snooker player Graeme Dott is found guilty of sexually abusing two primary school children.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children"
+            },
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/ex-world-snooker-champion-graeme-dott-guilty-of-child-sex-abuse-13575107"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "South African police arrests four people in connection of the murder of former professional boxer Zolani Tete.",
+        "links": [
+            {
+                "source": "(Sahara Reporters)",
+                "url": "https://saharareporters.com/2026/08/24/four-persons-arrested-south-african-police-murder-renowned-boxer-zolani-tete"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "The United States formally removes Syria from its designated state sponsors of terrorism list.",
+        "links": [
+            {
+                "source": "(The Straits Times)",
+                "url": "https://www.straitstimes.com/world/middle-east/us-removes-syria-from-state-sponsor-of-terrorism-list"
+            },
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/middle-east/article-906461"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "French president Emmanuel Macron and Saudi Arabia crown prince Mohammed bin Salman reach an agreement to build a Dragon Ball Z theme park worth €6 billion (US$7 million) in Paris, France.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says"
+            },
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/amp/2026/08/25/dragon-ball-z-theme-park-france-paris.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "X Corp. sends cease-and-desist letters to Nitter, an open-source web app for viewing X posts without using the platform directly, accusing it of web scraping and demanding its shutdown.",
+        "links": [
+            {
+                "source": "(TechCrunch)",
+                "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-24",
+        "description": "In tennis, Philippine tennis player Alexandra Eala becomes the highest-ranked female player in Southeast Asian history after reaching rank 18.",
+        "links": [
+            {
+                "source": "(Yahoo! Sports)",
+                "url": "https://sports.yahoo.com/articles/alex-eala-sends-6-word-184230740.html"
+            },
+            {
+                "source": "WTA)",
+                "url": "https://www.wtatennis.com/players/330332/alexandra-eala"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

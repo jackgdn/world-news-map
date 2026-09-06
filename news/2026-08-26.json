@@ -1,0 +1,571 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The U.S. Pacific Command announces that the United States will conduct trilateral military exercises with South Korea's armed forces and Japan's self-defense forces despite U.S. president Donald Trump scaling back on the recent Ulchi-Freedom Guardian exercises.",
+        "links": [
+            {
+                "source": "(Korea Herald)",
+                "url": "https://koreaherald.com/article/10852624"
+            },
+            {
+                "source": "(Korea Times)",
+                "url": "https://www.koreatimes.co.kr/amp/southkorea/defense/20260826/us-preparing-for-freedom-edge-joint-exercise-with-s-korea-japan-us-pacific-command"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The Islamic Revolutionary Guard Corps say Iran and Oman have agreed to share revenues from the Strait of Hormuz and define their respective maritime areas, while negotiations continue over reopening the waterway amid the war.",
+        "links": [
+            {
+                "source": "(AFP via The Borneo Post)",
+                "url": "https://www.theborneopost.com/2026/08/26/iran-guards-say-agreed-with-oman-to-share-revenues-from-hormuz/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "An overnight Ukrainian drone attack \"completely destroys\" a Wildberries depot in Tambov Oblast, Russia.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/drone-sets-wildberries-warehouse-ablaze-russias-tambov-region-governor-says-2026-08-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "A man and a 14-year-old child are killed in Lipetsk Oblast, and a woman is killed in Belgorod Oblast, in Ukrainian drone strikes. The Russian defence ministry says its forces have shot down 426 Ukrainian drones overnight.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Nine people are killed after a Ukrainian strike on a bus in Russian-occupied Luhansk.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/nine-killed-ukrainian-strike-bus-russian-controlled-luhansk-region-russia-says-2026-08-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Flash floods and mudslides along the Trishuli River impact Nepal and Tibet. At least 160 people are killed, hundreds are injured and 463 others, including over 200 tourists, are reported missing in Nepal, while Chinese Communist Party officials report three deaths and 265 missing in Tibet, severely affecting Gyirong County and its port.",
+        "links": [
+            {
+                "source": "(AFP via Jamaica Observer)",
+                "url": "https://www.jamaicaobserver.com/2026/08/26/massive-flood-near-tibet-border-kills-least-95-nepal/"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/climate-change-nepal-flash-floods-7262dac22e31258955efa5c28c8fe917"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cd948kn02e5o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Nepali officials say bridges, roads, power stations, and entire villages have been swept away by the flash flooding with some areas still completely cut-off from search and rescue efforts.",
+        "links": [
+            {
+                "source": "(The National)",
+                "url": "https://www.thenationalnews.com/news/asia/2026/08/26/nepal-tibet-flash-floods/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "At least 15 infants are killed and another is injured after a fire at a state-run hospital in Islamabad, Pakistan.",
+        "links": [
+            {
+                "source": "(The Globe and Mail)",
+                "url": "https://www.theglobeandmail.com/world/article-at-least-15-infants-killed-in-pakistan-hospital-fire-local-media/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Nineteen cases of Japanese encephalitis are confirmed in Madhesh Province, Nepal, causing six deaths.",
+        "links": [
+            {
+                "source": "(Nepal News)",
+                "url": "https://english.nepalnews.com/s/health/japanese-encephalitis-in-madhesh-19-infected-6-dead/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Iranian deputy foreign minister Kazem Gharibabadi says that Iran will not allow military vessels to transit through the strait under the proposed agreement.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/middle-east-iran-israel-west-bank-august-26-2026-cb19bc3f0b467db591edbef52d0db273"
+            },
+            {
+                "source": "(Military.com)",
+                "url": "https://www.military.com/iran-negotiates-with-oman-warns-military-ship-ban-strait-hormuz"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The Israel Defense Forces says that they have killed several Hamas members in airstrikes in the Gaza Strip city of Jabalia, including on a structure allegedly used as a storage facility for weapons.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-906650"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "A spokesperson for Malian singer Salif Keita confirms that he has cancelled all upcoming concerts in South Africa over its response to anti-migrant protests in the country.",
+        "links": [
+            {
+                "source": "(Channels TV)",
+                "url": "https://www.channelstv.com/2026/08/26/mali-singer-salif-keita-sancels-s-africa-shows-over-xenophobic-violence/"
+            },
+            {
+                "source": "(Arbiterz)",
+                "url": "https://arbiterz.com/malian-music-legend-salif-keita-cancels-south-african-tour-over-xenophobic-attacks/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Twelve people are killed and at least 54 others are injured as wildfires spread across northeastern Algeria during a severe heat wave, with deaths reported in Béjaïa, Jijel, and Tizi Ouzou provinces.",
+        "links": [
+            {
+                "source": "(AFP via Gulf News)",
+                "url": "https://gulfnews.com/world/africa/algeria-wildfires-kill-12-as-154-fires-rage-across-country-1.500653548"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The U.S. Food and Drug Administration approves the daraxonrasib drug as a treatment for metastatic pancreatic cancer, making it the first RAS inhibitor drug to be approved for the disease. This came after a previous study showed that it nearly doubled the survival rate for patients compared to chemotherapy.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/aug/26/fda-approves-new-pancreatic-cancer-drug"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/legal/litigation/revolution-medicines-gets-fda-nod-targeted-pancreatic-cancer-drug-2026-08-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The U.S. military trial for al-Qaeda militant Khalid Sheikh Mohammed, the alleged mastermind of the September 11 attacks, is set for June 2028 alongside three co-conspirators.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/politics/national-security/military-trial-date-set-alleged-mastermind-sept-11-attacks-ksm-rcna594621"
+            },
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/alleged-9-11-mastermind-to-go-on-trial-almost-27-years-after-attacks-13577612"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Meta Platforms agrees to pay up to $16.7 billion to settle claims by 29 U.S. states over alleged harms to young users and to impose new usage limits and safeguards for teenagers on its social media platforms Facebook and Instagram.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/technology/2026/8/26/meta-us-states-agree-16-7-b-settlement-in-landmark-teen-safety-case-2211"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The United States designates the Italy-based Autistici/Inventati, the UK-based Palestine Action, and pro-Palestinian group Masar Badil as terrorist organizations, citing alleged involvement in politically motivated violence and extremist activity.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260826-us-designates-uk-based-palestine-action-as-foreign-terrorist-group"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Russia orders the arrest of German Frankfurter Allgemeine Zeitung journalist Michael Martens [de], charging him in absentia over comments interpreted as calling for the killing of Russians, a crime punishable by up to six years in prison.",
+        "links": [
+            {
+                "source": "(News.az)",
+                "url": "https://news.az/news/russia-places-faz-journalist-martens-on-international-wanted-list"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Two people are killed and nine others are seriously injured in a vehicle-ramming attack against pedestrians after a fight near a train station in Caen, Normandy, France. The perpetrator is arrested.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/europe/20260827-man-drives-car-into-group-of-pedestrians-in-french-city-of-caen-killing-one"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The United States Department of State suspends immigrant visa appointments at all embassies and consulates worldwide while training consular staff on screening applicants for potential dependence on public benefits.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/world/2026/8/27/us-issues-global-pause-for-immigration-visa-appointments-0809"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Deogratius Ndejembi is appointed as Vice President of Tanzania, replacing Emmanuel Nchimbi who resigned yesterday.",
+        "links": [
+            {
+                "source": "(The Tanzania Times)",
+                "url": "https://tanzaniatimes.net/energy-minister-deogratius-ndenjembi-becomes-the-13th-vice-president-of-tanzania/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "In American football, the National Football League announces the elimination of the Pro Bowl Games.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/athletic/7540770/2026/08/26/nfl-pro-bowl-eliminated-ending/"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/nfl-ends-pro-bowl-selection-best-best-continue--flm-2026-08-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "American multinational company General Mills announces that they have removed artificial colors from their cereals including Lucky Charms and Trix.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/news/us-news/lucky-charms-trix-go-au-naturel-general-mills-ditches-artificial-color-rcna594663"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "Cambodia deploys 184 peacekeepers, including 28 women, to the Central African Republic as part of a peacekeeping mission by the United Nations.",
+        "links": [
+            {
+                "source": "(Khmer Times)",
+                "url": "https://www.khmertimeskh.com/502013556/cambodia-deploys-184-peacekeepers-to-un-mission-in-car/"
+            },
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260826/2c20e85a442944d8a633b30815fce425/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-26",
+        "description": "The University College London reports that London neurosurgeons have performed the first AI-assisted brain surgery at the National Hospital for Neurology and Neurosurgery in a 48-year old patient who was diagnosed with a brain tumor in 2024.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour"
+            },
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/ai-helps-perform-brain-surgery-on-british-man-in-world-first-13577615"
+            },
+            {
+                "source": "(UCL)",
+                "url": "https://www.ucl.ac.uk/news/2026/aug/first-patient-live-ai-assisted-sight-saving-brain-surgery"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

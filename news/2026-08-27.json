@@ -1,0 +1,852 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Four people are killed after an unconfirmed civilian or military airplane is shot down with a surface-to-air missile near Minembwe, Democratic Republic of the Congo.",
+        "links": [
+            {
+                "source": "(Noveau Media)",
+                "url": "https://www.nouveaumedia.cd/sud-kivu-un-avion-civile-pris-pour-cible-abattu-pres-de-laeroport-de-minembwe/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The United States Geological Survey says a glacial collapse and debris flow, not an earthquake, caused the seismic event near the Nepal–Tibet border and subsequent flooding that killed at least 160 people.",
+        "links": [
+            {
+                "source": "(AFP via The Hindu)",
+                "url": "https://www.thehindu.com/news/international/glacial-collapse-caused-seismic-activity-catastrophic-nepal-floods-usgs/article71394824.ece"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Germany's Robert Koch Institute estimates 15,800 heat-related deaths during summer 2026, the highest total in a decade of monitoring, as repeated heat waves push temperatures above 40 °C (104 °F).",
+        "links": [
+            {
+                "source": "(Kurdistan 24)",
+                "url": "https://www.kurdistan24.net/en/story/935403/germany-records-15800-heat-related-deaths-in-record-breaking-summer"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "A school shooting in Gosen-Neu Zittau, Germany leaves 2 people dead and another 2 injured. The suspect is arrested.",
+        "links": [
+            {
+                "source": "(Jerusalem Post)",
+                "url": "https://www.jpost.com/international/article-906813"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Former Bosnian Serb Republika Srpska army officer Ratko Mladić, who was convicted by the former Yugoslavia International Criminal Tribunal for his role in the Srebrenica massacre during the Bosnian genocide, dies in custody at the United Nations Detention Unit at the The Hague.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/bosnian-serb-general-ratko-mladic-convicted-genocide-has-died-un-official-says-2026-08-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The Korea AeroSpace Administration says that the Nuri will launch 15 satellites, a record, into space from the Naro Space Center in South Korea's Goheung County on October 7.",
+        "links": [
+            {
+                "source": "(Korea Times)",
+                "url": "https://www.koreatimes.co.kr/amp/business/tech-science/20260827/korea-to-launch-homegrown-nuri-rocket-on-oct-7"
+            },
+            {
+                "source": "(Yonhap)",
+                "url": "https://en.yna.co.kr/view/AEN20260827005051320"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Three Palestinians are reported to be killed in strikes in the Gaza Strip, violating the October 2025 ceasefire.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-08-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The Israel Defense Forces (IDF) and its Spokesperson's Unit confirms Al-Qassam Brigades commander Ismail Mohammad Ibrahim Barim, who held Edan Alexander, Avera Mengistu, and Matan Zangauker as hostages, was killed in a strike in Khan Yunis.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/idf-hamas-commander-who-held-3-israelis-hostage-killed-in-gaza-airstrike/"
+            },
+            {
+                "source": "(Israel National News)",
+                "url": "https://www.israelnationalnews.com/news/432335"
+            },
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-906742"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The IDF also confirms that they have recently killed two Hamas militants that invaded the Re'im Base in Re'im during the October 7 attacks in separate strikes in the Gaza Strip, including a body guard to former leader Yahya Sinwar and a Nukhba forces militant.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/idf-former-bodyguard-of-slain-hamas-leader-yahya-sinwar-killed-in-southern-gaza-strike/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "It is reported that Israeli prime minister Benjamin Netanyahu held secret meetings with Hamas during the 2014 Gaza War. The Prime Minister's Office denies the reports.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/netanyahu-held-secret-talks-with-hamas-during-2014-gaza-war-report-says-pms-office-denies/"
+            },
+            {
+                "source": "(Ynetnews)",
+                "url": "https://www.ynetnews.com/article/hyqmr110wmx"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Qatari prime minister Mohammed bin Abdulrahman bin Jassim Al Thani talks with Iranian foreign minister Abbas Araghchi in Tehran, including on the Strait of Hormuz and efforts to end the war.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Iran's Supreme National Security Council secretary Mohsen Rezaei says that Iran is preparing a set of conditions for reopening the Strait of Hormuz after mediators called for them to do so.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/3fec1b0a85a0/world/middle-east/irans-security-chief-denies-allegations-iranian-plot-assassinate-trumps-son-al-2026-08-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The United Kingdom Maritime Trade Operations reports that a tanker in the Strait of Hormuz was hit by an \"unknown projectile\", causing a fire that was later extinguished.",
+        "links": [
+            {
+                "source": "(Marine Insight)",
+                "url": "https://www.marineinsight.com/tanker-catches-fire-after-being-hit-by-unknown-projectile-in-strait-of-hormuz/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Sudan's army repels a Rapid Support Forces attack on the town of Al-Keli in the Blue Nile region.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/317979"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Around 49 people are killed in a cattle raid on the Machar-Pakuek cattle camp in Mading Juer Boma in Tonj North County of South Sudan's Warrap state.",
+        "links": [
+            {
+                "source": "(The New Arab)",
+                "url": "https://www.newarab.com/news/armed-raiders-kill-49-south-sudan-cattle-raid-local-official?amp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "In Canada, British Columbia ends its state of emergency previously imposed on August 8 in response to wildfires that killed one person.",
+        "links": [
+            {
+                "source": "(The Canadian Press News)",
+                "url": "https://www.thecanadianpressnews.ca/business/b-c-ends-fire-state-of-emergency-after-20-days-thousands-of-evacuations-one-death/article_e1affe53-ab50-5f18-a2cc-a5dc027c6547.html"
+            },
+            {
+                "source": "(CTV News)",
+                "url": "https://www.ctvnews.ca/vancouver/article/bc-to-end-off-roading-ban-citing-decreased-wildfire-risk/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "A section of the Trans-Canada Highway in the Fraser Canyon reopens after being closed for seven weeks due to the wildfires.",
+        "links": [
+            {
+                "source": "(Redfm)",
+                "url": "https://redfm.ca/en-ca/vancouver/news-articles/trans-canada-highway-reopens-near-boston-bar-after-seven-week-wildfire-closure"
+            },
+            {
+                "source": "(CTV News)",
+                "url": "https://www.ctvnews.ca/vancouver/article/highway-1-reopens-through-fraser-canyon-after-wildfire/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Tropical Storm Dolly forms in the Atlantic Ocean. The World Meteorological Organization clarifies there is no connection between the storm's name and to the death of former American country singer Dolly Parton, being merely coincidental.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/08/27/weather/tropical-storm-dolly-forecast.html"
+            },
+            {
+                "source": "(PBS)",
+                "url": "https://www.pbs.org/newshour/nation/tropical-storm-dolly-forms-in-the-atlantic"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The death toll from the earthquake that struck the Flores island in East Nusa Tenggara, Indonesia, rises to 111, with 176,000 people displaced.",
+        "links": [
+            {
+                "source": "(A News)",
+                "url": "https://www.anews.com.tr/asia/2026/08/27/indonesia-earthquake-death-toll-rises-to-111-over-176000-displaced/amp"
+            },
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/asia-pacific/indonesia-earthquake-death-toll-rises-to-111-over-176-000-displaced/4039350"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The United States Geological Survey says a glacial collapse and debris flow, not an earthquake, caused the seismic event near the Nepal–Tibet border and subsequent flooding that killed at least 392 people and left over 900 more missing.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The X2 roller coaster at the Six Flags Magic Mountain amusement park in Valencia, California, U.S., closes after a CNN investigation reported that two riders were recently hospitalized for brain injuries.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/08/27/us/six-flags-rollercoaster-brain-injury-invs"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/aug/28/six-flags-magic-mountain-x2-rollercoaster-shut"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Two people are killed in a stabbing at a private school in Gosen-Neu Zittau, Brandenburg, Germany. A suspect is arrested.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260828/b117398c9d8b4cbd857445a187616b5a/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Zambian presidential candidate Brian Mundubile surrenders to police and is questioned over an alleged national security threat after two weeks in hiding following the disputed presidential election, in which he finished second.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260827-zambia-opposition-leader-surrenders-to-police-state-media"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "U.S. president Donald Trump signs an executive order directing federal agencies to call Lake Ontario \"Lake America.\" The change applies only to U.S. federal usage; Canada need not adopt it, and no international authority exclusively determines names of shared waters.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "A near-total partial lunar eclipse occurs over Africa, the Americas, and Europe.",
+        "links": [
+            {
+                "source": "(TimeandDate)",
+                "url": "https://www.timeanddate.com/eclipse/lunar/2026-august-28"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "United States Central Command commander Brad Cooper says that the military has cleared all Iranian naval mines in the Strait of Hormuz and its routes.",
+        "links": [
+            {
+                "source": "(The Hill)",
+                "url": "https://thehill.com/policy/defense/6056395-centcom-us-clears-iranian-sea-mines/amp/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Around 12 people are reported killed in a airstrike near the border with Chad.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Sudan's Security Affairs Coordination Committee lifts the curfew and state of emergency on the capital Khartoum after two years.",
+        "links": [
+            {
+                "source": "(Middle East Monitor)",
+                "url": "https://www.middleeastmonitor.com/20260827-sudan-lifts-khartoums-2-year-old-curfew-state-of-emergency/"
+            },
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.co.uk/news/articles/c2076gxr0llo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "NORAD and the U.S. Northern Command say that the U.S. military used a laser weapon against three drones belonging to Mexican drug cartels.",
+        "links": [
+            {
+                "source": "(Military Times)",
+                "url": "https://www.militarytimes.com/industry/techwatch/2026/08/28/us-military-uses-laser-to-down-three-mexican-cartel-drones-near-border/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "South Korean company SK Gas pays a record US$5.3 million for priority passage of the LPG tanker G. Spirit through the Panama Canal before El Niño-related transit restrictions reduced daily crossings.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260828-tanker-pays-record-5-3-mn-to-transit-panama-canal-administrator"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Algerian president Abdelmadjid Tebboune declares three days of national mourning after 12 people were reported to be killed in wildfires in northeastern Jijel.",
+        "links": [
+            {
+                "source": "(Africanews)",
+                "url": "https://www.africanews.com/2026/08/28/algeria-declares-3-days-of-national-mourning-as-wildfire-death-toll-rises-to-12/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Six people die after a pump boat carrying 13 passengers capsizes while crossing the Mapanuepe Lake in San Marcelino, Zambales, Philippines. Three others remain missing.",
+        "links": [
+            {
+                "source": "(The Philippine Star)",
+                "url": "https://www.philstar.com/nation/2026/08/28/2552406/6-aetas-including-3-minors-die-boat-capsizes-zambales"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The Democratic Republic of the Congo begins vaccination for the Ebola outbreak in Kisangani, Tshopo, with healthcare and front line workers among the first to receive the vaccine.",
+        "links": [
+            {
+                "source": "(Africanews)",
+                "url": "https://www.africanews.com/amp/2026/08/28/dr-congo-begins-ebola-vaccinations-as-deadliest-outbreak-on-record-spreads/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "King Rukidi IV of Uganda's Tooro Kingdom, the youngest person to reign as a monarch, dies at the age of 34.",
+        "links": [
+            {
+                "source": "(NTV Uganda)",
+                "url": "https://ntv.co.ug/news/king-oyo-nyimba-kabamba-iguru-rukidi-iv-of-tooro-dies-at-34"
+            },
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/c0j38d9v40po"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "In athletics, Brazilian Alison dos Santos and American Masai Russell break the world records in men's 400 metres hurdles (45.80 seconds) and women's 100 metres hurdles (12.09 seconds), respectively, at the 2026 Weltklasse Zürich in Zurich, Switzerland.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/brazils-dos-santos-races-world-record-400m-hurdles-zurich-2026-08-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Malaysia says that 1,476 Burmese people will be voluntarily repatriated on September 29 in the first phase of a return program agreed with Myanmar, using Myanmar naval vessels.",
+        "links": [
+            {
+                "source": "(AFP via The Manila Times)",
+                "url": "https://www.manilatimes.net/2026/08/29/world/asia-oceania/malaysia-to-repatriate-first-group-of-myanmar-citizens-in-september/2414148"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "Denmark's parliament passes legislation granting 300,000 kr. (US$46,758) in compensation to each Greenlandic woman affected by non-consensual contraception administered under a Danish birth-control program in the 1960s and 1970s.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/czxzv29p12lo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-08-27",
+        "description": "The World Health Organization declares the Ebola outbreak in Uganda over after the country went 42 days without a new case of the virus.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/health/2026/08/27/who-declares-uganda-ebola-free-after-42-days-without-new-cases"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
