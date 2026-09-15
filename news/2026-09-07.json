@@ -1,0 +1,367 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "Nine people, including two children, are killed, and five others are injured in an Israeli airstrike on a residential building in Kfar Reman, Lebanon. Separately, in the same city, two medics are killed in another airstrike on a vehicle.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "Indian space-tech company Pixxel raises $100 million in a Series C funding round.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "Oman's navy says that they have rescued 16 crew members from a Saudi Arabia-flagged oil tanker SIDR that was attacked a week ago in the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(MENA via The New Arab)",
+                "url": "https://www.newarab.com/news/oman-rescues-16-crew-members-saudi-vessel-struck-iran?amp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "More than 300 people are killed amid the deadliest fighting in the war since 2022.",
+        "links": [
+            {
+                "source": "(AFP via Barron's)",
+                "url": "https://www.barrons.com/news/more-than-140-killed-in-latest-yemen-clashes-military-sources-4ab1faee"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "The government of Shinjuku, Tokyo, Japan, announces plans to prohibit more than half of its vacation rentals in residential areas and near schools after complaints increase over noise, smoking, trespassing, and improper waste disposal.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260907-tokyo-s-shinjuku-to-ban-more-than-half-of-vacation-rentals"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "Malaysia lifts the state of emergency in Serian Division, Sarawak, after air pollution fell below hazardous levels, although several areas remain \"very unhealthy\" because of smoke from wildfires in Indonesia.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260907-malaysia-cancels-haze-emergency-but-warns-problems-remain"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "European Commission president Ursula von der Leyen announces that Greenland and the European Union have reached a €200 million (US$232.5 million) partnership deal.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/eu-announces-200-million-partnership-deal-with-greenland-2026-09-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "The Philippine Sandiganbayan appellate court issues an arrest warrant for Leyte's 1st district representative and former House speaker Martin Romualdez after the Office of the Ombudsman filed charges of plunder against him for the alleged ₱7.44 billion (US$118.62 million) worth of kickbacks he received from flood control, infrastructure, and other government projects.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/philippine-court-orders-arrest-presidents-cousin-over-alleged-kickbacks-118-2026-09-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "In Australian rules football, the Australian Football League introduces limits on contact training from the 2027 preseason to reduce concussion risk, capping weekly contact at 120 minutes initially and 160 minutes later while prohibiting high-intensity sessions on consecutive days.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260907-australian-rules-limits-contact-training-to-reduce-concussion"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "Amid the offensive, Saudi Arabia launches an airstrike against a prison in Al-Jawf Governorate, killing seven people, including a child, and trapping 35 more under the rubble.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/yemen-prison-houthis-jawf-forces-prison-saudi-arabia-e6d1e1d84c943d2fb1ce186a1e5bd3f8"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "The death toll from an explosion at military barracks in Viacha, Bolivia, three days ago, increases to nine people.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/bolivia-confirms-7-deaths-others-still-missing-after-military-base-explosion-2026-09-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "A private Piper PA-34-200T Seneca aircraft goes missing off Andros Island, the Bahamas, with four people on board. A search and rescue operation is ongoing.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/news/us-news/us-coast-guard-joins-bahamas-search-missing-plane-carrying-4-family-rcna596544"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "A PAC P-750 XSTOL aircraft operating a passenger flight for Niugini Aviation crashes near Simbai, Madang, Papua New Guinea, during approach. All four people on board are killed.",
+        "links": [
+            {
+                "source": "(ASN)",
+                "url": "https://aviation-safety.net/wikibase/579644"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "North Korea and Russia opens the Yakov Novichenko Bridge at its border, the first road bridge connecting the two countries.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/asia/east-asia/north-korea-russia-bridge-tumen-river-b3046075.html"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "A military funeral and burial is held for convicted war criminal Ratko Mladić in Belgrade, Serbia, despite objections from the European Union due to concerns that the honors glorify a person convicted of genocide and crimes against humanity.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "The United States Southern Command says that they have sunk a vessel allegedly belonging to the Los Choneros.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/ecuador-us-boat-drug-trafficking-sinking-pacific-fishermen-551b40890fe249597d0236087fed019a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-07",
+        "description": "Kenya grants temporary legal status to undocumented East African nationals who registered with their embassies, after president William Ruto ordered the closure of small businesses operated by foreign traders without work permits.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/burundians-try-leave-kenya-ahead-crackdown-traders-2026-09-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

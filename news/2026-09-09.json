@@ -1,0 +1,613 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Iran's Islamic Revolutionary Guard Corps launch missiles at the Muwaffaq Salti Air Base in Azraq, Jordan, reporting damage to maintenance facilities, deployment areas, and hangars. Jordan says its forces have intercepted 18 Iranian missiles, following United States strikes that destroyed five Iranian oil tankers.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260909-iran-attacks-us-base-in-jordan-as-hormuz-impasse-deepens"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Saudi Arabia launches 32 airstrikes in four governorates in Yemen against the Houthis.",
+        "links": [
+            {
+                "source": "(UA News)",
+                "url": "https://ua.news/en/world/khusiti-zaiavili-pro-ponad-40-aviaudariv-saudivskoyi-araviyi-v-emeni"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The state funeral of King Harald V takes place at the Oslo Cathedral in Oslo, Norway.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/09/09/europe/norway-king-harald-funeral-intl"
+            },
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "A train collides with a truck at a level crossing in Sokolniki Suche, Poland, killing one person and injuring 20 others.",
+        "links": [
+            {
+                "source": "(TVP World)",
+                "url": "https://tvpworld.com/95301887/one-dead-20-injured-as-train-derails-in-central-poland"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Fourteen people are killed and eleven others are injured in an explosion at a weapons depot in Sarmada, Syria.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/syria-idlib-explosion-warehouse-sarmada-bfc58aac61599fdf8ac71d964c453037"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Five people are killed and 87 others are reported missing when a fire breaks out aboard a passenger ferry off Coron, Palawan, Philippines. The coast guard rescues 42 people from the vessel, which carried 117 passengers and 17 crew members.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/se-asia/ferry-fire-off-northern-palawan-leaves-five-dead-says-philippine-coast-guard"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Peninsular Spain records its hottest summer since the State Meteorological Agency's measurements began in 1961, with an average temperature of 24.5 °C (76.1 °F) and 61 heatwave days from June through August.",
+        "links": [
+            {
+                "source": "(Arab News Pakistan)",
+                "url": "https://www.arabnews.pk/world/spain-endured-hottest-summer-on-record-weather-agency-3000744"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The International Atomic Energy Agency ends its investigation into Syria's nuclear activities after the new government granted inspectors access to nuclear sites. Its board terminates a 2011 resolution that found Syria in non-compliance with its nuclear safeguards obligations.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260909-syria-no-longer-under-un-nuclear-watchdog-probe"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Apple Inc. releases the iPhone 18 Pro, the first during John Ternus's tenure as CEO, and the iPhone Duo, the first foldable iPhone with the largest display of the line.",
+        "links": [
+            {
+                "source": "(NBC Bay Area)",
+                "url": "https://www.nbcbayarea.com/news/national-international/new-apple-iphone-18-ceo/4140095/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "A Russian drone strike hits a shopping centre in Sumy, Ukraine, killing two people and injuring 20 others.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/strike-shopping-centre-sumy-northern-ukraine-kills-three-governor-says-2026-09-09/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The Tooro Kingdom in western Uganda selects Prince Edward Rukidi Kijanangoma, a television news anchor and editor, as its new monarch following the death of Rukidi IV last month.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/ugandan-kingdom-picks-new-monarch-succeed-king-oyo-nyimba-once-worlds-youngest-2026-09-09/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Two people are killed and extensive damage is caused after an explosion at a hydroelectric power station in Piotta, Ticino, Switzerland.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/several-injured-explosion-hydroelectric-station-switzerland-20min-reports-2026-09-09/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The National Oceanic and Atmospheric Administration reports that the United States has experienced its hottest summer on record from June to August with a 23.6 °C (74.5 °F), surpassing the Dust Bowl.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/9/9/us-records-hottest-summer-in-132-years"
+            },
+            {
+                "source": "(CBS News)",
+                "url": "https://www.cbsnews.com/news/us-hottest-summer-on-record-2026-noaa/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The Copernicus Climate Change Service (C3S) reports that August 2026 is the hottest month globally since measurements began, with an average temperature of 16.96 °C (62.53 °F), exceeding the previous record set in July 2023.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/heat-record-climate-change-sizzle-el-nino-2a78248322a04b97f417346308d05483"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The C3S reports that wildfires in Kalimantan and Sumatra, Indonesia, produced more than 19.7 million metric tons of carbon dioxide emissions from September 1 to 7, the world's highest total and more than one-third of global fire emissions.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/indonesian-wildfire-emissions-surge-worlds-highest-data-shows-2026-09-09/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Israel opens its first embassy in Ljubljana, Slovenia.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/slovenia-israel-embassy-protest-747a067d6d44501bab151480bffcb7ab"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The Metropolitan Police launch a criminal investigation into Reform UK over allegations that it broke foreign funding laws in the United Kingdom, following an investigation by Channel 4 News.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/britain-reform-uk-8dc9d6790e3e06b2bb898f803231bec1"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cp3k72k1y3vo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Brazilian Supreme Court president Edson Fachin suspends conflicting rulings by two justices, allowing Federal Police chief Andrei Rodrigues to remain in office while the court reviews allegations that police monitored justice André Mendonça and other government authorities.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/brazil-top-court-judge-orders-reinstatement-federal-police-chief-2026-09-09/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Serbian president Aleksandar Vučić dissolves the National Assembly and calls a snap parliamentary election for October 25, following a government proposal amid prolonged political tensions. The ruling Serbian Progressive Party nominates Vučić as its lead candidate and candidate for prime minister.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260909/0cdf0a5c00ef43f5bb4167e2fbfa508d/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Scientists at the Denver Museum of Nature and Science in Colorado, U.S., and Liverpool John Moores University in England discover the first adult Tyrannosaurus trackway at Hell Creek Formation in North Dakota, U.S. The study is published in the Journal of Vertebrate Paleontology.",
+        "links": [
+            {
+                "source": "(Phys.org)",
+                "url": "https://phys.org/news/2026-09-million-year-trackway-captures-adult.html"
+            },
+            {
+                "source": "(Axios)",
+                "url": "https://www.axios.com/local/denver/2026/09/09/t-rex-trackway-denver-scientists"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Hamas claims that the Israel Defense Forces has killed Farah Hamed, a senior member who was accused of carrying out the 2003 attack that resulted in the killing of Shalom Har-Melech [he], the late husband of Limor Son Har-Melech, in a airstrike in the Gaza Strip.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-908211"
+            },
+            {
+                "source": "(Israel National News)",
+                "url": "https://www.israelnationalnews.com/news/432992"
+            },
+            {
+                "source": "(VINnews)",
+                "url": "https://vinnews.com/2026/09/09/hamas-announces-death-of-senior-commander-farah-hamed-in-gaza-city-strike/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "Anti-war demonstrators in South Korea near the U.S. Embassy in Seoul gather to oppose and urge the government not to deploy troops to the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(ABS-CBN)",
+                "url": "https://www.abs-cbn.com/news/world/2026/9/10/protesters-urge-south-korea-to-stay-out-of-iran-war-0027"
+            },
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/news/south-koreans-protest-over-plan-send-forces-back-us-hormuz"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The death toll from the Saudi airstrike against a prison in Al-Jawf Governorate, two days ago, increases to 23 people.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/yemen-saudi-arabia-war-prison-strike-red-sea-ede975f78a1d014092e43d0f2d682b9a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The Republican National Convention is held at the American Airlines Center in Dallas, Texas, U.S., ahead of the upcoming midterm elections, making it the first midterms convention to be held by the Republican Party.",
+        "links": [
+            {
+                "source": "(NPR)",
+                "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance"
+            },
+            {
+                "source": "(PBS)",
+                "url": "https://www.pbs.org/newshour/show/what-to-expect-from-the-gops-first-ever-midterm-convention"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The United States Southern Command's Joint Task Force Western Hemisphere kills three people in a strike on an alleged narcotrafficking drug boat in the Caribbean Sea.",
+        "links": [
+            {
+                "source": "(Stars and Stripes)",
+                "url": "https://www.stripes.com/theaters/americas/2026-09-10/us-boat-strike-southern-spear-22809838.html"
+            },
+            {
+                "source": "(SOUTHCOM)",
+                "url": "https://www.southcom.mil/News/PressReleases/Article/4594213/lethal-kinetic-strike-september-9-2026/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The United Nations Office for the Coordination of Humanitarian Affairs announces that a 10-day cholera vaccination campaign has been launched in Tawila, North Darfur in a effort to immunize 95,000 people in the area. Additionally, 16 deaths are reported from cholera in Sudan's West Kordofan state.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/318583"
+            },
+            {
+                "source": "(Radio Dabanga)",
+                "url": "https://www.dabangasudan.org/en/all-news/article/16-cholera-deaths-reported-in-west-kordofan-darfur-vaccination-drive-begins"
+            },
+            {
+                "source": "(AllAfrica)",
+                "url": "https://allafrica.com/stories/202609110005.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-09",
+        "description": "The Mersenne Forum, the official forum and message board for the Great Internet Mersenne Prime Search, was attacked by hackers; as a security measure, it has been taken offline for maintenance. It is expected to return in a few days after security improvements are made to prevent the same exploit from being used again, and to prevent future attacks from taking place.",
+        "links": [
+            {
+                "source": "(Mersenne News)",
+                "url": "https://www.mersenne.org/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

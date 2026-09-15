@@ -1,0 +1,370 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "A Russian Navy warship fires two flares at a Danish military helicopter in the Baltic Sea.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "A drone crosses from Belarusian airspace into Lithuania before being shot down by a NATO fighter jet over the village of Pratkūnai, Kaišiadorys District Municipality, near Kruonis Pumped Storage Plant, two days after an unidentified object flew over Lithuanian airspace from Belarus to Kaliningrad Oblast, Russia.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cjx2zgk7edlzo"
+            },
+            {
+                "source": "(LRT)",
+                "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3052578/lrt-is-pratkunu-kaimo-kur-numustas-dronas-teritorija-saugo-karo-policija"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "A New Zealand inquiry finds that police and Oranga Tamariki failed to act on warnings that Tom Phillips might abduct his three children and possessed firearms, contributing to missed opportunities to prevent or end their nearly four-year disappearance.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260915-new-zealand-agencies-missed-red-flags-in-child-kidnapping-case-inquiry"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "ProRail services across northern and central parts of the Netherlands are disrupted by a sabotage operation after pipes are attached to tracks, resulting in the failure of railway signals.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/suspected-sabotage-disrupts-dutch-trains-level-crossings-2026-09-15/"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo"
+            },
+            {
+                "source": "(Politico Europe)",
+                "url": "https://www.politico.eu/article/sabotage-suspected-as-parts-of-dutch-rail-network-come-to-a-standstill/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "Oman's maritime security centre reports that two sailors are reported to be missing after the Panama-flagged oil tanker El Gaia was attacked in the Strait of Hormuz near the Musandam Peninsula.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c3n07ydqdzlvo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "The Kuwaiti energy ministry reports that Kuwait's electrical grid has held despite attacks from Iran against it.",
+        "links": [
+            {
+                "source": "(Arab Times Kuwait)",
+                "url": "https://www.arabtimesonline.com/news/kuwaits-grid-holds-despite-iran-attacks-record-summer-heat/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "The United Nations reports that more than 100,000 people have fled their homes in western and southern Yemen due the ongoing Houthi offensive against Yemeni government forces, and that 2,400 refugees have arrived in Djibouti in the last four days alone.",
+        "links": [
+            {
+                "source": "(Kurdistan 24)",
+                "url": "https://www.kurdistan24.net/en/story/939615/yemen-fighting-displaces-more-than-100000-un-says"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "Kenya announces bans on exports of unprocessed gold and establishes at least three refineries, seeking to maximize its economic value by increasing domestic processing.",
+        "links": [
+            {
+                "source": "(Nairametrics)",
+                "url": "https://nairametrics.com/2026/09/15/kenya-to-ban-unprocessed-gold-exports-plans-three-new-refineries/#google_vignette"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "The United Nations reports that daily Ebola cases in the Democratic Republic of the Congo declined from about 120 to 80, while 10 of 62 affected health zones record no new infections for more than 22 days.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/news/world/africa/ebola-congo-ourbreak-virus-un-aid-b3050588.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "The Brazilian public prosecutor's office files a civil action against Vale, the world's largest iron ore producer and one of Brazil's biggest companies, as well as the national mining agency and the Minas Gerais state government. The lawsuit is based on a containment overflow of two sumps at the Mina de Viga site in Congonhas in January, which caused the site to be shut down.",
+        "links": [
+            {
+                "source": "(The Rio Times)",
+                "url": "https://www.riotimesonline.com/vale-mina-de-viga-public-civil-action-2026/"
+            },
+            {
+                "source": "(Mining Reports)",
+                "url": "https://www.miningreporters.com/noticia/news/2026/01/brazil-orders-vale-viga-mine-shut-erosion-water-overflow-minas-gerais"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "Former Golden Dawn spokesperson Ilias Kasidiaris is released from prison in Domokos, Phthiotis, Greece, after serving part of a 13-year sentence for leading a criminal organization and announces plans to return to politics, although he remains barred from office until 2033.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/es/node/3839944"
+            },
+            {
+                "source": "(The National Herald)",
+                "url": "https://www.thenationalherald.com/ilias-kasidiaris-released-from-domokos-prison-after-serving-his-sentence/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "Romanian farmers clash with gendarmes in Bucharest during protests against live export restrictions and other policies. The confrontations leave 24 people injured, including eight gendarmes, while police detain 26 protesters.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260915-protesting-shepherds-farmers-clash-with-romanian-police"
+            },
+            {
+                "source": "(Bloomberg)",
+                "url": "https://www.bloomberg.com/news/articles/2026-09-15/romanian-farmers-clash-with-police-in-anti-eu-protests"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "United States representative Thomas Massie (R-KY) files articles for impeachment against defense secretary Pete Hegseth for allegedly violating the War Powers Resolution by declaring war against Iran without congressional approval.",
+        "links": [
+            {
+                "source": "(Hindustan Times)",
+                "url": "https://www.hindustantimes.com/world-news/us-news/pete-hegseth-impeachment-vote-update-why-does-thomas-massie-want-trumps-defense-secretary-removed-101789496364430.html"
+            },
+            {
+                "source": "(Military.com)",
+                "url": "https://www.military.com/republican-lawmaker-forces-house-vote-to-impeach-hegseth-over-iran-war"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "The Italian cruise ship Costa Serena docks in Nagoya, Japan, to house about 4,000 Asian Games athletes and officials as delegations report accommodation problems, including undersized beds, leaking sinks, and room shortages.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260915-asian-games-cruise-ship-arrives-as-accommodation-complaints-grow"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "In association football, UEFA announces that the Champions League finals in 2028 and 2029 will be held at the Allianz Arena in Munich, Germany, and Camp Nou in Barcelona, Spain, respectively.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/sports/2026/9/15/champions-league-final-venues-revealed-munich-2028-barcelona-2029"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-15",
+        "description": "The World Athletics Championships in 2029 and 2031 are rewarded to Nairobi, Kenya, and Munich, Germany, respectively. It will be the first event to be held on the continent of Africa.",
+        "links": [
+            {
+                "source": "(The Star Kenya)",
+                "url": "https://www.the-star.co.ke/news/world/2026-09-15-how-kenya-won-its-bid-for-2029-world-athletics-championships"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/world-athletics-kenya-nairobi-africa-munich-96f9e311ee74ec2c9e153f286b49e3a6"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

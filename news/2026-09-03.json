@@ -1,0 +1,509 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Israel releases prisoner Malek Ghazi and hands him over to the Lebanese army, the first release since the war started in March, as part of an effort to revive peace talks.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/lebanon-israel-prisoner-malek-ghazi-release-hezbollah-bfe8abeb4f713332a543e23dd9d2bba5"
+            },
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/middle-east/israel-frees-lebanese-detainee-as-hopes-rise-of-reviving-stalled-rome-talks-3000348"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "The Houthis launch an offensive in western Yemen, clashing with the Yemeni Armed Forces and aiming to reach and cut the road linking Taiz to Al-Makha district. Fourteen balistic missiles and several drones are launched in Taiz and Hodeidah. At least 18 Houthi fighters and 13 government troops are killed in the clashes.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "At least 37 people are killed after inhaling petroleum fumes while allegedly siphoning fuel from an illegally tapped pipeline in Rivers State, Nigeria.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260903-37-people-die-from-fumes-during-oil-pipeline-theft-in-nigeria-ngo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Six crew members are referred to court as part of the investigation into the ship collision in the Sea of Marmara yesterday, while the search continues for the ten Turkish crew members aboard the sunken MV Tuğberk İmamoğlu cargo ship.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/turkce/articles/cx2z034d3pdo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Malaysia's disaster agency, meteorological agency, and air force launch cloud-seeding operations in Sarawak to reduce haze and increase water reserves.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260903-malaysia-starts-cloud-seeding-to-help-clear-toxic-haze"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "NASA discovers a 10–sided pattern on the south pole of Saturn using its Hubble Space Telescope from the Goddard Space Flight Center in Maryland, United States.",
+        "links": [
+            {
+                "source": "(The Peninsula)",
+                "url": "https://thepeninsulaqatar.com/article/03/09/2026/saturn-has-a-new-mystery-scientists-discover-giant-10-sided-shape-at-south-pole"
+            },
+            {
+                "source": "(ScienceDaily)",
+                "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "In association football, the French Football Federation upholds Bordeaux's relegation to Régional 1, the sixth tier of the French football league system, rejecting the club's request for reinstatement in National 2 following its exclusion from national competitions over financial concerns.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260903-bordeaux-facing-sixth-tier-football-after-french-federation-upholds-relegation"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Iran's military launches drones and missiles on Ahmad al-Jaber Air Base in Kuwait and Al Minhad Air Base in the United Arab Emirates, targeting United States military facilities and equipment to retaliate for the recent U.S. bombardment of Iran that killed at least 19 people.",
+        "links": [
+            {
+                "source": "(AFP via South China Morning Post)",
+                "url": "https://www.scmp.com/news/world/middle-east/article/3366202/iran-targets-us-bases-kuwait-despite-warnings-trump"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "U.S. vice president JD Vance says that the country will investigate its military strike against a wedding in Bandar Sirik that killed five people.",
+        "links": [
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/news/vance-us-investigating-strike-iran-wedding-very-fully"
+            },
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/international/article-907552"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Russian forces say they have captured several settlements in northeastern Kharkiv Oblast, Ukraine, encircling Ukrainian forces.",
+        "links": [
+            {
+                "source": "(ISW)",
+                "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-3-2026/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "The International Organization for Migration reports the first operation of a voluntary repatriation flight for stranded migrants in Khartoum, Sudan, since the war started three years ago.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/318309"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "A Colombian judge orders president Abelardo de la Espriella's government to suspend airstrikes on guerrilla camps in the Guaviare Department when intelligence indicated that minors may be present, after recent bombings killed at least three teenagers.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260903-colombian-judge-bans-strikes-on-guerrillas-if-minors-are-present"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "United Arab Emirates president Mohamed bin Zayed Al Nahyan announces that the country will deploy an emergency relief mission to Nepal to support people affected by the deadly floods and landslides.",
+        "links": [
+            {
+                "source": "(Gulf News)",
+                "url": "https://gulfnews.com/uae/government/uae-sends-rescue-mission-to-nepal-after-deadly-floods-landslides-2-1.500662318"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Officials at a United Nations Security Council meeting say that Syria has started the process of destroying clandestine chemical weapons from former president Bashar al-Assad's regime.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/3/syria-begins-destroying-al-assad-era-chemical-weapons-materials"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/syria-begins-destroying-assad-era-chemical-weapons-2026-09-03/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Russian foreign minister Sergey Lavrov says that Russia will close Goethe-Institut cultural centers in Moscow, Saint Petersburg, and Yekaterinburg in response to Germany closing Russia's consulate in Bonn and the Russian House in Berlin following the drone attacks at Leipzig/Halle Airport last month.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/russia-germany-goethe-institute-close-airport-drone-1e72ac4fd59f4a1f44859bd2e78dbde6"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "The Philippine education department initiates nationwide school safety drills to prepare students and staff for armed intruders, involving police and emergency responders after two school shooting incidents.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260903-philippines-holds-drills-to-safeguard-students-from-armed-intruders"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "A court in Moscow, Russia, places children's hospice founder Lida Moniava under judicial supervision, imposing a nightly curfew, internet ban, and contact restrictions over a 2023 post prosecutors said spread false information about the military.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260903-russia-slaps-curfew-on-charity-director-over-army-criticism"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "OpenAI releases GPT-6 Astra, the latest version of ChatGPT.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/technology/2026/9/4/openai-begins-rollout-of-new-powerful-ai-model-gpt-6-astra-0838"
+            },
+            {
+                "source": "(Axios)",
+                "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "The BepiColombo begins its final mission to Mercury, eight years after its launch by the European Space Agency and the Japan Aerospace Exploration Agency.",
+        "links": [
+            {
+                "source": "(Space.com)",
+                "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "The Security Service of Ukraine open fire against agents of the Main Directorate of Intelligence in Kyiv during a search at an apartment related to an arrest against a Russian national fighting for Ukraine, wounding three people.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Five people are killed and several other residents are abducted during a bandit attack in Kebbe, Sokoto State, Nigeria.",
+        "links": [
+            {
+                "source": "(Daily Post Nigeria)",
+                "url": "https://dailypost.ng/2026/09/04/bandits-kill-five-abduct-several-residents-in-fresh-attack-on-sokoto-community/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "Authorities in Indonesia rescue a mother orangutan and her baby from wildfire smoke on the island of Borneo.",
+        "links": [
+            {
+                "source": "(The Borneo Post)",
+                "url": "https://www.theborneopost.com/2026/09/03/indonesia-rescues-orangutan-mother-and-baby-from-wildfire-haze/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-03",
+        "description": "In the United States, the Supreme Court of Missouri blocks the use of a congressional map intended to favor Republicans, despite the map having already been used for primary elections in the state. A referendum on the 2025 map will appear on the ballot for the November election in the state.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/redistricting-congress-missouri-trump-gerrymandering-5034c87f2161baa933ea337408e4c5b4"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/sep/03/missouri-supreme-court-trump"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
