@@ -1,0 +1,392 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Houthi forces seize control of the Hanish Islands in the Red Sea consolidating the group's control of the strategic sea lane off Yemen's western coast.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/yemen-houthis-saudi-shipping-mandeb-8c18d82c109a8ea91347ce53c0096c53"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Houthi forces advance towards the PLC-controlled cities of Marib and Taiz with heavy clashes underway.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Parliamentary elections are held in the Bangsamoro autonomous region, Philippines, its first since its establishment in 2018.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Gulf states call off planned peace talks with Iran in response to Houthi ballistic missile attacks on Saudi Arabia and Yemeni government forces.",
+        "links": [
+            {
+                "source": "(CBC News)",
+                "url": "https://www.cbc.ca/news/world/iran-war-yemen-houthis-saudi-arabia-9.7342898"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Sudan's Popular Congress Party and Sudan Liberation Movement faction led by Abdul Wahid al-Nur agree to broaden talks aimed at ending the three-year civil war in the country.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/318739"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Nigeria's Dangote Group launches an initial public offering (IPO) of 4.1 billion shares at ₦525 (US$0.40) each, seeking to raise about ₦2.15 trillion ($1.6 billion) to fund the expansion of the Dangote refinery in Lekki, Lagos State. The sale is set to become Africa's biggest IPO.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260914-nigerian-oil-refinery-dangote-launches-ipo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Indonesia extends the search for eight people, including five journalists, after their speedboat disappeared in the Sunda Strait during a reporting mission on Anak Krakatoa's eruption a week prior. Police await test results to identify a body found on Enggano Island.",
+        "links": [
+            {
+                "source": "(AFP via Malay Mail)",
+                "url": "https://www.malaymail.com/news/world/2026/09/14/indonesia-extends-search-for-eight-missing-after-anak-krakatau-mission-boat-vanishes/235229"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "The First Ministers of Northern Ireland, Scotland, and Wales meet in Cardiff at a summit to call for their independence from the United Kingdom.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c62enegxyl9o"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/politics/2026/sep/14/westminster-first-ministers-uk-celtic-nations-wales-northern-ireland-scotland"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "American actress Jean Smart wins a Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series for her role in Hacks, becoming the first actress to win for every season of a show.",
+        "links": [
+            {
+                "source": "(Entertainment Weekly)",
+                "url": "https://ew.com/jean-smart-wins-comedy-actress-hacks-undefeated-emmys-2026-12115795"
+            },
+            {
+                "source": "(Variety)",
+                "url": "https://variety.com/2026/tv/news/jean-smart-hacks-wins-emmy-lead-actress-comedy-1236858177/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Chile becomes the first country in South America to eliminate dog-transmitted rabies, with the World Health Organization confirming the milestone.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/chile-rabies-public-health-dogs-b01d6e95338eab23aa76145ec32939ea"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "United States district judge F. Dennis Saylor IV of Massachusetts postpones new rules limiting stays for international students and journalists, preventing the measures from taking effect while a legal challenge proceeds.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260914-us-judge-postpones-new-visa-rules-for-foreign-students-journalists"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "The United States confirms for the first time that it has deployed a weapon in Earth's orbit. Air Force secretary Troy Meink says the highly classified weapon is necessary to \"safeguard U.S. forces\" against potential enemy action.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Maersk and Hapag-Lloyd announce that they will sail more container ships through the Suez Canal.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/maersk-hapag-lloyd-resume-further-services-through-suez-canal-2026-09-14/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "The World Food Programme reports that Sudan's Darfur region is having its driest rainy season since the 1980s, worsening famine conditions amidst the ongoing civil war.",
+        "links": [
+            {
+                "source": "(AFP via Free Malaysia Today)",
+                "url": "https://www.freemalaysiatoday.com/category/world/2026/09/15/sudan-s-darfur-faces-driest-rainy-season-in-four-decades-says-wfp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "American comedy horror television series Widow's Bay wins 14 Emmys including Outstanding Comedy Series, surpassing the record set by The Studio last year.",
+        "links": [
+            {
+                "source": "(The Hollywood Reporter)",
+                "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmy-best-comedy-winner-widows-bay-sets-emmys-record-1236697070/"
+            },
+            {
+                "source": "(Los Angeles Times)",
+                "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-09-14/widows-bay-emmys-2026-comedy-series-winner"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Pope Leo XIV restores salaries for cardinals and senior Vatican City officials to pre-COVID-19-pandemic levels, ending reductions introduced by Pope Francis in 2021. The change took effect September 1, 2026, without retroactive compensation.",
+        "links": [
+            {
+                "source": "(The Sun)",
+                "url": "https://thesun.ng/cardinals-to-earn-full-pay-again-as-pope-leo-xiv-ends-covid-austerity-measure/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "Canadian–American actor Michael J. Fox wins the Bob Hope Humanitarian Award for his contributions to research and advocacy on Parkinson's disease.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/media-telecom/michael-j-fox-honored-emmys-parkinsons-advocacy-2026-09-15/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-14",
+        "description": "At least seven suspected gunmen are killed and two others are detained after an armed group attacks Nuevo León police and soldiers in General Treviño, Mexico. Police later arrest three additional suspects.",
+        "links": [
+            {
+                "source": "(La Jornada in Spanish)",
+                "url": "https://www.jornada.com.mx/noticia/2026/09/15/estados/nuevo-leon-caen-tres-por-enfrentamiento-con-fuerza-civil-en-general-trevino"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

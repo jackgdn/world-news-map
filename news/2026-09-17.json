@@ -1,0 +1,421 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Lt. Col. \"Aleph\", the chief police officer in the Southern Command's Gaza Division, is dismissed following his role in the failures leading to the Hamas-led October 7 attacks on Israel.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/chief-intel-officer-of-gaza-division-on-october-7-formally-dismissed-from-the-idf/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "The Israel Defense Forces confirm that they have killed a Al-Qassam Brigades Nukhba Forces commander who took part in the October 7 attacks in a airstrike and a Hamas navy officer in another airstrike in Gaza City.",
+        "links": [
+            {
+                "source": "(Israel National News)",
+                "url": "https://www.israelnationalnews.com/news/433325"
+            },
+            {
+                "source": "(JFeed)",
+                "url": "https://www.jfeed.com/news-israel/tlip93"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Al-Akhbar reports that Saudi Arabia has sent a proposal for Oman to mediate a two-week ceasefire with the Houthis.",
+        "links": [
+            {
+                "source": "(AzerNews)",
+                "url": "https://www.azernews.az/region/264050.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "A Yemeni resident is reported to be killed by debris from a drone in Taif, Mecca Province.",
+        "links": [
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/saudi-arabia/houthi-drone-debris-kills-yemeni-resident-in-saudi-arabias-taif-3002105"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "The United States Fish and Wildlife Service narrows its enforcement of the Endangered Species Act by excluding unintentional wildlife deaths from its definition of prohibited take, including foreseeable deaths linked to activities such as commercial fishing and logging.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260917-trump-admin-overhauls-key-protection-for-endangered-species"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Biologists publish a study in the journal Current Biology describing a new species of wild cat belonging to the genus Leopardus, commonly called the \"tilcayo\", in the Yungas cloud forests of Bolivia. This discovery marks the first new cat species in over 100 years.",
+        "links": [
+            {
+                "source": "(Cell)",
+                "url": "https://www.doi.org/10.1016/j.cub.2026.08.059"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Ulf Kristersson announces his resignation as Prime Minister of Sweden after his right-wing bloc wins 173 seats in the Riksdag, compared to 176 won by the opposition, led by Magdalena Andersson.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cxr50l3d762po"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Australia tightens visa rules for international students and working holidaymakers, restricts visa switching, and increases enforcement against overstayers as it seeks to reduce net overseas migration to 225,000 by 2027–28 and ease pressure on housing.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260917-australia-to-cut-migration-to-fix-housing-crisis-minister"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "The UN Independent International Fact-Finding Mission finds \"reasonable grounds\" that the United States military may have committed war crimes with attacks on the Minab school and Lamerd sports hall in southern Iran.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/un-mission-finds-grounds-believe-us-committed-war-crimes-iran-tehran-crimes-2026-09-17/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "The 16th-century Codex Azcatitlan goes on display in Mexico City after France loaned two folios nearly two centuries after the manuscript left the country. Mexico continues seeking the codex's permanent return from France.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/prized-mexican-relic-returns-loan-two-centuries"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/ck980qyy6d2zo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Serbian president Aleksandar Vučić inaugurates a factory for Israeli-made drones that will be produced by the country's Krušik company, with Vučić stating that it will employ 100 people and produce advanced equipment for the Serbian military.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/serbia-israel-drones-factory-vucic-military-12098645a942e8fef5b58911e37e9fb2"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Venezuela restores access to 17 news websites that were previously blocked, including EFE, El Nacional, NTN24, and Semana, as the interim government and opposition resume political transition talks that include freedom of expression.",
+        "links": [
+            {
+                "source": "(AFP via Gulf News)",
+                "url": "https://gulfnews.com/world/americas/venezuela-unblocks-some-censored-news-sites-2-1.500678849"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Twenty-six people are killed and 82 more injured during clashes between two rival communities in Abyei, at the border between Sudan and South Sudan.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Fifteen civilians are killed during an armed attack by unknown individuals in Madegoua, Far North Region, Cameroon.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/militants-kill-15-overnight-cameroon-raid-village-sources-say-2026-09-17/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "The National Institute for Health and Care Excellence approves the Trastuzumab deruxtecan drug for women in England with metastatic or incurable HER2-breast cancer that cannot be removed surgically, making it the first licensed targeted treatment for patients, two years after it was rejected due to its cost effectiveness.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/life-extending-drug-for-breast-cancer-patients-now-on-nhs-in-england-13588795"
+            },
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/news/uk/home-news/enhertu-breast-cancer-life-extending-drug-b3051691.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "The United Nations General Assembly (UNGA) votes 152–3, with four abstentions, to allow Palestinian president Mahmoud Abbas and other senior Palestinian officials to address UN meetings, including the general debate of the eighty-first session of the UNGA, by video for one year after United States visa restrictions prevented their travel to New York City, where the UN headquarters are.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/un-allows-palestinian-president-again-speak-via-video-after-us-denies-visa-2026-09-17/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Pakistan's Supreme Court suspends 17-year prison sentences imposed on human rights lawyer Imaan Mazari and her husband over anti-state social media posts, and grants them bail pending an Islamabad High Court ruling.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/pakistans-top-court-suspends-sentences-rights-lawyer-mazari-husband-2026-09-17/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Malawian police rescue a 47-year-old British woman after her abduction in Blantyre. Four suspected kidnappers are killed in a shootout with officers, while a senior police officer is injured and hospitalized in stable condition.",
+        "links": [
+            {
+                "source": "(AP via ABC News)",
+                "url": "https://abcnews.com/International/wireStory/4-suspects-killed-shootout-police-rescue-kidnapped-british-136551217"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-17",
+        "description": "Thirty-seven suspected illegal gold miners die in custody of Nigeria's civil defence agency in Minna, Niger State. Survivors say overcrowding and poor ventilation caused breathing difficulties, while an intelligence report links the deaths to those conditions. The government orders an investigation.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/nigeria-miners-struggled-breathe-cell-37-died-survivors"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

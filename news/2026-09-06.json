@@ -1,0 +1,509 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Four people are killed and 20 more injured in a series of Israeli airstrikes in southern Lebanon.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?update=4921602"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "A shooting five days ago outside a bar frequented by LGBTQ people in Tucson, Arizona, United States, which left three people killed, including the perpetrator, is confirmed to be motivated by homophobia.",
+        "links": [
+            {
+                "source": "(Tucson Sentinel)",
+                "url": "https://www.tucsonsentinel.com/local/report/090326_venture-n_memorial/more-than-1000-mourn-vigil-2-men-killed-hate-crime-tucson-gay-bar/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Jakarta's Soekarno–Hatta International Airport, Indonesia's busiest airport, suspends flight operations after volcanic ash from Anak Krakatoa reaches the airport.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/world/2026/9/6/indonesia-s-main-airport-suspends-operations-after-volcanic-eruption-1218"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Israeli strikes in Gaza City kill at least four Palestinians, including an eight-year-old girl and a three-year-old boy, and injure six others. Israel says one strike targeted a Hamas member and that it is reviewing the outcome.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-two-people-gaza-medics-say-2026-09-06/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "U.S. envoys Steve Witkoff and Jared Kushner make their first visit to Kyiv, Ukraine, to meet with Ukrainian president Volodymyr Zelenskyy for talks amidst renewed efforts to end the war.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/aerospace-defense/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-2026-09-06/"
+            },
+            {
+                "source": "(CNBC)",
+                "url": "https://www.cnbc.com/2026/09/06/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Seven people are killed and 20 more injured in a series of Israeli airstrikes in southern Lebanon.",
+        "links": [
+            {
+                "source": "(Al Jazeera 1)",
+                "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four"
+            },
+            {
+                "source": "(Al Jazeera 2)",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?update=4923404"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "The death toll from mudslides caused by Typhoon Saudel in Suichuan County, Jiangxi, China, increases to three.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/china-mudslide-jiang-xi-deaths-saudel-typhoon-8e302d3fae97f3b0c2f74dca908039ec"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Eleven people are killed and seven others are injured when a fuel tanker hits other cars and explodes, reportedly due to a faulty brake system, near Sanandaj, Kurdistan province, Iran.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-road-accident-death-toll-90148bfbc4007e09d4ad5130aecd1ed6"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Exit polls show the far-right Alternative for Germany party winning the Saxony-Anhalt state election in Germany but failing to secure an absolute majority of seats.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "In Formula One racing, Mercedes driver Kimi Antonelli wins the Italian Grand Prix, becoming the first Italian driver in 60 years to win on home soil after Ludovico Scarfiotti in 1966.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/formula1/antonelli-takes-sensational-home-italian-gp-win-back-grid-2026-09-06/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "The Sudanese Armed Forces and Joint Forces advance in Sudan's North Kordofan state, and recaptures the town of Hamrat al-Wiz.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/318423"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "The International Committee of the Red Cross reports that over 11,000 people have been reported missing since the civil war.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/318410"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "A Boeing 767-300 cargo plane operated by 21 Air, contracted by Amazon Air, overshoots the runway and strikes vehicles while landing at Miami International Airport in Florida, United States, killing five people and injuring five others.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cmqlwrvwzxx5t"
+            },
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "In NASCAR racing, Joe Gibbs driver Christopher Bell wins the Southern 500 race at Darlington Raceway in South Carolina, U.S., snapping a 33-race winless streak.",
+        "links": [
+            {
+                "source": "(NASCAR)",
+                "url": "https://www.nascar.com/news-media/2026/09/06/2026-cup-series-darlington-southern-500-chase-recap-results/"
+            },
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/racing/story/_/id/49854635/christopher-bell-passes-kyle-larson-win-southern-500"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "The final day of the World Nomad Games is held, with hosts Kyrgyzstan defeating Kazakhstan 12–0 to win the kok-boru final in Cholpon-Ata. Kyrgyzstan wins the gold medal in kok-boru, Kazakhstan wins the silver, and Russia wins the bronze.",
+        "links": [
+            {
+                "source": "(The Times of Central Asia)",
+                "url": "https://timesca.com/kyrgyzstan-beats-kazakhstan-12-0-to-win-world-nomad-games-kok-boru-gold/"
+            },
+            {
+                "source": "(24.kg)",
+                "url": "https://24.kg/english/388167_Kyrgyzstan_defeats_Kazakhstan_12-0_for_6th_World_Nomad_Games_kok-boru_victory_/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Kazakhstan finishes first in the medal standings at the World Nomad Games.",
+        "links": [
+            {
+                "source": "(Qazinform)",
+                "url": "https://qazinform.com/news/kazakhstan-tops-medal-standings-at-world-nomad-games-dbbb7c/amp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Rob Reiner wins a posthumous award for Outstanding Guest Actor in a Comedy Series for his role in The Bear nine months after his killing.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/09/06/arts/television/rob-reiner-emmy-the-bear.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Three more children are reported to die from suspected measles in Bangladesh in the past 24 hours, bringing the total death toll to 997.",
+        "links": [
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/health/news/three-more-die-measles-symptoms-4267171"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Eleven climbers are killed and six others are injured after an avalanche struck a group of 33 on Mount Mizhirgi in Kabardino-Balkaria, Russia. Six other climbers are missing as rescuers continue search operations.",
+        "links": [
+            {
+                "source": "(Firstpost)",
+                "url": "https://www.firstpost.com/world/russia-avalanche-tragedy-11-climbers-killed-after-snow-slide-hits-group-in-kabardino-balkaria-14043837.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Former Danish Queen Margrethe II is hospitalized and will miss the funeral of Norway king Harald V.",
+        "links": [
+            {
+                "source": "(Jang)",
+                "url": "https://jang.com.pk/en/72667-denmarks-queen-rushed-to-hospital-diagnosed-with-serious-health-issue-news"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "In association football, Toluca defeat Monterrey 2–0 in the final to claim their first Leagues Cup championship.",
+        "links": [
+            {
+                "source": "(USA Today)",
+                "url": "https://www.usatoday.com/story/sports/soccer/2026/09/07/toluca-rayados-leagues-cup-final/91646771007/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "Manchester Storm set a new attendance record for a match between two Elite Ice Hockey League teams, with 11,062 people watching their pre-season friendly against Sheffield Steelers at the AO Arena, the first professional hockey game the venue has hosted since 2004.",
+        "links": [
+            {
+                "source": "(EIHL)",
+                "url": "https://www.eliteleague.co.uk/article/5496-storm-celebrate-homecoming"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-06",
+        "description": "A state of emergency is declared in Hawaii, United States, as Hurricane Lowell approaches the state as a Category 3 storm, with heavy rain, high surf, and dangerous coastal conditions forecasted. Tropical storm warnings are issued for Kauaʻi and Niʻihau.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
