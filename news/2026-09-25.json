@@ -1,0 +1,425 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Pakistan says that its military has killed 13 Afghan security forces during shootouts at the border. Afghanistan's government denies the claim.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-afghanistan-overnight-border-fighting-southwest-787f857b24c3737c1cdfbabc2086657e"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Two people are killed and 13 more injured in a fire at a residential building in Lucca, Italy.",
+        "links": [
+            {
+                "source": "(La Nazione in Italian)",
+                "url": "https://www.lanazione.it/lucca/cronaca/rogo-nella-notte-in-un-palazzo-due-morti-e-13-feriti-myvrmhtg"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Philippine president Bongbong Marcos confirms the approval of an absolute pardon for Mary Jane Veloso the previous day, which has been considered on humanitarian grounds. Veloso, a former overseas worker who has been serving a prison sentence since 2010 over a drug trafficking case in Indonesia, received a reprieve from execution in 2015, and returned to the ⁠Philippines in 2024 following ​an agreement between the governments of the two countries.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/philippine-president-pardons-drug-convict-mary-jane-veloso-2026-09-25/"
+            },
+            {
+                "source": "(Philippine Daily Inquirer)",
+                "url": "https://newsinfo.inquirer.net/2311536/marcos-grants-mary-jane-veloso-absolute-pardon"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "The Puntland Maritime Police Force successfully frees the oil tanker Sibu 1 following a multi-day counter-piracy operation near Garacad, Mudug, Puntland, after it was seized by Somali pirates in August.",
+        "links": [
+            {
+                "source": "(Idil News)",
+                "url": "https://www.idilnews.com/degdeg-ciidanka-badda-puntland-oo-soo-furtay-markabka-mtt-sibu1/"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/us-sanctioned-oil-tanker-sibu-1-rescued-somali-pirates-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "A military-leased Let L-410 carrying 17 people, including two generals, crashes near Kenge, Kwango, Democratic Republic of the Congo, while on route to Kinshasa, killing all passengers.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/fr/afrique/rdc-17-morts-dans-le-crash-d-un-avion/4069936"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/congo-military-plane-crash-kills-13-including-three-officers-official-says-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Six people are missing and two others are found injured after a suspected gas leak causes an explosion and collapses a two-storey building in Plaka, Athens, Greece.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260925-six-missing-after-building-blast-in-historic-athens-district"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/greece-explosion-athens-plaka-acropolis-f5b20571f39d635832dde89b792f01d5"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Two people are killed and 13 more injured in a fire at a residential building in Lucca, Tuscany, Italy.",
+        "links": [
+            {
+                "source": "(ANSA)",
+                "url": "https://www.ansa.it/english/newswire/english_service/2026/09/25/two-killed-in-blaze-in-lucca-children-among-13-injured_f4cdcec7-7bfc-478f-8e2b-a102348f831a.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Mary Jane Veloso is released from a prison in Mandaluyong, Philippines, after president Bongbong Marcos's absolute pardon of her was approved yesterday.",
+        "links": [
+            {
+                "source": "(Rappler)",
+                "url": "https://www.rappler.com/philippines/overseas-filipinos/mary-jane-veloso-released-detention-september-25-2026/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "In swimming, China's Zhang Zhanshuo becomes the first athlete to win seven gold medals at a single Asian Games, securing his seventh title in the men's 400-metre freestyle with a Games-record time of 3:41.28.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/chinas-zhang-wins-record-seventh-asian-games-swimming-gold"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "In association football, an independent Premier League commission finds Manchester City F.C. guilty of 114 of 115 alleged financial-rule breaches spanning the 2009–10 to 2022–23 seasons.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/09/25/sport/manchester-city-charges-premier-league"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "The Sudanese Armed Forces announces that they have recaptured Sodri, North Kordofan.",
+        "links": [
+            {
+                "source": "(Radio Tamazuj)",
+                "url": "https://www.radiotamazuj.org/en/news/article/sudan-army-announces-capture-of-sodari-area-in-north-kordofan"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Two civilians are killed in a drone strike by Rapid Support Forces in El Obeid.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/319268"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "The United Nations High Commissioner for Refugees reports a sharp increase in refugees fleeing from Sudan to Chad in a effort to escape the civil war and dire conditions, with 400 people a day crossing eastern Chad.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/number-sudanese-fleeing-chad-surges-20-fold-aid-runs-dry-un-says-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "The Wall Street Journal reports that United States president Donald Trump has rejected Iranian foreign minister Abbas Araghchi's proposal to reopen the Strait of Hormuz and halt regional fighting within seven days in exchange for easing U.S. sanctions and releasing Iranian frozen funds.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-step-up-attacks-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Russian drone and missile strikes on residential buildings and other civilian sites in Kyiv, Ukraine, kill seven people, including a 14-year-old boy, and injure 46 others.",
+        "links": [
+            {
+                "source": "(AFP via News.com.au)",
+                "url": "https://www.news.com.au/breaking-news/daytime-russian-attacks-kill-seven-in-kyiv/news-story/0e54173b829569bb9c750c436505de26"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Brazilian president Luiz Inácio Lula da Silva issues a provisional measure banning online betting in Brazil, immediately halting new deposits. Users may withdraw remaining funds until October 5, and Congress must approve the measure within 120 days for it to remain in force.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260925-lula-bans-sports-betting-days-ahead-of-brazil-s-election"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "A laboratory-confirmed mpox case from a 21-year-old woman is reported in Bunia, Ituri Province, Democratic Republic of the Congo.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mpox-case-confirmed-northeastern-congolese-city-center-ebola-outbreak-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "A court in Paris, France, sentences Loik Le Priol to 26 years in prison and Romain Bouvier to 19 years for murdering former Argentine rugby union player Federico Martín Aramburú in 2022. Le Priol and Bouvier had links to the dissolved far-right group Groupe Union Défense.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/aramburu-rugby-killing-paris-796a8a4b3e5032340f36807ef27e3a12"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c639mm1mrv94o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-25",
+        "description": "Sri Lanka's parliament approves a constitutional amendment extending the terms of senior judges by two years as part of efforts to reduce an estimated 1.1 million-case backlog.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/sri-lankas-parliament-approves-constitutional-amendment-extend-judge-terms-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

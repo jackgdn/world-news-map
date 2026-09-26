@@ -1,0 +1,73 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-26",
+        "description": "Four sailors are missing, seven others are injured, and 25 are rescued after a fire breaks out aboard the Russian fishing vessel Triumf off the Kamchatka Peninsula in the Far East.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/25-sailors-rescued-burning-russian-fishing-ship-2026-09-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-26",
+        "description": "In Thailand, Bangkok governor Chadchart Sittipunt declares a flood disaster across the city as severe flooding kills at least two people and affects more than 84,000 nationwide.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260926-bangkok-declares-flood-disaster-across-city"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/thailand-bangkok-flooding-water-heavy-rain-d201411a72a08aa8b4b39f7aa258a212"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-26",
+        "description": "In Australian rules football, the Brisbane Lions defeat the Fremantle Dockers to win the 2026 Australian Football League season by seven points, winning their third consecutive premiership and sixth overall.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/sport/2026/sep/26/afl-grand-final-2026-brisbane-three-peat-win-over-fremantle"
+            },
+            {
+                "source": "(AFL)",
+                "url": "https://www.afl.com.au/news/1621721/match-report-its-wharfie-time-fremantle-dockers-give-brisbane-lions-the-old-heave-ho-to-win-first-flag"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

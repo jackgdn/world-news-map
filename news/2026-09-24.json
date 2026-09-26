@@ -1,0 +1,463 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Pakistan's military launches ten air strikes on Afghan military sites, killing four people.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "At least nine people are killed and many others are injured after a sleeper bus catches fire on the Yamuna Expressway in Greater Noida, Uttar Pradesh, India.",
+        "links": [
+            {
+                "source": "(Deccan Herald)",
+                "url": "https://www.deccanherald.com/india/uttar-pradesh/9-killed-as-sleeper-bus-catches-fire-on-yamuna-expressway-in-greater-noida-newsalert-4157568"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/india-news-9-killed-after-bus-catches-fire-outside-delhi/live-79405879"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Twelve Kazakh military personnel are killed, three are rescued and two are missing after being swept into the Caspian Sea during a naval training exercise in the Mangystau Region.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/nine-kazakh-military-personnel-dead-after-being-washed-out-sea-during-exercises-2026-09-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "A court in Jakarta, Indonesia, reduces former education minister and Gojek co-founder Nadiem Makarim's prison sentence from 10 to nine years for corruption involving Chromebook procurement, while lowering restitution from Rp809 billion (US$45 million) to Rp548 billion ($30 million).",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/indonesia-court-reduces-gojek-founders-sentence-9-years-appeal-hearing-2026-09-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Morocco's Authenticity and Modernity Party, led by Fatima Ezzahra El Mansouri, wins the most seats in yesterday's parliamentary election, taking 97 of 395 seats, followed by the ruling National Rally of Independents with 66 and the Istiqlal Party with 65, according to preliminary official results.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/pam-party-wins-most-seats-moroccos-parliamentary-election-2026-09-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "The Israel Defense Forces and Shin Bet say that they have killed Hamas's chief financial officer in the Khan Younis area of the Gaza Strip.",
+        "links": [
+            {
+                "source": "(Israel National News)",
+                "url": "https://www.israelnationalnews.com/news/433578"
+            },
+            {
+                "source": "(The Yeshiva World)",
+                "url": "https://www.theyeshivaworld.com/news/israel-news/2602708/hamas-finance-chief-idf-says-muhammad-abu-alwan-killed-in-khan-younis-strike.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "The European Commission reports that the average diesel price across the European Union reaches a record €2.23 (US$2.54) per litre, up from €2.16 ($2.46) the previous week. Nineteen member states record new highs.",
+        "links": [
+            {
+                "source": "(AFP via Bangkok Post)",
+                "url": "https://www.bangkokpost.com/business/general/3325430/average-eu-diesel-price-hits-record223-euros-a-litre-afp-analysis"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Hungary's food chain safety office confirms the European Union's first detection of the invasive spotted lanternfly in Bács-Kiskun County.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260924-hungary-detects-invasive-spotted-lanternfly-for-first-time-in-eu"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "A Croatian court approves Ukrainian national Volodymyr Zhuravlov's extradition to Germany over his alleged involvement in sabotaging the Nord Stream 1 and Nord Stream 2 pipelines in 2022.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/croatia-germany-suspect-nord-stream-explosion-7bf007025930ca0833ad054356a6887b"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "American news outlets CNN, MS NOW, and Politico regain access to the White House after U.S. federal judge Timothy J. Kelly temporarily blocked the ban by President Donald Trump, ruling that the outlets are likely to show that their press passes were revoked without adequate due process.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cqe8ek7608mlo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Belarusian president Alexander Lukashenko says that he has pardoned 15 political prisoners.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/belarus-president-lukashenko-pardons-15-prisoners-state-media-says-2026-09-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "A priest is killed and four other people are injured in a mass stabbing by a Ukrainian national at a Benedictine abbey in Jarosław, Podkarpackie Voivodeship, Poland.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/poland-stabbing-convent-jaroslaw-9592a9fc8b97b815d9ee647c0fa7c15f"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/one-dead-four-injured-polish-abbey-knife-attack-local-media-report-2026-09-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "In swimming, Japan's Shin Ohashi wins gold in the men's 200-metre breaststroke at the 2026 Asian Games in 2:04.83, breaking China's Qin Haiyang's 2023 world record of 2:05.48 by 0.65 seconds.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/japan-swimmer-ohashi-17-shrugs-covid-smash-world-record"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Fano fighters launch several attacks in the Amhara Region. Shootouts with the Ethiopian National Defense Force are ongoing, causing several casualties, while a colonel is captured.",
+        "links": [
+            {
+                "source": "(Daily News Egypt)",
+                "url": "https://africa.dailynewsegypt.com/ethiopian-army-colonel-reportedly-captured-by-fano-forces/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "The beatification ceremony for the late American Catholic prelate and Rochester Archbishop Fulton J. Sheen is held at The Dome at America's Center in St. Louis, Missouri, United States.",
+        "links": [
+            {
+                "source": "(Bastille Post)",
+                "url": "https://www.bastillepost.com/global/article/6188152-famed-radio-and-tv-priest-fulton-sheen-is-beatified-in-st-louis-putting-him-a-step-from-sainthood"
+            },
+            {
+                "source": "(Vatican News)",
+                "url": "https://www.vaticannews.va/en/church/news/2026-09/cardinal-tagle-homily-beatification-mass-fulton-sheen-missionary.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "The Emirati General Civil Aviation Authority announces the suspension of all flights between Iran and the United Arab Emirates amidst new U.S. sanctions until further notice.",
+        "links": [
+            {
+                "source": "(Gulf News)",
+                "url": "https://gulfnews.com/business/aviation/uae-suspends-all-iranian-airline-flights-until-further-notice-1.500686774"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "In baseball, the Major League Baseball's Chicago White Sox clinches the upcoming playoffs for the first time since 2021, following three-straight 100-loss seasons.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/white-sox-royals-score-clinch-25f0e5288dd7165e3a8f94f1185433fd#"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "France announces that it will deploy its soldiers and air defense systems to Yanbu, Saudi Arabia, to support the Saudi military against the Houthis.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/cia-did-not-warn-france-about-possible-russian-drone-attacks-macron-says-2026-09-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Philippine president Bongbong Marcos grants an absolute pardon to Mary Jane Veloso, a former overseas worker in Indonesia who was arrested for drug trafficking and sentenced to death in 2010, but was later granted a reprieve and extradited back to the Philippines.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/philippine-president-pardons-drug-convict-mary-jane-veloso-2026-09-25/"
+            },
+            {
+                "source": "(Philippine Daily Inquirer)",
+                "url": "https://newsinfo.inquirer.net/2311536/marcos-grants-mary-jane-veloso-absolute-pardon"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "UN Trade and Development reports that Gaza is experiencing the most severe economic crisis on record, with 92% of economic establishments damaged or destroyed, daily per capita GDP at US$0.58, and unemployment exceeding 90% among working-age residents.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/gaza-suffers-worlds-worst-ever-economic-crisis-un"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-24",
+        "description": "Italy's government approves a decree capping foreign students with limited Italian proficiency at 30% per classroom and banning burqas and niqabs in schools. The measure takes effect immediately but requires parliamentary approval within 60 days.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/italy-school-foreign-students-classrooms-veil-migrants-education-3d7cf97f62c8e9a3f8855ef018fc6112"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

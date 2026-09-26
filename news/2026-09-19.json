@@ -1,0 +1,367 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Tropical Depression Six forms in the Atlantic Ocean near the Azores amidst an unusually quiet Atlantic hurricane season caused by El Niño.",
+        "links": [
+            {
+                "source": "(Fox Weather)",
+                "url": "https://www.foxweather.com/weather-news/tropical-depression-six-forms-atlantic-el-nino-september-2026.amp"
+            },
+            {
+                "source": "(WTSP)",
+                "url": "https://www.wtsp.com/article/weather/hurricane/our-sixth-tropical-system-has-formed-in-the-atlantic/67-c1324f82-432a-48f0-9104-29ef73166837"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Indonesia accepts Malaysian assistance to combat wildfires in Kalimantan, including a Bombardier CL-415MP aircraft, three helicopters, and 52 personnel, as the fires cause transboundary haze affecting Southeast Asia.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260919-indonesia-accepts-malaysia-s-help-to-tackle-wildfires"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "The U.S. treasury department lifts the sanctions against Eritrea's ruling party previously imposed by former U.S. president Joe Biden's administration.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/us-eritrea-sanctions-tigray-houthi-red-sea-c3a4056f2c69b841d97b1bdd8d259716"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Russian election commission chairperson Ella Pamfilova reports cyberattacks targeting Russia's online voting system during the second day of the parliamentary election and says they are repelled. The Minkomsvyaz separately reports thwarting a sabotage attempt on Far Eastern communication lines.",
+        "links": [
+            {
+                "source": "(ABC News Australia)",
+                "url": "https://www.abc.net.au/news/2026-09-19/russia-reports-cyberattacks-during-election/107172738"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Marat Kambolov is declared the winner of the presidential elections in the partially recognized South Ossetia.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/russia-backed-south-ossetia-elects-leader-close-moscow-2026-09-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "In rugby union, hosts Japan win their fourth Pacific Nations Cup title after defeating the defending champions Fiji 20–15 in the final at Chichibunomiya Stadium in Tokyo.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/sports/20260919-japan-edge-fiji-to-win-pacific-nations-cup"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Supreme National Security Council Secretary Mohsen Rezaee says that Iran has set seven conditions for resuming ceasefire negotiations with the United States.",
+        "links": [
+            {
+                "source": "(Iran International)",
+                "url": "https://www.iranintl.com/en/202609192233"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "United States Central Command commander Brad Cooper says that oil, cargo, and liquefied natural gas shipments in the Strait of Hormuz have hit a six-month high.",
+        "links": [
+            {
+                "source": "(Bloomberg)",
+                "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says"
+            },
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-strait-hormuz-shipping-volumes-hit-six-month-high"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Israeli airstrikes kill at least three Palestinians in Gaza, including the eldest son of the Gaza Health Ministry director-general. Israel says it targeted militants, while medics report additional deaths in Sheikh Radwan and Shuja'iyya.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "The U.S. military strikes a vessel in the Caribbean Sea, killing four people whom the Southern Command says were involved in drug trafficking.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/us-says-it-killed-four-people-strike-vessel-caribbean-2026-09-20/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "South Africans hold memorial runs and protests after police find the bodies of nine women in Ekurhuleni, Gauteng, over two months. Police investigate possible links between the killings, which renew public concern over violence against women.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/after-deaths-nine-women-south-africans-gather-run-mourn-demand-change-2026-09-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Seven members of an outlaw group are killed in a law enforcement operation in Tugunan, Special Geographic Area of the Bangsamoro, Philippines.",
+        "links": [
+            {
+                "source": "(ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/regions/2026/9/20/6-killed-in-tugunan-cotabato-clash-between-government-troops-gunmen-0123"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "United States president Donald Trump's executive office denies journalists from CNN, MS NOW, and Politico access to the White House and confiscates or disables their press passes, citing their coverage of his administration.",
+        "links": [
+            {
+                "source": "(AFP via Philippine Daily Inquirer)",
+                "url": "https://globalnation.inquirer.net/338701/cnn-ms-now-politico-denied-access-to-white-house-grounds"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "The 20th Asian Games are opened by Emperor Naruhito in Nagoya, Aichi Prefecture, Japan.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/asian-games-open-nagoya-after-troubled-buildup-2026-09-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "In women's basketball, Atlanta Dream player Angel Reese becomes the first player in Women's National Basketball Association history to reach 500 rebounds in a single season.",
+        "links": [
+            {
+                "source": "(Bleacher Report)",
+                "url": "https://bleacherreport.com/articles/25500900-angel-reese-makes-wnba-history-single-season-rebounding-milestone-during-dream-vs-sky"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "A series of clashes, involving combined police and military forces and remaining wanted members of the Dawlah Islamiya and the Bangsamoro Islamic Freedom Fighters, erupts in Tugunan, Special Geographic Area of the Bangsamoro, Philippines. Seven members from both groups are killed.",
+        "links": [
+            {
+                "source": "(The Philippine Star)",
+                "url": "https://www.philstar.com/nation/2026/09/20/2557660/troops-brace-terrorist-retaliation-after-deadly-clashes-barmm"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-19",
+        "description": "Chilean Michelle Bachelet announces that she is withdrawing from the race to become UN Secretary-General after losing support, and that in the latest informal poll, Costa Rica’s Rebeca Grynspan is reported in the lead.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/chiles-bachelet-withdraws-race-lead-un-2026-09-20/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

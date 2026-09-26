@@ -1,0 +1,564 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Saudi airstrikes against the Houthi-held city of Mokha, Yemen, kills six civilians.",
+        "links": [
+            {
+                "source": "(AFP via CNA)",
+                "url": "https://www.channelnewsasia.com/world/houthis-saudi-arabia-strike-yemen-key-port-city-6402761"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "The National Hurricane Center reports that Hurricane Polo has strengthened into a category 5 Pacific hurricane.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/weather/hurricane-polo-mexico-category-5-b3054471.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Typhoon Dujuan kills at least four people and injures 22 others in Japan, while six remain missing after landslides. More than 45,000 households in Chiba Prefecture lose power, and over 460 homes are damaged.",
+        "links": [
+            {
+                "source": "(AFP via Taipei Times)",
+                "url": "https://www.taipeitimes.com/News/front/archives/2026/09/23/2003864735"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Moldova's parliament approves a 60-day state of emergency in the energy and water sectors as low levels in the Dniester and Prut rivers threaten water supplies and global conflicts raise energy costs.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/moldova-energy-europe-emergency-a73f807a2a7c2ccd38258d49ac1fbbd3"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "The Atlantic hurricane season breaks a 112-year record without a hurricane, due to a strong El Niño event in the Pacific.",
+        "links": [
+            {
+                "source": "(AccuWeather)",
+                "url": "https://www.accuweather.com/en/hurricane/atlantic-goes-without-a-hurricane-through-sept-21-breaking-112-year-record/1932278"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Tunisia's meteorological service reports that summer 2026 is the country's hottest since records began in 1950, with average temperatures 2.9 °C (5.2 °F) above the previous record and repeated heat waves contributing to water shortages and power cuts.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/tunisia-says-2026-summer-hottest-record"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Afghanistan and Turkmenistan agree to establish a joint commission on road transport and to facilitate transit between the two bordering countries.",
+        "links": [
+            {
+                "source": "(Trend News Agency)",
+                "url": "https://www.trend.az/casia/turkmenistan/4226595.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Denmark, Greenland, and the United States sign an agreement expanding U.S. military access to Greenland, permitting new defence areas and a missile defence system while reaffirming Greenland's self-determination and amending the 1951 defence agreement.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/europe/european-leaders-welcome-us-denmark-greenland-arctic-security-deal/4065141"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/trump-denmark-greenland-sign-deal-bid-end-arctic-standoff-2026-09-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Sri Lanka's High Court convicts 15 men involved in the Easter bombings in 2019.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Eleven people are wounded in a mass shooting at a high school in Turgutlu, Turkey. The perpetrator is arrested.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Three men are killed in a shooting in Gugulethu, Cape Flats, South Africa. Police are investigating it as a triple homicide.",
+        "links": [
+            {
+                "source": "(Cape Town ETC)",
+                "url": "https://www.capetownetc.com/news/three-killed-in-gugulethu-shooting-at-ktc/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Diplomatic sources and the United Nations say that the United States refused to issue Sudanese military chief and de facto leader Abdel Fattah al-Burhan a visa to attend the UN General Assembly. Sudan asks the UN to intervene.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/us-refuses-give-sudans-de-facto-leader-visa-un"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "United States president Donald Trump and Venezuelan interim president Delcy Rodríguez meet on the sidelines of the UN General Assembly in New York, marking the first in-person meeting between the countries' leaders following the 2026 U.S. intervention in Venezuela and capture of Nicolás Maduro.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260923-trump-met-with-venezuela-s-interim-leader-at-un"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Belgium and Rwanda restore diplomatic relations 18 months after severing ties over the Democratic Republic of the Congo–Rwanda conflict. The countries plan to reopen their embassies following months of meetings facilitated in part by Qatar.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/belgium-rwanda-resume-diplomatic-relations-after-drc-conflict-dispute-2026-09-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Eleven people are killed, including a pregnant woman, and three others are injured after three men open fire at a gathering inside a house in KwaMakhutha township, KwaZulu-Natal, South Africa.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/crgjqxzl097eo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Papua New Guinea police rescue 39 Indonesians allegedly trafficked through false job offers and held in Port Moresby. Officers arrest four Chinese nationals and investigate possible links to a wider transnational trafficking network.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/world/papua-new-guinea-police-bust-human-trafficking-ring-rescue-39-indonesians"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "The Pentagon reports that a 19th U.S. service member has died amidst the ongoing war in Iran.",
+        "links": [
+            {
+                "source": "(The Washington Post)",
+                "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Silver Roman coins dating back to the 2nd century are discovered by an amateur archaeologist in Germany. The coins are placed on display at the Rheinisches Landesmuseum Bonn museum in Bonn.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/22/roman-coins-germany-amateur-archaeologist-silver-denarii"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Three lawsuits are filed against the Six Flags Magic Mountain amusement park in Valencia, California, U.S., after 100 riders suffered brain injuries after riding the X2 roller coaster.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/09/23/us/six-flags-x2-roller-coaster-injuries.html"
+            },
+            {
+                "source": "(CBS Los Angeles)",
+                "url": "https://www.cbsnews.com/losangeles/news/six-flags-x2-roller-coaster-lawsuit/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Cybercrime group ShinyHunters says it has breached the website of the U.S. Federal Bureau of Investigation (FBI) and stolen personal data on current and former employees, including addresses and Social Security numbers. The FBI investigates the claim.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/shinyhunters-hackers-say-they-breached-federal-bureau-investigation-no-immediate-2026-09-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "At least three people are killed in an after-curfew ambush in Mangu, Plateau State, Nigeria.",
+        "links": [
+            {
+                "source": "(Daily Trust)",
+                "url": "https://dailytrust.com/plateau-gunmen-kill-3-vigilantes-despite-curfew/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Hundreds of flights are delayed at five primary airports across northeastern United States, namely Newark Liberty, Teterboro, Philadelphia, LaGuardia, and JFK, due to technological issues after a construction crew accidentally severed numerous cables, including fiber-optic ones used for communication with air traffic control.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/ckvgyzzgvv4wo"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/09/21/us/northeast-airport-delays-equipment-failure"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Former American football and New England Patriots kicker Adam Vinatieri sets a Guinness World Records for the highest field goal at the Swiss Alps, with an altitude of 3,454 meters (11,332 ft).",
+        "links": [
+            {
+                "source": "(Patriots.com)",
+                "url": "https://www.patriots.com/news/the-highest-field-goal-in-the-world-patriots-legend-adam-vinatieri-sets-a-guinness-world-recordstm-title-at-3-454-meters-on-the-jungfraujoch-top-of-europe"
+            },
+            {
+                "source": "(Powder)",
+                "url": "https://www.powder.com/news/adam-vinatieri-world-record-swiss-alps-field-goal"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Colombian president Abelardo de la Espriella deploys troops to Santa Marta, Magdalena Department, after members of the Conquering Self-Defense Forces of the Sierra Nevada (ACSN) attack businesses and burn vehicles following a security operation that killed 13 ACSN members, including a senior commander.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/colombia-president-orders-troops-violence-hit-caribbean-city"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "Iranian foreign minister Abbas Araghchi and U.S. envoy Steve Witkoff hold three hours of Qatar-mediated talks at the UN General Assembly in New York City, the first contact between the countries since U.S. vice president JD Vance met an Iranian delegation in Switzerland in June.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-22",
+        "description": "The Ethiopian National Defense Force launches 21 airstrikes in Alamata, Tigray Region, killing 14 civilians and wounding 22 more. Two empty schools are also hit.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cry8zwwq21pxo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
