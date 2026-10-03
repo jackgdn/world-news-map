@@ -1,0 +1,107 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Five civilians are killed and several injured in an Israeli airstrike against a residential building in Gaza City.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Unknown gunmen open fire against a vehicle in Ras al-Maara, Syria, killing three people and wounding seven more.",
+        "links": [
+            {
+                "source": "(Hawar News Agency)",
+                "url": "https://hawarnews.com/en/3-killed-7-injured-in-ras-al-maara-woman-killed-in-damascus-countryside"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Ten people are injured, including some critically, in an motor vehicle hooning incident in Newcastle, Australia, during a Newcastle Knights procession before the NRL Grand Final. The driver is arrested at the scene. The incident is considered unintentional.",
+        "links": [
+            {
+                "source": "(Nine News)",
+                "url": "https://www.nine.com.au/australia-news/nsw/child-critical-after-multiple-fans-hit-by-car-in-newcastle-20261003-p612jn.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Latvians vote to elect 100 seats of the Saeima amid an uptick of airspace incursions and hybrid warfare during the Russo-Ukrainian war. Exit polls project the centrist United List, led by incumbent prime minister Andris Kulbergs, in first place. The right-wing Latvia First and the left-wing Progressives follow in second and third place respectively.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/latvians-vote-election-shadow-drone-incursions-war-ukraine-2026-10-03/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "A Latitude Air Ambulance Gulfstream G100, flying from Bermuda to Boston, goes missing over the Atlantic Ocean with six people on board. Search operations are ongoing.",
+        "links": [
+            {
+                "source": "(News 18)",
+                "url": "https://www.news18.com/amp/world/plane-from-bermuda-carrying-six-people-goes-missing-us-coast-guard-launches-search-10365906.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

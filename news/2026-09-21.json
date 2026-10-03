@@ -1,0 +1,396 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "An explosion injures three South Korean military officers during an operation inside the Demilitarized Zone, south of the military demarcation line. The Joint Chiefs of Staff says the cause remains unknown.",
+        "links": [
+            {
+                "source": "(AFP via The Peninsula)",
+                "url": "https://thepeninsulaqatar.com/article/21/09/2026/three-south-korean-soldiers-injured-in-dmz-blast-military"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "New Zealand's critically endangered black robin wins Forest & Bird's Bird of the Year competition with more than 26,000 votes out of about 105,000 votes.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/new-zealanders-pick-endangered-black-robin-bird-year"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "British prime minister Andy Burnham says that the United Kingdom will offer Saudi Arabia aerial refueling in its ongoing conflict with the Houthis.",
+        "links": [
+            {
+                "source": "(The Hill)",
+                "url": "https://thehill.com/homenews/ap/ap-international/ap-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Pakistan's military launches strikes on the Afghanistan–Pakistan border, killing 28 Taliban militants. Afghanistan's government reports that three civilians have been killed in the strikes.",
+        "links": [
+            {
+                "source": "(Arab News PK)",
+                "url": "https://www.arabnews.pk/pakistan/pakistan-says-border-airstrikes-killed-28-militants-kabul-reports-civilian-deaths-3001875"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "The Red Sea International Film Festival in Saudi Arabia is postponed to 2027 due to the ongoing conflict with the Houthis.",
+        "links": [
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/lifestyle/saudi-arabias-red-sea-international-film-festival-postponed-until-2027-3002534"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Singapore's Land Transport Authority introduces fines of up to S$500 (US$390) for eating on public buses or placing feet on seats, while severe cleanliness or safety violations can incur penalties of up to S$5,000 (US$3,900).",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/propping-feet-bus-seats-carries-400-penalty-fine-city-singapore"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "An attack on a gold mining market in North Kordofan by the Rapid Support Forces kills five citizens, including a goldsmith worker.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/319070"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "U.S. senior advisor Massad Boulos says that he has held talks with Sudanese foreign minister Mohieddin Salem and Egyptian foreign minister Badr Abdelatty at the United Nations General Assembly meeting in an effort to end the three-year long civil war.",
+        "links": [
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/middle-east/egypt-sudan-and-us-officials-discuss-ending-sudan-war-3002461"
+            },
+            {
+                "source": "(Sudan Horizon)",
+                "url": "https://sudanhorizon.com/trump-envoy-held-productive-talks-with-sudanese-and-egyptian-foreign-ministers/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "The United Nations's International Organization for Migration reports that 5 million displaced people have decided to return to Sudan despite the civil war.",
+        "links": [
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/middle-east/over-5m-displaced-sudanese-return-home-un-3002595"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Pakistan's military launches strikes over the Afghanistan–Pakistan border in retaliation for the 2026 Kohat attack. Afghanistan's government and the UNAMA report that a family of three was killed in the strikes, while Pakistan says the strikes killed 28 Pakistani Taliban militants.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/least-three-killed-pakistani-airstrike-afghanistan-tolo-news-reports-2026-09-21/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Two pilots are killed in a helicopter crash while fighting a wildfire in Yosemite National Park, California, United States.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/two-pilots-die-helicopter-crash-fighting-california-wildfire-2026-09-21/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "The Nepalese government announces that they are discussing resettling victims of flooding from Bhotekoshi Rural Municipality to safe places in the country.",
+        "links": [
+            {
+                "source": "(Daily Pioneer)",
+                "url": "https://dailypioneer.com/news/slug-lite/nepal-govt-discusses-safe-resettlement-of-bhotekoshi-flood-victims-minister?year=2026"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "European Union ambassadors agree in principle to remove Russian oligarchs Mikhail Fridman and Alisher Usmanov from sanctions imposed over Russia's invasion of Ukraine, while renewing restrictions on about 3,000 other Russian-linked individuals and entities for three years. However, Latvia later blocks the deal.",
+        "links": [
+            {
+                "source": "(Billionaires.Africa)",
+                "url": "https://www.billionaires.africa/2026/09/21/billionaire-alisher-usmanov-is-set-to-come-off-eu-sanctions-after-four-years/"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/latvian-pm-opposes-deal-lift-sanctions-russia-linked-billionaires-usmanov-2026-09-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Jason Eaton is found guilty for shooting and critically wounding three Palestinian students in Burlington, Vermont, United States, who wore keffiyehs in solidarity with Palestine in the wake of the beginning of the Gaza war.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/sep/21/vermont-man-guilty-attempted-murder-palestinian-students"
+            },
+            {
+                "source": "(IndyStar)",
+                "url": "https://www.indystar.com/story/news/crime/2026/09/21/guilty-verdict-jason-eaton-vermont-shooting-palestinian-students-burlington/91877036007/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "The Sudanese military at night launches heavy airstrikes against Rapid Support Forces targets in Nyala, South Darfur.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/319114"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Ceer Motors unveils the EXOBOT SUV and sedan in Saudi Arabia, its first electric vehicles in the country.",
+        "links": [
+            {
+                "source": "(Electrek)",
+                "url": "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "A helicopter crashes in a mountainous area of Urubici, Santa Catarina, Brazil, killing the five occupants, including singer Rick Sollo.",
+        "links": [
+            {
+                "source": "(Metrópoles in Portuguese)",
+                "url": "https://www.metropoles.com/colunas/fabia-oliveira/rick-bombeiros-confirmam-morte-dos-cinco-ocupantes-de-helicoptero-leia"
+            },
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20260923/92b6db503534403dbb8c284ce4778d5b/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-21",
+        "description": "Mexico's Secretariat of Public Education introduces nationwide rules restricting cellphone and tablet use throughout the school day in public primary and secondary schools, effective November 3. High schools set their own limits for educational use.",
+        "links": [
+            {
+                "source": "(AFP via The Star)",
+                "url": "https://www.thestar.com.my/tech/tech-news/2026/09/22/mexico-joins-countries-banning-mobile-phones-in-schools"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,325 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Ethiopian government forces push Tigray People's Liberation Front (TPLF) rebels out of Afar Region after recapturing the towns of Abala, Erebti and Megale.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261002-ethiopia-tigray-rebels-pushed-back-as-regional-tensions-spike"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "The G7 countries announce a plan to release 100 million barrels of diesel and crude oil to combat rising fuel prices caused by the Iran war.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Mass rioting continues for a third day across France with hundreds reportedly injured and over 735 schools shut, while more than 2,000 people are arrested.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/live/cmx2z20vz124t"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "French government ministers, including education minister Édouard Geffray, accuse the far-left of inciting the youth-led unrest across the country. Intelligence agencies briefing the government during a crisis meeting on the riots accuse the left-wing La France Insoumise of actively inciting people to join the protests.",
+        "links": [
+            {
+                "source": "(AFP via NDTV)",
+                "url": "https://www.ndtv.com/world-news/france-blames-radical-left-for-violence-amid-intensifying-school-protests-12127772"
+            },
+            {
+                "source": "(Ynet News)",
+                "url": "https://www.ynetnews.com/article/sjrfd995fl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Spain's parliament rejects two government housing decrees that would have expanded protections against evictions, limited some real-estate practices, encouraged rentals through tax incentives, and allowed tenants to renew residential leases automatically.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/spain-housing-vote-pedro-sanchez-ae3ba6c786ab95b6acc30bdb02c47d0d"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Swiss president Guy Parmelin announces his resignation from the Federal Council effective December 31. Parliament is expected to elect his successor on 9 December.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/swiss-president-quit-government"
+            },
+            {
+                "source": "(Swissinfo)",
+                "url": "https://www.swissinfo.ch/eng/various/federal-councillor-guy-parmelin-is-to-step-down-at-the-end-of-2026-after-eleven-years-in-office/92155514"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Reuters reports that Saudi Arabia is planning a offensive on the Houthis in the coming weeks to take back the Bab al-Mandab Strait.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/saudis-plan-assault-houthis-break-red-sea-chokehold-2026-10-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Sudan's armed forces announces that they have recaptured the North Kordofan town of al-Mazroub.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "The death toll in the Rapid Support Forces drone attack on the University of Kordofan in El Obeid rises to 10.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/middle-east/drone-strikes-on-dormitory-shelter-kill-10-in-sudans-el-obeid-3004303"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "A Russian drone strikes Pivdennyi Bridge in Kyiv, Ukraine, for fourth time in two days.",
+        "links": [
+            {
+                "source": "(The Kyiv Independent)",
+                "url": "https://kyivindependent.com/traffic-chaos-in-kyiv-after-russian-strikes-hit-key-bridge/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Eighteen people are killed as Boko Haram gunmen open fire on villagers collecting firewood in Marte, Borno State, Nigeria.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/suspected-islamists-kill-nigerian-villagers-collecting-firewood-2026-10-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Argentina introduces an immigrant investor program allowing foreigners to obtain citizenship through a US$350,000 contribution to the Ministry of Economy or an $800,000 government bond, with lower additional payments required for spouses and children.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/argentina-unveils-passports-investment-scheme"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "The United States National Park Service confirms that the Hōlei Sea Arch, located on Hawaii's Big Island, has collapsed into the Pacific Ocean.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Riot police clash with protesters in Paris, Montpellier, Nantes and Marseille as justice minister Gérald Darmanin says protests had \"gone from high-school student demonstrations to a public order disturbance\" and urges an immediate end to violence.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-02",
+        "description": "Twenty people are killed and five others are injured after a four-vehicle crash in Plateau, Nigeria.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20261003/88944ef3e24a40ceadd518d9553fe523/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,518 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "An Israeli airstrike kills Izz al-Din al-Beik, the head of Hamas's Al-Qassam Brigades in the northern Gaza Strip.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israel-kills-senior-hamas-commander-gaza-officials-say-2026-09-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The Reserve Bank of Australia raises its cash rate by 0.25 percentage points to 4.60%, the highest level since 2011, citing persistently high inflation above its 2–3% target range.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260929-australian-central-bank-lifts-key-interest-rate-to-15-year-high"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/australias-central-bank-raises-cash-rate-15-year-peak-2026-09-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The Japan Meteorological Agency reports rainfall in Tokyo for 34 consecutive days through today, the longest streak since records began in 1886 and one day longer than the previous record set in 2019.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260929-tokyo-suffers-longest-streak-of-rainy-days-on-record"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "South Korean defense minister Kang Shin-chul says that land mines planted by North Korea likely caused two explosions last week that injured three South Korean soldiers in the Demilitarized Zone south of the military demarcation line, potentially violating the armistice.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20260929-north-korean-dmz-landmine-blasts-violation-of-armistice-seoul"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "Malaysia begins repatriating about 1,500 Burmese nationals from immigration detention centres under the first phase of a programme covering 5,000 people.",
+        "links": [
+            {
+                "source": "(AFP via RTL Today)",
+                "url": "https://today.rtl.lu/news/world/malaysia-starts-sending-myanmar-migrants-home-1215114466"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "Twenty-one people are arrested in Myanmar for allegedly donating to the in-exile National Unity Government-linked People's Revolution Supply Family fundraising platform as the government identifies more than 2,700 alleged contributors.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/myanmar-arrests-21-over-alleged-donations-opposition-linked-fundraising-platform-2026-09-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "Seventeen people are arrested during a security operation involving 800 police officers against a \"suspected organised crime group\" in five cities in the United Kingdom, including London. A police officer is stabbed and wounded during one of the raids.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/police-arrest-17-in-london-as-part-of-investigation-into-suspected-organised-crime-group-13592654"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "In badminton, South Korea's An Se-young wins the women's singles gold medal at the 2026 Asian Games, becoming the first woman to win two singles titles and the first to defend the title, defeating Japan's Akane Yamaguchi 21–17, 21–9.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/sports/20260929-ruthless-an-makes-history-to-retain-asian-games-badminton-crown"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The number of wounded American servicemembers rise to 861.",
+        "links": [
+            {
+                "source": "(Frankfurter Rundschau)",
+                "url": "https://www.fr.de/politik/acht-us-marines-im-golf-von-hormus-verletzt-raketenangriff-zr-94515850.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The Puntland Maritime Police Force successfully frees another hijacked oil tanker, the MT Honour ​25, following an ongoing week-long counter-piracy operation near Bayla, Karkaar, Puntland, after it was seized by Somali pirates on 21 April ​around 30 nautical miles off Puntland's coast with 17 crew members on board.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/puntland-forces-rescue-another-hijacked-ship-somali-pirates-2026-09-29/"
+            },
+            {
+                "source": "(Somali Guardian)",
+                "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-frees-second-tanker-from-somali-pirates/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "A Tupolev Tu-154 crashes near Krasnoyarovo, Amur Oblast, Russia, killing six of the seven people on board.",
+        "links": [
+            {
+                "source": "(UNN)",
+                "url": "https://unn.ua/en/amp/a-military-aircraft-crashed-in-russia-killing-six-crew-members"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The U.S. Food and Drug Administration issues two recalls for more than 25,000 bottles of chlorthalidone, a diuretic antihypertensive drug, created by Indian-based Inventia Healthcare Limited, due to faulty dissolution times in the human body.",
+        "links": [
+            {
+                "source": "(USA Today)",
+                "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/09/28/blood-pressure-medication-recall/91991981007/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The United Nations Security Council extends the mandate of the Gang Suppression Force in Haiti by six months, allowing the multinational force to continue supporting Haitian security forces against armed gangs.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20260929-un-security-council-extends-haiti-mission-by-6-months"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "A man and woman have been charged with perjury in relation to a failed appeal by Conor McGregor against a civil court finding that he had raped Nikita Hand.",
+        "links": [
+            {
+                "source": "(RTÉ News)",
+                "url": "https://www.rte.ie/news/courts/2026/0929/1593357-oreilly-cummins-court/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "A teacher is killed and a student and another teacher are wounded in a mass stabbing at a secondary school in Staškov, Slovakia. The perpetrator, a fellow student, is arrested.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/09/29/slovakia-school-attack-leaves-one-dead-and-two-injured-emergency-workers-say"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "King Mohammed VI appoints Fatima Ezzahra El Mansouri as the first female prime minister of Morocco after her victory in the general elections on 23 September.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/moroccos-king-appoints-first-woman-pm-following-sept-23-election-2026-09-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "More than 100 Israeli settlers attack the Palestinian village of Jalud in the occupied West Bank, burning two homes and injuring three Israeli security personnel while preventing a displaced Palestinian family from returning home.",
+        "links": [
+            {
+                "source": "(AFP via The Manila Times)",
+                "url": "https://www.manilatimes.net/2026/09/30/world/americas-emea/over-100-israeli-settlers-attack-west-bank-village/2435012"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "Five crew members aboard the MT Honour 25 are killed and four more injured by the pirates before the rescue. The fatalities are three citizens of Pakistan and one each from India and Myanmar. It is the first time in over a decade that people are killed by the pirates.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The Swiss Financial Market Supervisory Authority (FINMA) concludes its investigation into the Julius Baer Group, finding serious risk-management and anti–money laundering failures. FINMA orders additional capital requirements, compliance reporting through 2032, and the confiscation of about CHF10 million (US$12 million) in profits.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260929-swiss-regulator-concludes-julius-baer-bank-probe"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The Six Flags Magic Mountain amusement park in Valencia, California, U.S., announces that the X2 roller coaster will close permanently after several lawsuits alleged that over 100 riders sustained brain injuries while riding the attraction.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/cw14d37446d8o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "In association football, an independent Premier League commission finds Manchester City guilty of almost all 115-plus financial charges, including inflating revenue by more than £900 million (US$1.19 billion) and failing to cooperate with the investigation.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/man-city-guilty-financial-charges-premier-league-d2da2890d5a18b1cf234d39fb40c2a3d"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The coronation ceremony for Nyabongo I of Uganda's Tooro Kingdom is held, formally making him king.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/media-telecom/ugandan-kingdom-enthrones-ex-tv-anchor-after-succession-fight-2026-09-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "The Supreme Court of Mexico invalidates the state of Chihuahua's authority to annul elections due to interference by organized crime and instructs the local legislature to instead include the annulment of elections due to foreign interference.",
+        "links": [
+            {
+                "source": "(El Sol de México)",
+                "url": "https://oem.com.mx/elheraldodechihuahua/local/rechaza-scjn-que-chihuahua-pueda-anular-elecciones-por-intervencion-del-crimen-organizado-32345286"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-29",
+        "description": "A vehicle crashes through a fence and plunges into the River Wear in Sunderland, Tyne and Wear, England, killing three teenagers. The driver of the vehicle, also a teenager, is later arrested by Northumbria Police.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/teenagers-killed-after-car-went-into-river-wear-in-sunderland-named-by-police-13593730"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
