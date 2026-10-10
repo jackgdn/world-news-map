@@ -1,0 +1,266 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Five people are killed and several more are injured in an Israeli airstrike against a residential building in Gaza City in the Gaza Strip, in violation of the ongoing ceasefire. Three other Palestinians are also killed in more airstrikes.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Unknown gunmen open fire against a vehicle in Ras al-Maara, Syria, killing three people and wounding seven more.",
+        "links": [
+            {
+                "source": "(Hawar News Agency)",
+                "url": "https://hawarnews.com/en/3-killed-7-injured-in-ras-al-maara-woman-killed-in-damascus-countryside"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Ten people are injured, including some critically, in a motor vehicle hooning accident in Newcastle, Australia, during a Newcastle Knights procession before the NRL Grand Final. The driver is arrested at the scene.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://amp.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643"
+            },
+            {
+                "source": "(Nine News)",
+                "url": "https://www.nine.com.au/australia-news/nsw/child-critical-after-multiple-fans-hit-by-car-in-newcastle-20261003-p612jn.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Latvians vote to elect 100 seats of the Saeima amid an uptick of airspace incursions and hybrid warfare during the Russo-Ukrainian war. Preliminary results indicate that the centrist United List, led by incumbent prime minister Andris Kulbergs, won the most seats.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/latvians-vote-election-shadow-drone-incursions-war-ukraine-2026-10-03/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "A Latitude Air Ambulance Gulfstream G100, flying from St. David's Island, Bermuda, to Boston, United States, goes missing over the Atlantic Ocean with six people on board, including four Canadian crew and two Bermudian passengers.",
+        "links": [
+            {
+                "source": "(News 18)",
+                "url": "https://www.news18.com/amp/world/plane-from-bermuda-carrying-six-people-goes-missing-us-coast-guard-launches-search-10365906.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Iraq's Oil Tankers Company says that they have transported 2 million barrels of oil from the country through a very large crude carrier in the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz-2026-10-03/"
+            },
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/middle-east/iraq-says-it-transported-2-million-barrels-of-crude-through-strait-of-hormuz-3004475"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "The Israel Defense Forces says that they have targeted de facto Hamas leader Ali al-Amoudi in a airstrike, and acknowledge that the results of the strike are under review.",
+        "links": [
+            {
+                "source": "(The Times of Israel)",
+                "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-targeted-senior-hamas-official-ali-al-amoudi-in-gaza-city-strike-that-killed-5-people/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Ethiopian federal forces retake control of the Alula Aba Nega Airport in Mekelle, Tigray, from the Tigray People's Liberation Front.",
+        "links": [
+            {
+                "source": "(Los Angeles Times)",
+                "url": "https://www.latimes.com/world-nation/story/2026-10-03/ethiopian-forces-retake-airport-from-tigrayan-fighters"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Kyiv mayor Vitali Klitschko reports that Russian forces have struck the Pivnichnyi Bridge in Kyiv, Ukraine.",
+        "links": [
+            {
+                "source": "(Kyiv Independent)",
+                "url": "https://kyivindependent.com/russia-strikes-key-kyiv-bridge-for-3rd-straight-day-as-attacks-intensify/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "The remains of Samuil, the former Bulgarian tsar during the First Bulgarian Empire who died in 1014, return to Bulgaria following decades of negotiation with Greece.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/greece-bulgaria-medieval-ruler-remains-czar-samuel-5acf2293fc67336678ad04035a3f0698"
+            },
+            {
+                "source": "(Orthodox Times)",
+                "url": "https://orthodoxtimes.com/remains-of-tsar-samuel-return-to-bulgaria-after-more-than-a-millennium/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Five workers are killed and ten more are rescued after the collapse of a gold mine in Chah Ab District, Takhar Province, Afghanistan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/afghanistan-gold-mine-collapse-37af27236b3429faf0504f6254df21aa"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-03",
+        "description": "Scientists identify a new lizard species, Liolaemus archipensis, in Arequipa, Peru.",
+        "links": [
+            {
+                "source": "(AFP via Gulf News)",
+                "url": "https://gulfnews.com/world/americas/new-lizard-species-discovered-in-peru-1.500697423"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

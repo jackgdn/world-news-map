@@ -1,0 +1,173 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "The National Hurricane Center reports that Isaias has weakened to a post-tropical cyclone after making landfall near Destin, Florida, United States.",
+        "links": [
+            {
+                "source": "(WVTM-TV)",
+                "url": "https://www.wvtm13.com/article/major-hurricane-isaias-timing-path-impact-gulf-alabama/74090992"
+            },
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-rcna602422/rcrd121369?canonicalCard=true"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "At least 20 people are killed and 18 others are injured in a Russian airstrike on a five-story residential building in Zaporizhzhia, Zaporizhzhia Oblast, Ukraine.",
+        "links": [
+            {
+                "source": "(Ukrainska Pravda)",
+                "url": "https://www.pravda.com.ua/eng/news/2026/10/10/8057385/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Dozens of people are injured in a Houthi missile attack on King Khalid International Airport in Riyadh, Saudi Arabia.",
+        "links": [
+            {
+                "source": "(The Wall Street Journal)",
+                "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Two people are reported dead from trees falling on homes after Isaias made landfall in the US.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone"
+            },
+            {
+                "source": "(WTVA)",
+                "url": "https://www.wtva.com/2026/10/10/isaias-leaves-2-dead-widespread-outages-after-category-2-landfall-near-destin/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Simon strengthens into a category 4 Pacific hurricane with 150 mph (240 kph) in winds as it barrels towards Mexico's coast.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/us-extreme-weather-mexico-simon-isaias-florida-1e6f590459e5ee4ead370192f52f9239"
+            },
+            {
+                "source": "(The Rio Times)",
+                "url": "https://www.riotimesonline.com/mexico-hurricane-simon-category-4-2026/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "A man is killed after jumping into a tiger enclosure and being attacked at Yorkshire Wildlife Park in South Yorkshire, England.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c6n9r3n7858zo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Indian authorities are placing New Delhi under an intense security lockdown and have been detaining thousands of demonstrators to block a massive rally that is being organized by the Gen Z-led Cockroach Janta Party.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/c65yn7xvde7vo"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/video/2026/oct/10/police-detain-anti-government-cockroach-party-leader-amid-delhi-protests-video"
+            },
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

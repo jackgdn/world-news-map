@@ -1,0 +1,455 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "Canadian poet Anne Carson is awarded the Nobel Prize in Literature for \"her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms ‌for contemporary literature\".",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/cq4g1j54nepyo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "The Bank of England announces that the Atlantic puffin, barn owl, buff-tailed bumblebee, and European hedgehog will feature on the next set of pound sterling notes to be issued in the United Kingdom. It will be the first time animals have replaced people on banknotes in England, which is intended to increase awareness of British wildlife.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "A 15-year-old student carries out a mass stabbing against staff members at a primary school in the village of Leszczydół-Nowiny, Wyszków County, Poland killing one person and injuring two more. The suspect is taken into police custody.",
+        "links": [
+            {
+                "source": "(Mirror)",
+                "url": "https://www.mirror.co.uk/news/world-news/teen-15-stabs-headteacher-two-37748318"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "The Israel Defense Forces announce that they have killed Muhammad Muhsen Nimr Yazji, a Hamas militant who took part in holding Emily Damari, Romi Gonen, and Matan Angrest during an airstrike in Gaza City.",
+        "links": [
+            {
+                "source": "(The Jerusalem Post)",
+                "url": "https://www.jpost.com/israel-news/defense-news/article-911096"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "The Taiwanese finance ministry reports that exports reached a record US$87.2 billion in September, while imports rose to a record $63.6 billion and the trade surplus reached a record $23.6 billion, citing demand for artificial intelligence-related hardware.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/taiwan-says-exports-hit-record-september-ai-demand"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/taiwan-september-exports-hit-fresh-monthly-record-ai-demand-us-leads-2026-10-08/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "In the United States, Georgia governor Brian Kemp declares a state of emergency ahead of Hurricane Isaias.",
+        "links": [
+            {
+                "source": "(Fox 5 Atlanta)",
+                "url": "https://www.fox5atlanta.com/news/gov-kemp-declares-statewide-emergency-ahead-hurricane-isaias"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "South Korea recalls its ambassador to Ukraine after accusing Ukraine of breaching a non-disclosure agreement by disclosing the transfer of two captured North Korean soldiers to South Korea.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/east-asia/south-korea-recalls-ambassador-from-ukraine-amid-n-korea-prisoners-wrangle"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "United States secretary of defense Pete Hegseth announces the firing squad execution of Nidal Hasan, the perpetrator of the 2009 Fort Hood shooting, will be publicly broadcast.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261009-us-military-to-livestream-firing-squad-execution-of-fort-hood-shooter"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/10/08/politics/pete-hegseth-vows-to-make-first-firing-squad-execution-in-decades-public"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "High Court judge Nicholas Hilliard of England and Wales quashes search warrants used on Andrew Mountbatten-Windsor's homes, finding errors in Thames Valley Police's applications and issuing judge Mark Lucraft's consideration of legally protected material.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/former-prince-andrew-thames-valley-police-bcfae2d3a619487724a3dc20bd16020a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "A 15-year-old student carries out a mass stabbing against staff members at a primary school in the village of Leszczydół-Nowiny, Wyszków County, Poland, killing one person and injuring two more. The suspect is taken into police custody.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/two-people-injured-attack-polish-school-15-year-old-detained-minister-says-2026-10-08/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "In baseball, Teruaki Satō of the Hanshin Tigers wins the Triple Crown.",
+        "links": [
+            {
+                "source": "(Kyodo News)",
+                "url": "https://english.kyodonews.net/articles/-/87621"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "Swiss and Sunderland A.F.C. footballer Granit Xhaka receives a two-year probation after admitting to obtaining a fake COVID-19 vaccination certificate during the COVID-19 pandemic.",
+        "links": [
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/soccer/story/_/id/50132564/switzerland-granit-xhaka-probation-fake-covid-19-vaccination-document-case"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "The USS Abraham Lincoln returns to San Diego, California, U.S., at the North Island Naval Air Station following its nearly seven-month deployment in the Middle East.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego"
+            },
+            {
+                "source": "(Los Angeles Times)",
+                "url": "https://www.latimes.com/california/story/2026-10-08/uss-abraham-returns-san-diego-ending-record-breaking-iran-war-deployment"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "U.S. president Donald Trump says that the U.S. military will not attack Iran before the midterm elections next month.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/trump-iran-war-midterms-attack-422b1799a1a06466279ac265f560e014#"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "Russian forces launch a ballistic missile attack on two buses in  the city of Kramatorsk in Ukraine, killing at least 30 people, while 18 others are wounded.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "The Hungarian newspaper Népszabadság, which was shut down in 2016 during the government of former prime minister Viktor Orbán, relaunches as an online news site.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/media-telecom/bestselling-hungarian-newspaper-shut-down-under-orban-relaunches-online-2026-10-08/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "Hurricane Isaias strengthens into a category 2 Atlantic hurricane.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/hurricane-isaias-gulf-atlantic-alabama-florida-mississippi-8244ca45b8d4c292350f00adfabb0967"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "The Government of Guinea-Bissau announces that presidential and parliamentary elections scheduled for December 6 will be delayed.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/guinea-bissau-delay-elections-following-last-years-coup-2026-10-08/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "Ten inmates are killed and 16 more injured during a prison riot in Mazatlán, Sinaloa, Mexico.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/mexico-prison-riot-sinaloa-cartel-mazatlan-el-castillo-52c921dbc5e849acd44ce07546ae6f20"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "In women's basketball, Las Vegas Aces center A'ja Wilson wins a record fifth WNBA Most Valuable Player, becoming the first player in league history to win the award for three years in a row.",
+        "links": [
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/wnba/story/_/id/50135041/sources-aces-star-aja-wilson-wins-record-5th-wnba-mvp-award"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-08",
+        "description": "Severe rainfall in Chile, particularly in Santiago, caused flooding, river overflowing, mudslides, and power outages, killing one person, injuring six others and damaging over 2,000 homes.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/weather/storms/heavy-rain-batters-chiles-capital-sweeping-away-cars-flooding-homes-rcna602458"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

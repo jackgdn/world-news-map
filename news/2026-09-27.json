@@ -1,0 +1,530 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Saudi Arabia's air forces carries out an airstrike at a market in Taiz, Yemen, killing seven people and wounding 40 more.",
+        "links": [
+            {
+                "source": "(Internazionale)",
+                "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/27/seven-people-killed-in-strike-on-market-in-yemen-houthi-run-health-ministry-says"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "A bus carrying Filipino tourists veers off a highway near Munich, Germany, killing two people and wounding 25 more.",
+        "links": [
+            {
+                "source": "(Demócrata)",
+                "url": "https://www.democrata.es/en/international/two-deceased-and-dozens-of-injured-when-a-bus-of-filipino-tourists-overturned-in-southern-germany/amp/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Ten people are killed and 11 others are injured in a mass shooting at a store in Lwandle, City of Cape Town, South Africa. Police search for the perpetrators. A business dispute is suspected to be the main motive.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/09/27/two-mass-shootings-in-south-africa-leave-at-least-27-dead"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Five men are arrested in relation to a 'major incident' at the RAF Fairford air base in England. They are arrested on suspicion of committing offences that violate the Explosives Act 1875 and preparation of a terrorist act.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/09/27/uk/fairford-arrests-uk-raf-us-intl"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/uk-news/2026/sep/27/major-incident-declared-near-raf-fairford-as-men-arrested-on-suspicion-of-explosives-offences"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "The National Rally clears the 10-seat threshold in the Senate of France, allowing the party to meet qualifications to form a far-right parliamentary group.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections"
+            },
+            {
+                "source": "(RFI)",
+                "url": "https://www.rfi.fr/en/france/20260927-far-right-gains-ground-in-french-senate"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "São Toméans vote to elect 55 members of the National Assembly.",
+        "links": [
+            {
+                "source": "(AFP via Macau Business)",
+                "url": "https://macaubusiness.com/jobs-and-youth-exodus-dominate-sao-tome-election/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Serbian president Aleksandar Vučić resigns in order to run for prime minister in the upcoming parliamentary election. Speaker of the National Assembly Ana Brnabić becomes acting president.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/serbias-president-vucic-resigns-paving-way-early-elections-2026-09-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Swiss voters reject an initiative that proposed to enshrine a stricter form of Swiss neutrality, which would have prevented Switzerland from imposing economic sanctions and cooperating with NATO.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/swiss-vote-tightening-neutrality-rules-ending-peacetime-cooperation-with-nato-2026-09-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "In tennis, the Czech Republic wins its 12th Billie Jean King Cup title and first since 2018 after defeating Ukraine 2–0 in the final in Shenzhen, Guangdong, China.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/czech-republic-beat-ukraine-win-bjk-cup-0"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Saudi Arabia's air force carries out an airstrike at a market in Taiz, Yemen, killing seven people and wounding 40 more.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/seven-people-killed-strike-market-yemen-houthi-run-health-ministry-says-2026-09-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Russian and Ukrainian forces exchange strikes that kill at least eight people in Ukraine and one in Russia, hitting Kyiv and its outskirts, the Kharkiv and Odesa Oblasts, Sumy, and Russian-occupied Enerhodar, all in Ukraine, as well as Russia's Belgorod Oblast.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/russia-ukraine-war-germany-drones-strikes-f91ac88ee287bad2a3c99d2608975f53"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Russian strikes hit Kyivstar's headquarters and multiple data centres in Kyiv, including a facility struck twice that injures two children and an adult. Russia also says it targeted a Vodafone Ukraine data centre.",
+        "links": [
+            {
+                "source": "(India Today)",
+                "url": "https://www.indiatoday.in/world/story/russia-ukraine-strikes-largest-mobile-provider-kyivstar-hq-vodafone-data-centre-kyiv-3004342-2026-09-27"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Afghan forces kill 28 fighters allegedly associated with the Islamic State and capture another 32 from Pakistan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-carried-out-strikes-inside-afghanistan-95178c5833c7a6a621c9bb0f06a78915"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "A drone strikes Tigrai Television's headquarters in Mekelle, Tigray Region, Ethiopia, forcing the station off air, while Tigray People's Liberation Front forces capture Erebti, Afar Region, and advance toward Afdera.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Former Turkish family minister Fatma Betül Sayan Kaya resigns from her positions in the ruling Justice and Development Party amid scrutiny over alleged links to an investment-fund scandal that prompted the Capital Markets Board to liquidate 131 funds and led to 51 arrests.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/de/node/3843873"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/turkey-kaya-akp-erdogan-shares-fund-resigns-17bde38ae6bd04c7b6f66da3c7e4bdec"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Two giant pandas, Ping Ping and Fu Shuang, arrive at Zoo Atlanta in Georgia, U.S., as part of an agreement signed between China and the U.S. during Chinese leader Xi Jinping's state visit last week.",
+        "links": [
+            {
+                "source": "(AFP via Dawn)",
+                "url": "https://www.dawn.com/news/2033172/two-giant-pandas-sent-by-china-arrive-in-us"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/china-pandas-atlanta-zoo-trump-xi-jingping-ff3ac033385997ac4d07a8a5c9c2f9bb"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Three people are killed and four more injured in a mass shooting after an altercation at a strip club in Detroit, Michigan, United States.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "The Berlin Marathon is held in Germany, with Guye Adola and Tigst Assefa winning their respective marathon races although Assefa sustained cramps prior to the finish line.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/berlin-marathon-world-record-assefa-adola-f037a7546b40afce0df1eab1c9294691"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/sport/athletics/articles/c6rr4y59n0r0o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "In cycling, Brandon McNulty of the United States wins the men's road race world title in Montreal, Canada, becoming the first American champion in 33 years after finishing 13 seconds ahead of Australia's Michael Matthews.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/stunned-mcnulty-wins-miracle-road-race-world-title"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "The Afghan military kill 28 fighters allegedly linked to the Islamic State in Nuristan Province. The Minister of Defense reports that the gunmen entered from Pakistan.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "It is reported that armed gangs have kidnapped at least 47 farmers in Niger State, Nigeria, yesterday and 40 women in Zamfara State on today. Separately, Abia State police announce on that they have discovered 28 human skulls and bones after raiding camps suspected to be owned by criminal gangs, with police speculating they may belong to kidnapped victims.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "The Irish public healthcare system announces they will limit influenza vaccines to people aged 65 and above due to a shortage across the country.",
+        "links": [
+            {
+                "source": "(RTÉ)",
+                "url": "https://www.rte.ie/news/2026/0927/1593114-flu-vaccine-shortage/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "American singer-songwriter Taylor Swift's song \"The Fate of Ophelia\" wins the MTV Video Music Award (VMA) for Video of the Year, and surpasses Beyoncé for the most amount of VMAs  won with 32 total.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c8ly403p1rwpo"
+            },
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-swift-mtv-vmas-2026-breaks-beyonce-tie-debuts-patient-zero-rcna600112"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-09-27",
+        "description": "Thai rapper and singer Lisa wins the VMA Award for Best Pop with her song Dream, becoming the first K-pop solo artist and first Thai artist to win this award in VMA history.",
+        "links": [
+            {
+                "source": "(The Nation)",
+                "url": "https://www.nationthailand.com/life/entertainment/40071585"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
