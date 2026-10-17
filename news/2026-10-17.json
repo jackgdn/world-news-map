@@ -1,0 +1,44 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Eight people are killed and eight others are injured after a minibus carrying 23 passengers plunges into a drain along the Delhi–Mumbai Expressway near Kota, Rajasthan, India.",
+        "links": [
+            {
+                "source": "(The Times of India)",
+                "url": "https://timesofindia.indiatimes.com/city/jaipur/8-of-a-family-killed-as-minibus-falls-into-drain-on-delhi-mumbai-expressway-in-kota/articleshow/135007091.cms"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "A Piper Tomahawk II aircraft crashes near Drymen, Central Region, Scotland, leaving two persons dead.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?fbclid=PAdGRleAVAIJFleHRuA2FlbQIxMQBwZG9mAmZkaWQWUQesAfUHPxj_ZR3eHnF5rh2j_gT4LnNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_YSc-T7onPXaw4bvt0zwVbOoAauiCagflY1e9yGiFPEyASsFgoD7y7gUcXs_aem_E13Ja16wBVRAWwV_ddZ5yA"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

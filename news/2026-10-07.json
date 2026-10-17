@@ -1,0 +1,450 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Nine people are injured in a mass stabbing at a high school in Ostrołęka, Poland. The suspect, a 19-year-old student, is arrested after being injured himself.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/least-seven-injured-polish-school-knife-attack-rmf-fm-reports-2026-10-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "French chemist Henri B. Kagan from the Paris-Saclay University and Japanese organic chemist Kensō Soai from the Tokyo University of Science are jointly awarded the Nobel Prize in Chemistry for \"the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis\".",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "The Malian Armed Forces and the Russian Africa Corps retake Kidal, which was captured by the Azawad Liberation Front five months ago, after days of airstrikes and ground operations.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Israeli settlers launch an attack in the occupied West Bank targeting Palestinians, killing a man and wounding 16 other people.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Eritrean forces are reported to have invaded Ethiopia's Tigray Region and are moving south toward Mekelle.",
+        "links": [
+            {
+                "source": "(Addis Standard)",
+                "url": "https://addisstandard.com/eritrean-troops-reportedly-deploy-in-tigray-as-tension-with-ethiopia-escalate/"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Bulgaria has halted the search for the 12 Syrian sailors missing since yesterday after a merchant ship sank after being hit by a drone strike in its waters. The perpetrators are still unknown.",
+        "links": [
+            {
+                "source": "(Internazionale)",
+                "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/07/bulgaria-halts-rescue-operation-for-crew-of-sunken-ship"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "For a second consecutive day, riots occur in Liège, Belgium, following earlier student protests, prompting authorities to close the Guillemins railway station and urge local businesses to shut down. Over 100 people are arrested.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs"
+            },
+            {
+                "source": "(RTBF)",
+                "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-a-liege-le-bourgmestre-et-la-police-sont-alles-rencontrer-les-etudiants-11796189"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Mexican president Claudia Sheinbaum sanctions a constitutional amendment prohibiting Mexicans with dual citizenship from running for president or governor.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/americas/mexican-president-signs-decree-restricting-dual-nationality-for-top-elected-offices/4081337"
+            },
+            {
+                "source": "(El Economista)",
+                "url": "https://www.eleconomista.com.mx/politica/sheinbaum-firma-decreto-reforma-doble-nacionalidad-hoy-publicara-dof-20261007-837353.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Russian forces launch a massive ballistic missile and drone attack on Ukraine, killing at least 28 people, including 20 people killed at a single apartment hit by a North Korean KN-23 missile in Pryluky, Chernihiv Oblast, while hundreds more are wounded.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/oct/08/ukraine-war-briefing-zelenskyy-condemns-vile-attacks-from-russia-that-killed-20-in-one-apartment"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Bulgaria halts the search for the 12 Syrian sailors missing since yesterday after a merchant ship sank after being hit by a drone strike in its waters. The perpetrators are still unknown.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/bulgaria-halts-rescue-operation-crew-sunken-ship-2026-10-07/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Houthi forces claim attacks on Abha International Airport and Riyadh's King Khalid International Airport in Saudi Arabia that killed three civilians and injured 36 others since yesterday.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261007-yemen-s-houthis-claim-new-attacks-on-saudi-airports-as-conflict-deepens"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Four women are killed in a Rapid Support Forces drone strike on homes and a mosque in Ad-Damazin, Blue Nile State, Sudan.",
+        "links": [
+            {
+                "source": "(The Washington Post)",
+                "url": "https://www.washingtonpost.com/world/2026/10/07/sudan-drone-war-homes-mosque-damazin/c5e217a0-c262-11f1-8170-681419af1cc9_story.html"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/sudan-drone-war-homes-mosque-damazin-56473b19a098470344e54d75d0362092"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Guinea sets nationwide price ceilings for bottled water after a ban on single-use plastic water sachets causes shortages and higher prices, with retail packs of several bottle sizes capped at 25,000 francs (US$2.84).",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261007-guinea-caps-bottled-water-prices-after-sachets-banned"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "The Reserve Bank of India raises its benchmark repo rate by 25 basis points to 5.5%, its first increase since February 2023.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261007-indian-central-bank-hikes-rates-for-first-time-since-2023"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Australia's High Court rejects MACH Energy's appeal to expand the Mount Pleasant coal mine in New South Wales, finding that planning authorities failed to adequately consider greenhouse gas emissions from burning exported coal overseas.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261007-australia-s-high-court-rules-against-coal-mine-in-landmark-climate-case"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "The British Antarctic Survey reports that Zavodovski Island in Antarctica has lost more than 500,000 chinstrap penguins since 2011, ending its status as the world's largest penguin colony as warming waters reduce access to Antarctic krill.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261007-climate-change-strips-island-s-title-of-largest-penguin-colony-study"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "The Court of Appeal in London, United Kingdom, quashes the convictions of five former Barclays traders for manipulating Libor and Euribor, following a 2025 Supreme Court ruling that found legal errors had made similar convictions unsafe.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/uk-court-quashes-five-ex-traders-libor-rate-rigging-convictions"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "Tropical cyclone Isaias strengthens into a category 1 hurricane, becoming the first Atlantic hurricane of the season amidst a unusually quiet season caused by the ongoing El Niño phenomenon.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/tropical-storm-isaias-gulf-atlantic-440bdecf97a5340547ca3ad291b361df"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "In the United States, Alabama governor Kay Ivey declares a state of emergency for 40 counties ahead of Isaias.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/"
+            },
+            {
+                "source": "(WVUA-CD)",
+                "url": "https://www.wvua23.com/news/ivey-issues-state-of-emergency-for-40-counties-ahead-of-isaias/article_13f9df98-0f38-4251-a39d-aa286eb62646.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-07",
+        "description": "The Seychelles Islands Foundation (SIF) and University of Exeter in West Country, England, reports that approximately 180,000 Aldabrachelys gigantea tortoises are living on the islands of Seychelles.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles"
+            },
+            {
+                "source": "(University of Exeter News)",
+                "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/ecology-and-conservation/new-study-reports-largest-ever-population-estimate-for-seychelles-giant-tortoises/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "The National Hurricane Center reports that Hurricane Isaias has weakened to a post-tropical cyclone after making landfall near Destin, Florida, United States.",
+        "links": [
+            {
+                "source": "(WVTM-TV)",
+                "url": "https://www.wvtm13.com/article/major-hurricane-isaias-timing-path-impact-gulf-alabama/74090992"
+            },
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-rcna602422/rcrd121369?canonicalCard=true"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "At least 20 people are killed and 32 others are injured in a Russian glide bomb airstrike on a five-story residential building in Zaporizhzhia, Ukraine.",
+        "links": [
+            {
+                "source": "(Ukrainska Pravda)",
+                "url": "https://www.pravda.com.ua/eng/news/2026/10/10/8057385/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Twelve people are killed and 309 more injured in a Houthi missile attack against Terminal 3 of King Khalid International Airport in Riyadh, Saudi Arabia.",
+        "links": [
+            {
+                "source": "(The Wall Street Journal)",
+                "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Four people are killed during Isaias' landfall in the United States, with two deaths in Escambia County, Florida, and another two in Alabama.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Tropical storm Simon strengthens into a category 4 Pacific hurricane with 150 mph (240 kph) winds as it heads towards Mexico's coast.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/us-extreme-weather-mexico-simon-isaias-florida-1e6f590459e5ee4ead370192f52f9239"
+            },
+            {
+                "source": "(The Rio Times)",
+                "url": "https://www.riotimesonline.com/mexico-hurricane-simon-category-4-2026/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "A man is killed after jumping into a tiger enclosure and being attacked at Yorkshire Wildlife Park in South Yorkshire, England. The tiger was uninjured.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c6n9r3n7858zo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Indian authorities are placing New Delhi under a security lockdown and have been detaining thousands of demonstrators to block a rally organized by the Gen Z-led Cockroach Janta Party.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c65yn7xvde7vo"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/video/2026/oct/10/police-detain-anti-government-cockroach-party-leader-amid-delhi-protests-video"
+            },
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "Ethiopian forces regain control of Adigrat in the Tigray Region following a withdrawal of Eritrean forces. Celebrations are reported in the city following the withdrawal.",
+        "links": [
+            {
+                "source": "(Oman Observer)",
+                "url": "https://www.omanobserver.om/article/1197553/world/africa/ethiopia-regains-control-of-city-after-eritrean-incursion"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean"
+            },
+            {
+                "source": "(UA News)",
+                "url": "https://ua.news/en/world/acled-eritreiski-viiska-vidiishli-z-adigrata-v-efiopiyi-jerusalem-post"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "A woman carries out a mass stabbing at an adult school in Warsaw, Poland, injuring three people. The suspect is arrested. It is the third such attack in the country in a week.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/poland-school-attacks-knife-online-violence-d86cb59df01b5ad7aaf254697e08ffcc"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "In association football, the match between Rayo Vallecano and Athletic Bilbao is abandoned by referee José María Sánchez Martínez due to fans throwing objects at the pitch to protest against Rayo president Raúl Martín Presa.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/sports/soccer/rayo-bilbao-match-abandoned-after-fans-protest-against-club-owner-2026-10-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "In American college football, the Kentucky Wildcats football team defeats the LSU Tigers 35–34 on a 2-point conversion in overtime, becoming the first team in FBS history to win consecutive overtime games by one point since overtime was introduced in 1996.",
+        "links": [
+            {
+                "source": "(The Athletic via The New York Times)",
+                "url": "https://www.nytimes.com/athletic/7678893/2026/10/10/kentucky-lsu-score-result-takeaways/"
+            },
+            {
+                "source": "(The Score)",
+                "url": "https://www.thescore.com/ncaaf/news/3620582/kentucky-shocks-lsu-for-2-nd-straight-ot-win"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-10",
+        "description": "In cycling, French cyclist Paul Seixas wins the 120th edition of the Giro di Lombardia in Italy, becoming the youngest person to do so.",
+        "links": [
+            {
+                "source": "(NBC Sports)",
+                "url": "https://www.nbcsports.com/cycling/news/paul-seixas-becomes-youngest-winner-of-tour-of-lombardy-at-20"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/sport/2026/oct/10/giro-di-lombardia-cycling-safety-protest-evenepoel"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
