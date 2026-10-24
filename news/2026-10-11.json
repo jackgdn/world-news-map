@@ -1,0 +1,455 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Ten people are reported missing and at least 35 houses and six bridges are swept away in a major flash flood in Gorkha District, Gandaki Province, Nepal. The exact number of casualties is unknown.",
+        "links": [
+            {
+                "source": "(The Kathmandu Post)",
+                "url": "https://kathmandupost.com/gandaki-province/2026/10/11/four-people-unaccounted-for-after-budhi-gandaki-floods"
+            },
+            {
+                "source": "(Nepal Views)",
+                "url": "https://www.nepalviews.com/story/426594/budhigandaki-flood-six-bridges-washed-away-ten-people-left-without-contact"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Houthis launch an attack on King Khalid International Airport in Riyadh and King Fahd International Airport in Dammam, Saudi Arabia, causing a fire, killing one person and injuring multiple people.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/middle-east-latest-at-least-12-killed-and-hundreds-injured-in-riyadh-airport-missile-attack-as-trump-says-us-to-look-at-joining-saudi-strikes-on-houthis-13509565?postid=12620706&dcmp=snt-sf-twitter#liveblog-body"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "An Indian national injured in yesterday's attack on King Khalid International Airport dies from his injuries, raising the total death toll to 13.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/india/indian-national-injured-riyadh-airport-attack-dies-embassy-says-2026-10-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "The Royal Saudi Air Force launches an airstrike in Sanaa, Yemen, killing a child and wounding seven other people.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "The United Kingdom Maritime Trade Operations reports that a tanker transiting in the Strait of Hormuz has been hit by an unknown projectile.",
+        "links": [
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-it-received-report-tanker-hit-projectile-hormuz"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Eleven people are killed and 27 others are injured when a tour bus collides with a truck at a toll road of Otoyol 5 in Akhisar, Manisa Province, Turkey.",
+        "links": [
+            {
+                "source": "(Türkiye Today)",
+                "url": "https://www.turkiyetoday.com/nation/11-killed-27-injured-in-tour-bus-truck-crash-in-turkiyes-manisa-3230087"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "At least 139 people are killed, 84 more are missing, and over 80 are rescued when a boat carrying migrants shipwrecks off the coast of Djibouti.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261011-djibouti-boat-wreck-leaves-139-migrants-dead-84-missing-un"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "One person is killed and around 19 others are injured, including four critically, when a passenger bus plunges down a slope and crashes into a residential complex in Valparaíso, Chile.",
+        "links": [
+            {
+                "source": "(Teletrece in Spanish)",
+                "url": "https://www.t13.cl/noticia/nacional/accidente-bus-valparaiso-actualizan-estado-salud-pasajeros-11-10-2026"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "The Kenyan health ministry reports that no Ebola cases have been reported since one patient died from the disease on October 5, with 293 tests conducted.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-finds-no-new-ebola-cases-after-293-tests-2026-10-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "The Indonesian forestry ministry and International Animal Rescue release eight orangutans rescued from wildfires into a protected wildforest in West Kalimantan after fires destroyed habitat near plantations.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/indonesia-releases-eight-orangutans-rescued-fires-protected-forest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "An executive magistrate's court in New Delhi, India, orders the release of Cockroach Janta Party founder Abhijeet Dipke and two other leaders, requiring them to avoid breaches of the peace for one year after their detention.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261011-indian-court-releases-cockroach-movement-leaders-from-detention"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Pakistani president Asif Ali Zardari declares a state of emergency in Khyber Pakhtunkhwa and suspends its provincial government amid disputes over the province's response to Islamist militancy.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261011-pakistan-imposes-emergency-rule-in-imran-khan-s-provincial-stronghold"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Raphaël Glucksmann is elected as a candidate in the 2027 presidential election during the  socialist primary, receiving more than 66% of the votes in the first round.",
+        "links": [
+            {
+                "source": "(Le Monde)",
+                "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/11/en-direct-primaire-a-gauche-qui-de-raphael-glucksmann-olivier-faure-segolene-royal-emmanuel-maurel-ou-jerome-guedj-va-se-qualifier-pour-le-second-tour-suivez-les-resultats-du-premier-tour_6791926_6205049.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "A drone strikes the Nicaragua-flagged tanker MT Petro Dolphin near Sohar, Oman, leaving two Indian sailors missing and prompting the rescue of nine others. Omani authorities conduct search-and-rescue operations for the missing crew members.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/middle-east/two-indian-sailors-missing-after-vessel-attacked-off-oman-3005812"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Airstrikes are launched at the Egypt–Sudan border targeting an artisanal gold mine in a mountainous area, killing at least 72 people.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Three civilians and two police officers are killed in a mass shooting in Jacona, Michoacán, Mexico, while six other people are wounded. Separately, three gunmen are killed in a shootout with police in Zamora.",
+        "links": [
+            {
+                "source": "(OEM in Spanish)",
+                "url": "https://oem.com.mx/elsoldezamora/local/ataques-armados-en-jacona-y-zamora-dejan-multiples-muertos-y-lesionados-32550474"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Four FARC dissidents are killed and 12 rifles seized after an airstrike by the National Army of Colombia against a guerrilla camp in Norte de Santander Department, Colombia.",
+        "links": [
+            {
+                "source": "(El Tiempo)",
+                "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cuatro-muertos-y-12-fusiles-recuperados-el-primer-balance-del-bombardeo-contra-las-disidencias-del-frente-33-en-el-catatumbo-3592942"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "A drone strike kills a soldier in La Vega, Cauca Department, Colombia.",
+        "links": [
+            {
+                "source": "(Publimetro)",
+                "url": "https://www.publimetro.co/noticias/2026/10/12/soldado-murio-en-ataque-con-explosivos-lanzados-desde-un-dron-en-zona-rural-de-la-vega-cauca/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Raphaël Glucksmann is elected as a candidate in the 2027 French presidential election during the Socialist Party primary, receiving more than 66% of the votes in the first round.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261011-raphael-glucksmann-elected-centre-left-french-presidential-candidate"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Independent candidate Łukasz Gibała wins the Kraków mayoral election in Poland against government-backed Civic Platform senator Monika Piątkowska.",
+        "links": [
+            {
+                "source": "(Politico)",
+                "url": "https://www.politico.eu/article/lukasz-gibala-wins-krakow-mayoral-runoff-donald-tusk-setback/"
+            },
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/10/12/independent-gibala-beats-tusks-party-to-win-krakow-mayoral-run-off"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-11",
+        "description": "Slovenians vote in a referendum to decide whether to overturn the Law on Parliamentary Investigation that was adopted by the National Assembly in May 2026. Voters holded this law by a 49% to 51% vote.",
+        "links": [
+            {
+                "source": "(France24)",
+                "url": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

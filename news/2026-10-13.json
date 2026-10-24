@@ -1,0 +1,467 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Jury selection begins in the federal capital trial of mass murderer Payton Gendron.",
+        "links": [
+            {
+                "source": "(Spectrum Local News)",
+                "url": "https://spectrumlocalnews.com/nys/buffalo/news/2026/10/12/jury-selection-in-gendron-federal-trial-to-begin-tuesday"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Two merchant ships are hit by unknown drones off Bulgaria's Black Sea coast, with one sinking. Eleven crew members are missing and 20 in total are rescued. Bulgarian prime minister Rumen Radev has blamed Russia and summoned its ambassador. It is the second such attack in six days.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/drone-sinks-ship-off-bulgaria-coast-prime-minister-says-2026-10-13/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Eight people are injured in a mass stabbing at a supermarket in Incheon, South Korea. A suspect is arrested.",
+        "links": [
+            {
+                "source": "(CNA)",
+                "url": "https://www.channelnewsasia.com/east-asia/south-korea-supermarket-stabbing-incheon-injured-6455061"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "At least seven people are killed and over 40 others are injured in a train derailment near Multan, Punjab, Pakistan.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/asia-pacific/7-killed-40-injured-as-passenger-train-derails-in-pakistan/4086833"
+            },
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/south-asia/pakistan-train-derailment-kills-four"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Cornell University in Ithaca, New York, United States, suspends all fraternity parties and social events for the remainder of the 2026–27 academic year following allegations that seven Chi Phi members drugged and gang-raped a student in 2024.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/cornell-suspends-frat-parties-after-alleged-gang-rape"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cw8dzg094zd9o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "The Hungarian National Assembly passes an amendment repealing most provisions of the anti-LGBTQ child protection law that was previously passed during former prime minister Viktor Orbán's tenure in 2021.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/hungarys-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "The Clark County District Court in Nevada, United States, sentences former Crips gang leader Duane \"Keffe D\" Davis to a minimum of 40 years in prison for orchestrating the 1996 murder of rapper Tupac Shakur in Las Vegas.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261013-ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Students in Tirana, Albania, throw bricks at the Ministry of Education building, prompting riot police to respond.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/albanian-students-protest-over-education-jobs-clash-with-police-2026-10-13/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "The Netherlands denies visas to Russian artistic gymnasts Anna Kalmykova, Viktoria Listunova, and Angelina Melnikova for the world championships in Rotterdam, while four other Russian gymnasts receive permission to enter the country.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/gymnastics-worlds-russia-visas-melnikova-netherlands-1bee80f9911eb215dd8decf227601d4c"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "The Royal Saudi Air Force strikes a fuel depot near Sanaa, Yemen. The Houthis launch missiles upon multiple Saudi Arabian cities, including Riyadh and Dammam, in response.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/crx2d60y1py3o"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "An administrative building belonging to Saudi Aramco in Dhahran, Eastern Province, Saudi Arabia, is partially consumed by a fire after a Houthi missile is intercepted over the city by Saudi forces.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/saudi-led-coalition-orders-evacuation-yemen-oil-facility-sanaa-ahead-operation-2026-10-13/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Hezbollah spokesperson Ali Damoush announces that the group will pay up to US$14,000 in aid to families whose homes in Lebanon were destroyed or rendered uninhabitable during its war with Israel. Families in Beirut and its suburbs will receive $14,000, while those elsewhere in the country will receive $12,000.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/lebanon-israel-hezbollah-reconstruction-funding-d8162af14b61cbb4fcd2a91a20b6bd62"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Six deaths are confirmed in Florida, United States, from Hurricane Isaias.",
+        "links": [
+            {
+                "source": "(Fox Weather)",
+                "url": "https://www.foxweather.com/weather-news/florida-death-toll-rises-hurricane-isaias-dangerous-landfall"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "The World Health Organization reports a surge in cholera cases in Yemen over the past three weeks. The country previously had a 6-year-long outbreak due to the ongoing humanitarian crisis.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/middle-east/suspected-cholera-cases-surging-in-yemen-who-3006144"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Indonesian authorities release 20 protected green sea turtles back into the oceans off Bali after they were seized from an empty boat abandoned by wildlife smugglers last week.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/indonesia-green-sea-turtles-smuggling-release-59ea1574cd61427628d51b4152e3f994"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Philippine prosecutors in the impeachment trial of vice president Sara Duterte drop three of the four impeachment charges in an attempt to speed up the trial. The Senate, sitting as an impeachment court, approves the move.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/philippines-vice-president-sara-duterte-impeachment-trial-485ba92d586801b695df6e7abd886959"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Four people are killed and three more injured in a mass shooting at a memorial service in Katlehong, Gauteng, South Africa.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/mass-shooting-south-africa-killed-johannesburg-4692242f3482ffaa673d7712078c591a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "In auto racing, Formula 1 announces a new grand prix in Kigali, Rwanda, to run for at least 10 years starting in the early 2030s with a new track. This would be the first F1 grand prix in Africa since South Africa in 1993.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/f1-africa-rwanda-grand-prix-0f71bcd619e82380ab226b012e4ec21f"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "The United States Federal Bureau of Investigation announces the arrests of two men in Ohio and Pennsylvania over an alleged North Korean remote-work scheme and the seizures of about 187 computers and related devices from more than 40 suspected laptop farms in Texas.",
+        "links": [
+            {
+                "source": "(AFP via Malay Mail)",
+                "url": "https://www.malaymail.com/news/world/2026/10/14/us-busts-alleged-laptop-farm-network-funneling-earnings-to-north-korea/239023"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "A Chinese court sentences three triad members to death for crimes linked to scam centers in Kokang, Myanmar, including fraud, drug trafficking, illegal gambling, prostitution, and the murders of two Chinese citizens.",
+        "links": [
+            {
+                "source": "(AFP via CBS News)",
+                "url": "https://www.cbsnews.com/news/death-sentences-scam-centers-myanmar/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-13",
+        "description": "Three Indian nationals are killed and five others are injured in a suspected arson attack in Bochum, North Rhine-Westphalia Germany. A 41-year-old resident is arrested.",
+        "links": [
+            {
+                "source": "(tagesschau)",
+                "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-drei-tote-bei-brand-in-bochum-absolut-dramatisches-ereignis-100.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

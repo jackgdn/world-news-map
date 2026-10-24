@@ -1,0 +1,379 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "The World Food Programme cuts monthly food aid for about 500,000 people in the Gaza Strip because of funding shortages, reducing the number of recipients from 1.6 million to 1.1 million.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261019-un-agency-slashes-gaza-food-aid-over-funding-warns-needs-persist"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Independent Australian MP Helen Haines is deliberately hit by a car outside her office in Wangaratta, Victoria. Police arrest the car's driver, while Haines is airlifted to a hospital. Haines later had both her legs amputated.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/australian-lawmaker-hurt-car-attack-loses-leg-media"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/australia-pm-says-independent-mp-helen-haines-has-been-attacked-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "A missile attack by the Houthis kills 53 soldiers and injure over 200 at a training center in Shabwah Governorate, Yemen.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Andorra and San Marino each sign an association agreement with the European Union.",
+        "links": [
+            {
+                "source": "(The Brussels Times)",
+                "url": "https://www.brusselstimes.com/eu-affairs/2368520/eu-agreement-brings-andorra-san-marino-into-internal-market?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Germany summons its Iranian ambassador after a German court sentences two men involved in a plot to kill a Jewish community leader, saying one of them had been steered by Iran's intelligence ​service.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/germany-summons-iranian-envoy-over-plot-kill-jewish-community-leader-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Israel Police arrest 10 people in the occupied West Bank over attacks on American photojournalist Heidi Levine and the mayor of Aulnoye-Aymeries, France, who were travelling with European diplomats, and seize vehicles and other evidence during raids.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261019-israel-announces-arrests-after-west-bank-settler-attacks-on-westerners"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/media-telecom/israel-police-arrest-suspects-over-settler-attacks-us-journalist-european-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "A Kenyan court convicts Good News International Ministries leader Paul Nthenge Mackenzie of murdering 190 children and an adult whose deaths were linked to starvation in Shakahola Forest.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/paul-mackenzie-kenyan-preacher-who-led-hundreds-starve-death-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Albertans vote on ten referendums, including one to decide if Alberta should seek separation from Canada.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "A missile attack by the Houthis kills 58 soldiers, injures over 200, and leaves 14 missing at a training center in Shabwah Governorate, Yemen.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/least-18-killed-houthi-attack-yemeni-government-military-camp-shabwa-sources-say-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Three children are killed in an alleged Rapid Support Forces drone strike in Khartoum, Sudan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/sudan-drone-rapid-support-forces-khartoum-97536d115acd1afb479d2c7ff6df580d"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Twelve migrants, including an infant, are killed when two separate speedboats capsize off the coast of the Lesbos and Samos islands in Greece.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/greece-migrants-die-speedboats-capsize-8c9f49e307e32d73bd7dd039d7c79169"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Fourteen miners are killed and seven more injured when an open pit gold mine collapses in Nariño Department, Colombia.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/colombia-mine-accident-gold-illegal-mining-bffbd24132af34a0cb14a414579d1e9b"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "A judge in Miami-Dade County, Florida, United States, issues a no-bail bond arrest warrant for former Cuban president Raúl Castro after Florida attorney general James Uthmeier charged Castro with conspiracy to commit first-degree murder by directing spies to infiltrate Brothers to the Rescue and ordering the attack on their planes in 1996.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "A teacher and a student are injured in a stabbing attack at a school in Bistrița, Romania. The 13-year-old suspect is arrested.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/13-year-old-boy-suspected-stabbing-teacher-pupil-romania-after-tiktok-posts-2026-10-19/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Albertan voters reject pursuing a future independence referendum, with more than three-quarters supporting the province remaining in Canada.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cxr5yqqd7nlpo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "A drone strike kills at least 73 people at a market in the disputed Abyei area between South Sudan and Sudan.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/drone-strike-disputed-sudan-south-sudan-area-kills-dozens-minister-says-2026-10-20/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-19",
+        "description": "Former Chihuahua attorney general César Jáuregui Moreno is arrested by federal agents on a treason warrant as he leaves a Chihuahua state court, which had declined to order his pretrial detention after state prosecutors arrested him two days earlier on related charges of unlawful exercise of public office. He is accused of allowing U.S. agents, reported to be Central Intelligence Agency officers, to take part in an anti-drug operation in April without federal approval.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/ex-chihuahua-attorney-general-accused-treason-allowing-us-participation-drug-2026-10-18/"
+            },
+            {
+                "source": "(El Universal)",
+                "url": "https://www.eluniversal.com.mx/estados/detienen-de-nuevo-a-cesar-jauregui-tras-quedar-en-libertad-en-chihuahua-fgr-lo-traslada-a-la-ciudad-de-mexico/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

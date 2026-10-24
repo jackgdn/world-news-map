@@ -1,0 +1,174 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "The Israeli military raids 15 cities in the occupied West Bank, arresting several Palestinians and destroying a three-storey building in Hebron.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "A critically wounded woman succumb to her injuries sustained yesterday during a mass shooting at a Greek Orthodox Church Karak Governorate, Jordan, bringing the toll to eight killed and 39 injured.",
+        "links": [
+            {
+                "source": "(Ammon News)",
+                "url": "https://en.ammonnews.net/mobile/article/96443"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "Six people are killed and another is injured when a passenger train collides with a minibus in Jewish Autonomous Oblast, Russia.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/train-hits-minibus-russias-far-east-killing-six-2026-10-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "Two people succumb to their injuries sustained the day before during a mass shooting at a Greek Orthodox Church in Karak Governorate, Jordan, bringing the toll to nine killed and 40 injured.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "Several thousand rioters in Paris attack police with projectiles, but are dispersed with tear gas and water cannons. A gendarmerie helicopter is deployed to locate remaining rioters.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence#post=U0UXw9tBzJKh9utyIIRy"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "Marine Le Pen holds the National Rally congress in Orléans, France. Protesters, including left-wing politicians, marched in opposition.",
+        "links": [
+            {
+                "source": "(CBS)",
+                "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/"
+            },
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "Anti-government protests break out in Tirana, Albania. Various government buildings are attacked.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news#top-of-blog"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-24",
+        "description": "A new wave of protests is held across Italy. Clashes are reported in Bologna and Turin.",
+        "links": [
+            {
+                "source": "(Rai News)",
+                "url": "https://www.rainews.it/maratona/2026/10/caro-vita-secondo-giorno-di-guerriglia-a-milano-nuovi-saccheggi-in-centro-dopo-gli-scontri-di-ieri-f03a282c-8ad7-411b-826e-f50b88ca9ebe.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

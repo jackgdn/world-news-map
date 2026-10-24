@@ -1,0 +1,350 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "A Russian ballistic missile attack strikes a power station in the Dniprovskyi District, Kyiv, Ukraine, leaving more than 1,000 residential buildings without heating.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/ck20r9qpw505o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Timor-Leste suspends in-person classes nationwide from October 15 to 17 due to worsening air quality from wildfire smoke and pollutant particles across Southeast Asia.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/indonesia-haze-spikes-singapore-pollution-shuts-east-timor-schools"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "A court in New Delhi, India, remands Cockroach Janta Party spokespeople Saurav Das and Ashutosh Ranka in custody for five days after police detained them for entering the restricted Jantar Mantar protest site.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261014-top-indian-cockroach-leaders-sent-to-jail-after-protest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "The Ukrainian citizen accused of sabotaging the Nord Stream pipelines in 2022 faces trial at the Higher Regional Court in Hamburg, Germany,",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/nord-stream-pipeline-sabotage-suspect-on-trial-germany-hamburg/a-79647617"
+            },
+            {
+                "source": "(UPI)",
+                "url": "https://www.upi.com/Top_News/World-News/2026/10/14/germany-nord-stream-gas-pipeline-sabotage-trial-opens/1391791975102/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Two cargo ships, the Singapore-flagged container ship GFS Pride and the Antigua and Barbuda-flagged dry bulk carrier Cape Dao, sink after both are attacked by projectiles near the Strait of Hormuz while trying to navigate through what Iran's Islamic Revolutionary Guard Corps called an \"illegal and dangerous route.\" At least one crew member is killed in the attacks.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say-2026-10-14/"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Turkish opposition-leaning and independent news channel Halk TV goes offline as it is raided by police and new administrators are appointed by the government.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/crx23y3d970vo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Over 300,000 public sector workers in Ireland, including teachers, health workers, and other civil servants, start a general strike, the first in the country since 2009, to protest against a deadlock in pay negotiations.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/world-at-work/irish-public-sector-workers-strike-first-time-since-2009-over-pay-deadlock-2026-10-14/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "The Houthis claim to have shot down a Royal Saudi Air Force Eurofighter Typhoon aircraft over Saada Governorate, Yemen. Saudi authorities did not comment on the claim.",
+        "links": [
+            {
+                "source": "(AFP via AA)",
+                "url": "https://aa.com.tr/en/middle-east/yemen-s-houthis-claim-missile-hit-saudi-fighter-jet-over-northern-yemen/4089142"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "The Saudi Civil Defense reports that debris from intercepted Houthi cruise missiles injured four people, including a child, in Riyadh, Saudi Arabia, and damaged 15 homes.",
+        "links": [
+            {
+                "source": "(AFP via CNA)",
+                "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-yemen-strike-sanaa-oil-site-6456711"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "The Sudanese Armed Forces announces that they have re-captured the Bir Kelekel area of West Darfur, Sudan, from Rapid Support Forces, according to West Darfur state governor Bahr al-Din Adam Karama.",
+        "links": [
+            {
+                "source": "(Radio Tamazuj)",
+                "url": "https://www.radiotamazuj.org/en/news/article/sudanese-army-announces-capture-of-strategic-area-in-west-darfur"
+            },
+            {
+                "source": "(AA)",
+                "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-takes-control-of-strategic-area-in-west-darfur-official/4088852"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Rioters attack government buildings, banks, businesses and other sites as anti-government protests erupt in Tirana, Albania. At least 23 police officers and six others are injured during the unrest, while 35 people are detained. President Bajram Begaj condemns the violence and appeals for calm across the nation.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/albania-protests-students-flamingo-edi-rama-0d94664379a2b470a1f7d95429c4e446"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Three people are killed and four others are missing after torrential rainfall triggers widespread flooding across Istanbul, Turkey.",
+        "links": [
+            {
+                "source": "(ABC News)",
+                "url": "https://abcnews.com/amp/International/wireStory/heavy-rain-shuts-istanbul-causing-flooding-2-deaths-137278654"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Colombia opens an embassy in Jerusalem and restores its free trade agreement with Israel.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/colombia-opens-embassy-jerusalem-restores-free-trade-deal-with-israel-2026-10-14/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "President Claudia Sheinbaum signs a decree banning violent content on social media to protect minors under the age of 18.",
+        "links": [
+            {
+                "source": "(Expansión)",
+                "url": "https://expansion.mx/tecnologia/2026/10/14/decreto-contenidos-violentos-monitoreo-es-importante"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "The oldest known shipwreck in the world (c. 2700–2400 BC) is excavated in Kekova, Turkey.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/10/14/science/worlds-oldest-shipwreck-turkey-scli-intl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-14",
+        "description": "Costa Rica inaugurates CACCO [es], a maximum-security prison modeled after El Salvador's CECOT mega-prison, aimed at holding 20% of the country's current prison population, as the homicide rate reached a record high in 2023.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/costa-rica-opens-mega-prison-organized-crime-fight-intensifies-2026-10-14/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

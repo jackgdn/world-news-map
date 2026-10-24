@@ -1,0 +1,422 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "The European Parliament awards its 2026 Sakharov Prize to the International Criminal Court and its officials for their work in global justice and upholding international law.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/international-criminal-court-wins-eus-2026-sakharov-prize-2026-10-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "A .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mw 7.0 earthquake strikes Tibet, with an epicenter in Nagqu.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/earthquake-magnitude-7-strikes-chinas-tibet-2026-10-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "At least six people are killed and 25 others are injured when a bus collides with a tree in Manendragarh-Chirmiri-Bharatpur district, Chhattisgarh, India.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/asiapacific/20261022/d3f0402fc54446f4a7e9b61bc33f97f2/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "France reports the first human case of the livestock Shamonda virus in a patient who died after being hospitalized with an unrelated condition.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "Canada and Turkey open negotiations for a free trade agreement during Canadian prime minister Mark Carney's visit to Ankara.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261022-canada-opens-free-trade-talks-with-turkey"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "A Guatemalan court sentences seven former police officers to prison terms of up to 60 years for offenses related to the 2024 torture and killing of a gay couple at a police station.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261022-guatemala-sentences-former-police-officers-in-gay-couple-s-killings"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "The Finnish Government grants Posiva an operating license for the Onkalo spent nuclear fuel repository in Eurajoki, making it the world's first licensed deep geological disposal facility for spent nuclear fuel.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261022-finland-grants-licence-for-world-s-first-nuclear-waste-repository"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "In women's association football, FIFA announces that the United States will host the inaugural FIFA Women's Club World Cup in 2028.",
+        "links": [
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/soccer/story/_/id/50249418/usa-host-2028-inaugural-womens-club-world-cup"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "The Athletics Integrity Unit bans Ethiopian marathon runner Ruti Aga for six years after she tested positive for methylprednisolone and submitted false information and a forged prescription during an investigation.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261022-marathon-star-aga-banned-six-years-for-doping-and-misleading-investigation"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "Iran's Islamic Revolutionary Guard Corps reports that seven oil tankers have been hit in the Strait of Hormuz.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "Al-Qaeda gunmen ambush Yemeni Armed Forces soldiers at a mountainous area in the Shabwah Governorate, killing two soldiers and wounding several more.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20261023/1db4ce38e905456db92465e90381a44a/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "El Salvador deploys 100 special forces soldiers to Haiti to assist in the search efforts for the four missing Air Force technicians attached to the Gang Suppression Force.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/el-salvador-haiti-special-forces-gangs-03ec2bf89616d8b313c54da34c24eab1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "The Sudanese Armed Forces recaptures two strategic areas in Sudan's Blue Nile state, including the Bukuri base in Ad-Damazin.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/320301"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "British singer Raye wins the 2026 Mercury Prize for her album This Music May Contain Hope.",
+        "links": [
+            {
+                "source": "(Billboard)",
+                "url": "https://www.billboard.com/music/awards/2026-mercury-prize-winner-raye-music-may-contain-hope-1236365609/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "At least four people are killed and one other is injured by flooding caused by Storm Adam in Bouches-du-Rhône, France.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cm5ynl4v4wgwo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "A .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mw 7.0 earthquake strikes Tibet, with an epicenter in Nagqu, killing 16 people and wounding 32 more.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "Emirati diplomat Lana Nusseibeh announces her candidacy for Secretary-General of the United Nations.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief-2026-10-21/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "Ecuadorian opposition leader and former presidential candidate Luisa González is arrested over allegations of money laundering in campaign financing.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/former-presidential-candidate-gonzalez-arrested-ecuador-2026-10-22/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "In artistic gymnastics, Japan's Daiki Hashimoto wins his fourth consecutive men's all-around title at the 2026 World Championships in Rotterdam, Netherlands, finishing ahead of China's Zhang Boheng and Japan's Shinnosuke Oka.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261022-hashimoto-sweeps-to-gymnastics-world-all-around-title"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-22",
+        "description": "In American football, the Chicago Bears receive an illegal forward handing penalty in a game against the New England Patriots, the first time in 16 years that the penalty has been handed out.",
+        "links": [
+            {
+                "source": "(CBS Sports)",
+                "url": "https://www.cbssports.com/nfl/news/what-is-illegal-forward-handing-bears-patriots-nfl-penalty/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

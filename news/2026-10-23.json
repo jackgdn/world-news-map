@@ -1,0 +1,354 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "A merchant ship is hit by drones of unknown origins in the Romanian Black Sea, killing a crew member and leaving three more missing. Nine people are rescued.",
+        "links": [
+            {
+                "source": "(Turkiye Today)",
+                "url": "https://www.turkiyetoday.com/world/romania-rescues-9-from-black-sea-ship-after-drone-attack-3230869?s=1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack are killed.",
+        "links": [
+            {
+                "source": "(Tagesschau)",
+                "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "A person is killed and several people are injured in a mass shooting in Trappes, France. A suspect is arrested.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/france-shooting-trappes-arrest-edcd3ab6c5ec2112505b358ca0a3de5a"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "Seven people are killed and 34 others are wounded in a mass shooting during a funeral procession at a Greek Orthodox Church in Hamoud, Karak Governorate, Jordan. All of the gunmen escape from the scene.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/jordan-gunmen-greek-orthodox-church-deaths-karak-19599ce75b9ab6749a1e1bf2ff66f2ab"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "A person is killed and five other people are injured in a drive-by shooting spree at three separate locations in Trappes and La Verrière, France. A suspect is arrested. The suspected motives behind the shootings are racism and Islamophobia.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c6ev38dj1g8zo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "Argentine football player Lionel Messi is awarded the 2026 Princess of Asturias Award for Sports for his career at FC Barcelona in Catalonia, Spain.",
+        "links": [
+            {
+                "source": "(OneFootball)",
+                "url": "https://onefootball.com/en/news/lionel-messi-wins-the-princess-of-asturias-award-43661225"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack were killed.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "Ukrainian police detain a 17-year-old girl suspected of helping Russia's Federal Security Service send methadone-laced capsules to Ukrainian soldiers, which killed two in Zhytomyr Oblast and allegedly targeting four others.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261023-ukraine-says-two-soldiers-died-after-arrested-girl-sent-russian-poison"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "Typhoon Champi kills a person and injures 163 others in Taiwan as the government evacuates 2,639 people from mountainous areas.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261023-taiwan-shuts-down-as-typhoon-champi-approaches"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-one-dead-500-injured-2026-10-24/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "An 18-storey building under construction collapses in Eastleigh, Nairobi, Kenya, leaving seven people missing and at least one injured. Rescue teams establish contact with some people trapped beneath the rubble.",
+        "links": [
+            {
+                "source": "(AFP via The Australian)",
+                "url": "https://www.theaustralian.com.au/news/latest-news/rescuers-search-for-seven-people-in-nairobi-building-collapse/news-story/14ad68668d7297f52ea49cb9ab9e58ed"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "The Australian Government imposes financial sanctions and travel bans on two North Koreans and sanctions two companies accused of supporting fraudulent overseas information technology work that funds North Korea's weapons programs.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261023-australia-sanctions-north-koreans-over-fraudulent-it-work-cybercrime"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "The Eagle's Nest in Germany is destroyed in a fire. A suspect is arrested.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/germany-hitler-eagles-nest-berchtesgaden-alps-fire-338ec9bbec52ecf52d1c127546d01eed"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/hitlers-eagles-nest-retreat-catches-fire-police-say/a-79747820"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "The Greek parliament approves a law banning children and teenagers under 15 from using social media from January 1, 2027, requiring age verification and penalties for platforms that fail to comply.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "The Trump administration says that Russia and Ukraine reached a humanitarian ceasefire agreement in Oleshky brokered by U.S. First Lady Melania Trump. The ceasefire will take effect on Thursday.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "Russia and Ukraine confirm the ceasefire agreement for Oleshky, with President Volodymyr Zelenskyy stating that peace talks will begin next month.",
+        "links": [
+            {
+                "source": "(The Moscow Times)",
+                "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069"
+            },
+            {
+                "source": "(Kyiv Independent)",
+                "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-23",
+        "description": "Two Philippine Air Force (PAF) SF-260 aircraft collide during a low-altitude training flight and crash at Basilio Fernando Air Base in Lipa, Batangas, killing all four pilots aboard. The PAF grounds its remaining SF-260 fleet pending investigation.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/philippine-air-force-sf260-planes-collision-crash-9df3ee550257e4702f2f8e5e14313811"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
