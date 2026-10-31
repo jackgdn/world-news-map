@@ -1,0 +1,23 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-31",
+        "description": "Polish Ambassador to Romania  Paweł Soloch and Polish Ambassador to China Jakub Kumoch resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
+        "links": [
+            {
+                "source": "(Wiadomości)",
+                "url": "https://wiadomosci.wp.pl/prezydent-karol-nawrocki-przyjechal-do-trybunalu-konstytucyjnego-relacja-na-zywo-7345695014824384l"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,325 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "An oxygen cylinder explodes inside an ambulance parked at a medical facility in Tharparkar, Sindh Province, Pakistan, killing ten people.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-oxygen-cylinder-explosion-ambulance-sindh-f8e4e6dae32b237f1ea45e4e66f56fa5"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Saudi Arabia launches airstrikes against two residential buildings in Taiz, Yemen, killing 12 civilians and wounding three more.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20261029/44a9ff9e8822451ea1c2e37ac00c3657/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "The Salvadoran government deploys 2,000 troops to Haiti in response to the kidnapping of four Salvadoran Gang Suppression Force members that occurred earlier this month.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/ck0e075n79j5o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Christine Lagarde, the president of the European Central Bank, resigns, saying she could not remain neutral on current events. She will step down from office in February 2027, eight months before her term officially ends.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/finance/ecb-hold-rates-investors-focus-french-bonds-lagardes-future-2026-10-28/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "American food delivery company DoorDash announces an intent to acquire grocery delivery company Instacart for $17 billion in late 2027.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/doordash-instacart-delivery-d6f30f5d18c288eeba6babcb49260e06"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Three people are killed and five more injured during the collapse of a hoodoo at Göreme's Open Air Museum in the Nevşehir District, Turkey. The suspected cause are the heavy rains of the past days.",
+        "links": [
+            {
+                "source": "(AFP via NDTV)",
+                "url": "https://www.ndtv.com/world-news/2-killed-after-rock-spire-collapses-at-tourist-site-in-turkeys-cappadocia-12254667"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Four people are killed and eleven more are injured after an Italian Air Force Boeing CH-47 Chinook crashes near Brčko, Bosnia and Herzegovina.",
+        "links": [
+            {
+                "source": "(Rai News in Italian)",
+                "url": "https://www.rainews.it/articoli/2026/10/bosnia-precipita-un-elicottero-militare-italiano-vittime-eufor-althea-brcko-8ed675ee-a9cc-428c-ae28-695418f8418a.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Andreas Norlén, speaker of the Swedish parliament, announces a second vote to elect the next Prime Minister. He proposes a coalition led by the Center Party's leader, Elisabeth Thand Ringqvist, alongside the Social Democrats, Greens, Christian Democrats, and the Moderates.",
+        "links": [
+            {
+                "source": "(SVT in Swedish)",
+                "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=0f1d3e1110abc9588f23af919fcb89ce"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Haiti's Provisional Electoral Council sets the first round of presidential and legislative elections for August 29, 2027, with a second round scheduled for December 5, as the country prepares for its first national elections since 2017.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261029-gang-plagued-haiti-sets-election-dates-for-2027"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Canada's federal government invests up to C$1.6 billion (US$1.1 billion) in Toronto-based artificial intelligence company Cohere, taking an equity stake as part of a C$7 billion (US$5 billion) funding round intended to expand domestic computing infrastructure and AI development.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/canada-buying-stake-ai-firm-cohere-bolster-tech-sovereignty"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/ottawa-takes-stake-cohere-ai-company-opens-45-billion-funding-round-2026-10-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Seychelles-based cryptocurrency exchange KuCoin ends services for customers in Russia and Belarus, citing ongoing sanctions.",
+        "links": [
+            {
+                "source": "(The Crypto Times)",
+                "url": "https://www.cryptotimes.io/2026/10/29/kucoin-suspends-services-in-russia-and-belarus-with-immediate-effect/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Three people are killed and five more injured during the collapse of a hoodoo at Göreme's Open Air Museum in the Nevşehir District, Turkey. It is  suspected to be caused by heavy rainfall over the preceding days.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/turkey-cappadocia-rock-formation-collapse-climbers-tourism-701991bfabd99898df47e8eba0fbd9fd"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Andreas Norlén, speaker of the Swedish parliament, announces a second vote to elect the next prime minister. He proposes a coalition led by the Center Party's leader, Elisabeth Thand Ringqvist, alongside the Social Democrats, Greens, Christian Democrats, and the Moderates.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/swedish-parliament-vote-centre-party-leader-prime-minister-despite-gridlock-2026-10-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "14 people are killed and 14 more are injured in a Russian drone strike on a train station in Dnipro, Ukraine.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-29",
+        "description": "Teghaza 001, a Martian meteorite discovered in 2022 in the Sahara in Mali is reported to be 4.1 billion years old.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

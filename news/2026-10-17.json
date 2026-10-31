@@ -1,0 +1,413 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Eight people are killed and eight others are injured after a minibus carrying 23 passengers plunges into a drain along the Delhi–Mumbai Expressway near Kota, Rajasthan, India.",
+        "links": [
+            {
+                "source": "(The Times of India)",
+                "url": "https://timesofindia.indiatimes.com/city/jaipur/8-of-a-family-killed-as-minibus-falls-into-drain-on-delhi-mumbai-expressway-in-kota/articleshow/135007091.cms"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "A Piper Tomahawk II aircraft crashes near Drymen, Central Region, Scotland, leaving two persons dead.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?fbclid=PAdGRleAVAIJFleHRuA2FlbQIxMQBwZG9mAmZkaWQWUQesAfUHPxj_ZR3eHnF5rh2j_gT4LnNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_YSc-T7onPXaw4bvt0zwVbOoAauiCagflY1e9yGiFPEyASsFgoD7y7gUcXs_aem_E13Ja16wBVRAWwV_ddZ5yA"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Egyptian president Abdel Fattah El-Sisi states that Egypt will take all necessary steps to protect and defend Saudi Arabia should the latter so desire.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/middle-east/egypts-sisi-seeks-parliament-approval-to-authorize-support-for-saudi-arabia-3006835"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "At least 17 people are killed and 25 others are injured in a crowd crush at a pandal in Kolkata, West Bengal, India.",
+        "links": [
+            {
+                "source": "(Hindustan Times)",
+                "url": "https://www.hindustantimes.com/india-news/kolkata-stampede-live-updates-chorbagan-sarbojanin-durgotsab-samity-durga-puja-pandal-deaths-bengal-suvendu-adhikari-101792254911241.html"
+            },
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Ten tourists are killed and nine others sustain injuries after a resort catches fire in Cox's Bazar, Bangladesh.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://aa.com.tr/en/asia-pacific/bangladesh-resort-fire-kills-at-least-10-injures-9-others/4091698"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "A Piper Tomahawk II aircraft crashes near Drymen, Stirling, Scotland, killing the two people on board.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cky83g11q46lo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Over 500,000 people take part in protests across France, according to the national trade union confederation, while clashes and riots erupt in large cities.",
+        "links": [
+            {
+                "source": "(FranceInfo)",
+                "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Protesters force their way into Marseille's town hall and vandalize the interior before being dispersed.",
+        "links": [
+            {
+                "source": "(CNews)",
+                "url": "https://www.cnews.fr/faits-divers/2026-10-17/marianne-au-sol-tags-carreaux-casses-plusieurs-dizaines-dindividus-ont"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "In Lille, protesters storm the city hall and damage the premises prior to being removed by security forces.",
+        "links": [
+            {
+                "source": "(Ouest-France)",
+                "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-du-17-octobre-intrusion-dans-la-mairie-de-lille-des-locaux-saccages-par-des-manifestants-a3cae7ae-ca38-11f1-b8bc-a46147b584ed"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Dozens of shops are looted across major French cities amid widespread rioting and civil unrest.",
+        "links": [
+            {
+                "source": "(BFMTV)",
+                "url": "https://www.bfmtv.com/police-justice/on-a-eu-super-peur-paris-lyon-marseille-nice-les-commerces-des-grandes-villes-pilles-lors-des-manifestations-du-17-octobre_AN-202610170306.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "The Hôtel de Ville in Limoges were partially destroyed by fire.",
+        "links": [
+            {
+                "source": "(Le Parisien in French)",
+                "url": "https://www.leparisien.fr/faits-divers/cest-une-catastrophe-lhotel-de-ville-de-limoges-detruit-par-les-flammes-apres-la-manifestation-contre-la-vie-chere-17-10-2026-O3CCYJ32SVBSNFB5Q6XWNHTIGM.php"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "A court in New Delhi, India, orders the release of Cockroach Janta Party founder and activist Abhijeet Dipke on a peace bond, one day after police detained him while he was heading to a protest against the Election Commission of India.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261017-cockroach-party-founder-released-from-indian-police-custody"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "The fourth round of No Kings protests are held across the United States against president Donald Trump and his administration and to encourage early voting ahead of the upcoming midterm elections.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/no-kings-movement-seeks-boost-early-voting"
+            },
+            {
+                "source": "(USA Today)",
+                "url": "https://www.usatoday.com/story/news/politics/elections/2026/10/17/nationwide-no-kings-protests-shift-focus-to-early-voting-push/92249146007/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "In Czechia, opposition parties win 22 of the contested 27 seats in the Senate. The lead party of prime minister Andrej Babiš's government, ANO 2011, comes in third place. The election is the first time in the country's history where governing parties did not win a single seat in a senatorial election.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/czech-republic-senate-election-babis-d206f3edbc7ea0f73b0dbd07b339820b"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Masked Israeli settlers attack a group of European diplomats, including the Belgian consul general, French and Polish diplomats, and Catholic representatives visiting Taybeh in the occupied West Bank, Palestine.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/west-bank-israel-european-diplomats-settlers-89ebd068167669db357ad1fa4f3a8758"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "An explosion and wildfire occurs at the CFB Wainwright, a Canadian Armed Forces base in Alberta. Four people are killed and dozens more injured.",
+        "links": [
+            {
+                "source": "(CBC News)",
+                "url": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-strong-winds-9.7385505"
+            },
+            {
+                "source": "(CTV News)",
+                "url": "https://www.ctvnews.ca/edmonton/article/fatalities-and-injuries-reported-after-incident-at-alberta-military-base-defence-minister/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Kenya confirms four additional cases of Bundibugyo ebolavirus, including three health workers who treated Kenya's first patient and one of his relatives, raising the national total to seven. All four are already in quarantine.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261017-four-more-ebola-cases-detected-in-kenya-bringing-total-to-seven"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "Yellow vests activists hold mass demonstrations across France against rising fuel prices and join the student protests.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-17",
+        "description": "In ice hockey, the Florida Panthers become the first team in the National Hockey League to record a natural hat trick in three consecutive games.",
+        "links": [
+            {
+                "source": "(The Athletic via The New York Times)",
+                "url": "https://www.nytimes.com/athletic/7699587/2026/10/17/panthers-nhl-natural-hat-tricks-verhaeghe-history/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

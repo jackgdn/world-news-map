@@ -1,0 +1,472 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The Ethiopian Orthodox Tewahedo Church reports that at least 60 Christians have been killed in attacks in Oromia, Ethiopia, over the last week.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/attackers-kill-60-people-ethiopias-conflict-hit-oromiya-region-orthodox-church-2026-10-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The death toll from the massacre by unknown gunmen four days ago in Taraba State, Nigeria, increases to 48 people.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_campaign=rss&at_medium=RSS"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Israelis vote to elect the 120 members of the Knesset.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israel-election-what-happens-after-polls-close-2026-10-27/"
+            },
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/crlykey9jywqo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The casualty toll from the massacre by unknown gunmen four days ago in Taraba State, Nigeria, increases to 62 people killed and 52 more wounded.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Netherlands Public Broadcasting (NPO) withdraws the Netherlands from the 2027 Eurovision Song Contest over concerns about Israel's participation, after AVROTROS withdrew in August and NPO failed to find another broadcaster.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/netherlands-eurovision-song-festival-dutch-27ee0f300f9cd0ca4a4844b51865bd95"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Indian authorities order nearly 100,000 people to evacuate parts of Andhra Pradesh and Odisha as Cyclone Arnab approaches, with the India Meteorological Department forecasting landfall as a very severe cyclonic storm.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261027-india-orders-evacuations-as-cyclone-arnab-looms"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "A construction site is hit by a tornado in Kepez, Antalya, Turkey, killing four workers and injuring another.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/turkey-antalya-tornado-workers-killed-65ab84be64dc686752d231fb0b778dac"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The World Meteorological Organization reports that global concentrations of carbon dioxide, methane, and nitrous oxide reached record highs in 2025, with carbon dioxide averaging 426.8 parts per million.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261027-greenhouse-gas-levels-hit-new-record-highs-in-2025-un"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Nigerian police arrest 34 foreigners, including 16 Cameroonians and 18 Nigeriens, suspected of engaging in \"illicit activities\" in Benue State. The commissioner opens an investigation into their immigration status.",
+        "links": [
+            {
+                "source": "(Daily Trust)",
+                "url": "https://dailytrust.com/police-arrest-34-foreigners-in-benue/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Brazilian senator Flávio Bolsonaro leaves Brazil for the United States, despite orders to surrender his passports to the Federal Police, two days after his defeat in the presidential election runoffs to incumbent president Luiz Inácio Lula da Silva. The government subsequently cancels Bolsonaro's passports, while the U.S. grants him and his family visas.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/us-grant-flavio-bolsonaro-visa-he-flees-brazil-after-election-loss"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/flavio-bolsonaro-leaves-brazil-us-after-election-defeat-source-media-say-2026-10-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The Persian Gulf Strait Authority says that vessels belonging to South Korean shipping company Sinokor would face legal action beginning on 1 November.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/iranian-strait-authority-says-sinokor-vessels-will-face-legal-action-2026-10-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The casualty toll from yesterday's drone strike at a market in Nyala, South Darfur, Sudan, increases to over 100 people killed and 112 more injured.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "A bomb explodes near a bridge in Cúcuta, Colombia, at the border with Venezuela, injuring four police officers.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/colombia-bomb-police-injured-cucuta-a2c539f7b5be172f0c6c211cc776405e"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The United States launches an airstrike against an alleged drug boat in the Pacific Ocean, killing five people.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/boat-strikes-alleged-drug-boat-latin-america-cartels-trump-ef5e229630e00f370e0d1772edc34dd9"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "China's Shanghai Stock Exchange STAR Market index, which focuses on science and technology companies, plummets 40% in less than four months.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Four people are killed, two are missing and several homes are destroyed during floods in Haiti and the Dominican Republic.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/rains-flooding-haiti-dominican-republic-weather-killed-012fa128cea57defc8d2ce7735ec1e9c"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "A Salvadoran court issues an order to release former president Antonio Saca from prison after the end of his 10-year sentence for corruption.",
+        "links": [
+            {
+                "source": "(La Prensa Gráfica in Spanish)",
+                "url": "https://www.laprensagrafica.com/elsalvador/emiten-orden-de-libertad-para-expresidente-elias-antonio-saca-20261027-0015.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Algerian-Palestinian activist Mahmoud Khalil returns to Columbia University in New York City, United States, after immigration authorities detained him for more than three months over his role in pro-Palestinian campus protests before a federal judge ordered his release.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/palestinian-activist-khalil-returns-columbia-after-us-detention"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "The French Senate passes a bill that would make people who knowingly participate in violent protest groups jointly liable for up to €10,000 (US$11,118) in damage and allow authorities to seize certain welfare payments. The bill heads to the National Assembly for a vote.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/world/europe/french-senate-weighs-bill-to-make-protesters-pay-for-unrest-damage"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Three people, including a child, are killed in an Israeli airstrike against a tent in Khan Yunis, Gaza Strip.",
+        "links": [
+            {
+                "source": "(Asharq Al-Awsat)",
+                "url": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "An Egyptian court orders independent news website Mada Masr to close after convicting editor-in-chief Lina Attalah of operating without a licence. The court also fines her E£3,000,000 (US$53,500) and orders the outlet's equipment confiscated.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/egypt-mada-masr-linah-attalah-press-freedom/a-79781842"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-27",
+        "description": "Villa Vie Residences suspends operations of the Odyssey in Sihanoukville, Cambodia, after running out of money amid sharply higher fuel costs, forcing 203 passengers to disembark with seven hours' notice.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/cruise-life-strands-passengers-cambodia-operator-goes-bust"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
