@@ -1,0 +1,23 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-07",
+        "description": "New Zealanders vote to elect 120 members of the House of Representatives, with additional overhang seats. National leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/new-zealand-election-results-luxon-hipkins-voting-8c1728ae2533201f68d5a5e75fc9e907"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

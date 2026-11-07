@@ -1,0 +1,413 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "The United States holds midterm elections for 435 members and five non-voting delegates of the House of Representatives, 35 members of the Senate (including special elections in Florida and Ohio), 39 state and territorial governors, and numerous other state, territorial, tribal, and local officials.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/nov/02/what-are-midterm-elections"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "The Reserve Bank of Australia raises its benchmark interest rate by 0.25 percentage points to 4.85%, its highest level since 2008, citing persistent inflation and rising energy costs associated with the Iran war.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261103-australian-central-bank-lifts-key-interest-rate-to-18-year-high"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "In association football, the Asian Football Confederation postpones the 2027 Asian Cup in Saudi Arabia from January 2027 to January 2028, citing security concerns and travel disruptions following Houthi attacks on the country.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261103-asian-cup-latest-event-in-saudi-arabia-to-be-postponed-over-safety"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "In thoroughbred racing, Point Of Law, trained by Ciaron Maher, wins the 2026 Melbourne Cup at Flemington Racecourse in Victoria, Australia. Zahrann and Juja Kibo, also trained by Maher, finish second and third respectively.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/king-charless-former-horse-point-law-wins-melbourne-cup"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "A commercial vessel is hit by an unidentified object in the waters of Musandam Governorate, Oman, killing an Indian crew member, while 13 others are rescued.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/india/one-indian-killed-attack-ship-near-oman-indian-foreign-ministry-says-2026-11-03/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Unidentified attackers ambush a police convoy near Gidan-Giye village in Zamfara State, Nigeria, killing at least five police officers and three members of the Zamfara Community Protection Guard, injuring two officers, and abducting an unspecified number of personnel.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/attackers-ambush-police-nigerias-zamfara-killing-least-eight-officials-say-2026-11-03/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Two helicopters operated by Air Dynasty and Fishtail Air collide while landing in Solukhumbu District, Nepal, near Mount Everest, killing an Indian tourist and injuring a New Zealand national.",
+        "links": [
+            {
+                "source": "(AFP via Times of Malta)",
+                "url": "https://timesofmalta.com/article/tourist-killed-two-helicopters-collide-nepal-everest-region.1136555"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Three people are arrested for allegedly wiretapping Indonesian president Prabowo Subianto's phone.",
+        "links": [
+            {
+                "source": "(AFP via South China Morning Post)",
+                "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373180/indonesian-police-arrest-3-tapping-prabowos-phone"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Bomb hoaxes target seven flights from several European countries.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c6x2wd4v04eeo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "The Israeli cruise ship MS Crown Iris is targeted by a false bomb threat, and is searched on Syros, Greece.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/bomb-threat-prompts-checks-israel-bound-cruise-ship-greek-port-2026-11-03/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "In association football, CD Tenerife striker Jesús de Miguel dies following an in-game collision with FC Andorra goalkeeper Jesús Owono the previous day.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Spanish author Cristina Fernández Cubas is awarded the Cervantes Prize.",
+        "links": [
+            {
+                "source": "(Cadena SER)",
+                "url": "https://cadenaser.com/nacional/2026/11/03/cristina-fernandez-cubas-premio-cervantes-2026-cadena-ser/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Five suspected robbers, including two former police personnel, are killed in shootouts with police in Bacoor, Cavite, Philippines.",
+        "links": [
+            {
+                "source": "(Daily Tribune)",
+                "url": "https://tribune.net.ph/2026/11/04/2-former-cops-among-5-killed-in-bacoor-shootouts"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "U.S. news organizations project that the Democratic Party will control the House of Representatives and the Senate in the upcoming 120th Congress, ending the Republican Party's majority in both chambers.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Spanish author Cristina Fernández Cubas is awarded the 2026 Cervantes Prize to honor her writing in the Spanish language.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/11/03/cristina-fernandez-cubas-wins-2026-cervantes-prize-for-spanish-literature"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Several states elect their first Democratic representatives in decades, including: Adam Hamilton, the first Democrat to win a Kansas Senate seat since 1932; James Talarico, the first Democrat to win a Texas Senate seat since 1988; and Gina Hinojosa, the first Democrat to become governor of Texas since 1990.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/politics/2026-election/adam-hamilton-kansas-senate-democrat-winner-upset-roger-marshall-rcna603310"
+            },
+            {
+                "source": "(Axios)",
+                "url": "https://www.axios.com/local/san-antonio/2026/11/04/texas-governor-race-results-hinojosa-abbott"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Spanish transport minister Óscar Puente resigns after the country experienced two train collision disasters in one year, the Adamuz derailment in January and the Toledo collision last week, which had a combined casualty toll of 115 deaths and 492 injuries.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Abdul El-Sayed defeats Mike Rogers in the United States Senate election in Michigan, making him the first Muslim to be elected to the U.S. Senate.",
+        "links": [
+            {
+                "source": "(The Washington Post)",
+                "url": "https://www.washingtonpost.com/elections/results/2026/11/03/michigan-senate-el-sayed-rogers-live-updates/"
+            },
+            {
+                "source": "(Time)",
+                "url": "https://time.com/article/2026/11/03/abdul-el-sayed-michigan-senate-2026-midterm-elections-mike-rogers/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-03",
+        "description": "Keisha Lance Bottoms defeats Rick Jackson in the gubernatorial election in Georgia, becoming the first black woman to be elected governor in U.S. history.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

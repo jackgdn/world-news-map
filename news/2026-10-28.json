@@ -1,0 +1,321 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "Jio Platforms raises US$3.2 billion in India's largest-ever initial public offering (IPO), attracting about $77 billion in bids and becoming the country's most-subscribed IPO before its stock-market debut in Mumbai.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261028-billionaire-ambani-s-jio-to-debut-after-record-india-ipo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "At least 69 people are killed and 179 injured during a collision between two high speed trains carrying a total of 544 passengers between Los Yébenes and Urda, in the Province of Toledo, Spain.",
+        "links": [
+            {
+                "source": "(Sky News)",
+                "url": "https://news.sky.com/story/spain-train-crash-latest-numerous-injuries-reported-after-high-speed-collision-on-madrid-andalusia-line-13604696"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "A youth armed with two knives wounds a police officer outside the Israeli embassy in Belgrade, Serbia, before being shot and killed.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/policeman-kills-knife-attacker-outside-israels-embassy-serbia-2026-10-28/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "Saudi Arabia launches an airstrike at a market in Al Hazm, Al-Jawf Governorate, Yemen, killing 14 civilians and wounding ten more.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20261028/0bff5197bf7d4bd8aef67cc902090535/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "The Bank of Canada raises its policy interest rate by 25 basis points to 2.5%, its first increase since July 2023, citing persistent inflation driven partly by higher oil and gasoline prices linked to the Iran war.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/canada-hikes-rates-contain-oil-price-surge-caused-iran-war"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "At least three people are killed as Cyclone Arnab makes landfall in Andhra Pradesh, India.",
+        "links": [
+            {
+                "source": "(DNA)",
+                "url": "https://www.dnaindia.com/india/report-cyclone-arnab-3-dead-houses-damaged-as-strong-winds-lash-andhra-pradesh-3223161"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/environment/cyclone-arnab-begins-making-landfall-indias-andhra-pradesh-state-2026-10-27/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "The United States imposes sanctions on the Rwandan ministry of defence over its role in the conflict in eastern Democratic Republic of the Congo, alleging that Rwanda is backing the M23 rebels to fight against Congolese forces.",
+        "links": [
+            {
+                "source": "(Internazionale)",
+                "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/28/us-imposes-sanctions-on-rwanda-s-ministry-of-defense"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "British far-right activist Tommy Robinson is convicted of harassing two journalists and causing them to fear violence.",
+        "links": [
+            {
+                "source": "(RTÉ)",
+                "url": "https://www.rte.ie/news/world/2026/1028/1597108-tommy-robinson-court/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "Incumbent prime minister Benjamin Netanyahu and his Likud party-led governing coalition wins a plurality of seats in the Knesset, though no alliance wins a majority, leaving government formation unclear.",
+        "links": [
+            {
+                "source": "(CBS News)",
+                "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "In baseball, the Fukuoka SoftBank Hawks defeat the Yokohama DeNA BayStars in four games to win their 13th Japan Series championship.",
+        "links": [
+            {
+                "source": "(Kyodo News)",
+                "url": "https://english.kyodonews.net/articles/-/89710"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "Eight women and children are reported to be injured in a airstrike in Kadugli, South Kordofan, Sudan.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/320591"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "The United Nations General Assembly adopts a resolution calling for an end to the American embargo against Cuba by 130 votes to 17, with 25 abstentions, the measure's lowest support since 1995.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261028-cuba-wins-un-vote-against-us-embargo-with-weakest-backing-in-30-years"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "Brazilian president Luiz Inácio Lula da Silva responds by accusing the U.S. government of colluding with Bolsonaro to install him as president.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/flavio-bolsonaro-expected-land-miami-shortly-after-trump-offers-brazil-exit-2026-10-28/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "In Major League Baseball, the Milwaukee Brewers defeat the Tampa Bay Rays in five games to win their first World Series championship in franchise history.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-tampa-bay-rays-world-series-game-5-result-rcna605974"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-10-28",
+        "description": "A bus transporting local tourists overturns in Sarapiquí, Costa Rica, killing three people and injuring 39 others, including seven seriously.",
+        "links": [
+            {
+                "source": "(AM Costa Rica)",
+                "url": "https://amcostarica.com/Costa%20Rica%20News%20Deadly%20Bus%20Crash%20in%20Costa%20Rica%20Leaves%20Three%20Dead,%2054%20Injured%20102926.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

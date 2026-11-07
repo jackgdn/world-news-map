@@ -1,0 +1,342 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people and wounding several others.",
+        "links": [
+            {
+                "source": "(Infobae)",
+                "url": "https://www.infobae.com/colombia/2026/11/02/atentado-con-volqueta-bomba-en-planadas-tolima-deja-cuatro-muertos-en-balance-preliminar-entre-las-victimas-hay-una-bebe/?outputType=amp-type"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261102-israel-army-withdraws-after-hebron-operation"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "At least 29 people are killed, 10 others are injured, and 48 are missing following a Russian glide bomb strike on an aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast. Ukraine.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "An unidentified person throws an IED bomb at the home of Villa El Salvador mayor-elect Marcelino Huamán Cano in Lima, Peru, while he was with his family, causing property damage but no reported injuries.",
+        "links": [
+            {
+                "source": "(Perú.21 in Spanish)",
+                "url": "https://peru21.pe/policiales/villa-el-salvador-detonan-explosivo-en-casa-de-alcalde-electo-marcelino-huaman-cuando-estaba-con-su-familia/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "Three people are killed and five more injured in two separated mass shootings at two drug rehabilitation centers in Mazatlán, Sinaloa, Mexico.",
+        "links": [
+            {
+                "source": "(La Jornada in Spanish)",
+                "url": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261102-us-approves-cheap-generic-of-breakthrough-hiv-shot-for-poorer-countries"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "A second wave of cyberattacks target freezers and refrigerators in supermarkets in multiple European countries, causing them to overheat and spoil.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "The Spanish interior ministry reportedly deports 16 migrants, including those from Bangladesh, Cameroon, Nigeria, Senegal, and Yemen, from Ceuta to Morocco following the migrant crisis in July.",
+        "links": [
+            {
+                "source": "(The New Arab)",
+                "url": "https://www.newarab.com/news/spain-deports-ceuta-african-asian-asylum-seekers-morocco"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "The United States military carries out airstrikes on Iranian targets across the Strait of Hormuz after Iranian surface-to-air missiles attack American aircraft in the Strait.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "Salvadoran, Haitian, and Gang Suppression Force soldiers launch an offensive in Plain of the Cul-de-Sac which extends from Haiti to the Dominican Republic, killing at least a dozen gang members.",
+        "links": [
+            {
+                "source": "(EFE in Spanish)",
+                "url": "https://efe.com/mundo/2026-11-03/soldados-el-salvador-operacion-haiti/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "The Rapid Support Forces launches drone strikes against three distribution stations in Sudan's Kassala and Northern states.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/320792"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "Uganda begins withdrawing its troops from Somalia, planning to remove all personnel deployed under bilateral and African Union missions by the end of 2027, ending nearly two decades of operations.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/world/uganda-withdrawing-troops-from-somalia-in-blow-to-anti-extremist-mission-3009438"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "Russian forces drop at least nine bombs on a school building serving as a civilian shelter and humanitarian aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast, Ukraine, killing at least 33 people and leaving 50 others missing.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "The United States announces the suspensions of Rwanda and South Africa from duty-free trade benefits under the African Growth and Opportunity Act beginning January 1, 2027, citing trade barriers, human rights concerns, and threats to U.S. interests.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/us-suspend-south-africa-rwanda-duty-free-trade-access-2026-11-02/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-02",
+        "description": "Eight people are killed after they were electrocuted when a vehicle comes into contact with a high-voltage power line in Jhunjhunu, Rajasthan, India.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/20261102/0a5788a4c490493781903b35adfa486a/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
