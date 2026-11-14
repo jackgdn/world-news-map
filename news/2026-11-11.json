@@ -1,0 +1,709 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Pakistani Taliban carries out an ambush against police personnel in Kohat District, Khyber Pakhtunkhwa, Pakistan, killing ten officers. Eighteen gunmen are also killed in the ensuing shootout.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-militants-attack-kohat-afghanistan-police-ttp-260c8876601c767a4111b17fa9dd255c"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Portugal closes approximately 8,000 schools nationwide and suspends non-essential public services as Storm Charles approaches. The second day of the Web Summit in Lisbon is also cancelled.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/portugal-storm-charles-wind-rain-schools-462f7dfd9a5abb0ea0a21d5163d49f37"
+            },
+            {
+                "source": "(Deadline)",
+                "url": "https://deadline.com/2026/11/web-summit-cancels-day-two-as-storm-charles-hits-lisbon-1237220064/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "More than 6,000 schools across Italy are evacuated following bomb threats.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cwz0k79pr8z2o"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/least-300-italian-schools-evacuated-after-email-bomb-alerts-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Three Central Reserve Police Force personnel are injured after militants open fire on a checkpoint near Mir Bazar in Kulgam district, Jammu and Kashmir, India. Security forces launch a search operation to locate the attackers.",
+        "links": [
+            {
+                "source": "(Gulf News)",
+                "url": "https://gulfnews.com/world/asia/india/india-terrorists-attack-crpf-personnel-in-jk-3-hurt-1.500743618"
+            },
+            {
+                "source": "(The Hindu)",
+                "url": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The American ocean liner SS United States is sunk off the coast of Destin–Fort Walton Beach, Florida, United States, to become the world's largest artificial reef.",
+        "links": [
+            {
+                "source": "(Pensacola News Journal)",
+                "url": "https://www.pnj.com/story/news/local/escambia-county/2026/11/11/ss-united-states-sinking-nov-11-timeline-and-where-to-watch/92713208007/"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/famed-ship-heads-afterlife-artificial-reef-deliberate-sinking-off-florida-2026-11-12/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The German cabinet approves draft legislation establishing a strategic natural gas reserve of 24 terawatt-hours, equivalent to approximately 10% of national storage capacity, to maintain gas supplies during emergencies.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "A three-story apartment building partially collapses in Brooklyn, New York City, leaving at least 1 dead and at least 4 injured.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/video/at-least-1-person-dead-4-injured-after-a-building-collapse-in-brooklyn-273302597757"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/brooklyn-building-collapse-202ddc195fbf2dcf14e85d004f3ac130"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Germany announces that its military will discontinue using Chinese-made drones for military training and exercises, replacing them with German or other European models to address security concerns.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/germany-military-chinese-drones-replaced-01cc05bde8132f468da742193fcbc489"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/german-military-bans-commercially-available-chinese-drones-spiegel-reports-2026-11-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Kenyan president William Ruto signs a deal for Sudan to lift its 20-month ban on imports of tea from Kenya.",
+        "links": [
+            {
+                "source": "(Business Daily Africa)",
+                "url": "https://www.businessdailyafrica.com/bd/markets/commodities/sudan-lifts-20-month-ban-on-kenyan-tea-after-ruto-deal-5667376"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces launch a manhunt for him.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261111-74-year-old-italian-ex-marxist-escapes-house-arrest-in-argentina"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Two people are arrested in connection with an explosive attack on the headquarters of Colombian broadcaster RCN Televisión in Cali, Valle del Cauca.",
+        "links": [
+            {
+                "source": "(AFP via Gulf News)",
+                "url": "https://gulfnews.com/world/americas/colombian-media-outlet-attacked-with-explosives-1.500744157"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The Brazilian Superior Electoral Court fines Meta Platforms R$7.5 million (US$1.34 million) for failing to comply with judicial orders concerning the 2026  presidential election, while finding insufficient evidence of deliberate electoral interference.",
+        "links": [
+            {
+                "source": "(AFP via Le Monde)",
+                "url": "https://www.lemonde.fr/en/international/article/2026/11/11/brazil-fines-meta-1-3-million-over-election-controversy_6777388_4.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "After a week of counting affidavit ballots, the Associated Press and CNN project the election to the U.S. Senate in Mississippi for Democratic candidate Scott Colom, defeating the incumbent Republican Cindy Hyde-Smith and becoming the first black senator from the state since Blanche Bruce in the 1874–75 elections.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/mississippi-democrat-flips-us-senate-seat-stunning-upset"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/live/trump-congress-midterm-elections-politics-news-updates-11-11-2026"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/11/11/politics/live-news/hegseth-impeachment-congress"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Polish president Karol Nawrocki and at least 500,000 people participate in the annual patriotic march celebrating the National Independence Day in Warsaw, Poland.",
+        "links": [
+            {
+                "source": "(Zero)",
+                "url": "https://zero.pl/news/narodowe-swieto-niepodleglosci-obchody-i-marsz-niepodleglosci"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Russian ambassador to the United States Alexander Darchiev dies of a chronic illness. His death is announced by the Russian foreign ministry.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/russian-ambassador-us-dies-foreign-ministry-says-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Pope Leo XIV leaves Argentina and arrives in Peru. Peru unveils a 14-meter (45-foot tall) statue of the Pope, described as the world's tallest of the pontiff.",
+        "links": [
+            {
+                "source": "(IJR)",
+                "url": "https://ijr.com/discover/peru-unveils-world-s-tallest-pope-leo-statue-965b6898"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Cybersecurity firm CloudSek reports that the Kazakhstan-linked hacker group Silent Lynx used an autonomous agent to breach Tajikistan's government database and steal more than 2,000 national security-related documents.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
+            },
+            {
+                "source": "(The Record)",
+                "url": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The United States men's national under-17 soccer team withdraws from the upcoming FIFA U-17 World Cup in Qatar, citing safety concerns related to the Houthi–Saudi conflict.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/us-withdraws-u17-world-cup-qatar-over-security-fears"
+            },
+            {
+                "source": "(ESPN)",
+                "url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Iran attacks ship navigation systems on Didamar Island, Oman. Unknown damage is caused.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Israel launches an airstrike against the Nasser Medical Complex in Khan Younis, killing six Palestinians, including a surgeon, and wounding over 20 more. Four more people are also killed in other airstrikes in the Gaza Strip.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "At least 22 people are killed by Islamic State-affiliated Allied Democratic Forces rebels across eight locations in Mambasa Territory, Ituri Province, Democratic Republic of the Congo.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/congo-islamic-state-group-mambasa-attack-kidnapping-c1c568db3a670679818aa426cf28fc80"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "A 3-story apartment building collapses near a construction site in Brooklyn, New York City, United States, killing eight people and wounding 19 more.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/eight-dead-new-york-building-collapse"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/building-collapse-brooklyn-kills-least-one-injures-10-2026-11-12/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The Kenyan health ministry reports that the country has discharged its last Ebola patient from a hospital in Nairobi after eleven contact cases were treated. Kenya will be declared Ebola-free on December 23 if no one else exhibits symptoms.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/kenya-ebola-free-patient-leaves-hospital/a-79921240"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The number of confirmed Ebola cases in the Democratic Republic of the Congo surpasses 11,000, with at least 5,387 deaths, affecting 8 of the country's 26 provinces.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Iran designates the Argentinian naval and air forces as terrorist organizations, in response to Argentina designating the Islamic Revolutionary Guard Corps as such in March.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Russia bans two French lawmakers, Arthur Delaporte and Sacha Houlié, and two journalists, Ariane Chemin and Paul Gogo, from entering the country for allegedly harassing Xenia Fedorova, the head of RT France, from 2017 to 2023.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Millions of workers across Spain launch a general strike to demand government intervention over the country's housing crisis, as an escalation of the ongoing protests.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins"
+            },
+            {
+                "source": "(El País)",
+                "url": "https://english.elpais.com/spain/2026-11-11/spains-unions-call-the-first-general-strike-in-14-years.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Indonesian vice president Gibran Rakabuming Raka submits his resignation amid questions about his educational qualifications. Bloomberg News reports that President Prabowo Subianto accepts the resignation, although the government has not publicly confirmed its acceptance.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The Romanian Intelligence Service (SRI) reports that it stopped a December 2025 cyberattack against an unidentified government institution, attributing it to the Russia-linked trojan package Turla. The SRI finds no evidence that sensitive information was stolen.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/technology/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack-2026-11-11/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "The Central Bank of Paraguay reports providing partial refunds to 1,812,348 eligible Ueno Bank depositors following the bank's collapse.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-11",
+        "description": "Ten people are killed and 13 more injured during clashes between police and protestors after a patrol against illegal gold mining in Balato, Guinea.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/guinea-illegal-mining-clashes-3bf55251d4da7159b04e031c8783d7a4"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

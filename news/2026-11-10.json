@@ -1,0 +1,470 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Eleven people are killed and 48 injured in a multiple-vehicle collision involving over 50 trucks and cars on Trakia (A1) highway in Yambol, Bulgaria.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/11/10/at-least-10-victims-in-bulgarian-motorway-pile-up-involving-more-than-50-vehicles"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Australian prime minister Anthony Albanese announces plans to introduce mandatory safeguards for artificial intelligence companies, including security incident reporting and independent model evaluations, and establish a new regulatory body to oversee compliance.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/australia-adopt-mandatory-ai-safeguards"
+            },
+            {
+                "source": "(ABC News)",
+                "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "A military court in Goma, North Kivu, Democratic Republic of the Congo, sentences 66 soldiers to death on charges of cowardice, mutiny, and failure to obey orders, after they were arrested following clashes with Front for the Refoundation of the Nation rebels.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "At least eight people, including two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia.",
+        "links": [
+            {
+                "source": "(Internazionale)",
+                "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/eight-people-killed-in-kenya-s-northeast-in-suspected-al-shabaab-attack"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Twelve people are killed and 51 others are seriously injured in a multiple-vehicle collision involving 86 vehicles on the Trakia motorway near Yambol, Bulgaria.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria"
+            },
+            {
+                "source": "(Plovdiv24)",
+                "url": "https://www.plovdiv24.bg/novini/Bylgaria/Dron-zasne-nevizhdanite-mashtabi-na-tragediyata-na-AM-Trakiya-86-koli-i-kamioni-11-zhertvi-i-50-raneni-3054257"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Five schoolgirls are killed and 21 others are injured when a school bus plunges into a pond in Kandal province, Cambodia.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/cambodia-traffic-accidents-school-bus-e0c3e6316356dcbe3c4ff9fbed68a62b"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "The United States Food and Drug Administration orders manufacturers of GLP-1 medicines such as semaglutide and tirzepatide, originally intended for the treatment of type 2 diabetes but also commonly used for weight loss, to add warnings that use of such drugs may increase the risk of developing non-arteritic anterior ischemic optic neuropathy, an optic nerve disorder that can cause permanent blindness.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/crwydyde0lp3o"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-orders-new-eye-risk-warnings-ozempic-zepbound-2026-11-09/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "The Judicial Committee of the Privy Council overturns colonial-era provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/uk/uk-court-overturns-trinidad-tobago-law-criminalising-homosexual-sex-2026-11-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Police arrest an American soldier near Gloucester, England, on suspicions of espionage activity in connection with Russia.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/us-american-soldier-arrested-uk-spying-russia/a-79913240"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "An explosive device kills a police officer and his K9 dog and injures another while they were responding to a shooting in Oviedo, Asturias, Spain.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/spain-police-killed-explosive-e16086184fbee0e74f9e4b8e9992e075"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cwm262pzezy0o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Indonesian vice president Gibran Rakabuming Raka announces his intention to resign following controversies about the authenticity of his high-school diploma.",
+        "links": [
+            {
+                "source": "(Nikkei Asia)",
+                "url": "https://asia.nikkei.com/politics/indonesian-vp-gibran-to-resign-presidential-office-says"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/indonesia-vice-president-expresses-intention-resign-presidential-official-says-2026-11-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "A third round of United States-mediated talks between Ukrainian and Russian delegations begins in Abu Dhabi, United Arab Emirates, focusing on the humanitarian impact of the war, prisoners of war, and security guarantees. Earlier in the day, the American and Ukrainian teams held a separate meeting with representatives of France, Germany, Italy, the United Kingdom, the European Commission, and NATO.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
+            },
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Eight people, including five workers and two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia, during an ambush against a vehicle.",
+        "links": [
+            {
+                "source": "(AFP via AA)",
+                "url": "https://aa.com.tr/en/africa/suspected-al-shabaab-militants-kill-8-in-northeastern-kenya-ambush/4119429"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "The Venezuelan National Assembly unanimously approves a reform of the electricity law which allows private companies and joint ventures to invest in the nationalised electricity sector, which the government has controlled since 2007.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261111-venezuela-opens-electricity-sector-to-private-investment"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "The Monetary Authority of Singapore launches a gold reserve service for foreign central banks, international financial institutions, and sovereign entities, and announces expanded tax exemptions for wholesale gold services.",
+        "links": [
+            {
+                "source": "(AFP via The Daily Star)",
+                "url": "https://www.thedailystar.net/business/global-economy/news/singapore-launches-gold-storage-service-central-banks-4319921"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/singapore-launch-gold-vault-service-foreign-central-banks-2026-11-10/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "The British Columbia Conservation Officer Service kills a female grizzly bear and her three cubs after DNA evidence confirmed that the bears killed two people near Bella Coola, B.C., Canada.",
+        "links": [
+            {
+                "source": "(AFP via ABS-CBN News)",
+                "url": "https://www.abs-cbn.com/news/world/2026/11/11/four-bears-blamed-and-put-down-after-fatal-mauling-in-canada-0852"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cwg5r8zrm11mo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "The Thai cabinet approves new environmental regulations for data centers, including limits on noise and temperature increases, requirements for cooling-water recycling and testing, and industrial zoning for facilities consuming more than 20 megawatts.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/se-asia/thailand-sets-noise-water-use-limits-for-data-centres"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "El Salvador announces it has launched a joint military operation with the Haitian police against the 400 Mawozo gang, killing 20 people and destroying a house linked to its leader, Wilson Joseph.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "British news outlets The Guardian and ITV News identify comedian and author David Walliams as the subject of sexual misconduct allegations after the High Court of Justice rejects his attempt to prevent their publication. Walliams denies the allegations.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/10/entertainment/david-walliams-celebrity-injunction-sexual-misconduct-intl"
+            },
+            {
+                "source": "(RTÉ News)",
+                "url": "https://www.rte.ie/news/2026/1110/1598675-walliams-named-in-failed-injunction/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-10",
+        "description": "Indonesian police detain 154 people following clashes with protesters in Yogyakarta, Java. The Yogyakarta Legal Aid Institute reports that two people are hospitalized and 13 others remain missing.",
+        "links": [
+            {
+                "source": "(AFP via New Straits Times)",
+                "url": "https://www.nst.com.my/world/region/2026/11/1575315/indonesia-detains-dozens-after-night-protest-violence"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

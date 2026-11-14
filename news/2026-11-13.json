@@ -1,0 +1,245 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "Iran says it has destroyed an early-warning radar in Bahrain as a retaliation for a United States strike on telecommunication infrastructure on Sirik.",
+        "links": [
+            {
+                "source": "(Türkiye)",
+                "url": "https://www.turkiyetoday.com/region/irgc-claims-strike-on-us-early-warning-radar-in-bahrain-after-sirik-attack-3232293?s=1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "The last recorded song by the late American country singer Dolly Parton, a duet with Bono, is released as part of U2's 16th album Carnaval De Luz, months after her death in August.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://www.cnn.com/2026/11/13/entertainment/dolly-parton-u2-torn-released-intl-scli"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "A tanker and the cruise ship American Heritage collide in the Mississippi River of the United States. The cruise ship, carrying 130 people, sinks. All aboard the American Heritage survive, with some taken to local hospitals for treatment of minor injuries.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cw20xmy0m5yyo"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/13/us/new-orleans-river-cruise-collision"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "The Federal Aviation Administration issues a nationwide ground stop for all flights in the United States due to \"extraordinary circumstances\".",
+        "links": [
+            {
+                "source": "(Axios)",
+                "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "Twenty-four people are killed and eleven more injured in a bus–truck collision in Golaghat, India.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "Six people are killed and five more injured after an under construction building partially collapses in Nairobi, Kenya.",
+        "links": [
+            {
+                "source": "(Xinhua)",
+                "url": "https://english.news.cn/africa/20261113/75a689cf03b845409fd909fec59f84ba/c.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "In the United Kingdom, Metropolitan Police announce a criminal investigation into actor David Walliams about \"alleged serious sexual offences\". The police say they are separate to those investigated by ITN and The Guardian.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/david-walliams-uk-police-investigation-84a5d758f0b9a2b3e67d6a6fe01b5dca"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cwx2emg4xe72o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "The United States Federal Aviation Administration issues a nationwide ground stop for all flights due to \"extraordinary circumstances involving communications failures\". It is later lifted.",
+        "links": [
+            {
+                "source": "(Bloomberg)",
+                "url": "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "The United States Department of State designates three Guatemalan criminal groups as foreign terrorist organizations for providing material support to Mexican cartels.",
+        "links": [
+            {
+                "source": "(AFP via Macau Business)",
+                "url": "https://macaubusiness.com/us-imposes-terrorist-designations-on-three-guatemala-groups/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "Qatar and Turkey sign a defense pact in Istanbul.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261113-turkey-qatar-sign-mutual-defence-agreement"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-13",
+        "description": "In association football, the Royal Spanish Football Federation suspends FC Andorra goalkeeper Jesús Owono for 12 matches following a collision with CD Tenerife forward Jesús de Miguel during a November 2 match, which resulted in de Miguel's death.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

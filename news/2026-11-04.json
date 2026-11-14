@@ -1,0 +1,283 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "The Bangladeshi garment industry wage board agrees to increase minimum wages following five days of worker protests and clashes with police. Workers demand ৳30,000 (US$240) monthly, up from ৳12,500 (US$100), while the board has not specified the increase.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/bangladesh-increase-garment-sector-pay-after-protests"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials in absentia, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/singapore-toughens-haze-law-arrest-powers-bigger-fines"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Philippine authorities seize a 200-kilogram (440 lb) shipment of methamphetamine, whose origin is traced to Laos, at the Manila International Container Port. The shipment had arrived six days after Laotian police found similar contraband destined for the Philippines.",
+        "links": [
+            {
+                "source": "(Arab News)",
+                "url": "https://www.arabnews.com/world/philippines-seizes-200-kg-of-methamphetamine-at-manila-port-3009754"
+            },
+            {
+                "source": "(Philippine Daily Inquirer)",
+                "url": "https://globalnation.inquirer.net/345789/this-time-shabu-cargo-from-laos-reaches-ph-before-seizure"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "The United Kingdom's Office for National Statistics reports that deaths linked to cocaine use have overtaken deaths from heroin in England and Wales for the first time on record. The increase in deaths from cocaine use is blamed on increased purity of the drug and its widespread availability across the UK in recent years.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Hungary makes Communist-era secret police records publicly accessible through a database containing approximately 60,000 names linked to former state security services. Prime Minister Péter Magyar announces that additional documents will become available in February 2027.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/hungary-opens-communist-era-informer-files-belated-reckoning-with-cold-war-past-2026-11-04/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "The Neil Gehrels Swift Observatory, a space telescope for studying gamma-ray bursts, re-enters Earth's atmosphere over Sumatra, ending its mission of nearly 22 years.",
+        "links": [
+            {
+                "source": "(NASA)",
+                "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Two women are killed in a airstrike by Sudan's army on a water source in Umm Badr, North Kordofan.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/320888"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Five people are killed while two others are injured in an explosion at a suspected illegal fireworks factory in Malasiqui, Pangasinan, Philippines.",
+        "links": [
+            {
+                "source": "(The Philippine Star)",
+                "url": "https://www.philstar.com/nation/2026/11/06/2568219/5-killed-pangasinan-firecracker-factory-explosion/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "A fire and explosion at a Panasonic subsidiary's factory in Hsinchu County, Taiwan, kills two employees and injures five others.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/two-confirmed-dead-after-taiwan-panasonic-factory-fire-2026-11-05/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account.",
+        "links": [
+            {
+                "source": "(Firstpost)",
+                "url": "https://www.firstpost.com/business/french-bank-hit-by-cyberattack-hackers-siphon-off-nearly-112-million-14058157.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "President of the Bolivian Supreme Court Romer Saucedo announces that he is leaving the country following an investigation into drug trafficking in which senior judicial officials, such as former Attorney General Roger Mariaca, have been arrested.",
+        "links": [
+            {
+                "source": "(La Tercera)",
+                "url": "https://www.latercera.com/mundo/noticia/bolivia-el-presidente-del-tribunal-supremo-de-justicia-huye-tras-orden-de-captura-por-narcotrafico/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Over 50 people are injured and police vehicles are torched as garment workers clash with police in Savar.",
+        "links": [
+            {
+                "source": "(The Financial Express)",
+                "url": "https://thefinancialexpress.com.bd/national/over-50-injured-as-garment-workers-clash-with-police-in-savar"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-04",
+        "description": "Former American internet personality and YouTuber Bryant Moreland (known online as EDP445) is arrested in Las Vegas, Nevada, U.S., on multiple felony sex crime charges following self-incriminating statements made in a recent documentary by American director Mike Clum including a 2021 incident in Bakersfield, California.",
+        "links": [
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html"
+            },
+            {
+                "source": "(The Hindustan Times)",
+                "url": "https://www.hindustantimes.com/world-news/us-news/youtuber-edp445-bryant-moreland-arrested-in-las-vegas-over-alleged-sex-crimes-involving-a-minor-101793832237507.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
