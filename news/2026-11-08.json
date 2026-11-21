@@ -1,0 +1,546 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "A Mw 5.7 earthquake strikes central Japan with its epicenter in Shizuoka Prefecture, while also affecting Aichi, Gifu, Nagano and Yamanashi prefectures. At least 22 people are injured.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/earthquake-japan-170119b720b08d9f40028e5bc40feb17"
+            },
+            {
+                "source": "(NHK World-Japan)",
+                "url": "https://www3.nhk.or.jp/nhkworld/news/20261108de72261/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "A train derails near El Ayyat, Giza Governorate, Egypt, killing seven people and wounding 125 more.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "In stock car racing, Hendrick Motorsports' driver Kyle Larson wins his third career NASCAR Cup Series championship, becoming the first driver to win two consecutive championships since 2010.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/nascar-championship-kyle-larson-chase-b684d52d336492b1ab3f17c21c1fa5e8"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "At least five people are killed, including four children, and several injured people are rescued after heavy rain and flooding caused a sandbank to collapse in Deir el-Balah, Gaza.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Several floors of Aramco Tower, a skyscraper owned by Saudi Aramco located in Riyadh, Saudi Arabia, are damaged after a Houthi ballistic missile is intercepted over the city by Saudi air defense systems. No casualties or injuries are reported.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c6ly3mjx958eo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Iranian state media reports that explosions are heard on Qeshm Island in the Strait of Hormuz after reporting that the U.S. military fired projectiles.",
+        "links": [
+            {
+                "source": "(Middle East Eye)",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Production is temporarily suspended at the Khor Mor gas field in Iraqi Kurdistan after a liquefied petroleum gas storage tank at the site is hit by a drone. No group claims responsibility for the attack.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/"
+            },
+            {
+                "source": "(AFP via South China Morning Post)",
+                "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Mexican Navy personnel, working with intelligence from the National Intelligence Center and the United States Drug Enforcement Administration, arrest Rafael Álvarez Ayala, the alleged leader of the Jalisco New Generation Cartel cell \"Los Rs\", in Zapopan, Jalisco, Mexico. He is wounded in a shootout during the operation and is wanted on a Michoacán warrant for aggravated homicide.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel"
+            },
+            {
+                "source": "(Infobae in Spanish)",
+                "url": "https://www.infobae.com/mexico/2026/11/08/tras-enfrentamiento-detienen-en-jalisco-a-rafael-n-alias-el-r2-cabecilla-de-los-rs-del-cjng/"
+            },
+            {
+                "source": "(El Financiero in Spanish)",
+                "url": "https://www.elfinanciero.com.mx/nacional/2026/11/08/detienen-a-r2-en-zapopan-lo-vinculan-con-el-asesinato-de-carlos-manzo/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "NVIDIA announces it is opening an investigation into CEO Jensen Huang after American intelligence reported that a close associate of Huang was a spy for China. Huang admitted to an extramarital affair with the associate in a letter to the company earlier in the day.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/live/cm78p221e313t"
+            },
+            {
+                "source": "(The New York Times)",
+                "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Three people are killed and more than 300 others are rescued from severe flooding in Erbil, Kurdistan Region, Iraq.",
+        "links": [
+            {
+                "source": "(Shafaq)",
+                "url": "https://shafaq.com/en/Kurdistan/Erbil-floods-kill-three-over-300-rescued"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "A bus traveling towards Zagreb, Croatia, overturns on the A3 motorway, killing two people and injuring 20 others.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/croatia-bus-crash-highway-4943f3e00b96d73414eeff6b8fc39eb8"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "At least 34 people are killed when a small boat carrying migrants capsizes off the coast of Kébémer, Louga, Senegal.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Former National Congress Party politician Ahmed Haroun, who is wanted by the International Criminal Court for genocide in Sudan's Darfur region during war, is detained by the Sudanese army.",
+        "links": [
+            {
+                "source": "(AFP via Arab News)",
+                "url": "https://www.arabnews.com/middle-east/sudan-detains-chairman-of-former-ruling-party-ahmed-haroun-two-party-officials-say-3010516"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "The Maltese Civil Court orders four investment companies, including two from Malta and two from Luxembourg, to pay the Vatican Bank €24.1 million in damages over a 2013 deal involving the Kappa Fund.",
+        "links": [
+            {
+                "source": "(Times of Malta)",
+                "url": "https://timesofmalta.com/article/malta-court-awards-vatican-bank-241m-budapest-property-dispute.1136763"
+            },
+            {
+                "source": "(Vatican News)",
+                "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Authorities of El Hierro in the Canary Islands, Spain, declare a state of emergency following a surge of over 3,300 migrants and refugees arriving on the island this month.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "Three people are arrested as pro-Palestine protesters are confronted by pro-Israel counterprotesters in Rittenhouse Square, Philadelphia, Pennsylvania, United States, amidst a boycott of six Jewish-owned restaurants targeted by a cycling club over their support of Israel.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/news/us-news/billboards-urge-boycott-boycott-jewish-owned-businesses-rcna608119"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "More than 200,000 people march in Amsterdam, Netherlands, to protest against Israel's genocide in Gaza and the Dutch government's support of the Israeli military.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "In Formula racing, Mercedes-Benz wins its ninth World Constructors' Championship after drivers George Russell and Kimi Antonelli finished fourth and fifth, respectively, at the São Paulo Grand Prix in Brazil.",
+        "links": [
+            {
+                "source": "(Daily Tribune)",
+                "url": "https://tribune.net.ph/2026/11/09/mercedes-reigns-again-as-silver-arrows-clinch-2026-constructors-championship"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "In association football, Inter Miami player Lionel Messi is awarded the 2026 Golden Boot Award after scoring 26 goals in one season, becoming the first player in league history to win the award in consecutive years.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "An Super Puma H-225 helicopter crashes in South Kalimantan during a forest firefighting mission, killing one person.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/cxnv0442ml6vo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "The death toll from the boat capsizing yesterday off the coast of Kébémer, Louga, Senegal, increases to 39 people.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261109-senegal-officials-raise-migrant-boat-death-toll-to-39"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "A fire at a high-rise apartment building in Taiyuan, Shanxi, China, kills 14 people and leaves 25 others hospitalized.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/"
+            },
+            {
+                "source": "(South China Morning Post)",
+                "url": "https://www.scmp.com/news/china/politics/article/3373750/fire-northern-china-high-rise-building-kills-14-injures-dozens-more"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "In golf, Blades Brown wins the 2026 World Wide Technology Championship in Los Cabos, Mexico, at 19 years and five months, becoming the youngest PGA Tour winner since 1931 and the fourth-youngest in its history.",
+        "links": [
+            {
+                "source": "(AFP via The Philippine Star)",
+                "url": "https://www.philstar.com/sports/2026/11/09/2568971/blades-brown-becomes-youngest-pga-tour-winner-1931"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-08",
+        "description": "At least 10 people are injured in Araihazar, Narayanganj, Bangladesh, during a clash between two factions of the Bangladesh Nationalist Party at a National Revolution and Solidarity Day program.",
+        "links": [
+            {
+                "source": "(Prothom Alo in Bengali)",
+                "url": "https://www.prothomalo.com/bangladesh/district/ihc0h3av1v"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

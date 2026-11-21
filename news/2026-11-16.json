@@ -1,0 +1,388 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "The European Commission (EC) and the United States Federal Reserve approve Italian bank UniCredit's proposed €45 billion (US$49 billion) acquisition of Germany's Commerzbank, following the European Central Bank's approval in October. The EC grants unconditional antitrust clearance.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/finance/unicredit-wins-eu-approval-commerzbank-acquisition-2026-11-16/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Eleven people are killed and 16 others are injured in a fire at a four-story building in Patong, Phuket province, Thailand.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "The United States Department of State reverses its decision to withdraw funding from the United Nations Support Office for Somalia and supports extending its mandate and that of the African Union's military mission combating Al-Shabaab for another year.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/reversal-us-fund-un-military-support-somalia-another-year"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "The Gambian election commission approves President Adama Barrow's candidacy for a third term in the December 5 presidential election as the country's constitution does not limit presidential terms.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/gambia-clears-barrow-run-third-presidential-term-approves-eight-other-candidates-2026-11-16/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close the bridge to vehicle traffic. The bridge is partially reopened later in the day.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Saudi Arabia's King Salman appoints Chairman of the General Staff Fayyadh Al Ruwaili as commander of the Saudi-led coalition in Yemen, following the retreat of Yemeni government forces from areas near the Bab al-Mandeb to Aden.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Nine people are killed in a mass shooting at a shack near Pretoria, South Africa.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/africa/least-17-people-killed-2-mass-shootings-day-south-africa-rcna609688"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Eight people are found shot and killed inside a vehicle in Msunduzi Local Municipality, KwaZulu-Natal, South Africa.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/south-africa-shootings-pretoria-1d8c73c660ebe7feda8d4c3848f6ac4f"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Five gunmen are killed after a shootout between criminal organizations in Chignahuapan, Puebla, Mexico.",
+        "links": [
+            {
+                "source": "(El Sol de México)",
+                "url": "https://oem.com.mx/elsoldepuebla/local/reportan-cinco-muertos-tras-enfrentamiento-entre-bandas-en-chignahuapan-33148129"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Two people are killed and three more injured in a mass shooting at a party in Mazatlán, Sinaloa, Mexico.",
+        "links": [
+            {
+                "source": "(El Universal)",
+                "url": "https://www.eluniversal.com.mx/estados/musicos-de-la-banda-hr-heridos-en-ataque-armado-en-mazatlan-estan-fuera-de-peligro-solicitan-apoyo-para-cubrir-gastos-medicos/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Former Togolese prime minister Gilbert Houngbo is re-elected director-general of the International Labour Organization.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/former-togo-pm-re-elected-un-labour-agency-chief"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "A Paraguayan judge orders impeached former president Santiago Peña transferred to the Viñas Cué military prison pending trial on charges of criminal association, breach of trust, and misuse of public office linked to Ueno Bank's collapse.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/paraguay-judge-orders-ex-president-pea-transferred-military-prison-2026-11-16/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Bahrain sentences 64 Shia Muslims, mostly clerics, to life in prison for establishing a terrorist group linked to Iran's Islamic Revolutionary Guard Corps.",
+        "links": [
+            {
+                "source": "(BBC)",
+                "url": "https://www.bbc.com/news/articles/cmx20pyew3zxo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Police fire tear gas and sound grenades to disperse protesting garment workers blocking a road in Gazipur, after the Minimum Wage Board postpones its scheduled minimum wage meeting.",
+        "links": [
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/news/gazipur-garment-workers-block-road-police-fire-tear-gas-4325191"
+            },
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/economy/rmg/owners-submit-minimum-wage-proposal-boards-third-meeting-today-amid-ongoing-unrest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Ukraine finishes search and rescue operations at a humanitarian aid distribution center in Komyshuvakha, Zaporizhzhia Oblast, that was destroyed by a Russian airstrike on 2 November. A total of 72 people were killed, and four more people are missing.",
+        "links": [
+            {
+                "source": "(Meduza)",
+                "url": "https://meduza.io/news/2026/11/16/v-kamyshevahe-zavershili-poisk-zhertv-rossiyskogo-udara-po-punktu-vydachi-gumanitarnoy-pomoschi-chislo-pogibshih-dostiglo-72-chelovek"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Around ten people are injured, several requiring hospitalization, in East London, United Kingdom, when banned Awami League activists allegedly attack Bangladeshi expatriates and students with glass bottles and steel rods outside a reception for National Citizen Party convener Nahid Islam and the 11 Party Alliance.",
+        "links": [
+            {
+                "source": "(New Age)",
+                "url": "https://www.newagebd.net/post/politics/322945/10-hurt-in-al-attack-after-nahids-london-reception-ncp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "Three people are killed when a Piper Comanche aircraft crashes in the North Rim area of Grand Canyon National Park in Arizona, United States.",
+        "links": [
+            {
+                "source": "(FOX Weather)",
+                "url": "https://www.foxweather.com/weather-news/3-dead-missing-plane-crash-grand-canyon-national-park"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-16",
+        "description": "English actor Robert Pattinson is cast as James Bond in the ongoing film series starring the character.",
+        "links": [
+            {
+                "source": "(Variety)",
+                "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

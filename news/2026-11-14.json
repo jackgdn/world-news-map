@@ -1,0 +1,354 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Philippines wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand with the song \"Sobra-Sobra\" by Carmelle.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/philippines-wins-eurovisions-first-asia-contest"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/thailand-eurovision-asia-2026-carmelle-winner-099ca558c4638949e637d3a8f8061d6d"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Bangladesh Garment Manufacturers and Exporters Association threatens to indefinitely close textile factories without pay under the Bangladesh Labour Act 2006, after ongoing wage protests force the shutdown of 55 units and halt production at 147 others.",
+        "links": [
+            {
+                "source": "(AFP via The Straits Times)",
+                "url": "https://www.straitstimes.com/asia/bangladesh-garment-makers-threaten-to-quit-wage-talks"
+            },
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/economy/rmg/rmg-factory-owners-threaten-closures-under-no-work-no-pay-provision-amid-labour-unrest"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "Canadian prime minister Mark Carney announces that negotiations for a free-trade agreement with the Philippines to eliminate more than 90% of tariff lines have concluded, with signing expected in 2027.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/canadas-carney-touts-philippine-trade-deal-asia-tour"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Slagdijkstermolen windmill in Friesland, Netherlands, burns down.",
+        "links": [
+            {
+                "source": "(Omrop Fryslân in Dutch)",
+                "url": "https://www.omropfryslan.nl/nl/nieuws/18947046/historische-slagdijkstermolen-bij-stiens-volledig-verwoest-door-felle-brand"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "Eight more people are reported to have died from dengue fever in Bangladesh, bringing this year's outbreak's death toll to 491.",
+        "links": [
+            {
+                "source": "(BSS)",
+                "url": "https://www.bssnews.net/others/445684"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "Border Guard Bangladesh seize 48 high-power explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District.",
+        "links": [
+            {
+                "source": "(BSS)",
+                "url": "https://www.bssnews.net/district/445828"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "Student protesters, unions, and the yellow vests hold another nationwide protest in France, with over 100,000 participants.",
+        "links": [
+            {
+                "source": "(France 24)",
+                "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+            },
+            {
+                "source": "(Türkiye)",
+                "url": "https://www.turkiyetoday.com/world/frances-weekend-rallies-draw-106000-by-official-count-while-unions-claim-200000-3232407"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The South Sudanese election commission postpones the country's first presidential and parliamentary elections since independence in 2011 from December 22, 2026, to February 11, 2027, amid political tensions and continuing violence.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261114-south-sudan-postpones-first-national-elections-until-february"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), dies from wounds suffered a month ago during an assassination attack by drone strike against his home in Nyala, South Darfur, Sudan.",
+        "links": [
+            {
+                "source": "(Sudan Tribune)",
+                "url": "https://sudantribune.com/article/321241"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Iranian military attacks an American military facility in Bahrain with drones and missiles in one of the largest attacks on the country in months.",
+        "links": [
+            {
+                "source": "(The National News)",
+                "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "A bus overturns on the Garzón–Neiva highway in Colombia, killing six people and wounding eleven more.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/colombia-bus-crash-caqueta-driver-sleep-083df4d921603bc7566ce9299174b20d"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Guatemalan Army deploys a battalion to the departments of Zacapa, Izabal, and Chiquimula following an attack in the Zacapa Department the previous day that killed five people.",
+        "links": [
+            {
+                "source": "(Prensa Libre in Spanish)",
+                "url": "https://www.prensalibre.com/guatemala/justicia/ejercito-moviliza-hasta-600-soldados-tras-siete-asesinatos-en-zacapa-e-izabal-que-revelan-las-investigaciones-breaking/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Italian Data Protection Authority fines American technology company Meta €805 million (US$887 million) after it was found that the Facebook app on Android had access to users' photos and videos without specific consent or disclosure.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/cwn83gxemk35o"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "Four workers are killed after a methane gas explosion at a mine in Chita, Boyacá Department, Colombia.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/colombia-mine-explosion-chita-bodies-77de9fe1831a8c03696e617149bb92d9"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "An arson attack on the home of journalist Rolando Rodríguez, associate deputy editor of the Panamanian newspaper La Prensa, burns two cars and the entrance of the house.",
+        "links": [
+            {
+                "source": "(El Sol de México in Spanish)",
+                "url": "https://oem.com.mx/elsoldemexico/mundo/lanzan-explosivo-contra-la-casa-de-rolando-rodriguez-periodista-de-la-prensa-panama-33130441"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-14",
+        "description": "The Mexican government introduces penalties and fines for the fraudulent commercial use of government logos, official documents, and institutional identities to deceive the public. Although the government stated that the reform targeted fraud and impersonation rather than satire, critics warned that its broad wording could threaten freedom of expression, being dubbed the \"Anti-Meme Law\".",
+        "links": [
+            {
+                "source": "(El Financiero in Spanish)",
+                "url": "https://www.elfinanciero.com.mx/nacional/2026/11/14/publican-la-ley-antimemes-en-el-dof-estas-son-las-multas-y-penas-de-carcel/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

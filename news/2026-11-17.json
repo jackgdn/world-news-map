@@ -1,0 +1,559 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC says it shot down a General Atomics MQ-9 Reaper drone south of the island.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/"
+            },
+            {
+                "source": "(AFP via Le Monde)",
+                "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "The Crimean Bridge is struck by Ukrainian drones for the second day in a row, killing two people and prompting Russian authorities to close vehicle traffic again. Open-source intelligence report that a section of the road bridge damaged yesterday has collapsed into the Kerch Strait.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
+            },
+            {
+                "source": "(Türkiye)",
+                "url": "https://www.turkiyetoday.com/world/kerch-bridge-road-arch-reportedly-falls-into-sea-after-ukrainian-strikes-3232578"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Mongolian president Ukhnaagiin Khürelsükh announces his resignation from office, three days after former Ulaanbaatar mayor Khishgeegiin Nyambaatar accused him of past embezzlement from a railway project during his tenure as prime minister. The State Great Khural must accept the resignation for it to become effective.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/mongolia-president-corruption-allegations-9542b2bf7536db6ae65b371aac07bbf4"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Five Palestinians are killed, including a child, and others are injured in a series of Israeli airstrikes on various areas of the Gaza Strip, Palestine.",
+        "links": [
+            {
+                "source": "(Anadolu Agency)",
+                "url": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-palestinian-blows-up-homes-in-gaza-despite-ceasefire/4127526"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "A 72-year-old Palestinian woman is killed and ten others are injured in an attack by Israeli settlers on Palestinian homes in the village of Ein ad-Duyuk at-Tahta west of Jericho in the occupied West Bank.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Following the arrest of party leaders, banned Awami League and Chhatra League activists mobilize via mosque loudspeakers to storm and burn a police station in Tungipara, Gopalganj District, Bangladesh. Amid police tear gas and rubber bullet fire, the attackers free detainees, loot firearms, burn Bangladesh Nationalist Party MP S M Jilani's (Gopalganj-3) residence, and blockade local roads.",
+        "links": [
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406"
+            },
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/bangladesh/bnp-mp-zilanys-house-set-fire-gopalganj-1605941"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Around ten people are injured, several requiring hospitalization, in East London, United Kingdom, when banned Awami League activists allegedly attack Bangladeshi expatriates and students with glass bottles and steel rods outside a reception for National Citizen Party convener Nahid Islam and the 11 Party Alliance.",
+        "links": [
+            {
+                "source": "(New Age)",
+                "url": "https://www.newagebd.net/post/politics/322945/10-hurt-in-al-attack-after-nahids-london-reception-ncp"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Bangladeshi police and 42 platoons of the Border Guard Bangladesh deploy tear gas, stun grenades, batons, and surveillance drones against garment workers across Dhaka, Savar, Ashulia, Gazipur, and Narayanganj protesting for a minimum wage hike from ৳12,500 (US$100) to ৳30,000 ($240). Protesters block the N3, N4, and N5 highways and shutter 37 factories after a Minimum Wage Board meeting is delayed to November 23.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/bangladesh-garment-workers-police-clash-fresh-wage-protest"
+            },
+            {
+                "source": "(The Hindu)",
+                "url": "https://www.thehindu.com/news/international/fresh-unrest-in-bangladesh-as-garment-workers-protest-block-highways-for-higher-wages/article71711657.ece"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Canada and China agree to further tariff reductions following talks between Canadian prime minister Mark Carney and Chinese leader Xi Jinping before the APEC summit in Shenzhen. China reduces tariffs on C$400 million (¥1.8 billion) in Canadian exports, while Canada extends relief for Chinese steel and aluminium.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/canada-china-agree-further-tariff-cuts-leaders-meet"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "A Russian Air Force Antonov An-12 crashes near Kemerovo, Russia, killing all 19 people on board.",
+        "links": [
+            {
+                "source": "(The Independent)",
+                "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
+            },
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/russia-military-air-crash-siberia-an12-bb68e35e985a5e72786d813cf0ce598d"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Forty-six people are injured after a collision between two trains in Prague, Czech Republic.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c6reg7r589nro"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "The Pan American Health Organization revokes the measles elimination statuses of Bolivia, Mexico, and the United States. For the U.S., the organization cited continuous domestic transmission for over 12 months amid more than 5,700 reported infections and multiple deaths in 2026.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261117-us-loses-measles-free-status-as-cases-deaths-mount"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "France and Malaysia establish a strategic partnership, signing agreements on defence, energy, and technology cooperation during French president Emmanuel Macron's state visit. Malaysia also agrees to permit limited exports of unprocessed rare-earth minerals to France in exchange for assistance with mineral processing.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/aerospace-defense/france-malaysia-eye-defence-rare-earths-cooperation-during-macron-visit-kuala-2026-11-17/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "British foreign secretary Ed Miliband announces that the United Kingdom will sanction eight companies involved in the construction of settlements in the occupied West Bank, as well as Tzav 9 for its role in blocking humanitarian aid to the Gaza Strip.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/britain-israel-sanctions-west-bank-construction-8e4de81ef0b6fdbf0fd5f687e95de163"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "American technology company Apple experiences an outage with several of its services, including Apple Pay, iCloud, the App Store, and AppleCare. The company's spokesperson attributed the problems to an internal update and rules out a cyberattack.",
+        "links": [
+            {
+                "source": "(Time)",
+                "url": "https://time.com/article/2026/11/17/apple-outage-down-update-issue/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Bahrain's military intercepts a number of drones fired by Iran's Islamic Revolutionary Guard Corps (IRGC) at Sheikh Isa Air Base.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/amp/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "In Comilla, Bangladesh, Swechhasebak Dal members burn the local Awami League office and former MP AKM Bahauddin Bahar's residence in retaliation for the attack on BNP leader S M Jilani's home.",
+        "links": [
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/bangladesh/awami-league-office-former-mp-bahars-house-set-fire-cumilla-1606191"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "A court in Conakry, Guinea, tries over 1,000 alleged artisanal gold miners for illegal gold mining in the Siguiri region, resulting in the sentencing of 22 former regional administrators and 202 others to various prison terms.",
+        "links": [
+            {
+                "source": "(DW)",
+                "url": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "The North Macedonian Agency for National Security arrests five Macedonian nationals allegedly linked to an assassination plot in Greece, allegedly involving Iranian recruiters, including Naji Sharifi-Zindashti, who is wanted by the U.S. Federal Bureau of Investigation. A sixth person remains at large. Greek public television reports that the target was a Israeli business executive based in Athens.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/north-macedonia-iran-greece-arrests-449228844460fe264a7a0da5f50b3fd1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Two weeks after Election Day, Democratic candidate Mary Peltola is projected to defeat incumbent Republican senator Dan Sullivan to become the new Senator for Alaska, further extending the Democratic lead in the Senate.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Hundreds of Haitians march in cities across Haiti to show support for the deployment of Salvadoran troops to combat gang violence.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Investigative journalist Camilo Rodríguez is shot dead in his vehicle in Santo Domingo, Heredia, Costa Rica, in the first journalist death in the country in at least 25 years.",
+        "links": [
+            {
+                "source": "(Univisión in Spanish)",
+                "url": "https://www.univision.com/shows/primer-impacto/asesinan-al-periodista-camilo-rodriguez-en-costa-rica-habria-recibido-amenazas-por-denunciar-al-narcotrafico-y-la-corrupcion-video"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "A factory worker is hacked to death after filming clashes between two factions of the ruling Bangladesh Nationalist Party in Fatullah, Narayanganj District.",
+        "links": [
+            {
+                "source": "(Views Bangladesh)",
+                "url": "https://viewsbangladesh.com/pedestrian-hacked-to-death-while-filming-video-of-clash-between-two-bnp-factions/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "Racing NSW launches an investigation after the body of losing horse So You Are is found in a skip bin in Sydney, Australia.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/17/sport/melbourne-cup-horse-so-you-are-dead-waste-facility"
+            },
+            {
+                "source": "(The Guardian Australia)",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-17",
+        "description": "A small boat reportedly carrying about a hundred people, mostly migrants, capsizes off Yenne, Senegal. Various sources report that either at least four or lesser bodies have been recovered, as several others are still missing. Search operations are launched by authorities.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead"
+            },
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c58j484089ewo"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
