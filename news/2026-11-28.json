@@ -1,0 +1,69 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-28",
+        "description": "Residents of the Australian state of Victoria vote to elect 88 seats of the Legislative Assembly and 40 seats of the Legislative Council. Incumbent premier Ben Carroll seeks to win a fourth consecutive Labor government over the Liberal–National Coalition, led by opposition leader Jess Wilson.",
+        "links": [
+            {
+                "source": "(ABC News Australia)",
+                "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-live-updates-voting-results-seat-count/107418038"
+            },
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/28/victorian-election-2026-when-is-it-how-to-vote-date-where-victoria-state-polls-candidates-voting-near-count-ntwnfb"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-28",
+        "description": "Explosives belonging to mining companies explode at a depot in Asadabad, Afghanistan, killing ten students and wounding 110 more people at a nearby school.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/ckp80jyz6dl8o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-28",
+        "description": "Premier and Labor leader Ben Carroll concedes defeat to Liberal leader Jess Wilson, with preliminary results suggesting a significant decline in the Labor vote. Wilson is set to become the first millennial to lead Victoria, and the first woman to do so by winning a general election.",
+        "links": [
+            {
+                "source": "(ABC News Australia)",
+                "url": "https://www.abc.net.au/news/2026-11-28/jess-wilson-victorian-liberals-form-government-state-election/107438320"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

@@ -1,0 +1,451 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Two Italian techincians working for Rheinmetall, are killed and two other people are injured in a drone strike against a location in Kuwait. Iran has been blamed for the attack but denies responsibility.",
+        "links": [
+            {
+                "source": "(Rai News)",
+                "url": "https://www.rainews.it/maratona/2026/11/yemen-scontri-tra-esercito-e-houthi-a-marib-e-al-jawf-64d93082-0760-48fa-b413-8620e40fdbf3.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "A clash between rival Bangladesh Nationalist Party factions in Munshiganj Sadar Upazila, Bangladesh, leaves one person dead and five injured by gunfire ahead of upcoming union parishad elections.",
+        "links": [
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/politics/news/one-killed-five-injured-bnp-factional-clash-munshiganj-4333826"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Spanish economist Pablo Hernández de Cos is elected as the new president of the European Central Bank, succeeding French lawyer Christine Lagarde after her resignation.",
+        "links": [
+            {
+                "source": "(Financial Times)",
+                "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "One crew member is killed and 16 more are rescued after the sinking of a Malta-flagged tanker near the waters of Ibiza, Spain.",
+        "links": [
+            {
+                "source": "(Internazionale)",
+                "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-plan"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "A shootout between minibus drivers after a quarrel on a street in Beirut, Lebanon, kills two people and injures three more.",
+        "links": [
+            {
+                "source": "(L’Orient Today)",
+                "url": "https://today.lorientlejour.com/article/1555723/minibus-drivers-exchange-gunfire-in-broad-daylight-on-a-south-beirut-street.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Two Italian technicians working for Rheinmetall are killed and two other people are injured in a drone strike against a location in Kuwait. Iran has been blamed for the attack but denies responsibility.",
+        "links": [
+            {
+                "source": "(BBC News)",
+                "url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Saudi Arabia says it has destroyed 50 Houthi military targets, including weapons depots, ballistic missile and drone launch sites, and command centres, in airstrikes on Sanaa, Al Hudaydah, and Saada Governorates in Yemen.",
+        "links": [
+            {
+                "source": "(AFP via AA)",
+                "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen/4139651"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Thirteen members of the National Guard of Niger are killed and 20 more injured during an armed attack by unknown assailants against their compound in Sanam, Niger. Several gunmen are also killed in the ensuing shootout.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Thirty people are killed and homes are burned by gunmen in Niger State, Nigeria.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/suspected-militants-kill-least-30-nigerias-niger-state-residents-say-2026-11-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Around 400 garment factories remain closed across Savar and Gazipur, Bangladesh, as workers rejected a newly announced ৳ 17,000 monthly minimum wage as insufficient block the Dhaka–Mymensingh and Dhaka–Tangail highways and clash with police firing tear gas and stun grenades.",
+        "links": [
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/economy/rmg/rmg-workers-clash-police-despite-wage-announcement-400-factories-suspend-production"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "A business consortium led by U.S.-based asset management company Eldridge agrees to purchase international assets of Russian oil company Lukoil, including oil and gas fields, refineries, pipelines, and other infrastructure.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/russia-ukraine-war-us-sanctions-oil-lukoil-8d5df1befb2ebb2a0ce4f6b259fcdf14"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "One crew member is killed and 16 more are rescued after the sinking of a Malta-flagged tanker off the coast of Ibiza, Spain.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "At least nine people are injured, including three critically, in an explosion and fire at an Bangchak Corporation oil facility in Bangkok, Thailand.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/thailand-bangkok-explosion-oil-facility-e8098146bfb994dffc14448b1027c5d1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "The Cambridge Crown Court in the United Kingdom finds 32-year-old Anthony Williams guilty of the attempted murders of 14 people in three separate incidents, including the stabbing of ten people on a LNER train in November 2025.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/britain-train-stabbings-williams-guilty-attempted-murder-4d8ae19ba73ed8b556417abd910812cf"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "Egyptian prosecutors arrest a driver whose speeding car allegedly collided with a tank truck on Cairo's Ring Road yesterday, causing a fire that killed 31 people and injured 21 others.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "The Serbian parliament schedules the upcoming presidential election for December 27 after former president Aleksandar Vučić resigned in September.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/serbia-presidential-election-students-vucic-b069d30d098006f9d4ed21e6b82731c4"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "At least 18 golf courses across China announce closures, including ten in Beijing, with many citing government orders following earlier restrictions on golf associated with paramount leader Xi Jinping's anti-corruption campaign.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261126-china-shuts-down-golf-courses-in-apparent-new-clampdown"
+            },
+            {
+                "source": "(The Daily Telegraph)",
+                "url": "https://www.telegraph.co.uk/world-news/2026/11/26/china-golf-courses-ccp-western-elites-xi-jinping-corruption/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "The Bissau-Guinean military government postpones presidential and legislative elections from December 2026 to November 2028, citing inadequate resources and logistical preparations, delaying its transition to civilian rule following the November 2025 coup.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/africa/guinea-bissau-delays-elections-extending-military-led-transition-year-after-coup-2026-11-26/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "The United States Federal Communications Commission authorizes SpaceX to deploy up to one million satellites for its Starmind space-based data center network, despite concerns about space debris and interference with astronomical objects.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/us-clears-spacex-launch-1-mn-orbital-data-center-satellites"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "A drone strike against a police station in Condoto, Chocó Department, leaves one officer killed and two more wounded, marking the second drone attack in an urban area in the last week.",
+        "links": [
+            {
+                "source": "(Cambio Colombia)",
+                "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/11/ataque-con-dron-en-condoto-choco-dejo-un-policia-muerto-y-dos-heridos-de-la-espriella-ordeno-perseguir-a-los-responsables"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-26",
+        "description": "United States Central Command forces fire at and disable the Palau-flagged merchant vessel Pacific Archer in the Gulf of Oman for attempting to breach the blockade of Iranian ports.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

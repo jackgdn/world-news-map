@@ -1,0 +1,551 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Beau Lamarre-Condon is found guilty of murdering Australian television presenter Jesse Baird and his partner Luke Davies in 2024.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "A Hamas security official, his wife, and two daughters, are killed in an Israeli airstrike on the Al-Shati refugee camp near Gaza City. Seven more Palestinians are also killed and several injured in other Israeli airstrikes.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
+            },
+            {
+                "source": "(Al Jazeera 2)",
+                "url": "https://aje.news/0x4p9q?update=5187000"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳12,500 to ৳17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳18,000 amid nearly a month of labour unrest and hundreds of factory closures.",
+        "links": [
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/bangladesh/news/new-rmg-pay-scale-minimum-wage-set-tk-17k-after-vote-4332751"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "At least 140 garment factories close across Gazipur, Savar, and Ashulia, after workers reject the newly announced minimum wage as insufficient, blocking the Dhaka–Mymensingh and Dhaka–Tangail highways and clashing with police firing tear gas and stun grenades.",
+        "links": [
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/economy/rmg/police-fire-tear-gas-sound-grenades-garment-workers-block-dhaka-tangail-highway-1613231"
+            },
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/news/87-garment-factories-shut-amid-protests-gazipur-savar-ashulia-4332861"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "The United States Army detonates nearly 5 tons of degrading lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa, citing spontaneous explosion risks.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/us-army-detonates-toxic-explosives-iowa-despite-contamination-fears"
+            },
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/25/us/live-news/iowa-lead-azide-detonation"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Solomon Islands prime minister Matthew Wale signs a treaty with Australian prime minister Anthony Albanese to designate Australia as the \"primary security partner\" after ending the 2022 security pact with China.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/asia/solomon-islands-signs-treaty-australia-checks-chinas-influence-pacific-rcna611254"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Border Guard Bangladesh deploys 108 platoons across Dhaka and seven other districts, including 56 in Gopalganj, under instructions from the Ministry of Home Affairs to step up surveillance at key installations and industrial zones.",
+        "links": [
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/news/bgb-deploys-108-platoons-eight-districts-4332856"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "A federal jury in Brooklyn, New York, United States, finds Huawei and three of its subsidiaries guilty on 10 of 12 counts, including bank fraud, wire fraud, money laundering, conspiracy to steal trade secrets, and violating the International Emergency Economic Powers Act by misleading banks about its business in Iran.",
+        "links": [
+            {
+                "source": "(TIME)",
+                "url": "https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "The Ras Tanura oil refinery in Saudi Arabia's Eastern Province is damaged in an attack by the Houthis.",
+        "links": [
+            {
+                "source": "(NBC News)",
+                "url": "https://www.nbcnews.com/world/saudi-arabia/yemen-houthi-rebels-attack-saudi-arabia-largest-oil-refinery-rcna611319"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "An Islamic State suicide bomber blows himself up on a motorcycle at a checkpoint in Hasakah, Syria, killing two security forces and wounding five more.",
+        "links": [
+            {
+                "source": "(AA)",
+                "url": "https://aa.com.tr/en/middle-east/isis-attack-on-military-headquarters-kills-2-in-northeastern-syria-official-says/4138076"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Thousands of workers across Greece stage a strike demanding higher wages, restored public-sector bonuses, and increased funding for education and healthcare, disrupting ferry, metro, and air services. Police report approximately 15,000 demonstrators in Athens.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261125-greece-cost-of-living-strike-hits-trains-and-planes"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/greeks-strike-over-wages-public-services-2026-11-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "The European Union and United Kingdom impose fines totalling more than €570 million (US$626 million) on fragrance manufacturers Firmenich, Givaudan, and International Flavors & Fragrances for exchanging commercially sensitive information and cartel behavior between 2019 and 2023.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/es/node/3854796"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Thirty-one people are killed and 25 more injured after the overturn and explosion of a fuel tanker on Ring Road in Cairo, Egypt.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261125-egypt-says-30-dead-in-cairo-fire-after-fuel-truck-overturns"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Six people die in the crash of a Cessna 210 Centurion carrying a family from a fishing trip near Horn Island, Mississippi, United States.",
+        "links": [
+            {
+                "source": "(CNN)",
+                "url": "https://edition.cnn.com/2026/11/24/us/plane-crash-mississippi-horn-island"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "The Cambodian and Chinese militaries begin their largest joint exercise, Golden Dragon 2026, involving nearly 3,000 personnel across three locations in Cambodia, focusing on counterterrorism, anti-piracy operations, and humanitarian assistance.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261125-china-cambodia-stage-joint-military-drills"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Salvadoran national Kilmar Abrego Garcia arrives in Madrid, Spain, after voluntarily leaving the United States following a legal dispute over his wrongful deportation to El Salvador in March 2025.",
+        "links": [
+            {
+                "source": "(AFP via RFI)",
+                "url": "https://www.rfi.fr/en/international-news/20261125-wrongly-deported-salvadoran-man-arrives-in-spain-from-us"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/americas/salvadoran-migrant-kilmar-abrego-garcia-lands-spain-after-us-departure-deal-2026-11-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "The Federal Supreme Court rules that the federal government of Iraq can deploy troops to the country's borders and can oversee and audit the oil industry in the Kurdistan Region, a day after Iraqi prime minister Ali al-Zaidi announced he is placing the region's oilfields and border crossings under federal control to combat oil smuggling.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Pakistani astronaut Muhammad Zeeshan Ali becomes the first Pakistani to reach orbit and the first foreign national to board China's Tiangong space station, arriving aboard the Shenzhou-24 spacecraft alongside two Chinese astronauts to conduct scientific experiments during a five-day mission.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/china-space-station-receives-pakistani-astronaut-historic-mission"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-first-foreign-2026-11-25/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "Thirty-one people are killed and 21 more injured after the overturn and explosion of a fuel tanker on Ring Road in Cairo, Egypt.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/cairo-highway-fire-ring-road-89e4cd3d3d53016c9c35440b57c5ea1e"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "The 100th Macy's Thanksgiving Day Parade in New York City, New York, United States, is postponed to November 28 due to a severe coastal storm bringing heavy rain, coastal flooding, and wind gusts of up to 60 mph (97 km/h). It is the first weather-related postponement in the parade's history.",
+        "links": [
+            {
+                "source": "(Axios)",
+                "url": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "At least four people are killed, 14 people are injured, and 17 others remain trapped under rubble when a six-story building collapses in Karachi, Sindh, Pakistan.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/pakistan-construction-building-collapse-karachi-3b1555a055cfee2e3299edde37c821b9"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "A magistrates' court in Mombasa, Kenya, finds jailed cult leader Paul Mackenzie, founder of the Good News International Church, guilty of assault and cruelty to children, which will add to his existing sentence of 200 years in prison for mass murder.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/kenya-cult-leader-paul-mackenzie-conviction-e4024cd1ff2e2ddce24b89ee0756b2c4"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "An operation against a Jalisco New Generation Cartel ringleader leaves seven gunmen killed and four detained in Jilotlán de los Dolores, Jalisco, México.",
+        "links": [
+            {
+                "source": "(Proceso in Spanish)",
+                "url": "https://www.proceso.com.mx/nacional/estados/2026/11/25/operativo-en-jilotlan-jalisco-deja-siete-muertos-y-cuatro-detenidos-384350.html"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "A car bomb blast near the city hall of Villavicencio, Meta Department, Colombia, wounds 12 people.",
+        "links": [
+            {
+                "source": "(El Universal in Spanish)",
+                "url": "https://www.eluniversal.com.mx/mundo/presidente-de-colombia-acusa-a-disidentes-de-las-farc-de-atentado-que-devasto-villavicencio-ataque-ensombrece-aniversario-de-paz/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-25",
+        "description": "American chipmaker Nvidia directs its manufacturing partners to pause shipments of servers containing its chips to Indonesia, Malaysia, Singapore, and Thailand, following increased U.S. export control aimed at preventing China from accessing advanced AI hardware.",
+        "links": [
+            {
+                "source": "(Financial Times)",
+                "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

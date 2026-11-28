@@ -1,0 +1,396 @@
+[
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Saudi forces intercept three ballistic missiles fired at Riyadh, Saudi Arabia, by the Houthis.",
+        "links": [
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "The Finnish defence ministry imposes temporary airspace and maritime restrictions after a drone struck a Russian cargo vessel in international waters of the Gulf of Finland, causing a fire.",
+        "links": [
+            {
+                "source": "(AFP)",
+                "url": "https://www.afp.com/en/russian-cargo-ship-hit-drone-baltic-finland-says"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "At least 80 garment factories in Savar and Ashulia, Bangladesh, declare general holidays after workers stage sit-ins and work stoppages over minimum wage demands, while police announce that 96 people, including five labour leaders, have been arrested in connection with the 4 November clashes on the Dhaka–Aricha Highway.",
+        "links": [
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/economy/rmg/labour-unrest-least-12-factories-declare-holiday-amid-work-abstention-savar-1609261"
+            },
+            {
+                "source": "(The Daily Star)",
+                "url": "https://www.thedailystar.net/news/news/50-factories-savar-ashulia-declare-holidays-amid-wage-protests-4329371"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Laid-off garment workers in Rupganj, Narayanganj District, block roads by felling trees and burning tires over unpaid wages.",
+        "links": [
+            {
+                "source": "(The Business Standard)",
+                "url": "https://www.tbsnews.net/bangladesh/garment-workers-block-road-over-unpaid-wages-narayanganj-1609671"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Border Guard Bangladesh deploys 90 platoons across seven districts, with four more on standby, amid ongoing political violence and strike action.",
+        "links": [
+            {
+                "source": "(Dhaka Tribune)",
+                "url": "https://www.dhakatribune.com/bangladesh/425296/90-bgb-platoons-deployed-in-seven-districts"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "The Japanese trade ministry announces that Saudi Arabia agreed to triple the volume of crude oil stored in Japan to 24 million barrels, under Japan's joint stockpiling system with Saudi Arabia, Kuwait, and the United Arab Emirates.",
+        "links": [
+            {
+                "source": "(Japan Today)",
+                "url": "https://japantoday.com/category/business/saudi-arabia-agrees-to-triple-crude-stored-in-japan-amid-mideast-tensions"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Three Palestinians are killed by an Israeli drone strike on a food-carrying vehicle in Gaza City, while another is killed by gunfire in Jabalia.",
+        "links": [
+            {
+                "source": "(AFP via France 24)",
+                "url": "https://www.france24.com/en/live-news/20261121-gaza-civil-defence-says-israeli-fire-kills-four"
+            },
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/"
+            },
+            {
+                "source": "(Al Jazeera)",
+                "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Clashes between Bangladesh Nationalist Party supporters and banned Awami League activists in Bera Upazila, Pabna District, injure several people following an arson attack at the abandoned home of former Deputy Speaker Shamsul Hoque Tuku and retaliatory vandalism, with police firing rubber bullets and tear gas to disperse the crowd.",
+        "links": [
+            {
+                "source": "(UNB)",
+                "url": "https://unb.com.bd/category/Bangladesh/bnp-al-activists-clash-repeatedly-in-pabnas-bera-several-injured/200931"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Four people are killed and 35 others are injured in a fire at a power station in Basra, Iraq.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/business/energy/iraq-fire-basra-power-station-kills-least-four-injures-30-2026-11-21/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Indonesia and the European Union sign trade and investment agreements that will lift 98.5% of tariffs on EU goods.",
+        "links": [
+            {
+                "source": "(Euronews)",
+                "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "The European Space Agency announces that the BepiColombo spacecraft inserted itself into orbit around Mercury.",
+        "links": [
+            {
+                "source": "(AP)",
+                "url": "https://apnews.com/article/mercury-bepicolombo-space-planet-esa-0c80bbf2039ed4f6ee4a34426b3594a0"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "At least three people are killed, four others are injured and 36 are reported missing after a fire at a candy factory in Serang, Indonesia.",
+        "links": [
+            {
+                "source": "(The Guardian)",
+                "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "A bombing against a FARC dissidents camp in a rural area of Mapiripán, Meta Department, kills five guerrilla fighters.",
+        "links": [
+            {
+                "source": "(CW+ noticias)",
+                "url": "https://cwmas.com.co/nacion/2026/11/21/operacion-ninfa-mapiripan-meta/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Four soldiers and 16 gunmen are killed in a shootout amid a federal operation by the Mexican Army in Guasave, Sinaloa, leading to the arrest of a cartel leader.",
+        "links": [
+            {
+                "source": "(Meganoticias)",
+                "url": "https://www.meganoticias.mx/cdmx/noticia/suman-20-muertos-por-enfrentamientos-en-guasave/791118"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Between five and eleven people, including an infant, are killed, five others are injured and several others are abducted in a bandit  attack in Borgu, Niger State, Nigeria.",
+        "links": [
+            {
+                "source": "(The Punch)",
+                "url": "https://punchng.com/bandits-kill-niger-village-head-five-others/"
+            },
+            {
+                "source": "(AFP via Citizen Digital)",
+                "url": "https://citizen.digital/article/armed-gangs-attack-centraligerian-village-killing-11-n394344"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Between 35 and 74 Fulani herdsmen are killed in a vigilante attack in two villages of Borgu in retaliation for the earlier bandit raid.",
+        "links": [
+            {
+                "source": "(The Rio Times)",
+                "url": "https://www.riotimesonline.com/nigeria-niger-state-reprisals-fulani-killed-2026/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "A fire at a confectionery factory in Serang Regency, Banten, Indonesia, kills at least 24 people, leaves 30 others missing, and injures five.",
+        "links": [
+            {
+                "source": "(Reuters)",
+                "url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "status": "poi_fetch_failed",
+        "date": "2026-11-21",
+        "description": "Three people are killed and another person is injured in a shootout at a baby shower in Parma, Ohio, United States. The dead include one of the shooters, while a second person is arrested for killing the presumed main perpetrator.",
+        "links": [
+            {
+                "source": "(Associated Press via NBC News)",
+                "url": "https://www.nbcnews.com/news/us-news/parma-ohio-baby-shower-shooting-rcna610722"
+            }
+        ],
+        "poi": {
+            "country": null,
+            "state": null,
+            "city": null,
+            "institution": null
+        },
+        "coordinate": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]
